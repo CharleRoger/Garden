@@ -1,0 +1,19 @@
+---
+aliases:
+  - Kíbik
+tags:
+  - person
+---
+**Kíbik Fatininmaqúndu** was a [[Lavondu]] natural philosopher from an influential political family. She is credited with the development of the first geometry theory of optics, known as [[Optics#Víxkújdananca vurin|Víxkújdananca vurin]], and the world's first telescope. *Kíbik*, her [[Ńuʼu|Xińuʼu]] (true-name), means "raindrop".
+
+![[The Orb Ponderer.png]]
+Kíbik's outfit in this artist's impression is representative of the daily attire of affluent [[Lavondu]] in the [[16th century]], ostentatious but fairly typical of scholars and statesmen. This kind of dress is quite different from the more modest [[Xiyeru]] wear in which it has its roots, with clear influence from the elite styles of [[Ansang]] and [[Nambō]]. The [[ńaʼay]], the [[Xiyeru]] tattoo tradition, was still practised as a status symbol by such people who retain a connection to the [[Udovuʼo]] elite by familial or political relation, while most of the common populace wore tattoos sparingly, and without much cultural importance.
+# Work on lenses
+In 1495 [[Universal calendar|AGS]], Kíbik was working as a scribe in an archival library, a kind of stone-built building associated with Lavondu schools of natural philosophy, of which many were built in [[T'ugü]] in the [[10th century|10]]-[[13th century]] [[Universal calendar|AGS]]. Through her work, she discovered a copy of a letter to a [[14th century]] local politician, describing spherical glass lenses which could magnify an image with great clarity. She became fascinated by the supposed forgotten technology that was described, in the letter and eventually tracked down what appeared to be the actual lenses themselves, which were stored elsewhere in the archive as nothing more than a curiosity, presumed to be of natural origin. They were in surprisingly good condition, but did not produce a clear image, leaving the phenomenon described in the letter still somewhat obscured. The spherical lens prototypes and their creator went mostly unnoticed at the time, the politician that received them, thought to be a relative of Kíbik, seemed to have considered them interesting artefacts, but not much beyond that, so had kept them in their personal collection.
+
+Kíbik spent years trying to reverse engineer the process by which the lenses were made, supposedly travelling to [[Hagoraras]], following the journey detailed in the letter written by her anonymous predecessor. It is not known whether it was this journey or by some later breakthrough, but eventually Kíbik was able to recreate the lenses with an even greater precision. This time, people took notice, and through the [[Zúnton]] system she was allocated the financial support and personal connections required to pursue any further research in the new field of glass optics. She would go on to devote her life to refining methods of manufacturing spherical lenses, and eventually to the invention of the telescope, and was posthumously named **Fatininmaqúndu** "sphere-beholder/considerer".
+# Kíbik's telescope
+Kíbik's telescope was massive, unwieldy, and prone to catastrophic failure. It is believed that only one was built, perhaps rebuilt a few times, which remained the only telescope ever constructed for centuries after.
+
+There are very few surviving depictions of the telescope fully assembled, most come from Kíbik's own notes. One early plan drawing of the telescope assembly can be faintly seen here (upside-down) on a letter Kíbik sent to an associate in 1532, over a decade before the telescope was constructed. The plan has been erased and drawn over with a diagram demonstrating the operation of a spherical lens.
+![[lens diagram.png]]

@@ -1,0 +1,60 @@
+The **4th century** is the period from 300 to 399 [[Universal calendar|AGS]]. This period of history features several notable military conflicts in [[Fountainhead]], such as the [[Makhatganda#Civil War|Makhatganda Civil War]], the invasion of [[Dâmer-ṭegik]], and various clashes between the [[Telehe people|Telehe]] and the [[Ansang Empire]].
+# Events
+- Early 4th century: Tensions in the [[Makhatganda#Erkhanda Province|Erkhanda]] (later [[Makhatganda]]) rise and lead eventually to a [[Makhatganda#Civil War|civil war]].
+- 304: [[Ɨmbɨlo II]] becomes [[Ansang Empire|Ansang emperor]].
+- 304-313: The [[Western Cycle]] of [[Ħautar delûr|Ħautaric]] epic poetry is developed.
+- 311: [[Uṣṭi II]] and [[Lenre' I]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]].
+- 316-318: The [[First God-Kingdom of the West]] suffers severe harvest failures, a large earthquake causes substantial damage to [[Leṣek-etku]], and [['amta-tkausekan]] secedes from the [[First God-Kingdom of the West]], finally culminating in the deposition of the reigning monarchs, beginning a period of anarchy.
+- 322: [[Mteni III]] and [[C̣e'ħenek II]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]], ending the anarchy.
+- 328: [[Roto’u]] becomes [[Ansang Empire|Ansang emperor]].
+- 331: The civil war in [[Makhatganda#Erkhanda Province|Erkhanda]] comes to an end, resulting in the foundation of [[Makhatganda]], ruled by the pentarchy known as the [[Kembu Korthat]].
+- c. 340: [[Telehe]] peoples attack the [[Early Ansang Kingdom]], conquering land around the [[Leda river]] and forming the [[Telehe Confederacy]].
+- 345: [[Seileso’obo]] becomes [[Ansang Empire|Ansang emperor]].
+- 347: Power struggles cause the stability of the [[First God-Kingdom of the West]] to decline, culminating in a failed command economy and a resultant failure in harvest in 347. After this, the city of [[Uṣûnur]] also left the kingdom.
+- 350: The city of [[Bērzun]] is conquered and becomes the centre of the [[Telehe Confederacy]].
+- 353: [[Mnubaiek I]] and [[Lenre' II]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]].
+- 354: The city of [[Dâmer-ṭegik]] declares independence from the [[First God-Kingdom of the West]]. [[Ralku I]] and [[Turen I]] are wed in secret, technically beginning the [[New Kingdom of Dâmer-ṭegik]].
+- 356: A permanent office for military affairs is established in [[Makhatganda]].
+- 357: [[Xirouta’]] becomes [[Ansang Empire|Ansang emperor]].
+- 358: A band of soldiers organised by the [[Dâmer-ṭegik]] nobility invades [[Leṣek-etku]], deposing the reigning monarchs [[Mnubaiek I]] and [[Lenre' II]] and reinstating the traditional [[Ħautar delûr|Ħautar]] gerontocratic system of rule in the city. [[Ralku I]] and [[Turen I]] are subsequently decreed [[Ârcacak#Bar-ârcacak|bar-ârcacak]] of [[Dâmer-ṭegik]], officially beginning the [[New Kingdom of Dâmer-ṭegik]].
+- 366: The [[Matre Turyan|Council of Thirty]] is founded as government of the [[Makhatganda]] state.
+- 370: [[Ansang Empire|Emperor]] [[Xirouta’]] appoints [[Toho of Yuge]] as his heir, raising doubts among the [[Ansang people|Ansang]] high priests and eventually leading to a separation between the empire and the priesthood.
+- 371: [[Toho of Yuge]] becomes [[Ansang Empire|Ansang emperor]], beginning the [[Yuge Dynasty]]
+- 379: The first [[Dugrien]] states are formed as city states begin to conquer smaller clans.
+- 390: A large storm ravages [[Cqa]], destroying many settlements and ultimately leading to an increase in nomadism.
+- 393: [[Molopo of Yuge]] becomes [[Ansang Empire|Ansang emperor]].
+- 397: Reforms begin to standardise timekeeping in the [[Tyon-Arat]].
+# Births
+- 302: [[Raṣḍu I]] (d. 395)
+- 303: [[Mnubaiek I]] (d. 358)
+- 305: [[Gânat I]] (d. 395)
+- 306: Raṣḍu, sister of [[Ralku I]] and [[Raṣḍu I]] and mother of [[Uṣṭi III]]
+- 309: [[Lenre' II]] (d. 358)
+- 319: [[C̣e'ħenek III]] (d. 421)
+- 324: Gânat, brother of [[C̣e'ħenek III]] and grandfather of [[Gânat II]]
+- 334: [[Uṣṭi III]] (d. 421)
+- 346: [[Turen II]] (d. 430)
+- 358: Meṣṭet, father of [[Gânat II]]
+- 370: [[Raṣḍu II]] (d. 430)
+- 374: Utku', sister of [[Raṣḍu II]] and mother of [[Raṣḍu III]] and [[Mteni IV]]
+- 386: [[Gânat II]] (d. 455)
+# Deaths
+- 302: [[Ɨmbɨlo II]], [[Ansang Empire|Ansang emperor]]
+- 311: [[Utku' I]] (b. 210) and [[Ra'iek II]] (d. 217)
+- 318: [[Uṣṭi II]] (b. 251) and [[Lenre' I]] (b. 246)
+- 326: [[Ɨmbɨlo III]], [[Ansang Empire|Ansang emperor]]
+- 343: [[Roto’u]], [[Ansang Empire|Ansang emperor]]
+- 353: [[Mteni III]] (b. 293) and [[C̣e'ħenek II]] (b. 276)
+- 355: [[Seileso’obo]], [[Ansang Empire|Ansang emperor]]
+- 356: [[Kalras]], military leader and one of the [[Kembu Korthat]] (b. 281)
+- 358: [[Mnubaiek I]] (b. 303) and [[Lenre' II]] (b. 309)
+- 366: [[Attemak]], a tribal leader of the [[Makhat]] and one of the [[Kembu Korthat]] (b. 279)
+- 370: [[Xirouta’]], [[Ansang Empire|Ansang emperor]]
+- 371: [[Saymerge]], a member of the Astmergian bureaucracy, a high priest of [[Vánarv]] and one of the [[Kembu Korthat]] (b. 268)
+- 389: [[Ralku I]] (b. 295) and [[Turen I]] (b. 286)
+- 390: [[Toho of Yuge]], [[Ansang Empire|Ansang emperor]]
+- 391: [[Erkhiye]], leader of a wealthy family of landowners and one of the [[Kembu Korthat]] (b. 282)
+- 395: [[Raṣḍu I]] (b. 302) and [[Gânat I]] (b. 305)
+- 398: [[Kerter Kemsin]], a noble scribe from [[Vánarv]] and one of the [[Kembu Korthat]] (b. 282)
+# Inventions, discoveries, introductions
+- 365: [[Kah]], a tarp-like material called derived from [[xis]], is invented by the [[Maicqa]], leading to an increased popularity of tent-like structures over fully built huts.

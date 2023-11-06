@@ -1,0 +1,1 @@
+**Jailgei** is an event or series of events in [[Öb]] mythology with varying interpretations, generally considered to be a universal apocalypse and beginning of a new world.

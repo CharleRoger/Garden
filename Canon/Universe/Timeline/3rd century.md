@@ -1,0 +1,60 @@
+The **3rd century** is the period from 200 to 299 [[Universal calendar|AGS]]. Many systems of governance, rule and other political institutions were established in the third century, namely the [[Ansang Empire]], the [[Tyon-Arat]], the [[First God-Kingdom of the West]] and the [[Nuric Council]].
+# Events
+- Early 3rd century: Some north-east [[Ħautar delûr|Ħautar]] cities end the tradition of ritual suicide and decapitation of a widowed [[ârcak]].
+- Early 3rd century: Extraction of metals near [[Ħautar delûr|Ħautar]] lands in [[Kóty]] begins.
+- Early 3rd century: The tribe of [[Ursusovvuzu’]] begins a campaign to unite all [[Ansang Islands|Ansang islands]], founding the [[Ansang Empire]] with [[Ɨmbɨlo I]] as its first emperor.
+- 210s: The semi-mythical [[Hnäzb]] warlord [[Eight-Antlers]] conquers the [[Uhustaw]] and lays the foundation for many Hnäzb clans of this region.
+- 210: The [[Astmergian Empire]] proper ends with the death of [[Astmerge the Great]].
+- 210: Both [[Kesërn]] and his wife [[Khayanmari]] of Kalotgane, as well as [[Yardunmud]] of Vërev claim succession of Astmerge the Great.
+- 211: Traditional date of the foundation of the [[Tyon-Arat]], beginning the "age of threefold harmony".
+- 220s: Vërev engages in hostilities against Kalotgane.
+- 230s: The [[Kingdom of Erme and Vukhun]] regains its independence and wages war on the Astmergian Dominion.
+- 235: The city of [[Kamalgane]] is conquered by [[Vërev]].
+- 245: [[Ovɨle’i]] becomes [[Ansang Empire|Ansang emperor]].
+- 250s: The [[Astmergian Empire#Astmergian Civil War|Astmergian Civil War]] devastes the [[Yarlish Lowlands]].
+- 259: [[Yuosoyi]] becomes [[Ansang Empire|Ansang emperor]].
+- 266: [[Mteni I]] and [[Ra'iek I]] become the first [[Ârcacak#Bar-ârcacak|bar-ârcacak]] of [[Leṣek-etku]], beginning the [[First God-Kingdom of the West]].
+- 267: The [[Nuric Council]] is formed.
+- 267: [[Kalotgane]] is sacked by an alliance of [[Vërev]] and [[Tarin]], ending the [[Astmergian Empire#Astmergian Dominion|Astmergian Dominion]].
+- 273: [[Mivēra]] sailors first encounter the [[Haankaysiw]].
+- 280s: The [[Maicqa]] trade union at [[Küh Löhmai]] names itself [[Cah Kü]] and begins deliberate expansion.
+- 281: [[Uṣṭi I]] and [[C̣e'ħenek I]] become [[[[Ârcacak#Bar-ârcacak|bar-ârcacak]].
+- 282: A half-sister of [[Mteni I]] ascends the throne of [['amta-tkausken]], joining the city with the [[First God-Kingdom of the West]].
+- 283: [[Ɨmbɨlo II]] becomes [[Ansang Empire|Ansang emperor]].
+- 287: [[Mteni II]] and [[Hiṣaṭ I]] become [[[[Ârcacak#Bar-ârcacak|bar-ârcacak]].
+- 288: [[Utku' I]] and [[Ra'iek II]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]].
+# Births
+- 210: [[Utku' I]] (d. 311)
+- 212: [[Hiṣaṭ I]] (d. 288)
+- 214: [[Mteni II]] (d. 288)
+- 217: [[Ra'iek II]] (d. 311)
+- 239: [[Yardunadi]] the Last (d. 314)
+- 243: Raṣḍu, sister of [[Ralku I]] and mother of [[Uṣṭi III]]
+- 246: [[Lenre' I]] (d. 318)
+- 251: [[Uṣṭi II]] (d. 318)
+- 266: Mteni, granddaughter of [[Mteni II]] and mother of [[Ralku I]]
+- 268: Lantukê, granddaughter of [[Mteni II]] and mother [[Mteni III]] and [[Mnubaiek I]]
+- 268: [[Saymerge]], a member of the Astmergian bureaucracy, a highpriest of [[Vánarv]] and one of the [[Kembu Korthat]] (d. 371)
+- 276: [[C̣e'ħenek II]] (d. 353)
+- 278: Turen, son of [[Lenre' I]] and father of [[Lenre' II]]
+- 279: [[Attemak]] (as *Noran*), a tribal leader of the [[Makhat]] and one of the [[Kembu Korthat]] (d. 366)
+- 281: [[Kalras]], military leader and one of the [[Kembu Korthat]] (d. 356)
+- 282: [[Kerter Kemsin]], a noble scribe from [[Vánarv]] and one of the [[Kembu Korthat]] (d. 398)
+- 282: [[Erkhiye]], leader of a wealthy family of landowners and one of the [[Kembu Korthat]] (d. 391)
+- 286: [[Turen I]] (d. 389)
+- 293: [[Mteni III]] (d. 353)
+- 295: [[Ralku I]] (d. 389)
+# Deaths
+- 210: [[Astmerge the Great]] (b. 106)
+- 233: [[Kesërn]] (b. 117)
+- 243: [[Ɨmbɨlo I]], first [[Ansang Empire|Ansang emperor]]
+- 252: [[Kalyardun II]] of Kalotgane (b. 190)
+- 257: [[Ovɨle’i]], [[Ansang Empire|Ansang emperor]]
+- 258: [[Khayanmari]], Empress of Kalotgane (b. 159)
+- 280: [[Yuosoyi]], [[Ansang Empire|Ansang emperor]]
+- 281: [[Mteni I]] (b. 153) and [[Ra'iek I]] (b. 154)
+- 287: [[Uṣṭi I]] (b. 181) and [[C̣e'ħenek I]] (b. 183)
+- 288: [[Mteni II]] (b. 214) and [[Hiṣaṭ I]] (b. 212)
+# Inventions, discoveries, introductions
+- 266: Iron smelting is developed by the [[Lītta]], though is not made publicly available until 269.
+- 271: A method to create strong, lightweight fabric is discovered in northern [[Nurum]], leading to the development of large, long-distance sailboats.
