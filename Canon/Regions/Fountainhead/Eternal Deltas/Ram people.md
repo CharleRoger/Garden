@@ -1,4 +1,3 @@
-#peoples #eternal_deltas
 Speakers of the Ram languages. The Ram people have a strict worldview often unrelated to the rest of the eternal deltas worldview, but they share a few things, likely gods and rituals. 
 
 # Lifestyle 
