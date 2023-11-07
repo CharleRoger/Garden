@@ -3,7 +3,7 @@ The **1st century** was the century spanning the [[year 0]] to 99 [[AGS]]. It is
 - 23: The first [[Dugrien]] clans are formed.
 - 34: The kingdom of [[Taspi]] conquers the city state [[Kypky]].
 - 39: Strong [[Dugrien]] clans begin to exert power over weaker clans through the control of food production.
-- 25: [[Teyokkaykoʻwan Seʻisektiküt Towkatahey]] appoints herself [[Hum Teyokkayʻoʻï]].
+- 25: [[Teyokkaykoʻwan Seʻisektiküt Towkatahey]] appoints herself Hum Teyokkayʻoʻï.
 - 30: The [[The Haankaysiw People|Haankaysiw]] clans are united by [[Teyokkaykoʻwan Seʻisektiküt Towkatahey]].
 - 52: [[Kalyardun]] ousts the ruling dynasty of [[Vërev]].
 - 67: Traditional date of first arrival of [[Xiyeru]] explorers in [[T'ugü]], ending the [[Sunrise period]] and beginning the [[Horizon period]].
