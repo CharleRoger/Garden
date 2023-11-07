@@ -16,7 +16,7 @@ The **3rd century** is the period from 200 to 299 [[Universal calendar|AGS]]. Ma
 - 266: [[Mteni I]] and [[Ra'iek I]] become the first [[Ârcacak#Bar-ârcacak|bar-ârcacak]] of [[Leṣek-etku]], beginning the [[First God-Kingdom of the West]].
 - 267: The [[Nuric Council]] is formed.
 - 267: [[Kalotgane]] is sacked by an alliance of [[Vërev]] and [[Tarin]], ending the [[Astmergian Empire#Astmergian Dominion|Astmergian Dominion]].
-- 273: [[Mivēra]] sailors first encounter the [[Haankaysiw]].
+- 273: [[Mivēra]] sailors first encounter the [[The Haankaysiw People|Haankaysiw]].
 - 280s: The [[Maicqa]] trade union at [[Küh Löhmai]] names itself [[Cah Kü]] and begins deliberate expansion.
 - 281: [[Uṣṭi I]] and [[C̣e'ħenek I]] become [[[[Ârcacak#Bar-ârcacak|bar-ârcacak]].
 - 282: A half-sister of [[Mteni I]] ascends the throne of [['amta-tkausken]], joining the city with the [[First God-Kingdom of the West]].
