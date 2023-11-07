@@ -11,6 +11,6 @@ In [[Xiyeru|Xiyeru culture]], Víqin symbolised the eye of [[Fururūʼupwa]] per
 ## Lavondu
 To the [[Lavondu]], Víqin is the day on which regular meetings between family representatives and local politicians take place. The 12-day cycle is therefore important to the [[Zúnton|communication structure]] present throughout [[T'ugü]] and thus also to trade and distribution of commodities.
 
-On the day of Víqin, [[Smallmoon|Smallmoon's]] phase is not considered to be one of the ten canonical [[Qíñu]], but rather in a state of *Igun* "imitation" as it adopts the same phase as [[Bigmoon]].
+On the day of Víqin, [[Smallmoon|Smallmoon's]] phase is not considered to be one of the ten canonical [[qíñu]], but rather in a state of *Igun* "imitation" as it adopts the same phase as [[Bigmoon]].
 
 ![[víqin.png]]
