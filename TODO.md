@@ -1,3 +1,11 @@
 - **Migrations of the Koyanic peoples**
 	- Remake map with updated dates and Big Kóty
 	- Make a page
+- Loshianism
+	- Beliefs
+	- Cult
+	- Rituals
+	- Prayers
+- Qachkav
+	- Language
+	- Culture

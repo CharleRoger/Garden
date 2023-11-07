@@ -1,0 +1,11 @@
+# Fauna
+
+Consisting of a lot of animals, it has cows, pigs and chickens, animals like Togtog can be found in some places in [[Kóty]], [[Telehe]] used the togtog to dominate over other kingdoms, the Yanyo can also be found in some places of [[Kóty]] being a important animal for the [[Shote]] people they sometimes worshiped to it, in Shote they call it “Ptārsof”  (lit. rapid blue) it feathers are used as offerings to the sky god of [[Shote]] mythology and also used by kings to symbolize they are “blue as the sky” (in Shote culture being blue means you are an illuminated person or someone who watches over everyone).
+
+# Flora
+
+Consisting of a lot of plants, like nordman fir, Tilia dasystyla, acer velutinum, several species of the betulaceae family, fagus orientalis, Tênê (exclusively grown in hautkar soil), galium odoratum and many others from the rubiaceae family, a special plants found in Ansang islands are the italian alder, berberis aetnensis, many plants of the genus galium can be found, a special plant used for many things including a red dye, is the “engenaso’ shiramo’ zopa” shortened to “engenasosshirmpa” “big mess of red leaves”, its dye is used to craft many items inclusive red ink to write, when the [[Möxali]] arrived this ink become an important element in the writing of ansang, In telehe the word is loaned as “nenasoširimpa” shortened by some as “nenos”, red is not commonly used in [[Telehe]] writings so they do a process to darken the ink to be usable and comfortable to the eyes.
+
+![](https://lh7-us.googleusercontent.com/bxD_Ty_a__1Wi5fgeEw2KBxiNNsLd-jPuHYtvKgllLbenDCtSVv-iU4ugodzbvxz0GR4sdYmQfilCE_NgZz2VYG5rECuBVZUMbE8V4DGEi3Q5XiAoLOwo-Za0ZiEOSaSznCRQeWn0y4y9cfBZs0r3w)![](https://lh7-us.googleusercontent.com/4OZcb9hEK27B_5jx6uO5XUu8WewjzP62fkLygSQEI5ZaQivwWzzzaX9GP8HrVKqicTAJw1UzhlGp6TMbExI6mkV1TOYvfHjeCm8t48HKzZnVW5l76RQb7tkjaZY06hCGV01nRxIc4r62cgHQvBEPag)![](https://lh7-us.googleusercontent.com/H_Fjy4fmgmy3151rC2_AXtk6f41D616EB_BrIokyH_8gftVAOByinNn9HNT8r034s6BfWS8i9FtaKGiBurfi850olyoIupyrYpvr_nKS3zQmyj3JZshMPUBzvy6peWcsZXlDOuur1BvskDH843-uMg)
+
+main landscapes found in [[Kóty]].
