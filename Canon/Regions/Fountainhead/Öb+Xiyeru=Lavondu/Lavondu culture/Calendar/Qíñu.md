@@ -15,3 +15,5 @@ Each of the 10 days of [[Smallmoon|Smallmoon's]] synodic cycle is given a name i
 10. *Cíben* "peelings"
 
 ![[qíñu.png]]
+# Xínen
+[[Smallmoon|Smallmoon's]] synodic period is not exactly 10 days, but ~10.13109. This discrepancy accumulates one day of error every ~77 days. This is accounted for in the [[Öcídñox]] calendar by marking every 77th day as *Xínen* "pausing", where there is considered to be no qíñu that day. The cycle then picks up where it left off the day after. Xínen is a day of rest for all people who observe it, where trade, travel, religious ritual or work of any kind is taboo and in some cases prohibited by law. Xínen can be quite inconvenient, but it is at least predictable, so people respect it nonetheless. Note that the [[uvon]] cycle keeps ticking through Xínen, it is only the qíñu that is affected.
