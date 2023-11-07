@@ -1,1 +1,1 @@
-Steppe in [[K'tlagn]], has [[the Haankaysiw people]] in it.
+Steppe in [[K'tlagn]], has [[The Haankaysiw People]] in it.
