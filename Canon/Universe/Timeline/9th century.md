@@ -45,7 +45,7 @@ The **9th century** is the period from 800 to 899 [[Universal calendar|AGS]]. Th
 - 890: [[Xoxeŋe]], [[Ansang Empire|Ansang emperor]]
 # Inventions, discoveries, introductions
 - 843: Purpose-built saddles called [[keqa nda]] are invented by the [[Maicqa]], making air travel by [[Flying mollusc|mollusc]] safer and more reliable, leading to massively increased trade and personal travel.
-- 855: The [[Öcizñox]] calendar is developed by [[Lavondu]] astronomers to support the re-establishment of the [[Nejinayon]] historical tradition, part of the societal-restructuring project known as [[Tuvöblin]].
+- 855: The [[Öcídñox]] calendar is developed by [[Lavondu]] astronomers to support the re-establishment of the [[Nejinayon]] historical tradition, part of the societal-restructuring project known as [[Tuvöblin]].
 - 858: The [[Opsíbdañox]], a standardised script designed for the [[Möxali]] language and other languages of [[T'ugü]], is consolidated from regionally varying scripts as a first test of the [[Zúnton]] system, another part of [[Tuvöblin]]. The script did not see real use until the first official texts were composed and publicly distributed in 860.
 - Late 9th century: The first known proofs of the existence of irrational numbers and the irrationality of √2, developed by [[Huxŭkală|Huxŭkală's]] school of mathematics.
 - Late 9th century: An alphabetic form of the [[Ardanic language|Ardanic]] script, developed by [[Psirin Aster]].

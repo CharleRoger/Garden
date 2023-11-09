@@ -1,0 +1,17 @@
+**Újnö** is the [[Möxali]] name for a 385-day astronomical cycle involving both [[Moons of Winter]], used in traditional [[Xiyeru]] lunar calendars and being central to the construction of the [[Öcídñox]] calendar.
+# Etymology
+The term *újnö* means "complete cycle" in [[Möxali]], from the adjective *úja* "true, whole", the dummy noun root *-n-* and the classifier *-ö* for cyclic things.
+# Physical origin
+Many lunar calendars on [[Winter]] approximate the synodic cycles of [[Smallmoon]] and [[Bigmoon]] by 10 and 64 day cycles respectively. In the [[Öcídñox]] calendar, these cycles are called [[qíñu]] and [[uvon]], with a 64-day period called a [[zívon]].
+
+In fact, the synodic cycle of [[Smallmoon]] is approximately 10.19103 days. This discrepancy is accounted for by [[Qíñu#Xínen|xínen]], the day of pausing, occurring every 77 days. Likewise, [[Bigmoon|Bigmoon's]] synodic period is not exactly 64 days, but ~64.1647.
+
+The period of [[Víqin|conjunction]] of the [[Moons of Winter|two moons]] is almost exactly 3/16 of [[Bigmoon|Bigmoon's]] synodic period, at 12.03063 days (12.03063/64.1647 = 2.99994/16). The difference between the [[zívon]] and the actual synodic period amounts to ~0.988 days per six [[zívon]] (384 days). This is to say that where the calendar represents 6 synodic cycles of [[Bigmoon]] in 384 days, it actually takes ~384.9880 days, which is almost exactly equal to 32 conjunctions (384.9802 days).
+
+Incidentally, 32 conjunction periods is two complete cycles of the 16 [[víqin]], and as if by magic, the 77-day [[Qíñu#Xínen|xínen]] cycle divides the 385 days into exactly five (5 × 77 = 385). This 385 day cycle is the újnö, consisting of six 64-day [[zívon]] plus an extra day.
+# Calendrics
+The first day of each újnö is aligned such that the moons are in conjunction ([[víqin]]) and both are new moons, a day known as [[Víqin#Phases of víqin|kvimínö]], which occurs again in the middle of the újnö. The 385th and final day of the újnö is the first of the next cycle of six [[zívon]]. This means that the double new lunar conjunction marking the start of every újnö occurs one day later on the [[zívon]] cycle each time round. Újnö are named for which of the four days of the [[Zívon#Bigídne|bigídne]] they begin on, e.g. one starting on [[Zívon#Bigídne|Tande]], would be called [[Zívon#Bigídne|Tandija]] újnö, in which every [[uvon]] falls on [[Zívon#Bigídne|Tande]], the first day of its [[Zívon#Bigídne|bigídne]]. After four újnö, the starting day shifts forward a whole four-day [[Zívon#Bigídne|bigídne]] period, which is prevented by [[Öcídñox#Savon|intercalation]] at the end of each 1540-day [[Öcídñox|öcídnö]] cycle.
+
+The diagram below shows a 385-day újnö running anticlockwise, beginning on [[Uvon#Lunar phases|Xuvñúnja]] [[Zívon#Bigídne|Tande]], the first day of the four-day new-moon [[uvon]]. The inner and outer [|||||] rings represent the phases of [[Smallmoon]] and [[Bigmoon]] on each day, and their conjunctions are shown when the two phases are equal. The five days of [[xínen]], occurring at 77-day intervals, are shown in red. The six [[zívon]], named after the [[planets]], are shown broken into their four [[Zívon#Uvíne|uvíne]] around the edge. The final day of the újnö, the first of the next cycle of six [[zívon]], is highlighted in green. 
+
+![[újnö.png]]
