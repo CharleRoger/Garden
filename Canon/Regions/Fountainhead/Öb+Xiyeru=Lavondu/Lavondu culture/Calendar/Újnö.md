@@ -1,4 +1,4 @@
-**Újnö** is the [[Möxali]] name for a 385-day astronomical cycle involving both [[Moons of Winter]], used in traditional [[Xiyeru]] lunar calendars and being central to the construction of the [[Öcídñox]] calendar.
+**Újnö** is the [[Möxali]] name for a 385-day astronomical cycle involving both [[Winter#Moons|moons of Winter]], used in traditional [[Xiyeru]] lunar calendars and being central to the construction of the [[Öcídñox]] calendar.
 # Etymology
 The term *újnö* means "complete cycle" in [[Möxali]], from the adjective *úja* "true, whole", the dummy noun root *-n-* and the classifier *-ö* for cyclic things.
 # Physical origin
@@ -6,7 +6,7 @@ Many lunar calendars on [[Winter]] approximate the synodic cycles of [[Smallmoon
 
 In fact, the synodic cycle of [[Smallmoon]] is approximately 10.19103 days. This discrepancy is accounted for by [[Qíñu#Xínen|xínen]], the day of pausing, occurring every 77 days. Likewise, [[Bigmoon|Bigmoon's]] synodic period is not exactly 64 days, but ~64.1647.
 
-The period of [[Víqin|conjunction]] of the [[Moons of Winter|two moons]] is almost exactly 3/16 of [[Bigmoon|Bigmoon's]] synodic period, at 12.03063 days (12.03063/64.1647 = 2.99994/16). The difference between the [[zívon]] and the actual synodic period amounts to ~0.988 days per six [[zívon]] (384 days). This is to say that where the calendar represents 6 synodic cycles of [[Bigmoon]] in 384 days, it actually takes ~384.9880 days, which is almost exactly equal to 32 conjunctions (384.9802 days).
+The period of [[Víqin|conjunction]] of the [[Winter#Moons|two moons]] is almost exactly 3/16 of [[Bigmoon|Bigmoon's]] synodic period, at 12.03063 days (12.03063/64.1647 = 2.99994/16). The difference between the [[zívon]] and the actual synodic period amounts to ~0.988 days per six [[zívon]] (384 days). This is to say that where the calendar represents 6 synodic cycles of [[Bigmoon]] in 384 days, it actually takes ~384.9880 days, which is almost exactly equal to 32 conjunctions (384.9802 days).
 
 Incidentally, 32 conjunction periods is two complete cycles of the 16 [[víqin]], and as if by magic, the 77-day [[Qíñu#Xínen|xínen]] cycle divides the 385 days into exactly five (5 × 77 = 385). This 385 day cycle is the újnö, consisting of six 64-day [[zívon]] plus an extra day.
 # Calendrics
