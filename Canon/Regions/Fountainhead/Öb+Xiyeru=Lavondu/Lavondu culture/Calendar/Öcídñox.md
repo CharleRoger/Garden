@@ -31,7 +31,7 @@ From these three natural cycles, other calendrical units are constructed:
 ![[öcídñox.png]]
 (See [[qíñu]], [[uvon]], [[víqin]], [[zívon]] and [[újnö]] for details)
 ## Physical origin
-The 1540-day complete cycle of the calendar is based on the fact that in 385 days, almost exactly six synodic [[uvon]] cycles of [[Bigmoon]] (6 × 64.1647 = 384.9882) and almost exactly 38 synodic [[qíñu]] cycles of [[Smallmoon]] (38 × 10.13109 = 384.98142) occur. This is due to an apparent ~19:3 resonance between the synodic cycles of the [[Winter#Moons|moons]], i.e. that three [[uvon]] cycles almost exactly equals 19 [[qíñu]] cycles. This is not entirely a coincidence, rather it is a secondary result of more complex orbital configuration involving the planet [[Pharos]].
+The 1540-day complete cycle of the calendar is based on the fact that in 385 days, almost exactly six synodic [[uvon]] cycles of [[Bigmoon]] (6 × 64.1647 = 384.9882) and almost exactly 38 synodic [[qíñu]] cycles of [[Smallmoon]] (38 × 10.13109 = 384.98142) occur. This is due to an apparent ~19:3 resonance between the synodic cycles of the [[Winter#Moons|moons]], i.e. that three [[uvon]] cycles almost exactly equals 19 [[qíñu]] cycles. This is not entirely a coincidence, rather it is a secondary result of more complex orbital configuration involving the planet [[Pharon]].
 ## Savon
 The ~1 day misalignment between the physical cycle (1 [[újnö]] = 385 days) and the calendar cycle (six [[zívon]] = 384 days) means that the day of [[uvon]] slips forward every 6 [[zívon]]. Consider the example below:
 - A [[zívon]] begins with the moons new and in conjunction on its first day, this marks the start of the [[újnö]] and so the [[uvon]] will land on [[Zívon#Bigídne|Tande]] (the first day) of each [[Zívon#Bigídne|bigídne]].
@@ -49,4 +49,4 @@ Even with the Savon, the calendar is not perfect. The 152 [[Qíñu#Xínen|xínen
 > *Eganja Vibínifsíja Ozbíja Yobzínja Duzúnja Sipö*
 > `iga    -n  -ja   víbi -nífös-ö  -ja   ozbi-ja   yubzim-ja   dúz  ~u   -n   -ja   sepö`
 > `depart-NMLZ-GEN  2.add-30   -CLF-GEN  4th -GEN  Yubzim-GEN  carve~PROG-NMLZ-GEN  3rd`
-> "[[Exodus Period]], 32nd Cycle, Fourth [[újnö]], [[zívon]] of [[Pharos|Yubzím]], [[Zívon#Bigídne|bigídne]] of Carving, Third Day"
+> "[[Exodus Period]], 32nd Cycle, Fourth [[újnö]], [[zívon]] of [[Pharon|Yubzím]], [[Zívon#Bigídne|bigídne]] of Carving, Third Day"
