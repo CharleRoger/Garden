@@ -1,6 +1,12 @@
 The **Öb** are a diverse group of [[Öboid]] peoples native to the [[T'ugü]] river basin.
 # Prehistory
 The Öb are believed to have lived in [[T'ugü]] since at least 10,000 [[Universal calendar|BGS]]. In the period before direct contact with cultures outside of [[T'ugü]], the Öb were mainly hunter gathers using stone tools and [[Canoes in T'ugü|dugout canoes]], and some animal husbandry techniques were developed. Within the last two millennia [[Universal calendar|BGS]], speakers of an [[Upic languages|Upic language]] brought the [[Öbic languages|Alöbi]] language to [[T'ugü]], along with important technologies such as the wheel and basic agriculture of vegetables, though no cultivated grains. The main agricultural enterprise in [[T'ugü]], [[cimcim]] algaculture, was developed during this time.
+# Languages
+Öb speak a continuum of languages known as [[Öbic languages]], a subgroup of the [[Upic languages]] which was brought to [[T'ugü]] by an unknown [[Upic peoples|Upic]] population within the last two millennia [[Universal calendar|BGS]], along with certain associated technology and cultural elements. The earliest attested [[Öbic languages]] were called *Alöbi*, an archaic term literally meaning "tongue of Öb". Alöbi dialects can be categorised into two distinct language groups: [[Low Alöbi]] and [[High Alöbi]], named so because they were generally spoken in the lowlands and highlands of [[T'ugü]] respectively throughout the first millennium [[Universal calendar|AGS]].
+
+In the [[7th century]], The [[Low Alöbi]]-[[Xiri]] mixed language [[Möxali]] developed in bilingual communities of [[Xiyeru]] refugees. [[Möxali]] became the lingua franca in [[T'ugü]] and other parts of [[Fountainhead]] for many centuries, and was spoken by most [[Öb]] as a second language, first becoming popular in the [[9th century]].
+
+[[Low Alöbi]] underwent a continuous evolution into the language which came to be known as [[Eubli]] from around the [[10th century]] onwards. [[Eubli]] is quite distinct from [[Low Alöbi]] in its vocabulary, phonology, grammar and writing, the result of several centuries of significant [[Möxali]] influence.
 # Cimcim algaculture
 The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃimtʃim/, the staple food in [[T'ugü]]. The two main kinds of [[cimcim]] are [[cimcim#p'ila cimcim|p'ila cimcim]] "stringy cimcim" and [[cimcim#ökya cimcim|ökya cimcim]] "branching cimcim".
 
