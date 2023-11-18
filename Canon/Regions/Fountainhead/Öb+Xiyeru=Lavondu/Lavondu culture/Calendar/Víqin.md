@@ -1,4 +1,4 @@
-**Víqin** is the [[Möxali]] name for the conjunction of the [[Moons of Winter]] which occurs approximately every 12 days. This is a day of various cultural observances for the [[Xiyeru]] and [[Lavondu]].
+**Víqin** is the [[Möxali]] name for the conjunction of the [[Winter#Moons|moons of Winter]] which occurs approximately every 12 days. This is a day of various cultural observances for the [[Xiyeru]] and [[Lavondu]].
 # Etymology
 *Víqin* literally means "watching" or "observation". It is a nominalised form of the progressive verb *víqi* "watch, observe", ultimately from [[Xiri]] *fawiʼi* "see".
 
