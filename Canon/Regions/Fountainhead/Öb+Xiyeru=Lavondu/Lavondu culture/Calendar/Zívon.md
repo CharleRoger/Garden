@@ -21,7 +21,7 @@ The uvíne do not align exactly with the bigídne because they are determined di
 
 ![[zívon.png]]
 ## Names
-Zívon belong to a greater cycle approximately six times the length, called [[újnö]]. Each of the six zívon in this cycle are named after the six visible [[planets]], though any astronomical connection that might have inspired the names is not relevant to the calendar. The names used in [[Möxali]] derive from older [[Xiri]] names:
+Zívon belong to a greater cycle approximately six times the length, called [[újnö]]. Each of the six zívon in this cycle are named after the six traditional [[Solar system#Planets|planets]], though any astronomical connection that might have inspired the names is not relevant to the calendar. The names used in [[Möxali]] derive from older [[Xiri]] names:
 1. [[Pharon]] — *Yubzím* from [[Xiri]] *fayobozimi* "who rules the stars"
 2. [[Scoria]] — *Danom*, from [[Xiri]] *fadanaūmu* "who leads the water"
 3. [[Rubroplano]] — *Daqíb* from [[Xiri]] *faraʼeība* "who burns the sky"
