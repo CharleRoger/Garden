@@ -8,8 +8,10 @@ The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃi
 
 [[cimcim#ökya cimcim|Ökya cimcim]] can be grown in fresh water, but most is grown in the shallow brackish water in the mouth of the river.
 ![[algae farm.png]]
-# Lifestyle
+# Society and lifestyle
 The Öb peoples exhibit a range of different lifestyles in [[T'ugü]], [[Irimri]] and parts of the [[Red steppe]], from fully settled agriculturalists to semi-nomadic seasonal migratory pastoralists to fully nomadic hunter-gatherers.
+## Bineb
+The primary societal unit in [[T'ugü]] is called a [[bineb]], a family-village of 10-30 people, though later in history this number was sometimes significantly larger. The concept of the [[bineb]] applies to both settled and semi-nomadic peoples.
 ## Gift economy
 Settled society in [[T'ugü]] revolves around the periodic exchange of gifts between family-oriented villages. This practice was significantly impacted by contact with the [[Xiyeru]] throughout the first millennium [[Universal calendar|AGS]], in which the exchange of resources particularly in areas near the coast became a more rigorous and much further-reaching trade network, exacerbated by the permanent settlement of [[Xiyeru]] refugees in [[T'ugü]] during the [[Exodus period]] and the creation of the [[Zúnton]] resource distribution and management system.
 
