@@ -11,3 +11,14 @@ The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃi
 # Seasonal migration
 The wet season brings strong winds, floods and perpetual fog which makes life in [[T'ugü]] difficult. Most Öb live in stilt houses near the river and just spend the season sleeping and eating, but some Öb choose to migrate around 200km into the hills. They would typically take whatever they can carry on their back and live off the land up there. Before they leave, the cimcim pools are seeded so that masses of the red algae can be harvested when they return. Some particularly better equipped Öb have special wagon houses called _k'ak'ohümi_ /kʼɑkʼoxymi/ (literally "wooden giant snail" from _k'ak'oh_ "giant snail" and _üm_ "wood"). The biggest k'ak'ohümi can support a family of ~4. The wagons are pulled by [[ugo]], the only large domesticated animal in [[T'ugü]]. When they reach their destination, the wagon is emptied and the [[ugo]] is used to flip it upside down so that it can be used as a house until the rains pass.
 ![[wagon house.png]]
+# Culture and arts
+The Öb in the larger settlements live comfortably with a good deal of free time, so many people spend a lot of that time making art in many media: wood carving, pottery, jewellery, carpets etc. They are particularly known for their dyed and intricately woven fabrics.
+## Textiles
+Öb have been weaving for thousands of years using hand-held looms and small wooden frame looms. The fibres of a grass called *jülem* are used to weave a textile similar to linen called *lilaw*, which was traditionally the only cloth available to the people of [[T'ugü]]. Weaving is a laborious process and a family might have one or two people who spend all their time weaving and stitching together clothes for everyone else.
+
+Once the [[Xiyeru]] brought their sailing ships to [[T'ugü]], the Öb quickly saw how lilaw could be used in place of animal hide and leaves to make lighter, more durable sails. This also allows the construction of much larger sails and therefore much larger ships. To support this potential new industry and the developing trade economy, the backstrap loom was invented c. 600 [[Universal calendar|AGS]].
+
+A backstrap loom uses the weight of the weaver's body to keep the threads in tension, which allows for large looms with very few parts to be easily set up and used. Weavers could now produce much larger pieces of cloth faster than they could before, establishing cloth production as an important new trade in [[T'ugü]].
+
+As well as sails, faster and more advanced weaving allowed people to focus more on decorative patterns for clothes, carpets and other ornamental cloth.
+![[backstrap loom.png]]
