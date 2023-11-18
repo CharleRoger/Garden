@@ -8,7 +8,19 @@ The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃi
 
 [[cimcim#ökya cimcim|Ökya cimcim]] can be grown in fresh water, but most is grown in the shallow brackish water in the mouth of the river.
 ![[algae farm.png]]
-# Seasonal migration
+# Lifestyle
+The Öb peoples exhibit a range of different lifestyles in [[T'ugü]], [[Irimri]] and parts of the [[Red steppe]], from fully settled agriculturalists to semi-nomadic seasonal migratory pastoralists to fully nomadic hunter-gatherers.
+## Gift economy
+Settled society in [[T'ugü]] revolves around the periodic exchange of gifts between family-oriented villages. This practice was significantly impacted by contact with the [[Xiyeru]] throughout the first millennium [[Universal calendar|AGS]], in which the exchange of resources particularly in areas near the coast became a more rigorous and much further-reaching trade network, exacerbated by the permanent settlement of [[Xiyeru]] refugees in [[T'ugü]] during the [[Exodus period]] and the creation of the [[Zúnton]] resource distribution and management system.
+
+Travelling "merchants" became common in the lowlands of [[T'ugü]] by 800 AGS. These Öb had done away with the modest, old fashioned lifestyle still practised by the more rural people in favour of a life of whimsy and merriment. Such people were not exactly traders, but social ambassadors who give gifts to friendly, neighbouring communities. They often dressed in fanciful outfits and put on public displays of singing and dancing as they travelled from place to place, sometimes theatrically "bartering" with anyone whose attention they capture.
+
+The illustration below shows such a gift-giver offering an assortment of fish which some of their family members had caught the day before:
+![[fish man.png]]
+From left to right: *jasi* (~catfish), *xlijek* (~eels), *bisek* (small oily fish, in the jars labelled BI-SE-KA), *t'ikyuek* ("knife fish"), *binem* (bitter fermented fish sauce, similar to garum).
+
+Gift-givers like this travelled by [[ugo]] to a few nearby (but more isolated) villages a day in the dry season, distributing their goods and accepting anything that might be given in return. Their outfit is unique and personalised, made by their sibling using materials gained by trading which they would otherwise not have had easy access to.
+## Seasonal migration
 The wet season brings strong winds, floods and perpetual fog which makes life in [[T'ugü]] difficult. Most Öb live in stilt houses near the river and just spend the season sleeping and eating, but some Öb choose to migrate around 200km into the hills. They would typically take whatever they can carry on their back and live off the land up there. Before they leave, the cimcim pools are seeded so that masses of the red algae can be harvested when they return. Some particularly better equipped Öb have special wagon houses called *k'ak'ohümi* /kʼɑkʼoxymi/ (literally "wooden giant snail" from *k'ak'oh* "giant snail" and *üm* "wood"). The biggest k'ak'ohümi can support a family of ~4. The wagons are pulled by [[ugo]], the only large domesticated animal in [[T'ugü]]. When they reach their destination, the wagon is emptied and the [[ugo]] is used to flip it upside down so that it can be used as a house until the rains pass.
 ![[wagon house.png]]
 # Culture and arts
