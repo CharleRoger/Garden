@@ -8,3 +8,6 @@ The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃi
 
 [[cimcim#ökya cimcim|Ökya cimcim]] can be grown in fresh water, but most is grown in the shallow brackish water in the mouth of the river.
 ![[algae farm.png]]
+# Seasonal migration
+The wet season brings strong winds, floods and perpetual fog which makes life in [[T'ugü]] difficult. Most Öb live in stilt houses near the river and just spend the season sleeping and eating, but some Öb choose to migrate around 200km into the hills. They would typically take whatever they can carry on their back and live off the land up there. Before they leave, the cimcim pools are seeded so that masses of the red algae can be harvested when they return. Some particularly better equipped Öb have special wagon houses called _k'ak'ohümi_ /kʼɑkʼoxymi/ (literally "wooden giant snail" from _k'ak'oh_ "giant snail" and _üm_ "wood"). The biggest k'ak'ohümi can support a family of ~4. The wagons are pulled by [[ugo]], the only large domesticated animal in [[T'ugü]]. When they reach their destination, the wagon is emptied and the [[ugo]] is used to flip it upside down so that it can be used as a house until the rains pass.
+![[wagon house.png]]
