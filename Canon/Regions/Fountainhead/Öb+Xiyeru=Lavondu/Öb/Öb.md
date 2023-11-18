@@ -1,0 +1,3 @@
+The **Öb** are a diverse group of [[Öboid]] peoples native to the [[T'ugü]] river basin.
+# Prehistory
+The Öb are believed to have lived in [[T'ugü]] since at least 10,000 [[Universal calendar|BGS]]. In the period before direct contact with cultures outside of [[T'ugü]], the Öb were mainly hunter gathers using stone tools and dugout canoes, and some animal husbandry techniques were developed. Within the last two millennia [[BGS]], speakers of an [[Upic languages|Upic language]] brought the [[Öbic languages|Alöbi]] language to [[T'ugü]], along with important technologies such as the wheel and basic agriculture of vegetables, though no cultivated grains. The main agricultural enterprise in [[T'ugü]], [[cimcim]] algaculture, was developed during this time.
