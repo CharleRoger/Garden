@@ -1,16 +1,17 @@
-**Winter** is the fourth [[planets|planet]] from the [[Sun]] and the only astronomical object known to harbor life.
+**Winter** is the fifth [[Solar system#Planets|planet]] from the [[sun]] and the only astronomical object known to harbor life.
 # Orbital characteristics
 | Quantity                | Value              |
 | ----------------------- | ------------------ |
-| Apoapsis                | 1.134688 × 10¹¹ m  |
-| Periapsis               | 1.003224 × 10¹¹ m  |
-| Semi-major axis         | 1.068956 × 10¹¹ m  |
+| Apoapsis                | 1.135461 × 10¹¹ m  |
+| Periapsis               | 1.003908 × 10¹¹ m  |
+| Semi-major axis         | 1.069685 × 10¹¹ m  |
 | Eccentricity            | 0.0614918          |
 | Sidereal orbital period | 251.801611945 days |
 | Argument of periapsis   | 299.357°           |
+## Length of the year
+Winter's year is 251.801611945 days long, which many calendar systems approximate as 250, 251 or 252 days.
 ## Resonance with other planets
-Winter orbits the [[Sun]] in a 1:3:4:8 orbital resonance with the three inner planets of the [[Solar system]], [[Pharon]], [[Scoria]] and [[Rubroplano]], driven by the strong gravitational effect of [[Pharon]] on the other planets.
-(See: [[Solar system#Orbital resonance|Orbital resonance]])
+Winter orbits the [[sun]] in an [[Solar system#Orbital resonance|orbital resonance]] with the three inner planets of the [[Solar system]], [[Pharon]], [[Scoria]] and [[Rubroplano]], driven by the strong gravitational effect of [[Pharon]] on the other planets.
 # Physical characteristics
 | Quantity                 | Value                           |
 | ------------------------ | ------------------------------- |
@@ -19,8 +20,8 @@ Winter orbits the [[Sun]] in a 1:3:4:8 orbital resonance with the three inner pl
 | Mass                     | 5.38264 × 10²⁵ kg               |
 | Mean density             | 1,844.5 kg/m³                   |
 | Surface gravity          | 9.80665 m/s²                    |
-| Synodic rotation period  | 86,400s (24h)                   |
 | Sidereal rotation period | 86,058.230s (23h 54m 18s 230ms) |
+| Synodic rotation period  | 86,400s (24h)                   |
 | Axial tilt               | 9.1306349°                      |
 ## Surface
 Winter has large ice caps; the sun has carved a habitable zone into the equatorial ~⅓ of the planet's latitudes (roughly 30°N to 30°S). This makes the total habitable area around half of its total surface area. Most of the equatorial band is covered by ocean. Despite its large size, Winter does not have any supercontinents; the largest landmasses are around 5,000km across.
@@ -39,6 +40,13 @@ At least near the equator, the atmosphere circulates in bands of convection cell
 # Moons
 Winter has two moons which follow roughly circular orbits approximately in the [[Solar system|solar system's]] ecliptic plane. The smaller and nearer moon is known as [[Smallmoon]], while the further and larger is known as [[Bigmoon]].
 
-Viewed from Winter, [[Bimoon]] appears around 50% wider than the sun, while the variation in the size of [[Smallmoon]] over its orbit overlaps with that of the [[Sun]]. This leads to a range of types of partial, annular and total solar eclipses by [[Smallmoon]], total eclipse by [[Bigmoon]] and compound eclipses featuring both moons. 
+Viewed from Winter, [[Bigmoon]] appears around 50% wider than the sun, while the variation in the size of [[Smallmoon]] over its orbit overlaps with that of the [[sun]]. This leads to a range of types of partial, annular and total solar eclipses by [[Smallmoon]], total eclipse by [[Bigmoon]] and compound eclipses featuring both moons. 
 
 The gravitational force of both moons have a tidal effect on Winter, though notably less than would be expected given their size and proximity to the planet, particularly in the case of [[Bigmoon]]. This is due to the moons having anomalously low density, even lower than Winter, which may indicate that they have a similar internal composition to Winter itself.
+
+The two moons are in a 4:21 orbital resonance, meaning [[Smallmoon]] orbits 21 times for each four orbits of [[Bigmoon]]. Curiously, their synodic periods are even closer to an integer ratio, 3:19, but this is complete coincidence as there is no physical driving mechanism for this. These data are shown in the table below:
+
+| Moon      | Sidereal period              | Synodic period                |
+| --------- | ---------------------------- | ----------------------------- |
+| Smallmoon | 9.7392387 days (4t₁)         | 10.1310913 days (3t₂)         |
+| Bigmoon   | 51.134546 days (21.001455t₁) | 64.164795 days (19.0003603t₂) |
