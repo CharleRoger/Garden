@@ -25,6 +25,9 @@ Gift-givers like this travelled by [[ugo]] to a few nearby (but more isolated) v
 ## Seasonal migration
 The wet season brings strong winds, floods and perpetual fog which makes life in [[T'ugü]] difficult. Most Öb live in stilt houses near the river and just spend the season sleeping and eating, but some Öb choose to migrate around 200km into the hills. They would typically take whatever they can carry on their back and live off the land up there. Before they leave, the cimcim pools are seeded so that masses of the red algae can be harvested when they return. Some particularly better equipped Öb have special wagon houses called *k'ak'ohümi* /kʼɑkʼoxymi/ (literally "wooden giant snail" from *k'ak'oh* "giant snail" and *üm* "wood"). The biggest k'ak'ohümi can support a family of ~4. The wagons are pulled by [[ugo]], the only large domesticated animal in [[T'ugü]]. When they reach their destination, the wagon is emptied and the [[ugo]] is used to flip it upside down so that it can be used as a house until the rains pass.
 ![[wagon house.png]]
+## Diversity
+The Öb population is a diverse continuum of language and culture, sometimes considered to include the [[Yaxeb]] peoples of [[Irimri]]. Four views of diversity within the Öb macroculture in [[T'ugü]] around [[Universal calendar|year 0]] are shown below:
+![[öb diversity in t'ugü.png]]
 # Culture and arts
 The Öb in the larger settlements live comfortably with a good deal of free time, so many people spend a lot of that time making art in many media: wood carving, pottery, jewellery, carpets etc. They are particularly known for their dyed and intricately woven fabrics.
 ## Textiles
@@ -43,6 +46,3 @@ Despite the narrow scope of natural resources available to the Öb early in thei
 Jewellery is a less common craft in [[T'ugü]] which became more prominent through trade with the [[Xiyeru]] in the first few centuries [[Universal calendar|AGS]]. The art of carving precious stones in particular developed significantly in the [[3rd century|3rd]] and [[4th century|4th]] centuries, exemplified by the pendant in the form of a frog shown below:
 ![[frog pendant combined.png]]
 This pendant is ~4cm long and carved from a piece of a glassy, blue-green mineral called *klesik*~*tlisik*, a prolific precious stone found in T'ugü. Frogs symbolise innocence and goodwill in Öb culture and are a common subject in personal charms and artwork.
-# Diversity
-The Öb are a diverse continuum of language and culture, sometimes considered to include the [[Yaxeb]] peoples of [[Irimri]]. Four views of diversity within the Öb macroculture in [[T'ugü]] around [[Universal calendar|year 0]] are shown below:
-![[öb diversity in t'ugü.png]]
