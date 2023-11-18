@@ -25,3 +25,6 @@ As well as sails, faster and more advanced weaving allowed people to focus more 
 ## Dyes and pigments
 Despite the narrow scope of natural resources available to the Öb early in their history, the manufacture and development of dyes and pigments became a prominent specialised trade for which [[T'ugü]] later became known. Dyes and pigments were traditionally produced in small quantities by individual artists and typically reduced to powders and stored in clay pots, and later in history this evolved into large-scale production and trade in some cases.
 (See: [[Öb dyes and pigments]])
+# Diversity
+The Öb are a diverse continuum of language and culture, sometimes considered to include the [[Yaxeb]] peoples of [[Irimri]]. Four views of diversity within the Öb macroculture in [[T'ugü]] around [[Universal calendar|year 0]] are shown below:
+![[öb diversity in t'ugü.png]]
