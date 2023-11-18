@@ -25,6 +25,10 @@ As well as sails, faster and more advanced weaving allowed people to focus more 
 ## Dyes and pigments
 Despite the narrow scope of natural resources available to the Öb early in their history, the manufacture and development of dyes and pigments became a prominent specialised trade for which [[T'ugü]] later became known. Dyes and pigments were traditionally produced in small quantities by individual artists and typically reduced to powders and stored in clay pots, and later in history this evolved into large-scale production and trade in some cases.
 (See: [[Öb dyes and pigments]])
+## Jewellery
+Jewellery is a less common craft in [[T'ugü]] which became more prominent through trade with the [[Xiyeru]] in the first few centuries [[Universal calendar|AGS]]. The art of carving precious stones in particular developed significantly in the [[3rd century|3rd]] and [[4th century|4th]] centuries, exemplified by the pendant in the form of a frog shown below:
+![[frog pendant combined.png]]
+This pendant is ~4cm long and carved from a piece of a glassy, blue-green mineral called *klesik*~*tlisik*, a prolific precious stone found in T'ugü. Frogs symbolise innocence and goodwill in Öb culture and are a common subject in personal charms and artwork.
 # Diversity
 The Öb are a diverse continuum of language and culture, sometimes considered to include the [[Yaxeb]] peoples of [[Irimri]]. Four views of diversity within the Öb macroculture in [[T'ugü]] around [[Universal calendar|year 0]] are shown below:
 ![[öb diversity in t'ugü.png]]
