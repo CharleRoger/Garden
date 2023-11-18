@@ -1,3 +1,10 @@
 The **Öb** are a diverse group of [[Öboid]] peoples native to the [[T'ugü]] river basin.
 # Prehistory
 The Öb are believed to have lived in [[T'ugü]] since at least 10,000 [[Universal calendar|BGS]]. In the period before direct contact with cultures outside of [[T'ugü]], the Öb were mainly hunter gathers using stone tools and dugout canoes, and some animal husbandry techniques were developed. Within the last two millennia [[BGS]], speakers of an [[Upic languages|Upic language]] brought the [[Öbic languages|Alöbi]] language to [[T'ugü]], along with important technologies such as the wheel and basic agriculture of vegetables, though no cultivated grains. The main agricultural enterprise in [[T'ugü]], [[cimcim]] algaculture, was developed during this time.
+# Cimcim algaculture
+The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃimtʃim/, the staple food in [[T'ugü]]. The two main kinds of [[cimcim]] are [[cimcim#p'ila cimcim|p'ila cimcim]] "stringy cimcim" and [[cimcim#ökya cimcim|ökya cimcim]] "branching cimcim".
+
+Öb in inland villages grow [[cimcim#p'ila cimcim|p'ila cimcim]] in shallow freshwater pools above the flood line and harvest it using a rake called a _tümog_ /ˈtymoŋ/ "big hand". [[Cimcim]] pools are seeded and harvested on rotation on a timescale of 20-30 days in good weather. In the wet season, which sees reduced sunlight and generally poor conditions for working, the pools are typically seeded and left to mature for around 60-100 days, while the Öb adopt a lifestyle of reduced activity and diet and increased sleep.
+
+[[cimcim#ökya cimcim|Ökya cimcim]] can be grown in fresh water, but most is grown in the shallow brackish water in the mouth of the river.
+![[algae farm.png]]
