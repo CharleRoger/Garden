@@ -55,3 +55,5 @@ Despite the narrow scope of natural resources available to the Öb early in thei
 Jewellery is a less common craft in [[T'ugü]] which became more prominent through trade with the [[Xiyeru]] in the first few centuries [[Universal calendar|AGS]]. The art of carving precious stones in particular developed significantly in the [[3rd century|3rd]] and [[4th century|4th]] centuries, exemplified by the pendant in the form of a frog shown below:
 ![[frog pendant combined.png]]
 This pendant is ~4cm long and carved from a piece of a glassy, blue-green mineral called *klesik*~*tlisik*, a prolific precious stone found in T'ugü. Frogs symbolise innocence and goodwill in Öb culture and are a common subject in personal charms and artwork.
+# Mythology
+Öb generally did not practise a religion as such, rather they had a rich history of [[Öb mythology|myths and folklore]].
