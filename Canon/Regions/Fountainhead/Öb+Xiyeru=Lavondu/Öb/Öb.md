@@ -28,6 +28,9 @@ The Öb cultivate many varieties of a red macroalgae known as [[cimcim]] /ˈtʃi
 
 [[cimcim#ökya cimcim|Ökya cimcim]] can be grown in fresh water, but most is grown in the shallow brackish water in the mouth of the river.
 ![[algae farm.png]]
+## Skin reddening
+A [[cimcim]]-heavy diet has the peculiar effect of turning the skin red, not by mere pigmentation, but by kleptoplasty. Red chloroplasts are reappropriated from the algae and show up in the lower layers of the skin. For most humans, [[cimcim]] is unpleasant to eat and causes sickness, and the kleptoplastic process can cause severe allergic reactions. The Öb, however, to have developed a generational resistance to it and can freely eat it without undesirable consequences. Öb have a very pale natural skin tone, and it is believed that the [[cimcim]] actually helps to protect their otherwise vulnerable skin in much the same way as melanin. Öb with a high degree of [[cimcim]]-induced skin-reddening are actually able to indirectly photosynthesise a little bit by the metabolisation of the chloroplasts. An Öb in this condition still requires as much water as usual, but can last weeks with no food if they maintain low activity, until their skin returns to its natural pale colour as the chloroplast reserves are depleted.
+![[red men.png]]
 # Society and lifestyle
 The Öb peoples exhibit a range of different lifestyles in [[T'ugü]], [[Irimri]] and parts of the [[Red steppe]], from fully settled agriculturalists to semi-nomadic seasonal migratory pastoralists to fully nomadic hunter-gatherers.
 ## Bineb
