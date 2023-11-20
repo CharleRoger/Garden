@@ -2,7 +2,7 @@
 
 The Upper [[Lāēde river]] has been for most of the history of Khey one of the most important aspects for life to thrive in the desert landscape. It helped many early tribes develop the works of agriculture and animal husbandry. It is estimated the Khey desert has been inhabited by humans for thousands of years, the climate was much less arid and large regions were covered by Savannah traversed by herds of grazing ungulates. Foliage and fauna were far more prolific in all environments. Hunting would have been common for early settlers, and this is also the period when many animals were first domesticated. 
 
-By about 1000 [[BGS]], many city states rose in power.
+By about 1000 [[Universal calendar|BGS]], many city states rose in power.
 
 Small tribes living in the [[Lāēde valley]] had developed into a series of cultures demonstrating firm control of agriculture and animal husbandry. The largest of these cultures was the Ada, they were known for their technological and advanced agriculture techniques adapted for that landscape. Following this trend the [[Kátic]] and [[Rharnic]] cultures [Rotak & Rabak people], one of the first to inhabit the desert shared goods and agricultural knowledge with other cultures.
 
@@ -36,7 +36,7 @@ The later split of the First coalition was a graduate process that happened afte
 
 - Circa 130~ AGS [[Hayalam]], [[Polo]] and [[Kuho]] collapsed, many cities were abandoned and left astray. 
     
-- In 200 AGS Xu’itfa a successful warlord, conquered the Khey desert, he founded the [[Byo clan]], in 240AGS he died, the Byo clan then fractured.
+- In 200 AGS Xu’itfa a successful warlord, conquered the Khey desert, he founded the [[Byo clan]], in 240[[Universal calendar|AGS]] he died, the Byo clan then fractured.
     
 - Circa 360AGS the Byo clan got control of most of cities in Khey, the clan soon took over the control of all cities, no surprise clan Byo would take over the desert, they founded the Desert Concil [[Deyou Volotu]] formed by other ancient and new clans that take over their region of the desert but never having more power than the clan Byo.
     

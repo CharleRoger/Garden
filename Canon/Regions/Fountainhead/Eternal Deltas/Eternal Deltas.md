@@ -11,6 +11,6 @@
 [[3rd century]]
 [[4th century]]
 [[5th century]]
-[[AGS]]
-[[BGS]]
+[[Universal calendar|AGS]]
+[[Universal calendar|BGS]]
 [[Metallurgy]]

@@ -33,18 +33,6 @@ religion in kóty can be tough subject, getting more polytheistic faiths and sha
 ### [[Ansang Traditional Religion]]
 Traditional faith of Ansang people, it comprises a plethora of gods for all type of natural events, objects, animals and human aspects/feelings like, love, anger, lust and sexual pleasure; in total there may be estimated to be around ~50 Ansang deities and more other spirits/ghosts.
 
-* '''[[Orïm]]''' - The Sun God, the God of the sky
-* '''[[Baibasüdëy]]''' - God of mystery, man of mystery, God of thieves
-* '''[[Vuzuggye’e]]''' - Old God, God of wisdom, God of the priests, God of the elders
-* '''[[Yüyüdengo]]''' - God of fire and god of Life
-* '''[[Losïsï]]''' - Goddess of darkness, Goddess of the small moon.
-* '''[[Rësoyo]]''' - God of Nature, Wheat, Wealth, Breeze, Soft wind, Spirit, Soul.
-* '''[[Vuzu’oroto]]''' - God of Water, chief of the Madaras.
-** '''[[Madaras]]''' - They are numerous, they don't have names because they act in very similar ways and similar meanings, protecting the waters and the life of Ansang islands, often and commonly replacing Vuzu’oroto itself as an easy way to reach the Gods they fall in a similar category. Madaras are not a divine being as the God but “bridges” to communicate with the God and  Unnamed Gods of water and life.
-* '''[[Sengpung]]''' - The lesser moon, the small moon goddess.
-* '''[[Zolidï’]]''' - The strongest moon, the big moon goddess.
-* '''[[Vuzuhhalaka]]''' - The old man of tongues, the language god, one of the most important gods, considered not only one single god but several gods within one, because there are many languages in the world.
-
 === Idixudu Wiyÿh Zazoç ===
 ''Idixudu zazoç cisi'' translates to 'Seven sacred Gods' it is the traditional religion of the Cisi people, this religion is not one organized religion as Loshianism is, but rather a mix of shamanic animalistic beliefs wrapped up with some traditional rituals and sacred locations imbued to the land of where most Cisi people lives in.
 == Metallurgy in Kóty ==
