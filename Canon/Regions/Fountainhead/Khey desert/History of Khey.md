@@ -4,7 +4,7 @@ The Upper [[Lāēde river]] has been for most of the history of Khey one of the 
 
 By about 1000 [[Universal calendar|BGS]], many city states rose in power.
 
-Small tribes living in the [[Lāēde valley]] had developed into a series of cultures demonstrating firm control of agriculture and animal husbandry. The largest of these cultures was the Ada, they were known for their technological and advanced agriculture techniques adapted for that landscape. Following this trend the [[Kátic]] and [[Rharnic]] cultures [Rotak & Rabak people], one of the first to inhabit the desert shared goods and agricultural knowledge with other cultures.
+Small tribes living in the [[Lāēde valley]] had developed into a series of cultures demonstrating firm control of agriculture and animal husbandry. The largest of these cultures was the Ada, they were known for their technological and advanced agriculture techniques adapted for that landscape. Following this trend the [[Kátic]] and [[Rharnic]] cultures [[Rotak]] & [[Rabak]] people, one of the first to inhabit the desert shared goods and agricultural knowledge with other cultures.
 
 The [[Para-Ardanic people|Ada]]  was followed by the [[Khufkhey]] culture [Early mixed Koyanic-Dreic culture], the [[Tili culture]] [Early Dreic culture]. Over a period of one thousand years the [[Khufkhey]] developed into a powerful civilization that accumulated wealth and power enough to establish their center of power at [Holy City yet to be named].
 

@@ -1,4 +1,4 @@
-[[Ram people]]
+[[Ram]]
 [[Dédu people]]
 [[Kʼol people]]
 [[Mamemi people]]
@@ -13,4 +13,4 @@
 [[5th century]]
 [[Universal calendar|AGS]]
 [[Universal calendar|BGS]]
-[[Metallurgy]]
+[[Metallurgy in the Eternal Deltas]]
