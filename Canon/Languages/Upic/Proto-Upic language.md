@@ -1,14 +1,18 @@
+---
+aliases:
+  - Proto-Upic
+---
 **Proto-Upic** (**PUp**) is the reconstructed ancestor of the [[Upic languages]]. It is thought to have been spoken c. 5,000 - 4,000 BGS somewhere in the [[Koyan]] region of Western [[Fountainhead]].
 # Phonology
 Below are the reconstructed phonemes of Proto-Upic.
 ## Consonants
-|                  | Labial | Alveolar | Palatal | Velar      | Uvular | Glottal |
-| ---------------- | ------ | -------- | ------- | ---------- | ------ | ------- |
-| Nasal            | \*m    | \*n      |         |            |        |         |
-| Ejective plosive | \*p'   | \*t'     | \*c'    | \*k'       | \*q'   |         |
-| Plain plosive    | \*p    | \*t      | \*c     | \*k        | \*q    | \*ʔ     |
-| Fricative        |        | \*s      | \*x?    | \*x/\*h?   | \*h?   | \*ħ     |
-| Resonant         | \*w    | \*l      | \*y     |            | \*r    |         |
+|                  | Labial | Alveolar | Palatal |  Velar   | Uvular | Glottal |
+| ---------------- |:------:|:--------:|:-------:|:--------:|:------:|:-------:|
+| Nasal            |  \*m   |   \*n    |         |          |        |         |
+| Ejective plosive |  \*p'  |   \*t'   |  \*c'   |   \*k'   |  \*q'  |         |
+| Plain plosive    |  \*p   |   \*t    |   \*c   |   \*k    |  \*q   |   \*ʔ   |
+| Fricative        |        |   \*s    |  \*x?   | \*x/\*h? |  \*h?  |   \*ħ   |
+| Resonant         |  \*w   |   \*l    |   \*y   |          |  \*r   |         |
 ### Dorsal plosives
 The dorsal plosives span three places of articulation, palatal \*c \*c’, velar \*k \*k’, and uvular \*q \*q’. The distinction between all three places was eventually lost in all [[Upic languages]], surviving the longest in [[Cisi]], but is important to consider in reconstructing early stages of all Upic branches.
 ### Dorsal fricatives
@@ -26,11 +30,11 @@ Syllables had the maximal form CRVRC, where C is a non-resonant consonant (nasal
 Initial attempts at reconstructing Proto-Upic made the assumption that certain phonological phenomena and alternation patterns observed in descendant languages represented a system of syllabic resonants. This system was described as having a single default vowel, \*a, and the four resonants \*y \*w \*r \*l each having two syllabic forms, a simple monophthong form and a closing diphthong form:
 
 | Consonant | Monophthong | Diphthong |
-| --------- | ----------- | --------- |
-| \*y       | \*i         | \*ey      |
-| \*w       | \*u         | \*ew      |
-| \*r       | \*r̩        | \*er      |
-| \*l       | \*l̩        | \*el      |
+|:---------:|:-----------:|:---------:|
+|    \*y    |     \*i     |   \*ey    |
+|    \*w    |     \*u     |   \*ew    |
+|    \*r    |    \*r̩     |   \*er    |
+|    \*l    |    \*l̩     |   \*el    |
 
 The diphthongs were reconstructed to have been pronounced with a syllabic vowel component with a quality distinct from the three cardinal vowels \*a \*i \*u, usually assumed to be a schwa and transcribed \*e.
 

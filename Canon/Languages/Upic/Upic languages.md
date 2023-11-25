@@ -1,3 +1,9 @@
+---
+aliases:
+  - Upic language
+  - Upic
+---
+
 The **Upic** /̍ˈuːpɪk/ languages are a family of languages primarily comprised of the [[Cisi]] language spoken in [[Kóty]] and the [[Öbic languages]] originating in [[T'ugü]], though a number of minor Upic languages can be found scattered around western [[Fountainhead]].
 # Classification
 Upic languages are broadly divided into two groups, [[Northern Upic languages|Northern]] and [[Southern Upic languages|Southern]], characterised by a number of unique sound changes.
