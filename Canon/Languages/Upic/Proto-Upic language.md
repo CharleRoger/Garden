@@ -2,17 +2,17 @@
 aliases:
   - Proto-Upic
 ---
-**Proto-Upic** (**PUp**) is the reconstructed ancestor of the [[Upic languages]]. It is thought to have been spoken c. 5,000 - 4,000 BGS somewhere in the [[Koyan]] region of Western [[Fountainhead]].
+The **Proto-Upic language** (**PUp**) is the reconstructed ancestor of the [[Upic languages]]. It is thought to have been spoken c. 5,000 - 4,000 BGS somewhere in the [[Koyan]] region of Western [[Fountainhead]].
 # Phonology
 Below are the reconstructed phonemes of Proto-Upic.
 ## Consonants
-|                  | Labial | Alveolar | Palatal |  Velar   | Uvular | Glottal |
-| ---------------- |:------:|:--------:|:-------:|:--------:|:------:|:-------:|
-| Nasal            |  \*m   |   \*n    |         |          |        |         |
-| Ejective plosive |  \*p'  |   \*t'   |  \*c'   |   \*k'   |  \*q'  |         |
-| Plain plosive    |  \*p   |   \*t    |   \*c   |   \*k    |  \*q   |   \*ʔ   |
-| Fricative        |        |   \*s    |  \*x?   | \*x/\*h? |  \*h?  |   \*ħ   |
-| Resonant         |  \*w   |   \*l    |   \*y   |          |  \*r   |         |
+|                  | -   | Labial | Alveolar | Palatal |  Velar   | Uvular | Glottal |
+| ---------------- | --- |:------:|:--------:|:-------:|:--------:|:------:|:-------:|
+| Nasal            | -   |  \*m   |   \*n    |         |          |        |         |
+| Ejective plosive | -   |  \*p'  |   \*t'   |  \*c'   |   \*k'   |  \*q'  |         |
+| Plain plosive    | -   |  \*p   |   \*t    |   \*c   |   \*k    |  \*q   |   \*ʔ   |
+| Fricative        | -   |        |   \*s    |  \*x?   | \*x/\*h? |  \*h?  |   \*ħ   |
+| Resonant         | -   |  \*w   |   \*l    |   \*y   |          |  \*r   |         |
 ### Dorsal plosives
 The dorsal plosives span three places of articulation, palatal \*c \*c’, velar \*k \*k’, and uvular \*q \*q’. The distinction between all three places was eventually lost in all [[Upic languages]], surviving the longest in [[Cisi]], but is important to consider in reconstructing early stages of all Upic branches.
 ### Dorsal fricatives
@@ -22,9 +22,9 @@ Various assimilation and dissimilation rules in early daughter languages imply t
 
 Investigation into [[sound symbolism in Proto-Upic]] has demonstrated that \*r appears in similar phonesthemes to the voiced coronal consonants \*n, \*l and \*y, rather than consonants which were likely articulated at or near the uvula like \*q', \*q, \*ʔ, \*ħ and \*h. This is an example of iconicity, the analogy between the real form of a sign and its semantic meaning, and has been considered by some as proof that Proto-Upic \*r was an alveolar trill [r]. However, this coincidence directly offers information only about the cognitive perception of sounds by speakers of the language, not the actual phonetic value. One possible interpretation is that the consonant was pronounced as an alveolar trill in an earlier stage of the language, or that the alveolar and uvular trills were in free variation in early [[Upic languages]], with the alveolar quality prevailing in [[Proto-Öbic language|Proto-Öbic]] and the uvular quality remaining elsewhere.
 ## Vowels
-Proto-Upic had only three phonemic vowels, \*i, \*a and \*u, and may have had a non-phonemic, epenthetic schwa. It was previously believed that Proto-Upic had a greater inventory of phonemic diphthongs and syllabic liquids, but this theory is no longer accepted.
+Proto-Upic has only three phonemic vowels, \*i, \*a and \*u. It was previously believed that Proto-Upic had a greater inventory of phonemic diphthongs and syllabic liquids, but this theory is no longer accepted.
 ## Phonotactics
-Syllables had the maximal form CRVRC, where C is a non-resonant consonant (nasal, plosive or fricative), R is a resonant consonant (\*w \*l \*y \*r) and V is a vowel (\*i \*a \*u). Unlike its descendants, Proto-Upic is reconstructed to have had no further constraints on which consonants could be paired in the onset.
+Syllables have the maximal form CRVRC, where C is a non-resonant consonant (nasal, plosive or fricative), R is a resonant consonant (\*w \*l \*y \*r) and V is a vowel (\*i \*a \*u). Unlike its descendants, Proto-Upic is reconstructed to have no further constraints on which consonants can be paired in the onset.
 # Reconstruction
 ## Syllabic resonant theory
 Initial attempts at reconstructing Proto-Upic made the assumption that certain phonological phenomena and alternation patterns observed in descendant languages represented a system of syllabic resonants. This system was described as having a single default vowel, \*a, and the four resonants \*y \*w \*r \*l each having two syllabic forms, a simple monophthong form and a closing diphthong form:
@@ -51,7 +51,7 @@ This theory has been found not necessary to reconstruct, and is now usually cons
 - More recent evidence from an Upic substrate in the [[Hnäzb languages]] implies that, although *\*-{i~u}RC* may have already merged, *\*-aRC* remained distinct in some [[Northern Upic languages]], supporting the behaviour of *\*-al* described above and further implying that both branches of the Upic languages underwent diphthong neutralisation independently after Proto-Upic had split.
 # Morphology
 ## Root
-Proto-Upic roots are monosyllabic morphemes which do not belong to any particular word class and had broad semantic meaning. More precise meanings are able to be expressed through serial root constructions and certain affixes.
+Proto-Upic roots are monosyllabic morphemes which do not belong to any particular word class and have broad semantic meaning. More precise meanings are able to be expressed through serial root constructions and certain affixes.
 ### Root affixes
 The following affixes are reconstructed:
 - Singular absolutive noun **\*i-**

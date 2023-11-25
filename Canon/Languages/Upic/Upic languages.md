@@ -3,7 +3,6 @@ aliases:
   - Upic language
   - Upic
 ---
-
 The **Upic** /̍ˈuːpɪk/ languages are a family of languages primarily comprised of the [[Cisi]] language spoken in [[Kóty]] and the [[Öbic languages]] originating in [[T'ugü]], though a number of minor Upic languages can be found scattered around western [[Fountainhead]].
 # Classification
 Upic languages are broadly divided into two groups, [[Northern Upic languages|Northern]] and [[Southern Upic languages|Southern]], characterised by a number of unique sound changes.
@@ -12,7 +11,7 @@ The most significant difference between the two groups is in the system of sylla
 ### Before coda consonants
 | Proto-Upic          | \*ay | \*uy | \*aw | \*iw | \*Vr | \*al | \*Vl |
 | ------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Proto-Northern Upic | \*í  | \*í  | \*ú  | \*ú  | \*a  | \*o  | \*ó  |
+| Proto-Northern Upic | \*í  | \*í  | \*ú  | \*ú  | \*á  | \*o  | \*ó  |
 | Proto-Southern Upic | \*e  | \*i  | \*o  | \*u  | \*r̩  | \*l̩  | \*l̩  |
 ### Word-final
 | Proto-Upic          | \*ay | \*uy | \*aw | \*iw | \*Vr | \*al | \*Vl |
