@@ -4,7 +4,7 @@ tags:
 aliases:
   - Inaʼaro
 ---
-**Inaʼaro Faweʼēyezuravujuweu** "two-sharks who computes the unending count" was a [[Xiyeru]] natural philosopher born in the late [[6th century]], whose work has since been copied, translated and redistributed for over a millennium. He was among the first mathematicians to develop rigorous methods of writing proofs, almost leading to a mathematical revolution among the scholars of [[Udovuʼo]] before all was cut short by the [[Great Plague of 655 AGS]]. His ideas were revived and sustained under the newly established [[Azodo government]] of the [[9th century]] and brought back to the forefront of philosophical thought during the [[Lavondu scientific golden age]] beginning in the [[12th century]], leaving a lasting impact on the field of mathematics.
+**Inaʼaro Faweʼēyezuravujuweu** "two-sharks who computes the unending count" was a [[Xiyeru]] natural philosopher born in the late [[6th century]], whose work has since been copied, translated and redistributed for over a millennium. He was among the first mathematicians to develop rigorous methods of writing proofs, almost leading to a mathematical revolution among the scholars of [[Udovuʼo]] before all was cut short by the [[Great Plague of 655 AGS]]. His ideas were revived and sustained under the newly established [[Azodo Government]] of the [[9th century]] and brought back to the forefront of philosophical thought during the [[Lavondu scientific golden age]] beginning in the [[12th century]], leaving a lasting impact on the field of mathematics.
 
 ![[inaʼaro.png]]
 
