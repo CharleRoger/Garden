@@ -2,7 +2,7 @@ The **3rd century** is the period from 200 to 299 [[Universal calendar|AGS]]. Ma
 # Events
 - Early 3rd century: Some north-east [[Ħautar delûr|Ħautar]] cities end the tradition of ritual suicide and decapitation of a widowed [[ârcak]].
 - Early 3rd century: Extraction of metals near [[Ħautar delûr|Ħautar]] lands in [[Kóty]] begins.
-- Early 3rd century: The tribe of [[Ursusovvuzu’]] begins a campaign to unite all [[Ansang Islands|Ansang islands]], founding the [[Ansang Empire]] with [[Ɨmbɨlo I]] as its first emperor.
+- Early 3rd century: The tribe of [[Ɨrsɨrso'vunju']] begins a campaign to unite all [[Ansang Islands|Ansang islands]], founding the [[Ansang Empire]] with [[Ɨmbɨlo I]] as its first emperor.
 - 210s: The semi-mythical [[Hnäzb]] warlord [[Eight-Antlers]] conquers the [[Uhustaw]] and lays the foundation for many Hnäzb clans of this region.
 - 210: The [[Astmergian Empire]] proper ends with the death of [[Astmerge the Great]].
 - 210: Both [[Kesërn]] and his wife [[Khayanmari]] of Kalotgane, as well as [[Yardunmud]] of Vërev claim succession of Astmerge the Great.
@@ -21,7 +21,7 @@ The **3rd century** is the period from 200 to 299 [[Universal calendar|AGS]]. Ma
 - 281: [[Uṣṭi I]] and [[C̣e'ħenek I]] become [[[[Ârcacak#Bar-ârcacak|bar-ârcacak]].
 - 282: A half-sister of [[Mteni I]] ascends the throne of [['amta-tkausken]], joining the city with the [[First God-Kingdom of the West]].
 - 283: [[Ɨmbɨlo II]] becomes [[Ansang Empire|Ansang emperor]].
-- 287: [[Mteni II]] and [[Hiṣaṭ I]] become [[[[Ârcacak#Bar-ârcacak|bar-ârcacak]].
+- 287: [[Mteni II]] and [[Hiṣaṭ I]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]].
 - 288: [[Utku' I]] and [[Ra'iek II]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]].
 # Births
 - 210: [[Utku' I]] (d. 311)

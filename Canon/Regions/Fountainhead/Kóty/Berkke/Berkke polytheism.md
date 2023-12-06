@@ -1,0 +1,5 @@
+- Losh - god of blacksmiths/fire/magic
+- Açemu - god of merchants/trade
+- Tmir - god of war/conflict/strategies
+- J̌eampso - god of wine/party/sexual liberation
+- 
