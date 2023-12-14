@@ -1,21 +1,54 @@
-**Loshianism** is a monotheistic religion founded in the year 720 AGS, its adherents, the Loshianists, revere [[Ergoȳ]] \[ˈeɾ.gŏʌː], his teachings and revelations throughout his life to which inspired many people to convert to Loshianism.
-## Losh
-Members of Loshianism worship **Lōš**, a multifaceted God, revealed to Ergoy by a series of visions, dreams and signs he observed during his lifetime and wrote the first entries in the to be known first book of the Lōšyeremy
-### The three faces
-* **Truth**,  depicted as a man holding an oil lamp, symbolizes Losh bringer of the primordial fire, eternal flame of truth.
-* **Justice**, depicted as a man holding a scale, symbolizes how Losh hold the ultimate judgement of all affairs.
-* **Fate**, depicted as an old man hold a knot called *Çulmy*  
-Losh has also 
-### Principal beliefs
-Loshianism is 
+**Loshianism** is a monotheistic religion founded in the year 720, its adherents, the Loshianists, center their lives around the [[Isçamalirǰeǰ]] and the teachings of [[Ergoy]].
+Loshianists believe the world was plagued with falsehood and false idols, Ergoy was given the task to cleanse the world and teach every people the truth that was given to him the night he received visions from Losh.
+Loshianism originated in [[Stamnar-Lōššī]] about 720 AGS. Loshianists believe this is when Ergoy began receiving revelations, and when the flame of truth was given to him. By the time of his death Ergoy passed the flame of truth to his most trusted disciple and friend [[Brimys]]. 
+## Beliefs
+**Lōš** is a multifaceted God, believed to be the only God, omnipresent, all-powerful and creator of the world. Losh as a way to interact with humanity, he made himself multifaceted with three dominant aspects, five spirits and epithets for which one may direct their prayers to.
 
-- **monotheist**: one God that is **Losh**.
-- **Losh** manifests in threefold aspects: **Truth**, **Justice** and **Fate**.
-- **Truth** is achieved by hard labor and sense of community, **Justice** is attained by good deeds 
-- **Fate** is dictated by Losh.
-- **Ergoy** was the main figure of Loshianism, he's the bringer of peace, his word are like honey, first speaker among men.
+### Fundamental tenets
+1. Recognition of one God known as [[Lōš]], a multifaceted God with three aspects and five spirits.
+2. Power of the flame of truth, which is vivifying and personified by **Truth**, one of the aspects of Losh.
+3. Immortality of the soul; the fate of the soul is the main concern with the belief in the next life.
 
-## True Evil
+### Faces of Losh
+Losh being a multifaceted God is shown to be a remnant feature of the ancient [[Berkke polytheism#Mystery cult of Losh|mystery cult of Losh]].  
+#### The three aspects
+- **Truth**,  depicted as a man holding an oil lamp, symbolizes Losh bringer of the flame of truth.
+- **Justice**, depicted as a man holding a scale, symbolizes how Losh hold the ultimate judgement of all affairs.
+- **Fate**, depicted as an old man hold a knot called *Çulmy* to which he himself only knows how to untie.
+#### The five spirits
+All five spirits are depicted as a different bird or sometimes a dove.
+* **Mercy**
+* **Love**
+* **Passion**
+* **Wisdom**
+* **Discipline**
+
+
+Loshianism lifestyle
+Loshianists believe in three kinds of live someone can live up to:
+* Sinful life, a life full of sins, murder, and idol worshippers.
+* Miserable life, a life defined by neutrality, you may as well commit sins but be aware of them and rectify yourself by either asking for cleansing at a temple or praying for Losh's mercy.
+* Holy life, a life defined by abandoning mortal desires and being together with Losh in a holy arrangement.
+
+
+SECTS
+
+The coming of a king
+This sect developed from communities enslaved or that suffered, this sect is much centred in the idea that Losh one day will send a saviour or rather a king (no gender distinction) that will lead them to freedom and bring their glory back, it is an evenly unlikely to happen or just another empty prophesy many say, but even more people believe in this, just looking forward to a better future of shinny and glorious victory.
+
+Others sects of Loshianism
+From the other sects of the Loshianism faith, each one had its own variant of symbol. Each one had its own symbolism and meaning.
+Borolu Loš Wrath of Losh
+It is much more dim in terms of colours, sticking to a much darker one, they are much more reserved and secretive than the others, the little circles in between the star are to represent this.
+Akaǰinlu kwatso Sons of Mercy
+A sect much more focused on expanding, and integrating others communities, preach the word of Losh and increase their followers, that's what's the borders around the start are supposed to represent.
+Aseylu gwaptod Coming of a king
+This one is to represent their await for the the king that one day will come, sent by Losh itself, the beams going outwards and towards the ground are to symbolize this.
+
+
+## Evil
+Evil is not created, its fabricated by selfishly means, humans have fabricated evil by being selfish, envy and cruel to each other to which only Losh can point humanity towards a better path, Ergoy being the ultimate and definitive proof of that.
+
 In the beginning there was Losh and there was void and the turbulent waters of the primordial sea, then Losh separated the waters, revealing the land, then Losh shun like a million suns, this is the start of the first age, from the light of Losh a tree grew in the soil, from it the first man and first woman fell from the tree.
 From the corners of the universe, darkness took form and it became True Evil, the perpetual deceiver
 Losh defeated True Evil even before the world was created, even before the first star started to shine, from it Losh sealed True Evil in the void forever. Despite Losh imprisoning of True Evil, its influence clung unto Humanity, and from it Humanity deviated from 

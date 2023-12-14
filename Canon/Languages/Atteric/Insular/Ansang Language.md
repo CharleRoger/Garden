@@ -1,10 +1,10 @@
-Spoken by the [Ansang people](https://winter.miraheze.org/wiki/Ansang_people "Ansang people") is one of the languages spoken in [Ansang Islands](https://winter.miraheze.org/wiki/Ansang_Islands "Ansang Islands").
+Spoken by the [[Ansang people]] is one of the languages spoken in [[Ansang Islands]].
 
 It's an agglutinative language and polysynthetic, most of it's grammatical constructions and morpheme can be agglutinated forming long words that encompass several phrases.
 
 ## History
 
-Originally spoken by [Ansang people](https://winter.miraheze.org/wiki/Ansang_people "Ansang people"), that live in the [Ansang islands](https://winter.miraheze.org/wiki/Ansang_islands "Ansang islands") an archipelago of eight islands considered to be the womb of the world according to [Ansaŋetuʼakɨmi](https://winter.miraheze.org/wiki/Ansa%C5%8Betu%CA%BCak%C9%A8mi "Ansaŋetuʼakɨmi") the common belief system of Ansang people.
+Originally spoken by [[Ansang people]], that live in the [Ansang islands](https://winter.miraheze.org/wiki/Ansang_islands "Ansang islands") an archipelago of eight islands considered to be the womb of the world according to [Ansaŋetuʼakɨmi](https://winter.miraheze.org/wiki/Ansa%C5%8Betu%CA%BCak%C9%A8mi "Ansaŋetuʼakɨmi") the common belief system of Ansang people.
 
 It belongs to the [Atteric languages](https://winter.miraheze.org/wiki/Atteric_languages "Atteric languages") family, a group of languages spoken in Kóty alongside with [Dreic languages](https://winter.miraheze.org/wiki/Dreic_languages "Dreic languages"), [Hautaric languages](https://winter.miraheze.org/wiki/Hautaric_languages "Hautaric languages"), [Koyanic languages](https://winter.miraheze.org/wiki/Koyanic_languages "Koyanic languages") and [Cisi language](https://winter.miraheze.org/wiki/Cisi "Cisi").
 

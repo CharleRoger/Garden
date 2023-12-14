@@ -1,1 +1,1 @@
-Is the capital of the [[Ansang Empire]], where the emperor also resides and also great palaces and center of the [[Ansang traditional religion|Ansang faith]] administrated by the [[Ansang High priests]]. 
+Is the capital of the [[Ansang Empire]], where the emperor also resides and also great palaces and center of the [[Ansaŋetuʼakɨmi|Ansang faith]] administrated by the [[Ansang High priests]]. 

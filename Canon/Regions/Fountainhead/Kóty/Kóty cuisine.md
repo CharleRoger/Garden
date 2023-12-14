@@ -6,11 +6,11 @@ Around the first centuries AGS, [[Kóty]] cuisine was similar to that of our rea
 
 ## Meals 
 
-In [[Telehe empire]] the norm was two meals a day, sometimes three: Dinner at midday, and breakfast at the beginning of the day, sometimes there’s a third meal at night but this is reserved to the rich and wealthier people.
+In [[Telehe Empire]] the norm was two meals a day, sometimes three: Dinner at midday, and breakfast at the beginning of the day, sometimes there’s a third meal at night but this is reserved to the rich and wealthier people.
 
 ## Food
 
-Food was a big deal back in [[Telehe empire]], the noble and the pheasants all used to eat tasteless meals, after some expeditions beyond [[Kóty]] it was discovered [[Ansang people]] make condiments, like saffron, ginger and black pepper, ginger is also for medicinal use, used to treat common diseases.   
+Food was a big deal back in [[Telehe Empire]], the noble and the pheasants all used to eat tasteless meals, after some expeditions beyond [[Kóty]] it was discovered [[Ansang people]] make condiments, like saffron, ginger and black pepper, ginger is also for medicinal use, used to treat common diseases.   
 
 The Telehe also extersenly trade with ħautkar, the well known brown tomato to make a type of tomato sauce with Black pepper from Ansang, it was loaned the word for the tomato into Telehe language sudi, collective: suduiar, other recipes are also bought from [[Ħautar delûr|Ħautar]] like tšikalaru, collective form: tšikalaruar.
 

@@ -14,7 +14,7 @@ The climate of the region is somewhat cold, but is a warmer, Mediterranean clima
 ### Islands
 
 ## Cities
- [[Kóty]] despite it's sparse land and fearful mountains has major cities that serve as reference for many to live and rule. It is believed cities begin to being much bigger around 0-50AGS with significant growth of populations in settlements as of [[Bērzun]] that later on became the capital of [[Telehe empire]] being raided and destroyed by Ħautkar invation of 850AGS. Other notable cities in Kóty are [[Redeye]], [[Ɨrsɨsovunju’]], [[Mbomboŋ]], [[Tituχo]] and nevertheless [[Loyashas]] the first and long lasting Qachkav settlement and city.
+ [[Kóty]] despite it's sparse land and fearful mountains has major cities that serve as reference for many to live and rule. It is believed cities begin to being much bigger around 0-50AGS with significant growth of populations in settlements as of [[Bērzun]] that later on became the capital of [[Telehe Empire]] being raided and destroyed by Ħautkar invation of 850AGS. Other notable cities in Kóty are [[Redeye]], [[Ɨrsɨsovunju’]], [[Mbomboŋ]], [[Tituχo]] and nevertheless [[Loyashas]] the first and long lasting Qachkav settlement and city.
 
 ## Cultures
 Kóty is home of many culture as of [[Dreic]], [[Atteric]], [[Qachkav]] and [[Ħautaric]].
@@ -26,7 +26,7 @@ There are a plethora of religions in [[Kóty]] can be tough subject, getting mor
 
 ### [[Loshianism]]
 
-### [[Ansang Traditional Religion]]
+### [[Ansaŋetuʼakɨmi]]
 Traditional faith of Ansang people, it comprises a plethora of gods for all type of natural events, objects, animals and human aspects/feelings like, love, anger, lust and sexual pleasure; in total there may be estimated to be around ~50 Ansang deities and more other spirits/ghosts.
 
 ### [[Cisi religion]]
