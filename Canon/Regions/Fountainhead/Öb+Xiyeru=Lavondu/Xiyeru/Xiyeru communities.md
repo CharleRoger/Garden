@@ -1,0 +1,14 @@
+**Xiyeru communities** can be considered at three different scales represented by the typical three-level heritage used in [[Xiyeru]] culture:
+1. **Egiruweʼa** "the mother", representing the immediate family and ancestors
+2. **Todo** "the village", representing the relationships between families
+3. **Tovuʼo** "the home island", representing a broader sense of cultural heritage
+# Families
+The most tightly bound and meaningful units of society were matrilineal families. This stems from the idea that the primary societal relationship a person has, and the only one considered immutable, is that with their mother, whose [[Ńuʼu#Xińuʼu|Xińuʼu]] "true-name" is incorporated into the [[Ńaʼay|tattoo]] of every person. Despite this, matrilineage was generally not considered beyond one's mother, and bloodlines were not typically tracked or maintained. As such, for a long time there were no grand noble houses, though certain families within a village may be considered prestigious and desirable to marry into, leading to some stratification of society. Anyone may marry into a family with a woman whose mother is also of that family.
+
+During the [[Xiyeru Confederation]], a noble culture developed in [[Azodo]], where some families were designated
+# Villages
+[[Xiyeru]] villages had populations of several hundred and were fairly centralised, with the largest settlements having thousands and beginning to operate like cities at the turn of the second millennium [[AGS]].
+
+People very rarely migrated between villages, a person's places of birth, life and death would often have been within sight of each other. Of course, the [[Xiyeru]] did routinely travel far out to sea, but always returned to their home village and kept tattoos to remind them of this called [[Ńaʼay#Eruńa’ay|Eruńa’ay]] "people-markings".
+# Islands
+The five islands of [[Udovuʼo]] each had distinct cultural aspects and internal politics, but were all considered part of the [[Xiyeru]] culture. Trade and diplomatic relations between the islands were of paramount concern to [[Xiyeru]] politicians, who were semi-elected officials appointed to very specific roles, such as ensuring good rice harvests in certain villages. The production and movement of food was the main avenue through which political power was exercised. The southern island, [[Azodo]], was especially separated, tending to be more isolationist throughout history and with the more politically inclined populace rejecting broad monocultural elements, such as the use of [[Xiri]] as a lingua franca. When [[Azodo]] became politically influential in the [[8th century]] with the formation of the [[Xiyeru Confederation]], the lingua franca gradually switched to its own native language [[Ahōtoli]].
