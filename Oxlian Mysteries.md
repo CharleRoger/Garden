@@ -1,0 +1,8 @@
+The Oxlian mysteries is a localized cult in the islands of [[Ruʼi]] and [[Embendalere]], focused in the myth of [[Oxɨ]] the God of Renewal, youth and longevity, born twice.
+Interlinked to [[Ansaŋetuʼakɨmi|Ansang Religion]], the Oxlian mysteries is a mystery cult approved by the [[Ansang High priests]] as one of the many pluralist religious expression of the people of [[Ruʼi]] and [[Embendalere]].
+
+## Oxɨ
+
+The origin of [[Oxɨ]] is surrounded in mystery, various accounts of his myth are known to the people, including the accounts of multiple births, he had been son of [[Ndaira]] a nymph whom couldn't bear the pain of childbirth so she prayed to [[Orɨm#Orɨm Womanly|Orɨm Atɨkher]] "The Sun Womanlike" or [[Laʼepir]] (a lesser known solar deity, later recontextualized as the goddess of daylight and warmth), she then took part in [[Oxɨ]] birthing and he was twice-born by [[Ndaira]] and [[Laʼepir]].
+### Descent into the [[Other-world]]/Third birth
+[[Oxɨ]] in his adolescent years had fallen in love for the boy Acus to which died, [[Oxɨ]] had never set foot to the [[Other-world]] but he loved Acus, so he went down to visit Acus one last time, but for those that enter the [[Other-world]] may never leave by [[Lɨcu]] decree. They both discussed and agreed upon a deed, that becoming a tree that touches both the [[Other-world|other-world]], [[Oxɨ]] could touch Acus and still praise the sun that so birthed him twice. Becoming a tree, [[Oxɨ]] reached both the depths of the earth and heights of the sky to which he eternally blessed mortals with youth and praised the sun and touched the depths of the underworld for the dead may rise again through him.

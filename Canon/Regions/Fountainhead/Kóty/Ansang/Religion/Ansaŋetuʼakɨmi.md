@@ -16,13 +16,13 @@ Chthonic gods:
 **Ansang religion** is the shared spiritual beliefs and practices of the [[Ansang people]]. Their religion shares similarities between several local beliefs in other islands, religious syncretism is common among many Ansang people.
 
 Ansang cosmology give provide several interpretations of the creation of the world, the most famous is 
-
+## [[Ñyaʼatondɨ]]
 ## Definition
 
 ## Beliefs
 
 ### Ñyatil
-Ansang religion is polytheistic, it involves the veneration of several deities known as [[Ñyatil]].
+Polytheistic in nature, the worship of many Gods and Goddesses known as [[Ñyatil]] is commonplace in the entirety of the [[Ansang Islands]].
 
 #### Canon pantheon
 
@@ -40,7 +40,7 @@ Ansang religion is polytheistic, it involves the veneration of several deities k
 #### Minor deities
 
 * [[Lɨcu]]: God of remembrance of ancestors, morning-star, personification of the planet [[Pharos]].
-* [[Reretuyɨ]]: Psychopomp god, responsible to lead people into the other-world, god of travels and spiritual path, personification of the planet [[Scoria]].
+* [[Reretuyɨ]]: Psychopomp god, responsible to lead people into the [[other-world]], god of travels and spiritual path, personification of the planet [[Scoria]].
 * [[Ouviʼ]]: Chthonic god, lord of the other-world, caretaker of souls.
 * [[Nditip]]: Goddess of kids, infants and youth, patron of teens and orphans.
 * [[Umul]]: God of wind, opener of doors, bringer of heavenly blessings, peace.
@@ -65,6 +65,10 @@ Essentially any space that has an Ansang person and some god imagery, be it stat
 ### Festivals
 
 ### Rites of passage
+#### Birth
+#### Adulthood
+
+#### Priesthood
 
 ### Spirit mediumship and healing
 
