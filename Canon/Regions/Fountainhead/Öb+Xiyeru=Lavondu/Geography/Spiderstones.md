@@ -1,0 +1,11 @@
+The **Spiderstones** are hundreds of small, rocky islands spread across both sides of the equator north of [[Udovuʼo]], stretching around 5,000km from ~5°W to ~10°E longitude. The northernmost limit of the islands, or whether they adjoin to a larger landmass, is not known. The largest islands could probably be settled if you tried hard enough, but they would but extremely unpleasant places to live.
+# Etymology
+*Spiderstones* is a transliteration of the [[Xiri]] name *Upyostwazi*, from *u-* "collective plural" + *pyostu* "spider" + *azi* "stone". The origin of the name is not known to the [[Xiyeru]], as there is no association between the islands and spiders. Given the widely-held belief that the islands represent the northernmost extremity of the world, beyond which should not or perhaps cannot ever be sailed, a likely etymology is a corruption of [[Proto-Xiri]] *\*pia-tusu*, equivalent to *pyo* "lying on a boundary" + *tuzu* "mark, line, indicator", with metathesis yielding *\*piasutu* and eventually *pyostu*, homophonous with the word for spider.
+# Geography
+Most islands among the Spiderstones consist of rocky outcrops, often bare, with some sandy beaches and coral reefs. There are no trees found anywhere due to the extreme climate, though some algae and hardy grasses are able to thrive on the otherwise barren islands.
+## Climate
+Being situated at the equator gives the Spiderstones an extraordinarily uniform and extreme climate, with the average daily low and high temperatures sitting at around 35°C and 41°C respectively all year round, though it is not uncommon to exceed 45°C in direct sunlight.
+
+The islands experience a high level of rainfall, and in fact the only variation in climate is between the dry and wet seasons, which see around 150mm and 300mm of rain respectively.
+
+Though the tides in the ocean around the Spiderstones are comparatively small, surface waves are stirred by the strong atmospheric convection currents, exacerbated by the storms of the wet season, making their navigation extremely dangerous and essentially impossible for almost all of human history.
