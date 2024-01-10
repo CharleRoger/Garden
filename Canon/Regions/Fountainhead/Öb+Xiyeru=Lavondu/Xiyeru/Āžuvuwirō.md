@@ -2,9 +2,13 @@
 # Etymology
 The term *Āžuvuwirō* [aːˈʒuvuˌwiɾoː] is the common name used in [[Xiri|Standard Xiri]] c. [[Universal calendar|year 0]], a compound of *ā-* "great" + *xuvu* "dark, as of night" + *wirō* "cloud cover".
 # Description and interpretation
-Descriptions of Āžuvuwirō differ from place to place and throughout history, but all generally characterise it as a dark blanket or mass of clouds which occurs above the sea somewhere near [[Udovuʼo]]. The earliest written account of Āžuvuwirō is from the 5th century [[Universal calendar|BGS]], stating that the clouds "*noha fāē kabo ūbažeʼe*", literally "have been made/positioned against the sun". This has been variously interpreted as meaning they block all sun from the ground, that they can be found towards the south or west, or that they predate the existence of the sun itself. Belief in Āžuvuwirō usually involves a mixture of these interpretations.
+Descriptions of Āžuvuwirō differ from place to place and throughout history, but all generally characterise it as a dark blanket or mass of clouds which occurs above the sea somewhere near [[Udovuʼo]].
 
-These ideas contributed to the long held belief that the sea to the south of [[Udovuʼo]] is plagued by constant danger and should not be sailed, which likely held back the [[Xiyeru]] discovery of [[T'ugü]] by over a millennium. Some of the more fantastical stories of Āžuvuwirō involve hostile people descending from the clouds, or driving them like carts behind flying oxen, in some cases attacking or stealing from sailors.
+The earliest written account of Āžuvuwirō is from the 5th century [[Universal calendar|BGS]], one passage of which reads ⟨NFPHKPWPXʼ⟩, representing something like "*no fa pa ahē kapo ūpaxeʼe*" in the language of the period, literally "has been made/positioned against the sun". This has been variously interpreted as meaning it blocks all sun from the ground, that it can be found towards the south or west, or that it predates the existence of the sun itself.
+
+Some of the more fantastical stories of Āžuvuwirō involve hostile people descending from the clouds, or driving them like carts behind flying oxen, in some cases attacking or stealing from sailors. Belief in Āžuvuwirō usually involves a mixture of these interpretations.
+
+These ideas contributed to the long held belief that the sea to the south of [[Udovuʼo]] is plagued by constant danger and should not be sailed, which likely held back the [[Xiyeru]] discovery of [[T'ugü]] by over a millennium.
 ## Connection to Cqa
 Āžuvuwirō may ultimately be a mystification of ancestral knowledge of [[Cqa]], "islands" of solid material which float in the air for centuries before descending into the sea, inhabited by the [[Maicqa]] people. These may have appeared as dark clouds to ancient sailors and been assumed to be an area of continuous storms to be avoided.
 
