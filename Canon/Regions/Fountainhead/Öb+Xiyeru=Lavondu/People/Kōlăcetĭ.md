@@ -4,7 +4,16 @@ tags:
   - Xiyeru_politics
 ---
 
-**Kōlăcetĭ** (b. 785 [[Universal calendar|AGS]]) was the governor of [[Azodo]] from 856 to 862 [[Universal calendar|AGS]], during which time the [[Azodo]] state-appointed governor of the [[Rhavo Todo|foreign villages]] in [[T'ugü]], [[Koxĭya Eōʼene]], completed the great restructuring of society known as [[Tuvöblin]], resulting in the peaceful independence of the [[Lavondu|Lavondu nation]]. Kōlăcetĭ already boasted an incredibly successful career in environmental ministerial roles spanning a few decades, coordinating civil engineering projects such as river bank fortification. He was well known throughout the island of [[Azodo]] as benevolent, fair, and neighbourly above all else, and would often personally contribute significantly to the labour of his projects. Were it not for his executive intervention, [[Koxĭya Eōʼene|Koxĭya]] may have been received by the [[Azodo]] authority as acting outside her jurisdiction and potentially prosecuted. Instead, history celebrates her as the founder of a diverse and flourishing nation.
+**Kōlăcetĭ** (785 - 880 [[Universal calendar|AGS]]) was the governor of [[Azodo]] from 856 to 862.
+# Political positions
+## Early career
+Kōlăcetĭ first began working in politics around 830, boasting an incredibly successful career in environmental ministerial roles spanning a few decades, coordinating civil engineering projects such as river bank fortification. 
+## Lavondu independence
+In 861, the [[Xiyeru Confederation|Xiyeru state]]-appointed governor of the [[Rhavo Todo|foreign villages]] in [[T'ugü]], [[Koxĭya Eōʼene]], completed the great restructuring of society known as [[Tuvöblin]], resulting in the peaceful independence of the [[Lavondu|Lavondu nation]]. Were it not for Kōlăcetĭ's executive intervention, [[Koxĭya Eōʼene|Koxĭya]] may have been received by the [[Azodo]] authority as acting outside her jurisdiction and potentially prosecuted. Instead, history celebrates her as the founder of a diverse and flourishing nation.
+## Gubernatorial term limits
+Kōlăcetĭ was one of the earliest proponents of a term limit for [[Āʼiyoru|governors]], himself abdicating after serving four terms despite his likely imminent re-election. In 930, fifty years after his death, an amendment known as *Sēnĭ Kōlăcetĭkī* "[[Kōlăcetĭ]]'s law" was made to the unwritten constitution of the [[Xiyeru Confederation]], calling for general [[Āʼiyoru|gubernatorial]] elections every 1540 terms, meaning a [[Āʼiyoru|governor]] could serve a maximum of four terms before they could be removed from office by the [[Nīholu]] noble class who were eligible to vote, though this did not prevent indefinite re-election as Kōlăcetĭ had dreamed of.
+# Public image
+Before his election to the position of [[Āʼiyoru|governor]], Kōlăcetĭ was well known throughout the island of [[Azodo]] as benevolent, fair, and neighbourly above all else, and would often personally contribute significantly to the labour of his projects.
 
 ![[three politicians.png]]
 
