@@ -40,7 +40,7 @@ Polytheistic in nature, the worship of many Gods and Goddesses known as [[Ñyati
 #### Minor deities
 
 * [[Lɨcu]]: God of remembrance of ancestors, morning-star, personification of the planet [[Pharos]].
-* [[Reretuyɨ]]: Psychopomp god, responsible to lead people into the [[other-world]], god of travels and spiritual path, personification of the planet [[Scoria]].
+* [[Reretuyɨ]]: Psychopomp god, responsible to lead people into the [[Other-world]], god of travels and spiritual path, personification of the planet [[Scoria]].
 * [[Ouviʼ]]: Chthonic god, lord of the other-world, caretaker of souls.
 * [[Nditip]]: Goddess of kids, infants and youth, patron of teens and orphans.
 * [[Umul]]: God of wind, opener of doors, bringer of heavenly blessings, peace.

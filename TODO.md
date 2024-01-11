@@ -9,3 +9,7 @@
 - Qachkav
 	- Language
 	- Culture
+- Kóty language
+	- Shote
+	- Cisi
+	- Qachkav 

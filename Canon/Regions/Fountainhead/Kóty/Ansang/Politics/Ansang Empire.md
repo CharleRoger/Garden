@@ -1,3 +1,4 @@
+
 Official language [[Ansang Language]], during the rule of the [[Yuge dynasty]] the [[Yuge language]] was enforced; official religion [[Ansaŋetuʼakɨmi|Ansang traditional religion]].
 
 # 0-100 AGS
