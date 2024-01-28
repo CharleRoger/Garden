@@ -1,12 +1,12 @@
 **Loshianism** is a monotheistic religion founded in the year 720, its adherents, the Loshianists, center their lives around the [[Isçamalirǰeǰ]] and the teachings of [[Ergoy]].
 Loshianists believe the world was plagued with falsehood and false idols, Ergoy was given the task to cleanse the world and teach every people the truth that was given to him the night he received visions from Losh.
-Loshianism originated in [[Stamnar-Lōššī]] about 720 AGS. Loshianists believe this is when Ergoy began receiving revelations, and when the flame of truth was given to him. By the time of his death Ergoy passed the flame of truth to his most trusted disciple and friend [[Brimys]]. 
+Loshianism originated in [[Stamnar-Lōššī]] about 720 AGS. Loshianists believe this is when [[Ergoy]] began receiving revelations, and when the flame of truth was given to him. By the time of his death [[Ergoy]] passed the flame of truth to his most trusted disciple and friend [[Brimys]]. 
 ## Beliefs
-**Lōš** is a multifaceted God, believed to be the only God, omnipresent, all-powerful and creator of the world. Losh as a way to interact with humanity, he made himself multifaceted with three dominant aspects, five spirits and epithets for which one may direct their prayers to.
+**[[Lōš]]** is a multifaceted God, believed to be the only God, omnipresent, all-powerful and creator of the world. [[Lōš]] as a way to interact with humanity, he made himself multifaceted with three dominant aspects, five spirits and epithets for which one may direct their prayers to.
 
 ### Fundamental tenets
 1. Recognition of one God known as [[Lōš]], a multifaceted God with three aspects and five spirits.
-2. Power of the flame of truth, which is vivifying and personified by **Truth**, one of the aspects of Losh.
+2. Power of the flame of truth, which is vivifying and personified by **Truth**, one of the aspects of [[Lōš]].
 3. Immortality of the soul; the fate of the soul is the main concern with the belief in the next life.
 
 ### Faces of Losh
@@ -17,22 +17,23 @@ Losh being a multifaceted God is shown to be a remnant feature of the ancient [[
 - **Fate**, depicted as an old man hold a knot called *Çulmy* to which he himself only knows how to untie.
 #### The five spirits
 All five spirits are depicted as a different bird or sometimes a dove.
-* **Mercy**
-* **Love**
-* **Passion**
-* **Wisdom**
-* **Discipline**
+* **Mercy**, for those who have wronged you and spare them.
+* **Love**, for which loving your country, parents, children and friends is a must.
+* **Passion**, through and only honest work you shall have passion and be not deceived by currency.
+* **Wisdom**, for generations to come the teachings of the world and of a good man are preserved.
+* **Discipline**, for which how to behave and attend to social gatherings and great shall be an orator among man.
 
 
-Loshianism lifestyle
+## Loshianism lifestyle and afterlife
+Loshians believe in the afterlife which Losh promises to everyone.
+
 Loshianists believe in three kinds of live someone can live up to:
 * Sinful life, a life full of sins, murder, and idol worshippers.
-* Miserable life, a life defined by neutrality, you may as well commit sins but be aware of them and rectify yourself by either asking for cleansing at a temple or praying for Losh's mercy.
+* Mild life, a life defined by neutrality, you may as well commit sins but be aware of them and rectify yourself by either asking for cleansing at a temple or praying for Losh's mercy.
 * Holy life, a life defined by abandoning mortal desires and being together with Losh in a holy arrangement.
 
 
-SECTS
-
+## Loshianism sects
 The coming of a king
 This sect developed from communities enslaved or that suffered, this sect is much centred in the idea that Losh one day will send a saviour or rather a king (no gender distinction) that will lead them to freedom and bring their glory back, it is an evenly unlikely to happen or just another empty prophesy many say, but even more people believe in this, just looking forward to a better future of shinny and glorious victory.
 
