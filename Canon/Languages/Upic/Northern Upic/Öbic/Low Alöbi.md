@@ -41,10 +41,10 @@ The precise form of Transitional Alöbi is uncertain since its deviation from th
 ## Consonants
 |  | - | Labial | Alveolar | Post-alveolar | Dorsal | Glottal |
 | ---- | ---- | :--: | :--: | :--: | :--: | :--: |
-| Nasal | - | *m* | *n* | (*ny* [ɲ]) | *g* [ŋ~ɴ] |  |
-| Ejective plosive | - | *p'* | *t'* | *c'* [tʃʼ] | *k'* [kʼ~qʼ] |  |
-| Plain plosive | - | *b* | *t* (*d*) | *c* [tʃ] (*j* [dʒ]) | *k* [k~q] | *ʔ* |
-| Fricative | - | (*f* [ɸ~f]) | *s* | *x* [ʃ] | *h* [x~χ] |  |
+| Nasal | - | *m* | *n* | (*ny* [ɲ]) | *g* [ŋ\~ɴ] |  |
+| Ejective plosive | - | *p'* | *t'* | *c'* [tʃʼ] | *k'* [kʼ\~qʼ] |  |
+| Plain plosive | - | *b* | *t* (*d*) | *c* [tʃ] (*j* [dʒ]) | *k* [k\~q] | *ʔ* |
+| Fricative | - | (*f* [ɸ\~f]) | *s* | *x* [ʃ] | *h* [x\~χ] |  |
 | Resonant | - | *w* | *l* | *y* [j] |  |  |
 ### Coronal consonants
 The consonants *c c' x* are pronounced [tʃ tʃʼ ʃ] respectively, while the approximant *y* is palatal [j] but forms a natural group with the post-alveolars when considering phonotactics.
@@ -65,7 +65,7 @@ Unstressed vowels are slightly centralised and, with the exception of *a*, more
 |  | - | a | e | ö | o | i | ü | u |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Stressed | - | ɑˑ | eˑ | øˑ | oˑ | iˑ | yˑ | uˑ |
-| Unstressed | - | ɑ | ë̞~ə | ø̞̈ | ö̞ | ɪ | ʏ | ʊ |
+| Unstressed | - | ɑ | ë̞\~ə | ø̞̈ | ö̞ | ɪ | ʏ | ʊ |
 ### Diphthongs
 In the [[8th century]], sequences of vowels and coda glides began to collapse into a system of six diphthongs, shown in the table below, laying the foundation for what would become the vowel system of the later [[Eubli]] language. This late stage of Low Alöbi is known as [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]].
 
@@ -173,7 +173,7 @@ Grammatical number is a strictly separate system to the numerals, which are in f
 
 While [[Noun instancing|uninstanced]] nouns with no specified number are treated as plural by the pronominal and verb agreement systems, numeral nouns are treated as singular. For example, *ugo* is interpreted as an unspecified number of [[ugo]], whereas *a-ugo om-to* is interpreted as a single group of five [[ugo]].
 #### -n-
-A special numeral root, *-n-*, carries no value and serves as a dummy root for lexical derivation using classifiers. It always occurs as a coda nasal and is the only zero-syllabic root in the language. It assimilates to the following consonant like other underlying coda nasals, so can also manifest as any of [m~n~ŋ~ɴ], but is written *-n-* regardless.
+A special numeral root, *-n-*, carries no value and serves as a dummy root for lexical derivation using classifiers. It always occurs as a coda nasal and is the only zero-syllabic root in the language. It assimilates to the following consonant like other underlying coda nasals, so can also manifest as any of [m\~n\~ŋ\~ɴ], but is written *-n-* regardless.
 
 Unlike other numeral roots, *-n-* is used very commonly to refer to all things, whether they are typically counted or not, and is commonly inflected with an instancing prefix. Some examples of words derived from *-n-* are shown below:
 - *ti-n-sü* — A fish, typically as food.
