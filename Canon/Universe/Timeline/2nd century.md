@@ -1,4 +1,4 @@
-The **2nd century** is the period from 100 to 199 [[Universal calendar|AGS]]. In the latter half of the century, the [[Astmergian Empire]] and several important cities were founded in [[Oksandanderi]].
+The **2nd century** is the period from 100 to 199 AGS. In the latter half of the century, the [[Astmergian Empire]] and several important cities were founded in [[Oksandanderi]].
 # Events
 - Early 2nd century: The [[Yunge]] language begins to diverge from [[Common-Ansangic]].
 - Early 2nd century: The [[Ran]] city-states of [[Totky]] and [[Feculky]] establish colonies around the coast, escalating a political rivalry.
@@ -29,5 +29,5 @@ The **2nd century** is the period from 100 to 199 [[Universal calendar|AGS]]. In
 - 183: [[C̣e'ħenek I]] (d. 287)
 - 190: [[Kalyardun II]] (d. 252)
 # Deaths
-- 104: [[Kalyardun]] (b. 16 [[Universal calendar|AGS]])
+- 104: [[Kalyardun]] (b. 16 AGS)
 - 144: [[Sarovagas]]

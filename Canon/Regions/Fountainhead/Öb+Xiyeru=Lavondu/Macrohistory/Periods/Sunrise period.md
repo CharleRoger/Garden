@@ -1,4 +1,4 @@
-The earliest period discussed in written [[Nejinayon|Xiyeru historical record]] is the **Sunrise period** ([[Möxali]] *ubzíja nayam*), lasting from 729 [[Universal calendar|BGS]] until 67 [[Universal calendar|AGS]] and preceding the [[Horizon period]].
+The earliest period discussed in written [[Nejinayon|Xiyeru historical record]] is the **Sunrise period** ([[Möxali]] *ubzíja nayam*), lasting from 729 BGS until 67 AGS and preceding the [[Horizon period]].
 
 The start and end dates of this period are the traditionally accepted dates of the [[Savamāri|invention of writing]] and the discovery of [[T'ugü]] and first contact with the [[Öb]] respectively, which are approximately historically accurate, though it is hard to definitively pinpoint exact dates to these events.
 # History

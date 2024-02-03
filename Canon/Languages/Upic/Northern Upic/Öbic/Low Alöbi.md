@@ -3,17 +3,17 @@
 The name *Alöbi* was likely formed long before the first attestation of the language in writing in the [[1st century]], evidenced by the use of the archaic genitive *-i*, yielding *al-öbi* "tongue of [[Öb]]".
 # History
 ## Prehistory
-Alöbi descends from [[Proto-Öbic language|Proto-Öbic]], a language brought to [[T'ugü]] by an unknown [[Upic peoples|Upic people]] some time around the 3rd - 1st millennia [[Universal calendar|BGS]]. This language diversified into perhaps several dialects in the 1st millennium [[Universal calendar|BGS]], with two primary groups of dialects having emerged by [[Universal calendar|year 0]], known as **[[High Alöbi|High]]** and **Low** Alöbi, which remained in contact for several subsequent centuries. Low Alöbi was the more populous group, spoken by the settled riverine populations of the lowlands, while [[High Alöbi|High dialects]] were spoken by semi-nomadic people scattered around [[T'ugü]].
+Alöbi descends from [[Proto-Öbic language|Proto-Öbic]], a language brought to [[T'ugü]] by an unknown [[Upic peoples|Upic people]] some time around the 3rd - 1st millennia BGS. This language diversified into perhaps several dialects in the 1st millennium BGS, with two primary groups of dialects having emerged by [[Universal calendar|year 0]], known as **[[High Alöbi|High]]** and **Low** Alöbi, which remained in contact for several subsequent centuries. Low Alöbi was the more populous group, spoken by the settled riverine populations of the lowlands, while [[High Alöbi|High dialects]] were spoken by semi-nomadic people scattered around [[T'ugü]].
 ## Early literate stage
-The first writing in [[T'ugü]] appears towards the end of the [[1st century]], when writing, among other things, was brought to [[T'ugü]] by [[Xiyeru]] explorers. For the first few centuries [[Universal calendar|AGS]], writing was sparsely found, existing primarily as a trading utility.
+The first writing in [[T'ugü]] appears towards the end of the [[1st century]], when writing, among other things, was brought to [[T'ugü]] by [[Xiyeru]] explorers. For the first few centuries AGS, writing was sparsely found, existing primarily as a trading utility.
 ## Mature stage
-As trade and cultural contact increased, so did the spread of writing in [[T'ugü]] and the influence of the [[Xiri|Xiri language]] on Low Alöbi. The language is considered to have developed into its "mature" stage spoken c. 400 - 800 [[Universal calendar|AGS]] during the period of peak [[Xiyeru]] contact leading up to the [[Exodus period#The Great Sickness (655 AGS)|Great Sickness]], and the resulting influx of [[Xiyeru]] refugees to [[T'ugü]].
+As trade and cultural contact increased, so did the spread of writing in [[T'ugü]] and the influence of the [[Xiri|Xiri language]] on Low Alöbi. The language is considered to have developed into its "mature" stage spoken c. 400 - 800 AGS during the period of peak [[Xiyeru]] contact leading up to the [[Exodus period#The Great Sickness (655 AGS)|Great Sickness]], and the resulting influx of [[Xiyeru]] refugees to [[T'ugü]].
 
 Low Alöbi underwent several phonological changes in this period, primarily motivated by Xiri influence, such as the intervocalic voicing of /t tʃ/ to [d dʒ], the nasalisation of vowels preceding coda nasal consonants, and the introduction of two new marginal phonemes /ɲ/ and /ɸ/, which were previously allophonic variants of /n/ and /x/ respectively.
 
 The corpus of Alöbi literature is primarily from the latter centuries of this period, in which the orthographic diversity that had evolved in [[T'ugü]] was consolidated into standardised writing systems.
 ## Transitional Alöbi
-The Low [[Öbic languages|Öbic language]] of the second millennium [[Universal calendar|AGS]] had diverged enough from Low Alöbi to be considered a historically distinct language, called [[Eubli]]. By convention, [[Eubli]] is taken to be historically separated from Low Alöbi via a transitional stage defined as the common spoken language of the [[Öb]] populace c. 700-1000 [[Universal calendar|AGS]]. This language stage, called Transitional Alöbi, also developed into various other minor languages and notably contributed to the Alöbi-[[Xiri]] mixed language [[Möxali]].
+The Low [[Öbic languages|Öbic language]] of the second millennium AGS had diverged enough from Low Alöbi to be considered a historically distinct language, called [[Eubli]]. By convention, [[Eubli]] is taken to be historically separated from Low Alöbi via a transitional stage defined as the common spoken language of the [[Öb]] populace c. 700-1000 AGS. This language stage, called Transitional Alöbi, also developed into various other minor languages and notably contributed to the Alöbi-[[Xiri]] mixed language [[Möxali]].
 
 The precise form of Transitional Alöbi is uncertain since its deviation from the standard language was not recorded in writing until [[Eubli]] spelling reforms in the [[12th century|12th]] and [[13th century|13th]] centuries. Certain changes to the phonology, particularly of the vowel inventory, have been reconstructed, some examples of which are shown below (*Low Alöbi* → **Transitional Alöbi** → *Eubli*):
 - Merger of word-final /ɑ e/ to \*ə:
@@ -49,11 +49,11 @@ The precise form of Transitional Alöbi is uncertain since its deviation from th
 ### Coronal consonants
 The consonants *c c' x* are pronounced [tʃ tʃʼ ʃ] respectively, while the approximant *y* is palatal [j] but forms a natural group with the post-alveolars when considering phonotactics.
 
-Some time in the 4th century, the consonants *t c* were voiced to [d dʒ] between two voiced segments, often romanised as *d j* in transcriptions of Low Alöbi from around 300 - 600 [[Universal calendar|AGS]].
+Some time in the 4th century, the consonants *t c* were voiced to [d dʒ] between two voiced segments, often romanised as *d j* in transcriptions of Low Alöbi from around 300 - 600 AGS.
 ### Dorsal consonants
 The dorsal series *g k k' h* are uvularised to [ɴ q qʼ χ] next to *a* [ɑ] within the same syllable.
 ### Labial fricative
-The labial fricative *f* did not exist natively in Alöbi, being introduced via Xiri loans during the [[2nd century|2nd]] and [[3rd century|3rd]] centuries. By 400 [[Universal calendar|AGS]], older instances of *hw* and *h* next to *u* and *ü* had merged into *f*, which at this time was bilabial [ɸ].
+The labial fricative *f* did not exist natively in Alöbi, being introduced via Xiri loans during the [[2nd century|2nd]] and [[3rd century|3rd]] centuries. By 400 AGS, older instances of *hw* and *h* next to *u* and *ü* had merged into *f*, which at this time was bilabial [ɸ].
 ## Vowels
 |  | - | Front unrounded | Front rounded | Back |
 | ---- | ---- | :--: | :--: | :--: |
@@ -149,7 +149,7 @@ Numeral stems do not occur in isolation and must be suffixed with a classifier w
 |_-luc_|**Objects with a branching structure**: trees, pieces of [[Cimcim#Ökya cimcim\|ökya cimcim]], lightning bolts |
 |_-ö_|**Cyclic or reciprocal things**: months, years, wheels, transactions|
 |_-ay_|**Objects with no physical form**: words, thoughts, colours, days, other non-physical things|
-Two of the classifiers were innovated in the first few centuries [[Universal calendar|AGS]]:
+Two of the classifiers were innovated in the first few centuries AGS:
 - *-lu* ~ *-du* — Initially referring to Xiyeru people, derived from *elu* ~ *edu* [ˈelʊ ~ edʊ] "Xiyeru person" ← Xiri *eru* "person".
 - *-ö* — Partially a back-formation from *omö* "major month (50 days)", rebracketed as `five-CLF`.
 
@@ -249,7 +249,7 @@ Alöbi has no true third person pronouns, instead using the dummy numeral _-n-_
 | ^ | Plural | - | *nindu* | *nindin* | *nindub* |
 # Vocabulary
 ## Xiri loans
-Low Alöbi loaned many words from [[Xiri]] when the speakers of the two languages began trading around the [[1st century|1st]] or [[2nd century|2nd]] century. Most of the borrowed vocabulary consists of material cultural terminology, some examples of which with the approximate pronunciations c. 400 [[Universal calendar|AGS]] are shown in the table below.
+Low Alöbi loaned many words from [[Xiri]] when the speakers of the two languages began trading around the [[1st century|1st]] or [[2nd century|2nd]] century. Most of the borrowed vocabulary consists of material cultural terminology, some examples of which with the approximate pronunciations c. 400 AGS are shown in the table below.
 
 |Xiri|Alöbi|
 |---|---|

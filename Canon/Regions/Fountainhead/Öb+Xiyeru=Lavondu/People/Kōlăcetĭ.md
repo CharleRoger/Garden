@@ -4,7 +4,7 @@ tags:
   - Xiyeru_politics
 ---
 
-**Kōlăcetĭ** (785 - 880 [[Universal calendar|AGS]]) was the governor of [[Azodo]] from 856 to 862.
+**Kōlăcetĭ** (785 - 880 AGS) was the governor of [[Azodo]] from 856 to 862.
 # Political positions
 ## Early career
 Kōlăcetĭ first began working in politics around 830, boasting an incredibly successful career in environmental ministerial roles spanning a few decades, coordinating civil engineering projects such as river bank fortification. 
