@@ -14,17 +14,16 @@ for path, subdirs, files in os.walk(canonRoot):
             continue
         fullpath = path + "\\" + filename
         fileEdited = False
-        with open(fullpath, "r", encoding="utf8") as file:
-            lines = file.readlines()
-            for i in range(len(lines)):
-                for link in linksToRemove:
-                    if link in lines[i]:
-                        fileEdited = True
-                        linkText = link.split('|')[1].replace("]]", "")
-                        lines[i] = lines[i].replace(link, linkText)
+        with open(fullpath, "r", encoding="utf8", newline='') as file:
+            fileText = file.read()
+            for link in linksToRemove:
+                if link in fileText:
+                    fileEdited = True
+                    linkText = link.split('|')[1].replace("]]", "")
+                    fileText = fileText.replace(link, linkText)
         if fileEdited:
-            with open(fullpath, "w", encoding="utf8") as file:
-                file.writelines(lines)
+            with open(fullpath, "w", encoding="utf8", newline='') as file:
+                file.write(fileText)
 
 
 """
