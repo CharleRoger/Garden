@@ -2,7 +2,7 @@
 aliases:
   - Proto-Northern Upic
 ---
-The **Proto-Northern Upic language** (**PNUp**) is the reconstructed ancestor of the [[Northern Upic languages]] It is thought to have been spoken c. 2,500 - 2,000 [[BGS]] in [[Qnōp']].
+The **Proto-Northern Upic language** (**PNUp**) is the reconstructed ancestor of the [[Northern Upic languages]] It is thought to have been spoken c. 2,500 - 2,000 [[Universal calendar|BGS]] in [[Qnōp']].
 # Phonology
 Below are the reconstructed phonemes of Proto-Northern Upic.
 ## Consonants

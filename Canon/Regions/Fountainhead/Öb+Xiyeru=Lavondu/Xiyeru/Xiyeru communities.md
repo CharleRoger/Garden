@@ -7,7 +7,7 @@ The most tightly bound and meaningful units of society were matrilineal families
 
 During the [[Xiyeru Confederation]], a noble culture developed in [[Azodo]], where some families were designated
 # Villages
-[[Xiyeru]] villages had populations of several hundred and were fairly centralised, with the largest settlements having thousands and beginning to operate like cities at the turn of the second millennium [[AGS]].
+[[Xiyeru]] villages had populations of several hundred and were fairly centralised, with the largest settlements having thousands and beginning to operate like cities at the turn of the second millennium [[Universal calendar|AGS]].
 
 People very rarely migrated between villages, a person's places of birth, life and death would often have been within sight of each other. Of course, the [[Xiyeru]] did routinely travel far out to sea, but always returned to their home village and kept tattoos to remind them of this called [[Ńaʼay#Eruńa’ay|Eruńa’ay]] "people-markings".
 # Islands

@@ -134,7 +134,7 @@ Numeral stems do not occur in isolation and must be suffixed with a classifier w
 |---|---|
 |_-ka_|**Öb people**: [[Öb]], as distinct from other humanoid peoples like the [[Xiyeru]], which the [[Öb]] came into contact with in the [[1st century]]. |
 |_-tu_|**Non-Öb humans**|
-|_-to_|**Large land animals which are strictly not eaten**: large ungulates, large birds, [[k'ak'oh]] |
+|_-to_|**Large land animals which are strictly not eaten**: large ungulates, large birds, [[t'ak'og]] |
 |_-ag_|**Small land animals which can typically be eaten**: flightless birds, toads, some large crabs, [[k'übi]], [[sibig]] |
 |_-c'i_|**Smaller animals which are not typically eaten, pests**: insects, small crustaceans, lizards, rodents, worms|
 |_-iw_|**Flying birds**|
