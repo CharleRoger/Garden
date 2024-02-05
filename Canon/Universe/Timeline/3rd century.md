@@ -3,7 +3,7 @@ The **3rd century** is the period from 200 to 299 AGS. Many systems of governanc
 - Early 3rd century: Some north-east [[Ħautar delûr|Ħautar]] cities end the tradition of ritual suicide and decapitation of a widowed [[ârcak]].
 - Early 3rd century: Extraction of metals near [[Ħautar delûr|Ħautar]] lands in [[Kóty]] begins.
 - Early 3rd century: The tribe of [[Ɨrsɨrso'vunju']] begins a campaign to unite all [[Ansang Islands|Ansang islands]], founding the [[Ansang Empire]] with [[Ɨmbɨlo I]] as its first emperor.
-- 210s: The semi-mythical [[Hnäzb]] warlord [[Eight-Antlers]] conquers the [[Uhustaw]] and lays the foundation for many Hnäzb clans of this region.
+- 210s: The semi-mythical [[Hnäzb]] warlord [[Eight-Antler]] conquers the [[Uhustaw]] and lays the foundation for many Hnäzb clans of this region.
 - 210: The [[Astmergian Empire]] proper ends with the death of [[Astmerge the Great]].
 - 210: Both [[Kesërn]] and his wife [[Khayanmari]] of Kalotgane, as well as [[Yardunmud]] of Vërev claim succession of Astmerge the Great.
 - 211: Traditional date of the foundation of the [[Tyon-Arat]], beginning the "age of threefold harmony".
