@@ -6,7 +6,7 @@
 | Angular diameter   | 15.6 to 98.6 arcseconds |
 | Apparent magnitude | ~-3 to -5.66            |
 
-Rubroplano is one of the most readily visible [[Solar system#Planets|planets]] in [[Winter|Winter's]] night sky, in which its distinctive red-orange hue can be quite apparent.
+Rubroplano is one of the most readily visible [[Solar system#Planets|planets]] in [[Winter|Winter's]] night sky, in which its distinctive red-orange hue can be quite apparent. It lies closer to the [[Sun]] than [[Winter]] and only appears within about 30° from the [[Sun]] in the sky, meaning it's most commonly seen just before sunrise and just after sunset. Sometimes it may be visible in broad daylight, particularly when [[Winter|Winter's]] slightly elliptical orbit brings the planets close together.
 # Orbital characteristics
 | Quantity                | Value            |
 | ----------------------- | ---------------- |
@@ -30,5 +30,7 @@ Rubroplano orbits in an [[Solar system#Orbital resonance|orbital resonance]] wit
 | Sidereal rotation period | 105,079s (29h 11m 19s) |
 | Synodic rotation period  | 106,106s (29h 28m 26s) |
 | Axial tilt               | 12.15°                 |
+
+Rubroplano's atmosphere is thought to be composed of 75% nitrogen, 20% carbon dioxide and 5% argon, at a pressure of 89 atmospheres at the surface.
 # Moons
 Rubroplano has one tidally-locked moon, [[Yasi]], a small rocky body in a tight 19 hour orbit.
