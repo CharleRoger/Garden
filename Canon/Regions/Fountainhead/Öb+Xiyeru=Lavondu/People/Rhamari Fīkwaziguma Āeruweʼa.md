@@ -1,4 +1,4 @@
-**Rhamari Fīkwaziguma Āeruweʼa** (c. 580 - 708 [[Universal calendar|AGS]]) was the [[Āeruweʼa#Numbering|81st Āeruweʼa]] from 622 until her death in 708, and the last [[Āeruweʼa]] to wield a significant degree of political power of [[Udovuʼo]].
+**Rhamari Fīkwaziguma Āeruweʼa** (c. 580 - 708 AGS) was the [[Āeruweʼa#Numbering|81st Āeruweʼa]] from 622 until her death in 708, and the last [[Āeruweʼa]] to wield a significant degree of political power of [[Udovuʼo]].
 
 ![[Rhamari Fīkwaziguma Āeruweʼa.png]]
 # Name and titles
@@ -6,7 +6,7 @@ The [[Āeruweʼa|Āeruweʼa's]] *[[Ńuʼu|Xińuʼu]]* "true-name" *Rhamari* is e
 
 Her posthumous *[[Ńuʼu|Mū’ojūńuʼu]]* "forever-name" *Fīkwaziguma* literally means "who has an obsidian heart". This was a title granted to certain [[Āeruweʼa]] who lived in times of severe hardship and were forced to make difficult, often unpopular decisions.
 # Early life
-Rhamari was born in a village near the [[Kaʼāʼi river]], c. 580 [[Universal calendar|AGS]]. Her mother was a yam farmer, and it was said that the village was a significant provider of yams to the nearby city of [[Fenimeni]], where Rhamari studied as a scribe during her adolescence.
+Rhamari was born in a village near the [[Kaʼāʼi river]], c. 580 AGS. Her mother was a yam farmer, and it was said that the village was a significant provider of yams to the nearby city of [[Fenimeni]], where Rhamari studied as a scribe during her adolescence.
 
 In 599, she was selected as one of twelve [[Āeruweʼa]] candidates by her predecessor [[Inagewižā Fazegigōrakwi Āeruweʼa]], who had ascended the role of [[Āeruweʼa]] two years prior.
 # Life as Āeruweʼa

@@ -1,7 +1,5 @@
 ---
 aliases:
-  - AGS
-  - BGS
   - year 0
 tags:
   - meta
