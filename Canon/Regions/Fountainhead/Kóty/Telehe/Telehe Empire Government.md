@@ -6,7 +6,7 @@ The Emperor is the supreme person in charge of the empire, emperors are by defau
 ### Pnosehis
 The augurs of the empire, they care about making divinations and provide good news or depending bad news; they operate using devices such as arrows, darts, smoking, fumes and also burning letters or bones with requests, inquires, questions or thanks to the gods.
 ### Dala ublahin
-Three priests, they are the high priests I've talked about in an old post, they basically decide for the Emperor, when he is absent or hasn't risen up to the throne yet; each of them makes an oath to worship, celebrate and always wear the favorite color of their god, they are **Orim ublahis** priest of [[Orɨm|Orim]], color: yellow; **Lōš ublahis** priest of [[Lōš|Losh]], color: black  and **Cnūmnoi ublahis** priest of [[Cnumnoi]], color: blue.
+Three priests, they are the high priests I've talked about in an old post, they basically decide for the Emperor, when he is absent or hasn't risen up to the throne yet; each of them makes an oath to worship, celebrate and always wear the favorite color of their god, they are **Orim ublahis** priest of [[Orim]], color: yellow; **Lōš ublahis** priest of [[Lōš|Losh]], color: black  and **Cnūmnoi ublahis** priest of [[Cnumnoi]], color: blue.
 ## Circe ilrasamer 'Second council'
 The second council is constituted by
 ### Sfā embacs 'Makers of coins'

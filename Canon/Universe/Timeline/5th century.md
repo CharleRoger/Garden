@@ -1,4 +1,4 @@
-The **5th century** is the period from 400 to 499 AGS. It was a period of political turmoil in [[Kóty]], featuring the deposition of several monarchs and territorial exchanges between kingdoms and confederacies, culminating in the foundation of the [[Telehe Empire]].
+The **5th century** is the period from 400 to 499 [[Universal calendar|AGS]]. It was a period of political turmoil in [[Kóty]], featuring the deposition of several monarchs and territorial exchanges between kingdoms and confederacies, culminating in the foundation of the [[Telehe Empire]].
 # Events
 - Early 5th century: [[Kalotgane]] is slowly repopulated.
 - Early 5th century: New religious movements begin to appear in [[Oksandanderi]].

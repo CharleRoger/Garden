@@ -1,4 +1,4 @@
-**String maps** were navigational aids made and used by the [[Xiyeru]] in the [[Sunrise period]] (729 BGS - 67 AGS) and [[Horizon period]] (67 AGS - 655 AGS).
+**String maps** were navigational aids made and used by the [[Xiyeru]] in the [[Sunrise period]] (729 [[Universal calendar|BGS]] - 67 [[Universal calendar|AGS]]) and [[Horizon period]] (67 [[Universal calendar|AGS]] - 655 [[Universal calendar|AGS]]).
 
 Most string maps consisted of a single strand of string, onto which were tied stones, shells, beads and feathers representing ocean swells, islands, rivers or other geographic features. The maps were probably not actually used to navigate in a strict sense, since they only recorded a basic topology of features and not their geographic arrangement, rather they were mnemonic devices which would aid a navigator's memory retrieval, their teaching of navigational information to others, or as an itinerary record. String maps can be accompanied by a similarly mnemonic poem or mantra which is memorised and recited by the user.
 

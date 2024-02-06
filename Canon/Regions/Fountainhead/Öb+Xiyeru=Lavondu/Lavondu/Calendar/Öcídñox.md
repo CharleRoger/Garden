@@ -2,7 +2,7 @@
 aliases:
   - öcídnö
 ---
-The **Öcídñox** or **Lavondu calendar** is a lunar calendar used by by several cultures throughout history, originally developed as part of [[Tuvöblin]] in the 850s AGS but based on much older [[Xiyeru]] systems.
+The **Öcídñox** or **Lavondu calendar** is a lunar calendar used by by several cultures throughout history, originally developed as part of [[Tuvöblin]] in the 850s [[Universal calendar|AGS]] but based on much older [[Xiyeru]] systems.
 # Etymology
 The original [[Möxali]] name for the calendar, *öcídñox*, roughly means "sacred counted cycle", and can be broken down as follows:
 - *öci* — verb stem "count days, measure time", from [[Low Alöbi]] *öcwin*
@@ -11,7 +11,7 @@ The original [[Möxali]] name for the calendar, *öcídñox*, roughly means "sac
 - *-yox* — reverential classifier
 This word commonly appears in the [[Möxali#Outer Möxali|Outer Möxali]] dialectal form *öcízñox*. The calendar can also colloquially be referred to as *öcídnö* or *öcíznö* with *-ö* the classifier for cyclic things, which is more properly the name of the 1540-day major unit of the calendar.
 # History
-In 855 AGS, [[Lavondu]] astronomers in [[T'ugü]] completed the construction of a 1540-day calendrical system as part of the re-establishment of the [[Nejinayon]] historical tradition. Its primary purpose was to attach dates to historical records, but also aided astronomical observation and general timekeeping. It was based on traditional [[Xiyeru]] lunar calendars and designed to function for long periods of time without manual correction.
+In 855 [[Universal calendar|AGS]], [[Lavondu]] astronomers in [[T'ugü]] completed the construction of a 1540-day calendrical system as part of the re-establishment of the [[Nejinayon]] historical tradition. Its primary purpose was to attach dates to historical records, but also aided astronomical observation and general timekeeping. It was based on traditional [[Xiyeru]] lunar calendars and designed to function for long periods of time without manual correction.
 
 Many calendrical systems were developed by the [[Xiyeru]] for different purposes throughout history. There have been several lunar calendars which track the position of [[Winter#Moons|both moons]] as they move through a set of constellations, similar to the zodiac, in order to aid navigation at sea. There is no appreciable variation in weather, temperature or life in general throughout the (251.8-day) solar year in [[Udovuʼo]], so solar calendars were not used that much. The [[Xiyeru]] did know of the 251.8-day sidereal motion of the [[sun]] across the sky, had measured it precisely, and had incorporated it into some navigational calendars. The primary timekeeping calendar in [[Udovuʼo]] was a 385-day lunar calendar based on the phases and conjunctions of [[Winter#Moons|both moons]], and it was this calendar that formed the basis of the Öcídñox.
 
@@ -45,7 +45,7 @@ Even with the Savon, the calendar is not perfect. The 152 [[Qíñu#Xínen|xínen
 
 [[Bigmoon]] also needs long-term correction, since 24 × 64.1647 = 1539.953 days, ~0.047 days shorter than the öcídñox. This was measured as 0.050 days (2 days in 40 öcídnö). Both of these errors are corrected using a 40-öcídnö cycle. The third [[Qíñu#Xínen|xínen]] day is removed from each of the 7th, 20th and 33rd öcídnö, and a day is removed from the Savon of the 10th and 30th öcídnö. The removal of these five days yields a 61,595-day cycle (about 245 years). With these final intercalation steps introduced in the [[10th century]], all cycles are brought back into alignment with the 1540-day öcídnö for over 2000 years, which is longer than the [[Qíñu#Xínen|xínen]] and [[víqin]] even remain synchronised with each other.
 # Dates
-Öcídnö cycles are numbered from the beginning of each [[Lavondu]] [[Nejinayon|historical period]]. Dates are recorded as strings of genitives preceding the smallest relevant calendrical unit. For example, the following full date of a day in 855 AGS:
+Öcídnö cycles are numbered from the beginning of each [[Lavondu]] [[Nejinayon|historical period]]. Dates are recorded as strings of genitives preceding the smallest relevant calendrical unit. For example, the following full date of a day in 855 [[Universal calendar|AGS]]:
 > *Eganja Vibínifsíja Ozbíja Yobzínja Duzúnja Sipö*
 > `iga    -n  -ja   víbi -nífös-ö  -ja   ozbi-ja   yubzim-ja   dúz  ~u   -n   -ja   sepö`
 > `depart-NMLZ-GEN  2.add-30   -CLF-GEN  4th -GEN  Yubzim-GEN  carve~PROG-NMLZ-GEN  3rd`

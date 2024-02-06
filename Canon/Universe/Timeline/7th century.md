@@ -1,11 +1,11 @@
-The **7th century** is the period from 600 to 699 AGS. It saw a period of rapid expansion of population and international contact in [[Udovuʼo]] brought to an end by a plague and famine, and the reestablishment of the [[Ansang Empire]].
+The **7th century** is the period from 600 to 699 [[Universal calendar|AGS]]. It saw a period of rapid expansion of population and international contact in [[Udovuʼo]] brought to an end by a plague and famine, and the reestablishment of the [[Ansang Empire]].
 # Events
 - 605: The [[Dugrien]] war ends, dividing the states into two commonwealths, the [[Free Kingdoms of the North]] and the [[Southern Commonwealth]].
 - 620: [[Šemedo Ēodinare]], [[Telehe Empire|Telehe Emperor]], begins his conquest of the [[Berkke Kingdom]].
 - 625: [[Šemedo Ēodinare|Šemedo]] marries [[Amakke Berkkun Hurut]], thereby annexing the [[Berkke Kingdom]] into the empire.
 - 637: [[Maynda Aēym]] becomes [[Telehe Empire|Telehe Emperor]].
-- 655: A mysterious plague, known as [[Exodus period#The Great Sickness (655 AGS)|Āzamatwa]] "great sickness", breaks out in [[Udovuʼo]], ending the [[Horizon period]] and beginning the [[Exodus period]]. The contemporary [[Āeruweʼa]], believing contact with the [[Öb]] to be the source of the plague, ends all international trade, even refusing aid.
-- c. 656 - 664: A famine following the plague, known as [[Exodus period#The Great Hunger (656 - 664 AGS)|Āguwo]] "great hunger", ravages the population of [[Udovuʼo]].
+- 655: A mysterious plague, known as [[Āzamatwa]] "great sickness", breaks out in [[Udovuʼo]], ending the [[Horizon period]] and beginning the [[Exodus period]]. The contemporary [[Āeruweʼa]], believing contact with the [[Öb]] to be the source of the plague, ends all international trade, even refusing aid.
+- c. 656 - 664: A famine following the plague, known as [[Āguwo]] "great hunger", ravages the population of [[Udovuʼo]].
 - 662: [[Sefe Maynda]] becomes [[Telehe Empire|Telehe Emperor]].
 - 668: The [[Ansang people|Ansang]] priesthood conspires to restore the throne of the [[Ansang Empire|empire]].
 - 669: [[Colombae]] becomes [[Ansang Empire|Ansang emperor]].
