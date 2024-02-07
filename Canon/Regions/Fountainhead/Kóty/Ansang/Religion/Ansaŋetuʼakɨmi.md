@@ -70,6 +70,7 @@ Essentially any space that has an Ansang person and some god imagery, be it stat
 
 #### Priesthood
 
+
 ### Spirit mediumship and healing
 
 ### Prayers
