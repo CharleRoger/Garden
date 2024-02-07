@@ -11,6 +11,6 @@
 [[3rd century]]
 [[4th century]]
 [[5th century]]
-[[Universal calendar|AGS]]
-[[Universal calendar|BGS]]
+AGS
+BGS
 [[Metallurgy in the Eternal Deltas]]
