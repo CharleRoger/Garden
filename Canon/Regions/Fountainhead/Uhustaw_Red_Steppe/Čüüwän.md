@@ -1,0 +1,3 @@
+The name Čüüwän refers to the [[Uhustaw]] in the [[Hnäzb languages]]. It is likely related to the [[High Alöbi]] term *cipwan* "flood, spill over", which is also related to the [[Nambāno]] term *siguon* "floodplain", from which *Siguonto* as name for the same region was derived. 
+
+Čüüwan continued to be used after the Ardanic settlement and was rendered as *Čiwwen* in the [[Ardanic alphabet]]. Although the term Uhustaw came to be more popular eventually, as well as the name [[Ayač-Arat]] as label for the political entity, which arose in that region during the [[12th century]], Čüüwän or Čiwwen never fell out of use, although most often it means exclusively the flooded areas along the lakeshores. 

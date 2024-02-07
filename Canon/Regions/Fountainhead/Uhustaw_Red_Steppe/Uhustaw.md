@@ -1,7 +1,16 @@
-The Uhustaw is a lush and fertile region located in easternmost [[Qnōp]] or right at the border of [[Oksandanderi]]. Its nature as endorheic basin lead to it having its own distinct geography and hydrology largely separate from the rest of Qnōp, also leading to various unique animals and plants in the region.
+The Uhustaw is a lush and fertile region located in easternmost [[Qnōp']] or right at the border of [[Oksandanderi]]. Its nature as endorheic basin lead to it having its own distinct geography and hydrology largely separate from the rest of Qnōp, also leading to various unique animals and plants in the region.
 
 Its hydrology is dominated by several large, but with the exception of one, mostly shallow lakes. The lakes are surrounded by wetlands. Originally the area is highly forested, many of the native plants are endemic and in terms of their colouration, they are an offshot of the "red steppe" biome, albeit with its own forest variation of it. The forests are multicoloured and multilayered.
 
+## Name
+The land known as Uhustaw went by several different names, given by different peoples. The oldest known name is [[Čüüwän]], which was coined by the [[Hnäzb]] or [[Nespe]] people, but is likely derived from an older substrate term. It was speculated quite early already that it must be related to the [[High Alöbi|Alöbi]] term *cibwan* "to flood, spill over" and *cayibwan* "flood" 
+
+A second name is *Siguonto* in the [[Nambāno]] language. It is derived from the word *siguon* with a similar meaning "floodplain". 
+
+The [[Ardanic people]] people use the term *Uhustaw* most often, which can be segmentalised into Uh-us-taw. The element *-taw* is a locative honorific, which is added to names of large open areas. The part *Uh-us* can either be taken as *us* "lake" plus a "new" prefix *u-* or a simple plural "lakes". The second option is generally seen as more likely. 
+
+In terms of political affiliation, Ardanic people used the term *Nespetaw* to refer to areas, which were inhabited, cultivated and under the juristiction of the Nespe people. Furthermore they also used the term *Nammanutaw* to mean the same thing for areas controlled by Nambāno people, although the borrowed term *Tutrema* was also used. 
+Since the [[12th century]] the term [[Ayač-Arat]] became popular to refer to the state of the Uhustaw and its political organisation. 
 ## History 
 
 ### Ancient Period (prior to the 3rd century AGS)

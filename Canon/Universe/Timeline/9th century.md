@@ -23,7 +23,7 @@ The **9th century** is the period from 800 to 899 AGS. This century saw great sh
 - 856: The [[Council of 30]], the government of the [[Makhatganda]], sends [[The Embassy of Peace and Friendship]] to establish official relations with the [[Öb|Öbic]] peoples of [[Irimri]].
 - 856: The 30th governor of [[Azodo]], [[Kōlăcetĭ]], is inaugurated. He is known for leading the five governors to the initially controversial decision to accept the peaceful independence of the [[Lavondu]] nation, which was later celebrated.
 - 861: The first large text using the newly standardised [[Opsíbdañox]] script, the [[Inbúja Nahan]], is presented to the contemporary [[Āeruweʼa]] and each of the [[Āʼiyoru|five governors of Udovuʼo]], having been commissioned and largely composed the year prior. The text declared the peaceful independence of the [[Lavondu]] nation, ending [[Tuvöblin]] and the [[Exodus period]] and beginning the [[Thousand Rivers period]].
-- 861: [[Asin]], [[Kele]] of the [[Tyon-Arat]], gathers an expedition of 160 men and women to explore the land to their west.
+- 861: [[Asin Erta]], [[Kele]] of the [[Tyon-Arat]], gathers an expedition of 160 men and women to explore the land to their west.
 - 862: [[Kōlăcetĭ]], the 30th governor of [[Azodo]], ends his six-year term in office.
 - 868: The [[Southern Commonwealth]] of [[Dugrien]] states begins to conquer western tribes in facilitate business with the states of [[Loxezō]].
 - 870: A civil war breaks out among the [[Dugrien]] [[Free Kingdoms of the North]] in response to the southern conquest.
@@ -34,7 +34,7 @@ The **9th century** is the period from 800 to 899 AGS. This century saw great sh
 - 890: [[Mboxuya]] becomes [[Ansang Empire|Ansang emperor]].
 - 899: The first official trade route connecting the [[Ansang Islands]] to the [[Lavondu]] maritime network is established.
 # Births
-- 845: [[Psirin Aster]], a prominent [[Ardanic people|Ardanic]] scholar from [[Tyelesh]]
+- 845: [[Psirin Aster]], a prominent [[Ardanic people|Ardanic]] scholar from [[Tyeleš]]
 # Deaths
 - Late 9th century: [[Huxŭkală]], a influential [[Xiyeru]] mathematician about whom little is known
 - 820: [[Endetanomɨ]], [[Ansang Empire|Ansang emperor]]
@@ -43,6 +43,7 @@ The **9th century** is the period from 800 to 899 AGS. This century saw great sh
 - 870: [[Ɨrɨyoŋge]], [[Ansang Empire|Ansang emperor]]
 - 886: [[Kōlăcetĭ]], 30th governor of [[Azodo]] (d. 785)
 - 890: [[Xoxeŋe]], [[Ansang Empire|Ansang emperor]]
+- 897: [[Asin Erta]], Ardanic explorer 
 # Inventions, discoveries, introductions
 - 843: Purpose-built saddles called [[keqa nda]] are invented by the [[Maicqa]], making air travel by [[Flying mollusc|mollusc]] safer and more reliable, leading to massively increased trade and personal travel.
 - 855: The [[Öcídñox]] calendar is developed by [[Lavondu]] astronomers to support the re-establishment of the [[Nejinayon]] historical tradition, part of the societal-restructuring project known as [[Tuvöblin]].
