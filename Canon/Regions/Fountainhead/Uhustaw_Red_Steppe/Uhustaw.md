@@ -3,7 +3,7 @@ The Uhustaw is a lush and fertile region located in easternmost [[Qnōp']] or ri
 Its hydrology is dominated by several large, but with the exception of one, mostly shallow lakes. The lakes are surrounded by wetlands. Originally the area is highly forested, many of the native plants are endemic and in terms of their colouration, they are an offshot of the "red steppe" biome, albeit with its own forest variation of it. The forests are multicoloured and multilayered.
 
 ## Name
-The land known as Uhustaw went by several different names, given by different peoples. The oldest known name is [[Čüüwän]], which was coined by the [[Hnäzb]] or [[Nespe]] people, but is likely derived from an older substrate term. It was speculated quite early already that it must be related to the [[High Alöbi|Alöbi]] term *cibwan* "to flood, spill over" and *cayibwan* "flood" 
+The land known as Uhustaw went by several different names, given by different peoples. The oldest known name is [[Čüüwän]], which was coined by the [[Hnäzb people|Hnäzb]] or [[Nespe]] people, but is likely derived from an older substrate term. It was speculated quite early already that it must be related to the [[High Alöbi|Alöbi]] term *cibwan* "to flood, spill over" and *cayibwan* "flood" 
 
 A second name is *Siguonto* in the [[Nambāno]] language. It is derived from the word *siguon* with a similar meaning "floodplain". 
 
@@ -17,7 +17,7 @@ Since the [[12th century]] the term [[Ayač-Arat]] became popular to refer to th
 Forager communities speaking [[Upic languages|Upic languages]] settled in the Uhustaw. After many centuries they establish their own agriculture and build sedentary villages. Their agriculture is limited mostly to horticulture, as they did not drain the extensive wetlands.   
 
 ### 211 AGS
-By latter chronicles, it is estimated that the first Hnäzb settlers arrived in the Uhustaw, from then on known as the land of [[Čüüwän]] by the [[Hnäzb]]. The exact date of [[3rd century|211 AGS]] was actually calculated by [[Psirin Aster]] many centuries later based on both oral and written chronicles. It should be taken with a grain of salt, as Psirin liked parallelism and 211 AGS is also the year when the three cities of the [[Tyon-Arat]] established their unity (Although that date was also estimated postfactum).  
+By latter chronicles, it is estimated that the first Hnäzb settlers arrived in the Uhustaw, from then on known as the land of [[Čüüwän]] by the [[Hnäzb people]]. The exact date of [[3rd century|211 AGS]] was actually calculated by [[Psirin Aster]] many centuries later based on both oral and written chronicles. It should be taken with a grain of salt, as Psirin liked parallelism and 211 AGS is also the year when the three cities of the [[Tyon-Arat]] established their unity (Although that date was also estimated postfactum).  
 
 ### Mid-3rd Century
 The powerful Hnäzb warlord [[Eight-Antler]] arrives in Uhustaw and establishes his realm there. Eight-Antler has two sons, whom he marries to the "daughters of the lakes". These daughters of the lakes are perhaps the daughters of powerful chieftains of previous polities, although in myth they appear as personified spirits of the lakes themselves, begotten by the lakes.  
