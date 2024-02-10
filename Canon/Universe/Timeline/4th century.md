@@ -6,8 +6,10 @@ The **4th century** is the period from 300 to 399 AGS. This period of history fe
 - 311: [[Uṣṭi II]] and [[Lenre' I]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]].
 - 316-318: The [[First God-Kingdom of the West]] suffers severe harvest failures, a large earthquake causes substantial damage to [[Leṣek-etku]], and [['amta-tkausekan]] secedes from the [[First God-Kingdom of the West]], finally culminating in the deposition of the reigning monarchs, beginning a period of anarchy.
 - 322: [[Mteni III]] and [[C̣e'ħenek II]] become [[Ârcacak#Bar-ârcacak|bar-ârcacak]], ending the anarchy.
+- 323: [[Red-Deer]] ascends to power.
 - 328: [[Roto’u]] becomes [[Ansang Empire|Ansang emperor]].
 - 331: The civil war in [[Makhatganda#Erkhanda Province|Erkhanda]] comes to an end, resulting in the foundation of [[Makhatganda]], ruled by the pentarchy known as the [[Kembu Korthat]].
+- 331: [[Red-Deer]] attacks and subjugates seven [[Nambāno]] cities. 
 - c. 340: [[Telehe]] peoples attack the [[Early Ansang Kingdom]], conquering land around the [[Leda river]] and forming the [[Telehe Confederacy]].
 - 345: [[Seileso’obo]] becomes [[Ansang Empire|Ansang emperor]].
 - 347: Power struggles cause the stability of the [[First God-Kingdom of the West]] to decline, culminating in a failed command economy and a resultant failure in harvest in 347. After this, the city of [[Uṣûnur]] also left the kingdom.

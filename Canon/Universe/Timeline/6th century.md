@@ -11,6 +11,7 @@ The **6th century** is the period from 500 to 599 AGS. This century began with t
 - 540: [[Samēdē]] revokes cultural and religions rights of the [[Ħautar delûr]].
 - 552-570: The [[Walken Empire]] and [[Yarlaganda Empire]] continue to exchange territory.
 - 556: The [[Cah Kü]] trade union fragments into several sub-unions, forming a new, decentralized cooperative structure with a somewhat unstable market.
+- 561: The federation of [[Five-Spears]] attacks settlements of the [[Murfa people]]. 
 - 568: A new mechanism that forces the dissolution of all electorates every sixty years is instated in the [[Tyon-Arat]].
 - 570: [[Mede Ēpere]] becomes [[Telehe Empire|Telehe Emperor]].
 - 578: [[Šemedo Ēodinare]] becomes [[Telehe Empire|Telehe Emperor]].

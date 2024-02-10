@@ -4,6 +4,7 @@ The **7th century** is the period from 600 to 699 AGS. It saw a period of rapid 
 - 620: [[Šemedo Ēodinare]], [[Telehe Empire|Telehe Emperor]], begins his conquest of the [[Berkke Kingdom]].
 - 625: [[Šemedo Ēodinare|Šemedo]] marries [[Amakke Berkkun Hurut]], thereby annexing the [[Berkke Kingdom]] into the empire.
 - 637: [[Maynda Aēym]] becomes [[Telehe Empire|Telehe Emperor]].
+- 645: [[Celestial-Dancer]] is defeated by an alliance of [[Nambāno]] cities. Shortly afterwards he is assassinated in his sleep. His defeat and death would trigger great strife among the [[Hnäzb people]] and end the reign of great federations on the [[Red Steppe]].
 - 655: A mysterious plague, known as [[Exodus period#The Great Sickness (655 AGS)|Āzamatwa]] "great sickness", breaks out in [[Udovuʼo]], ending the [[Horizon period]] and beginning the [[Exodus period]]. The contemporary [[Āeruweʼa]], believing contact with the [[Öb]] to be the source of the plague, ends all international trade, even refusing aid.
 - c. 656 - 664: A famine following the plague, known as [[Exodus period#The Great Hunger (656 - 664 AGS)|Āguwo]] "great hunger", ravages the population of [[Udovuʼo]].
 - 662: [[Sefe Maynda]] becomes [[Telehe Empire|Telehe Emperor]].
