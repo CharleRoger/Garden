@@ -14,3 +14,7 @@
 AGS
 BGS
 [[Metallurgy in the Eternal Deltas]]
+
+# History
+## Metallurgy
+Early development of metallurgy in the Eternal Deltas is entertained as far as -700BGS, with 

@@ -13,7 +13,7 @@ Chthonic gods:
 
 ----------------------------------------------------
 
-**Ansang religion** is the shared spiritual beliefs and practices of the [[Ansang people]]. Their religion shares similarities between several local beliefs in other islands, religious syncretism is common among many Ansang people.
+**Ansang religion** is the shared spiritual beliefs and practices of the [[Ansang people]]. Their religion shares similarities between several local beliefs in other islands, religious syncretism is common and expected among the Ansang people with foreign deities being conceptualized into different faces of Ansang Gods.
 
 Ansang cosmology give provide several interpretations of the creation of the world, the most famous is 
 ## [[Ñyaʼatondɨ]]

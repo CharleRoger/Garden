@@ -34,6 +34,7 @@ Reduplication of noun and verbs in Yugebusorese is as important as it is in Ansa
 ### Word classes
 #### Pronouns
 Pronouns in Yuge are marked for number.
+
 ||singular|plural|
 |---|---|---|
 |1st-person|_mu_|_na_|
