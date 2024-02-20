@@ -1,1 +1,15 @@
 The Makhatganda was a majority [[Yarlish people|Yarlish]] state located within the [[Central Highlands]] of [[Oksandanderi]]. It lasted from the year [[4th century|331]] AGS till [[11th century|1076]], when it was annexed by the [[Empire of Kalotgane]], after its surrender in the the [[Makhat-Kalotgane War]]. It was one of the largest and most influential states in Oksandanderian history. 
+
+## Prehistory 
+
+## Erkhanda 
+
+## Early Makhatganda 
+
+## [[Four Kingdoms period]] 
+
+## Later Makhatganda 
+
+## Final Years 
+
+## Legacy 
