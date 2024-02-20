@@ -1,0 +1,1 @@
+The Empire of Kalotgane was the largest and most powerful state in the history of [[Oksandanderi]]. It was founded in the year [[11th century|1020]] AGS by [[Suyeray Astmergekhtim]] of the [[Astmergekhtim Dynasty]], which claimed succession to [[Astmerge the Great]]. The Empire itself was preceded by the [[League of Kalotgane]] and the Kingdom of [[Vërev]] and [[Tarin]]. 

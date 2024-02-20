@@ -1,0 +1,3 @@
+The Northern Government, ruled from the city of [[Elghëday]] in the [[Erdo]] province was a shortlived rump state of the [[Makhatganda]] after its surrender in [[11th century|1076]] AGS. 
+
+The Northern Government continued to exist with [[Tyon-Arat|Ardanic]] support for several years and disrupted [[Empire of Kalotgane|Kalotgane]] authority through regular incursions. The Northern Government came to an end in 1088, when a famine threatened their populace, they finally surrendered to the [[Empire of Kalotgane]]. 
