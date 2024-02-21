@@ -20,7 +20,7 @@ The **9th century** is the period from 800 to 899 AGS. This century saw great sh
 - 850s: [[Lavondu]] explorers discover the [[Ansang Islands]] and make peaceful contact with the native inhabitants.
 - 850: After a 15-day battle, the [[Ħautar invasion]] conquers, sacks and razes the [[Telehe Empire|Telehe]] capital of [[Bērzun]], killing emperor [[Maynda Oferay]] and ending the [[Telehe Empire]].
 - 850: [[Ɨrɨyoŋge]] becomes [[Ansang Empire|Ansang emperor]].
-- 856: The [[Council of 30]], the government of the [[Makhatganda]], sends [[The Embassy of Peace and Friendship]] to establish official relations with the [[Öb|Öbic]] peoples of [[Irimri]].
+- 856: The [[Council of Thirty]], the government of the [[Makhatganda]], sends [[The Embassy of Peace and Friendship]] to establish official relations with the [[Öb|Öbic]] peoples of [[Irimri]].
 - 856: The 30th governor of [[Azodo]], [[Kōlăcetĭ]], is inaugurated. He is known for leading the five governors to the initially controversial decision to accept the peaceful independence of the [[Lavondu]] nation, which was later celebrated.
 - 861: The first large text using the newly standardised [[Opsíbdañox]] script, the [[Inbúja Nahan]], is presented to the contemporary [[Āeruweʼa]] and each of the [[Āʼiyoru|five governors of Udovuʼo]], having been commissioned and largely composed the year prior. The text declared the peaceful independence of the [[Lavondu]] nation, ending [[Tuvöblin]] and the [[Exodus period]] and beginning the [[Thousand Rivers period]].
 - 861: [[Asin Erta]], [[Kele]] of the [[Tyon-Arat]], gathers an expedition of 160 men and women to explore the land to their west.
