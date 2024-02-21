@@ -6,7 +6,7 @@ aliases:
 ---
 **Inaʼaro Faweʼēyezuravujuweu** "two-sharks who computes the unending count" was a [[Xiyeru]] natural philosopher born in the late [[6th century]], whose work has since been copied, translated and redistributed for over a millennium. He was among the first mathematicians to develop rigorous methods of writing proofs, almost leading to a mathematical revolution among the scholars of [[Udovuʼo]] before all was cut short by the [[Exodus period#The Great Sickness (655 AGS)|Great Sickness of 655]]. His ideas were revived and sustained under the newly established [[Azodo Government]] of the [[9th century]] and brought back to the forefront of philosophical thought during the [[Lavondu Golden Age]] beginning in the [[12th century]], leaving a lasting impact on the field of mathematics.
 
-![[inaʼaro.png]]
+![[inaʼaro.jpg]]
 
 **[[Suravuju Tarudaru Ō Cazurakyo]]** "would that the unending sequence come to end" was a particularly prolific treatise composed by Inaʼaro. It gives a comprehensive overview of the properties of arithmetic, quadratic and geometric sequences and sums. The text is almost entirely composed of extremely long-winded thought experiments intended to illustrate numerical patterns of interest to the author, but does also include some genuinely ground-breaking mathematics, such as proofs of many ideas which had previously been assumed true, and perhaps the first use of what could be called algebra.
 

@@ -15,7 +15,7 @@ Kōlăcetĭ was one of the earliest proponents of a term limit for [[Āʼiyoru|g
 # Public image
 Before his election to the position of [[Āʼiyoru|governor]], Kōlăcetĭ was well known throughout the island of [[Azodo]] as benevolent, fair, and neighbourly above all else, and would often personally contribute significantly to the labour of his projects.
 
-![[three politicians.png]]
+![[three politicians.jpg]]
 
 The new governor is shown here standing proud before an audience of ministers and interested nobles who have gathered for his inauguration at the outdoor "chamber" of the general assembly in the city of **[[Wītēxĭlohato]]** (Xiri *Mamadēzirovā*). A whole foot taller than the average [[Xiyeru]] man, he towers above any crowd at 6'4" (193cm), or more like 6'8" (203cm) with those shoes on. His outfit, like all [[Xiyeru]] clothing, very deliberately exposes the arms and legs so that [[Ńaʼay|tattoos]] are always visible. In his case especially so, as his skirt, a slightly fancier variation of the usual male wear, is extra short to show off his prestigious thigh [[Ńaʼay|tattoos]]. His [[Ńaʼay|tattoos]] are of the classic [[Azodo]] elite style which remained influential throughout the [[Lavondu]] world for many centuries, and which informed the creation of the [[Ahōtoli script]]. His extravagant head and neck arrangement is ceremonial gear reserved only for high status individuals like governors and important ministers. Men also tend not to cover their chest and stomach, though it is rare to [[Ńaʼay|tattoo]] below the upper chest, except for the [[weʼańaʼay|"river-markings"]] given to mothers and occasionally fathers.
 

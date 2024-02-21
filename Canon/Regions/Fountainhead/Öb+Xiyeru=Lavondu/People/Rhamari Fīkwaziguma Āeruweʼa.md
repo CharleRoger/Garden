@@ -1,6 +1,6 @@
 **Rhamari Fīkwaziguma Āeruweʼa** (c. 580 - 708 AGS) was the [[Āeruweʼa#Numbering|81st Āeruweʼa]] from 622 until her death in 708, and the last [[Āeruweʼa]] to wield a significant degree of political power of [[Udovuʼo]].
 
-![[Rhamari Fīkwaziguma Āeruweʼa.png]]
+![[Rhamari Fīkwaziguma Āeruweʼa.jpg]]
 # Name and titles
 The [[Āeruweʼa|Āeruweʼa's]] *[[Ńuʼu|Xińuʼu]]* "true-name" *Rhamari* is equivalent to the compound *rham-ari* "sticky-coil". It is not known why this name was chosen or whether this was the intended meaning, though it was transliterated as such into other languages, such as the [[Möxali]] *Semari*, from *sima* "sticky". In later historical documentation, this name is rendered in the [[Ahōtoli script]] using the characters *lewŭ* "sticky" and *elĭ* "coil", cognates to the original [[Xiri]] components.
 
