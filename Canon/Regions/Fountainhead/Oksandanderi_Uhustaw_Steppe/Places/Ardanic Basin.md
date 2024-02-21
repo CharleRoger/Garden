@@ -1,0 +1,1 @@
+The Ardanic basin is a large endorrheic basin in southwestern [[Oksandanderi]]. Its hydrology is dominated by the [[Fsikay]] and [[Očew]] rivers, which flow into the lake [[Uskay]]. The Ardanic basin is the homeland and the center of [[Ardanic people|Ardanic]] culture. It is one of the main urbanised areas of Oksandanderi. 
