@@ -9,6 +9,7 @@ The geography of Oksandanderi can be grouped into several larger regions. The ma
 Oksandanderi is home to several unique ethnic groups and cultures. The most plentiful among them are probably the [[Yarlish people]], named after the great Yarla river. The Yarlish people speak [[Yarlish languages]] and can be internally differentiated into [[Yarlish Lowlanders]] and Highlanders, also called [[Ván-Enne]]. There are additionally several subgroups like the [[Makhat]], who began to form a culture of their own, arising from mixed backgrounds. 
 The second largest group are the [[Ardanic people]], who mainly inhabit the southwest of Oks. They are known for their long lasting republican state called the [[Tyon-Arat]]. Apart from them there are several more cultures like the nomadic [[Walkenian people]] and the [[Korrenian peoples]] of the eastern Highlands. 
 ## History
+Main article: [[History of Oksandanderi]]
 The history of Oksandanderi reaches far back for many centuries, if not millennia. It can be subdivided into several macrohistorical periods. 
 Everything before the [[1st millennium BGS]] can be considered ancient and prehistorical. During [[7th century BGS]] writing is invented in Oks. and a period known as [[Formative-Literary period]] begins. 
 

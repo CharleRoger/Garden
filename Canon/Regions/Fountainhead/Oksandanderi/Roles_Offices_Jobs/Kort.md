@@ -1,0 +1,7 @@
+The term Kort designates a monarch or otherwise autocratic leaders among the [[Yarlish people]]. The term itself comes from the [[Kathurn language]]. 
+
+The Kort were originally simply military leaders, although various Yarlish legends also portray them as valiant conquerors. Some of these legends are placed as far back as the [[2nd millennium BGS]] or even the [[3rd millennium BGS]], during the late neolithic and early [[Oksandanderian bronze age|bronze age]]. 
+
+It is generally thought that the early city states were lead by the [[Kost|Kost-Priests]], who ruled collectively a sort of theocratic system instead of autocratic rule. The Kort were military leaders and the [[Military in Oksandanderi|military]] itself were merely employees of the Kost. Another viewpoint is that the Kort were already leaders of nomadic groups, who were employed as warriors by the city states. During the [[1st millennium BGS]] the so called [[Kost-Kort Conflicts]] occured, where the dynastic military of several city states replaced the old clerical order and made themselves autocratic rulers. From then on the cities would be lead by a [[Gender roles in Oksandanderi|patriarchical]] warrior-nobility. During the onset of recorded history in the [[Formative-Literary period]] many Korthat were already ruling monarchs in several city states. The very first full text comes from the [[Kingdom of Erme and Vukhun]], whose king details his exploits. 
+
+The term Kort was also loaned into the [[Ardanic language]] as [[Krut]], the name of a military officer and warlord. 
