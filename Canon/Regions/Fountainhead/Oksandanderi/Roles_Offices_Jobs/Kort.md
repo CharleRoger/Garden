@@ -1,4 +1,4 @@
-The term Kort designates a monarch or otherwise autocratic leaders among the [[Yarlish people]]. The term itself comes from the [[Kathurn language]]. 
+The term Kort designates a monarch or otherwise autocratic leaders among the [[Yarlish people]]. The term itself comes from the [[Kathurn language]]. The dominion ruled by a Kort is called **Kortón**, which corresponds to "Kingdom" or "Principality", though in a wider range "dominion" or "domain" are more fitting as most Kortón are realms of one city ruling over several others, such as the [[Dominion of Vërev|Vërev]].
 
 The Kort were originally simply military leaders, although various Yarlish legends also portray them as valiant conquerors. Some of these legends are placed as far back as the [[2nd millennium BGS]] or even the [[3rd millennium BGS]], during the late neolithic and early [[Oksandanderian bronze age|bronze age]]. 
 
