@@ -1,6 +1,6 @@
 **Old Nambāno**, also known as **Early Nambāno** or **Proto-Nambāno**, is the ancestor of most language varieties within the [[Nambāno]] dialect cluster, and is believed to be the oldest [[Koyanic languages|Koyanic language]] spoken in [[Qnōp']].
 # Phonology
-# Consonants
+## Consonants
 
 |                     | -   | Labial | Alveolar | Palatal | Plain velar | Labialised velar |
 | ------------------- | --- | ------ | -------- | ------- | ----------- | ---------------- |
@@ -431,11 +431,11 @@ The third "copula", **\*einō**, is not a copula in the strict sense, rather it
 |              |              | <          | -   | Indicative | <           | <         | <           | Subjunctive  | <              | <             | <               | Jussive   | <          |
 | ------------ | ------------ | ---------- | --- | ---------- | ----------- | --------- | ----------- | ------------ | -------------- | ------------- | --------------- | --------- | ---------- |
 |              |              | <          | -   | 1sg        | 1pl         | 2/3sg     | 2/3pl       | 1sg          | 1pl            | 2/3sg         | 2/3pl           | 2/3sg     | 2/3pl      |
-| Perfective   | Intransitive | Bare       | -   | \*io       | \*rio       | \*ēlō     | \*ollō      | \*ãhʷa       | \*rãhʷa        | \*ãhʷɨ̄       | \*rãhʷɨ̄        | \*ãna     | \*rãna     |
-| ^            | ^            | Unemphatic | -   | \*eso      | \*eso       | \*ēlō     | \*ollō      | \*ōhʷa       | \*rōhʷa        | \*ōhʷɨ̄       | \*rōhʷɨ̄        | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*ẽnila    | \*endrila   | \*ãlō     | \*endrilō   | \*ãnãhʷa     | \*andrãhʷa     | \*ãnãhʷɨ̄     | \*andrãhʷɨ̄     | ^         | ^          |
+| Perfective   | Intransitive | Bare       | -   | \*iu       | \*ro        | \*ēlō     | \*ellō      | \*ãhʷa       | \*rãhʷa        | \*ãhʷɨ̄       | \*rãhʷɨ̄        | \*ãna     | \*rãna     |
+| ^            | ^            | Unemphatic | -   | \*eso      | \*ero       | ^         | ^           | \*ōhʷa       | \*rōhʷa        | \*ōhʷɨ̄       | \*rōhʷɨ̄        | ^         | ^          |
+| ^            | ^            | Emphatic   | -   | \*ẽnila    | \*endrila   | \*ẽnilū   | \*endrilū   | \*ãnãhʷa     | \*andrãhʷa     | \*ãnãhʷɨ̄     | \*andrãhʷɨ̄     | ^         | ^          |
 | ^            | Applicative  | Bare       | -   | \*ēra      | \*rēla      | \*ērū     | \*rēlū      | \*ērãhʷa     | \*rēlãhʷa      | \*ērãhʷɨ̄     | \*rēlãhʷɨ̄      | \*ērãna   | \*rēlãna   |
-| ^            | ^            | Unemphatic | -   | \*ēra      | \*rēla      | \*ērū     | \*rēlū      | \*ērãhʷa     | \*rēlãhʷa      | \*ērãhʷɨ̄     | \*rēlãhʷɨ̄      | ^         | ^          |
+| ^            | ^            | Unemphatic | -   | ^          | ^           | ^         | ^           | \*ōhērãhʷa   | \*ōrēlãhʷa     | \*ōhērãhʷɨ̄   | \*ōrēlãhʷɨ̄     | ^         | ^          |
 | ^            | ^            | Emphatic   | -   | \*ẽnēra    | \*endrēla   | \*ẽnērū   | \*endrēlū   | \*ẽnērãhʷa   | \*endrēlãhʷa   | \*ẽnērãhʷɨ̄   | \*endrēlãhʷɨ̄   | ^         | ^          |
 | ^            | Causative    | Bare       | -   | \*tɨlō     | \*trɨlō     | \*tɨlū    | \*trɨlū     | \*tɨlũhʷa    | \*trɨlũhʷa     | \*tɨlũhʷɨ̄    | \*trɨlũhʷɨ̄     | \*tɨlũna  | \*trɨlũna  |
 | ^            | ^            | Unemphatic | -   | \*ōtɨlō    | \*ōtrɨlō    | \*ōtɨlū   | \*ōtrɨlū    | \*ōtɨlũhʷa   | \*ōtrɨlũhʷa    | \*ōtɨlũhʷɨ̄   | \*ōtrɨlũhʷɨ̄    | ^         | ^          |
