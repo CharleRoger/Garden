@@ -94,7 +94,7 @@ A full table of possible intrasyllabic clusters of two consonants subject to the
 | l   | -   | ml  | l   | <    | pl  | bl  | ll  | ll  | <   | kl   | gl   | sl  | l    | ll  | <   |
 | h   | -   | mm  | h   | <    | pp  | bb  | tt  | dd  | jj  | kk   | gg   | ss  | h    | rr  | ll  |
 | hʷ  | -   | ŋŋʷ | hʷ  | <    | kkʷ | ggʷ | ^   | ^   | ^   | kkʷ  | ggʷ  | ^   | hʷ   | ^   | ^   |
-# Grammar
+# Morphology
 ## Nouns
 ### Number
 The basic form of all nouns is the "uncounted" form, which can represent a generic plural or generic reference to a type or category. Most nouns were countable, exhibiting a "counted" form of certain grammatical cases, which was singular by default but could take modifiers to specify quantity, such as numerals.
@@ -129,14 +129,15 @@ Some examples of the inflection of countable and uncountable nouns are shown in 
 | Relative stem   | Ergative-Genitive | -   | \*impē        | \*senē       | \*glē        | \*hehʷē           | \*neppē           | \*bejjē               |
 | ^               | Ablative          | -   | \*impi        | \*seni       | \*gli        | \*hehʷi           | \*neppi           | \*bejji               |
 ## Verbs
-### Morphology
 
 Verbs in Old Nambāno exhibit an extensive system of finite forms featuring an agglutinative template of prefixes and suffixes with varying degrees of fusionality.
 
-| Prefix | <        | <      | Base          | <     | Suffix | <      |
-| ------ | -------- | ------ | ------------- | ----- | ------ | ------ |
-| Tense  | Emphasis | Number | Stem (aspect) | Voice | Mood   | Person |
+| Prefix | <        | <      | Base          | <     | <    | Ending |
+| ------ | -------- | ------ | ------------- | ----- | ---- | ------ |
+| Tense  | Emphasis | Number | Stem (aspect) | Voice | Mood | Person |
 The citation form of a verb is its sole non-finite form, the gerund, an uncounted noun formed by adding the suffix \*-nō to the perfective stem.
+### Prefix
+The verb prefix is composed of optional morphemes which mark tense, emphasis or polarity, and the number of the subject.
 #### Tense
 The tense prefix is an optional part of the verb consisting of a single consonant, past \*hʷ- or non-past \*r-. This prefix can only attach to a following emphasis marker, another prefix on the verb. The tense marked on a verb is relative and can be left unmarked if the temporal context is already established. The future tense can be formed periphrastically in various ways.
 #### Emphasis
@@ -161,87 +162,81 @@ Verbs use various mechanisms for marking pluractionality which are not predictab
 	- \*tiŋgān- → \*tɨlliŋgān- "be isolated, far away"
 	- \*drãh- → \*narrãh- "be tied, tangled"
 	- \*nuŋg- → \*rumb- "be gathered up"
+### Base
+The base of a verb is a polymorphemic entity onto which the prefix and person-marking ending are attached. The base consists of a stem, which carries the semantic meaning of the verb, and suffixes marking the grammatical voice and mood.
+
+A verb base represents a set of related forms each with a specified aspect, voice and mood. There are five conjugation classes (I - V) which each have a different pattern relating the final phonological elements of these forms and the endings which they may take, the unmarked base forms of which are shown in the table below.
+
+| I            | II                  | III        | IV         | V    |
+| ------------ | ------------------- | ---------- | ---------- | ---- |
+| \*-aC, \*-oC | \*-iC, \*-ɨC, \*-uC | \*-a, \*-o | \*-ɨ, \*-u | \*-i |
 #### Stem
 The stem of the verb carries with it an intrinsic aspect, which may be perfective or imperfective. Most verbs exist as a pair of related aspectual stems, though some verbs exhibit only one aspect.
 
-The imperfective stem of a verb is usually regularly related to its perfective stem as shown in the table below:
+The imperfective stem of a verb is usually regularly related to its perfective stem and thus determined by its conjugation class, as shown in the table below:
 
-| Class | -   | Perfective stem | Imperfective stem |
-| ----- | --- | --------------- | ----------------- |
-| I     | -   | \*-oC-          | \*-eCi-           |
-| ^     | -   | \*-aC-          | ^                 |
-| II    | -   | \*-uC-          | \*-iCi-           |
-| ^     | -   | \*-ɨC-          | ^                 |
-| ^     | -   | \*-iC-          | ^                 |
-| III   | -   | \*-o-           | \*-ei- (\*-e-)    |
-| ^     | -   | \*-a-           | ^                 |
-| IV    | -   | \*-u-           | \*-i-             |
-| ^     | -   | \*-ɨ-           | ^                 |
-| V     | -   | \*-i-           | \*-is-            |
-
+| I     | II    | III     | IV   | V     |
+| ----- | ----- | ------- | ---- | ----- |
+| \*-eC | \*-iC | \*-e(i) | \*-i | \*-is |
 
 The imperfective stem also typically featured a modification of stem-final consonants, and sometimes the lengthening or nasalisation of the stem vowel. Most verbs followed a regular alternation pattern, shown in the table below.
 
-| Perfective stem consonant        | Imperfective stem consonant | Effect on stem vowel |
-| -------------------------------- | --------------------------- | -------------------- |
-| m, mm                            | ms                          | None                 |
-| mb, mp                           | mps                         | ^                    |
-| b, p, bb, pp                     | ps                          | ^                    |
-| d, j, g, gʷ, t, k, kʷ, s         | s                           | ^                    |
-| dd, jj, gg, ggʷ, tt, kk, kkʷ, ss | ss                          | ^                    |
-| r, l                             | ∅                           | ^                    |
-| rr                               | rr                          | ^                    |
-| ll                               | ll                          | ^                    |
-| nn, nj, ŋg, ŋgʷ, nt, ŋk, ŋkʷ     | s                           | Nasalised            |
-| n, ŋ, ŋʷ, ŋŋ, ŋŋʷ                | h                           | ^                    |
-| h                                | h                           | Lengthened           |
-| hʷ                               | hʷ                          | ^                    |
+| Perfective stem ending           | Imperfective stem ending | Effect on stem vowel |
+| -------------------------------- | ------------------------ | -------------------- |
+| m, mm                            | ms                       | None                 |
+| mb, mp, b, p, bb, pp             | ps                       | ^                    |
+| d, j, g, gʷ, t, k, kʷ, s         | s                        | ^                    |
+| dd, jj, gg, ggʷ, tt, kk, kkʷ, ss | ss                       | ^                    |
+| r                                | r                        | ^                    |
+| l                                | l                        | ^                    |
+| nn, nj, ŋg, ŋgʷ, nt, ŋk, ŋkʷ     | s                        | Nasalised            |
+| n, ŋ, ŋʷ, ŋŋ, ŋŋʷ                | h                        | ^                    |
+| h                                | h                        | Lengthened           |
+| hʷ                               | hʷ                       | ^                    |
 
-This alternation could often obscure the relation between the two stems, even following the regular pattern. For example, compare the following class-II perfective/imperfective stem pairs: \*ɨnn-/\*ĩsi- "to die"; \*pug-/\*pis- "to squeeze"; \*hɨb-/\*hips- "to cut".
+This alternation could often obscure the relation between the two stems, even following the regular pattern. For example, compare the following class-II perfective/imperfective stem pairs: \*ɨnn-/\*ĩs- "to die"; \*pug-/\*pis- "to squeeze"; \*hɨb-/\*hips- "to cut".
 #### Voice
-Verbs in Old Nambāno can be categorised into intransitive, passive and active types depending on the behaviour of their default arguments. The set of allowed arguments and their role within the verb are subject to the grammatical voice of the verb, of which there are six. Not all voices are necessarily present on any given verb and some voices are restricted to transitives (passive and active). The suffixes which mark grammatical voice on intransitive, passive and active type verbs are shown in the table below.
+Verbs in Old Nambāno can be categorised into intransitive, passive and active types depending on the behaviour of their default arguments. The set of allowed arguments and their role within the verb are subject to the grammatical voice of the verb, of which there are six. Not all voices are necessarily present on any given verb and some voices are restricted to transitives (passive and active).
 
-| Voice        | -   | Intransitive    | Passive                        | Active |
-| ------------ | --- | --------------- | ------------------------------ | ------ |
-| Intransitive | -   | \*-∅-           | Not present                    | <      |
-| Patient      | -   | Not present     | \*-∅-                          | \*-a-  |
-| Actor        | -   | ^               | \*-aŋk-                        | \*-∅-  |
-| Unaccusative | -   | ^               | \*-am-, \*-ām-, \*-ēm-, \*-ōm- | <      |
-| Applicative  | -   | \*-r-, \*-dr-   | <                              | <      |
-| Causative    | -   | \*-lu-, \*-llu- | <                              | <      |
+The suffixes which mark grammatical voice can change the forms of the subsequent mood and person marking suffixes, changing the verb from its intrinsic conjugation class to an effective conjugation class. The forms of the voice suffixes which may occur on intransitive, passive and active verbs are shown in the table below with their effective conjugation class where relevant.
 
-Most transitive verbs are passive-type, meaning the patient voice carries no voice suffix and the active voice is marked with the suffix shown in the table above. Conversely, others are active-type, meaning the actor voice is unmarked and the patient voice marked. Note that the active-type patient voice suffix only appears in the imperfective and its underlying form \*-a- is obscured by subsequent person-marking suffixes (see the examples [[Old Nambāno#Active|below]]).
+| Voice        | -   | Intransitive                      | Passive                        | Active                              |
+| ------------ | --- | --------------------------------- | ------------------------------ | ----------------------------------- |
+| Intransitive | -   | \*-∅                              | Not present                    | <                                   |
+| Patient      | -   | Not present                       | \*-∅                           | \*-u (III→IV); otherwise \*-o (III) |
+| Actor        | -   | ^                                 | \*-aŋk (I)                     | \*-∅                                |
+| Unaccusative | -   | ^                                 | \*-am, \*-ām, \*-ēm, \*-ōm (I) | <                                   |
+| Applicative  | -   | \*-ɨr, \*-r (III→I; otherwise II) | <                              | <                                   |
+| Causative    | -   | \*-lu, \*-llu (IV)                | <                              | <                                   |
+
+Most transitive verbs are passive-type, meaning the patient voice carries no voice suffix and the active voice is marked with the suffix shown in the table above. Conversely, others are active-type, meaning the actor voice is unmarked and the patient voice marked. Note that the active-type patient voice suffix only appears in the imperfective.
 
 Intransitive verbs carry a basic intransitive voice and can be marked for the applicative and causative voices only. Note that almost all transitive verbs can be use intransitively, i.e. with a subject and no additional arguments.
 #### Mood
 Finite verbs are marked for one of three moods; indicative, subjunctive and jussive.
 ##### Subjunctive
-The usual form of the subjunctive suffix is \*-ãhʷ-, onto which is attached a subsequent mandatory person marker. This suffix can take an alternate form when attaching to a vowel-final verb base, and can have an ablaut effect on the stem vowel otherwise, as shown in the table below.
+The usual forms of the subjunctive suffix are \*-ãhʷ in the perfective and \*-ẽhʷ in the imperfective, onto which is attached a subsequent mandatory person marker. This suffix can take an alternate form when attaching to a vowel-final verb base, and can have an ablaut effect on the stem vowel otherwise, as shown in the table below.
 
-| Indicative base | Subjunctive base |
-| --------------- | ---------------- |
-| \*-iC-          | \*-iCãhʷ-        |
-| \*-ɨC-          | ^                |
-| \*-uC-          | \*-uCãhʷ-        |
-| \*-aC-          | \*-aCãhʷ-        |
-| \*-oC-          | ^                |
-| \*-i-           | \*-Cĩhʷ-         |
-| \*-ɨ-           | \*-ãhʷ-          |
-| \*-u-           | \*-ũhʷ-          |
-| \*-a-           | \*-ãhʷ-          |
-| \*-o-           | \*-õhʷ-          |
+|                          | -   | I        | <     | II       | <     | <        | III    | <      | IV     | <      | V        |
+| ------------------------ | --- | -------- | ----- | -------- | ----- | -------- | ------ | ------ | ------ | ------ | -------- |
+| Indicative stem          | -   | \*-aC    | \*-oC | \*-iC    | \*-ɨC | \*-uC    | \*-a   | \*-o   | \*-ɨ   | \*-u   | \*-i     |
+| Subjunctive perfective   | -   | \*-aCãhʷ | <     | \*-iCãhʷ | <     | \*-uCãhʷ | \*-ãhʷ | \*-õhʷ | \*-ãhʷ | \*-ũhʷ | \*-ĩhʷ   |
+| Subjunctive imperfective | -   | \*-eCẽhʷ | <     | \*-iCẽhʷ | <     | <        | \*-ẽhʷ | <      | \*-ẽhʷ | <      | \*-isẽhʷ |
+
 ##### Jussive
-The jussive is a form of the verb used with second and third person subjects to express commands and exhortations. It is formed by adding the suffix \*-na to a subjunctive base which regularly deletes its final \*-hʷ, for example the verb \*kehʷinō has the subjunctive base \*kehʷĩhʷ- and jussive \*kehʷĩna. An archaic suffix \*-nɨ originally distinguished an imperative used specifically to issue commands to the second person, but this was lost by the extension of the usage of \*-na.
+The jussive is a form of the verb used with second and third person subjects to express commands and exhortations. It is formed by adding the suffix \*-na to a subjunctive base which regularly deletes its final \*-hʷ, for example the verb \*kehʷinō has the subjunctive base \*kehʷisẽhʷ- and jussive \*kehʷisẽna. An archaic suffix \*-nɨ originally distinguished an imperative used specifically to issue commands to the second person, but this was lost by the extension of the usage of \*-na.
 #### Person
 Finite verbs take one of two suffixes which agree with the person of the subject, marking either the first or second/third person. The form of these suffixes change depending on a preceding vowel, as shown in the table below.
 
-| Base vowel | First person | Second or third person |
-| ---------- | ------------ | ---------------------- |
-| ∅, ɨ       | \*-a         | \*-ɨ̄/ū                |
-| i          | \*-ē         | ^                      |
-| u          | \*-ō         | ^                      |
-| a, o       | \*-o         | \*-ō                   |
-The jussive mood is unique in having no first person form and always appearing with the ending \*-na.
+| Base vowel | -   | First person | Second or third person                        |
+| ---------- | --- | ------------ | --------------------------------------------- |
+| \*∅, \*ɨ   | -   | \*-a         | \*-ɨ̄ after labialised velars, \*-ū otherwise |
+| \*i        | -   | \*-ē         | ^                                             |
+| \*u        | -   | \*-ō         | ^                                             |
+| \*a, \*o   | -   | \*-o         | \*-ou                                         |
+| \*e(i)     | -   | \*-i         | \*-iu                                         |
+
+The base vowel \*e(i) is a special case only occurring in the imperfective; on all voices of class-I verbs and in the unmarked voice of all other verbs.
 ### Example conjugations
 #### Intransitive
 ##### \*bessīnō, br- (II) "walk"
@@ -252,31 +247,30 @@ The jussive mood is unique in having no first person form and always appearing w
 | Perfective   | Intransitive | -   | \*bessiha  | \*bressiha  | \*bessihū  | \*bressihū  | \*bessihãhʷa  | \*bressihãhʷa  | \*bessihãhʷɨ̄  | \*bressihãhʷɨ̄  | \*bessihãna  | \*bressihãna  |
 | ^            | Applicative  | -   | \*bessira  | \*bressira  | \*bessirū  | \*bressirū  | \*bessirãhʷa  | \*bressirãhʷa  | \*bessirãhʷɨ̄  | \*bressirãhʷɨ̄  | \*bessirãna  | \*bressirãna  |
 | ^            | Causative    | -   | \*bessillō | \*bressillō | \*bessillū | \*bressillū | \*bessillũhʷa | \*bressillũhʷa | \*bessillũhʷɨ̄ | \*bressillũhʷɨ̄ | \*bessillũna | \*bressillũna |
-| Imperfective | Intransitive | -   | \*bessīha  | \*bressīha  | \*bessīhū  | \*bressīhū  | \*bessīhãhʷa  | \*bressīhãhʷa  | \*bessīhãhʷɨ̄  | \*bressīhãhʷɨ̄  | \*bessīhãna  | \*bressīhãna  |
+| Imperfective | Intransitive | -   | \*bessīhi  | \*bressīhi  | \*bessīhiu | \*bressīhiu | \*bessīhẽhʷa  | \*bressīhẽhʷa  | \*bessīhẽhʷɨ̄  | \*bressīhẽhʷɨ̄  | \*bessīhẽna  | \*bressīhẽna  |
 | ^            | Applicative  | -   | \*bessīra  | \*bressīra  | \*bessīrū  | \*bressīrū  | \*bessīrãhʷa  | \*bressīrãhʷa  | \*bessīrãhʷɨ̄  | \*bressīrãhʷɨ̄  | \*bessīrãna  | \*bressīrãna  |
 | ^            | Causative    | -   | \*bessīlō  | \*bressīlō  | \*bessīlū  | \*bressīlū  | \*bessīlũhʷa  | \*bressīlũhʷa  | \*bessīlũhʷɨ̄  | \*bressīlũhʷɨ̄  | \*bessīlũna  | \*bressīlũna  |
 ##### \*tŋonō, tadŋ- (III) "bend"
 |              | <            | -   | Indicative | <           | <         | <           | Subjunctive  | <              | <             | <               | Jussive     | <             |
 | ------------ | ------------ | --- | ---------- | ----------- | --------- | ----------- | ------------ | -------------- | ------------- | --------------- | ----------- | ------------- |
 |              | <            | -   | 1sg        | 1pl         | 2/3sg     | 2/3pl       | 1sg          | 1pl            | 2/3sg         | 2/3pl           | 2/3sg       | 2/3pl         |
-| Perfective   | Intransitive | -   | \*tŋo      | \*tadŋo     | \*tŋō     | \*tadŋō     | \*tŋõhʷa     | \*tadŋõhʷa     | \*tŋõhʷɨ̄     | \*tadŋõhʷɨ̄     | \*tŋõna     | \*tadŋõna     |
+| Perfective   | Intransitive | -   | \*tŋo      | \*tadŋo     | \*tŋou    | \*tadŋou    | \*tŋõhʷa     | \*tadŋõhʷa     | \*tŋõhʷɨ̄     | \*tadŋõhʷɨ̄     | \*tŋõna     | \*tadŋõna     |
 | ^            | Applicative  | -   | \*tŋora    | \*tadŋora   | \*tŋorū   | \*tadŋorū   | \*tŋorãhʷa   | \*tadŋorãhʷa   | \*tŋorãhʷɨ̄   | \*tadŋorãhʷɨ̄   | \*tŋorãna   | \*tadŋorãna   |
 | ^            | Causative    | -   | \*tŋollō   | \*tadŋollō  | \*tŋollū  | \*tadŋollū  | \*tŋollũhʷa  | \*tadŋollũhʷa  | \*tŋollũhʷɨ̄  | \*tadŋollũhʷɨ̄  | \*tŋollũna  | \*tadŋollũna  |
-| Imperfective | Intransitive | -   | \*tŋē      | \*tadŋē     | \*tŋū     | \*tadŋū     | \*tŋĩhʷa     | \*tadŋĩhʷa     | \*tŋĩhʷɨ̄     | \*tadŋĩhʷɨ̄     | \*tŋĩna     | \*tadŋĩna     |
+| Imperfective | Intransitive | -   | \*tŋi      | \*tadŋi     | \*tŋiu    | \*tadŋiu    | \*tŋẽhʷa     | \*tadŋẽhʷa     | \*tŋẽhʷɨ̄     | \*tadŋẽhʷɨ̄     | \*tŋẽna     | \*tadŋẽna     |
 | ^            | Applicative  | -   | \*tŋeira   | \*tadŋeira  | \*tŋeirū  | \*tadŋeirū  | \*tŋeirãhʷa  | \*tadŋeirãhʷa  | \*tŋeirãhʷɨ̄  | \*tadŋeirãhʷɨ̄  | \*tŋeirãna  | \*tadŋeirãna  |
 | ^            | Causative    | -   | \*tŋeillō  | \*tadŋeillō | \*tŋeillū | \*tadŋeillū | \*tŋeillũhʷa | \*tadŋeillũhʷa | \*tŋeillũhʷɨ̄ | \*tadŋeillũhʷɨ̄ | \*tŋeillũna | \*tadŋeillũna |
 ##### \*hesinō, hah- (V) "sleep"
 
-|              | <            | -   | Indicative | <           | <         | <           | Subjunctive  | <              | <             | <               | Jussive     | <             |
-| ------------ | ------------ | --- | ---------- | ----------- | --------- | ----------- | ------------ | -------------- | ------------- | --------------- | ----------- | ------------- |
-|              | <            | -   | 1sg        | 1pl         | 2/3sg     | 2/3pl       | 1sg          | 1pl            | 2/3sg         | 2/3pl           | 2/3sg       | 2/3pl         |
-| Perfective   | Intransitive | -   | \*hesē     | \*hahesē    | \*hesū    | \*hahesū    | \*hesĩhʷa    | \*hahesĩhʷa    | \*hesĩhʷɨ̄    | \*hahesĩhʷɨ̄    | \*hesĩna    | \*hahesĩna    |
-| ^            | Applicative  | -   | \*hesira   | \*hahesira  | \*hesirū  | \*hahesirū  | \*hesirãhʷa  | \*hahesirãhʷa  | \*hesirãhʷɨ̄  | \*hahesirãhʷɨ̄  | \*hesirãna  | \*hahesirãna  |
-| ^            | Causative    | -   | \*hesillō  | \*hahesillō | \*hesillū | \*hahesillū | \*hesillũhʷa | \*hahesillũhʷa | \*hesillũhʷɨ̄ | \*hahesillũhʷɨ̄ | \*hesillũna | \*hahesillũna |
-| Imperfective | Intransitive | -   | \*hesisa   | \*hahesisa  | \*hesisū  | \*hahesisū  | \*hesisãhʷa  | \*hahesisãhʷa  | \*hesisãhʷɨ̄  | \*hahesisãhʷɨ̄  | \*hesisãna  | \*hahesisãna  |
-| ^            | Applicative  | -   | \*hesisra  | \*hahesisra | \*hesisrū | \*hahesisrū | \*hesisrãhʷa | \*hahesisrãhʷa | \*hesisrãhʷɨ̄ | \*hahesisrãhʷɨ̄ | \*hesisrãna | \*hahesisrãna |
-| ^            | Causative    | -   | \*hesislō  | \*hahesislō | \*hesislū | \*hahesislū | \*hesislũhʷa | \*hahesislũhʷa | \*hesislũhʷɨ̄ | \*hahesislũhʷɨ̄ | \*hesislũna | \*hahesislũna |
-
+|              | <            | -   | Indicative | <            | <          | <            | Subjunctive   | <               | <              | <                | Jussive      | <              |
+| ------------ | ------------ | --- | ---------- | ------------ | ---------- | ------------ | ------------- | --------------- | -------------- | ---------------- | ------------ | -------------- |
+|              | <            | -   | 1sg        | 1pl          | 2/3sg      | 2/3pl        | 1sg           | 1pl             | 2/3sg          | 2/3pl            | 2/3sg        | 2/3pl          |
+| Perfective   | Intransitive | -   | \*hesē     | \*hahesē     | \*hesū     | \*hahesū     | \*hesĩhʷa     | \*hahesĩhʷa     | \*hesĩhʷɨ̄     | \*hahesĩhʷɨ̄     | \*hesĩna     | \*hahesĩna     |
+| ^            | Applicative  | -   | \*hesira   | \*hahesira   | \*hesirū   | \*hahesirū   | \*hesirãhʷa   | \*hahesirãhʷa   | \*hesirãhʷɨ̄   | \*hahesirãhʷɨ̄   | \*hesirãna   | \*hahesirãna   |
+| ^            | Causative    | -   | \*hesillō  | \*hahesillō  | \*hesillū  | \*hahesillū  | \*hesillũhʷa  | \*hahesillũhʷa  | \*hesillũhʷɨ̄  | \*hahesillũhʷɨ̄  | \*hesillũna  | \*hahesillũna  |
+| Imperfective | Intransitive | -   | \*hesisi   | \*hahesisi   | \*hesisiu  | \*hahesisiu  | \*hesisẽhʷa   | \*hahesisẽhʷa   | \*hesisẽhʷɨ̄   | \*hahesisẽhʷɨ̄   | \*hesisẽna   | \*hahesisẽna   |
+| ^            | Applicative  | -   | \*hesisɨra | \*hahesisɨra | \*hesisɨrū | \*hahesisɨrū | \*hesisɨrãhʷa | \*hahesisɨrãhʷa | \*hesisɨrãhʷɨ̄ | \*hahesisɨrãhʷɨ̄ | \*hesisɨrãna | \*hahesisɨrãna |
+| ^            | Causative    | -   | \*hesislō  | \*hahesislō  | \*hesislū  | \*hahesislū  | \*hesislũhʷa  | \*hahesislũhʷa  | \*hesislũhʷɨ̄  | \*hahesislũhʷɨ̄  | \*hesislũna  | \*hahesislũna  |
 #### Passive
 ##### \*gonnō, gr- (I) "be known, familiar"
 |              | <            | -   | Indicative | <           | <            | <             | Subjunctive   | <              | <              | <               | Jussive      | <             |
@@ -287,26 +281,26 @@ The jussive mood is unique in having no first person form and always appearing w
 | ^            | Unaccusative | -   | \*gannama  | \*grannama  | \*gannamū    | \*grannamū    | \*gannamãhʷa  | \*grannamãhʷa  | \*gannamãhʷɨ̄  | \*grannamãhʷɨ̄  | \*gannamãna  | \*grannamãna  |
 | ^            | Applicative  | -   | \*gandra   | \*grandra   | \*gandrū     | \*grandrū     | \*gandrãhʷa   | \*grandrãhʷa   | \*gandrãhʷɨ̄   | \*grandrãhʷɨ̄   | \*gandrãna   | \*grandrãna   |
 | ^            | Causative    | -   | \*gallō    | \*grallō    | \*gallū      | \*grallū      | \*gallũhʷa    | \*grallũhʷa    | \*gallũhʷɨ̄    | \*grallũhʷɨ̄    | \*gallũna    | \*grallũna    |
-| Imperfective | Patient      | -   | \*gẽsē     | \*grẽsē     | \*gẽsū       | \*grẽsū       | \*gẽsēhʷa     | \*grẽsēhʷa     | \*gẽsēhʷɨ̄     | \*grẽsēhʷɨ̄     | \*gẽsēna     | \*grẽsēna     |
-| ^            | Actor        | -   | \*gẽsiŋka  | \*grẽsiŋka  | \*gẽsiŋkʷɨ̄  | \*grẽsiŋkʷɨ̄  | \*gẽsiŋkãhʷa  | \*grẽsiŋkãhʷa  | \*gẽsiŋkãhʷɨ̄  | \*grẽsiŋkãhʷɨ̄  | \*gẽsiŋkãna  | \*grẽsiŋkãna  |
-| ^            | Unaccusative | -   | \*gẽsēma   | \*grẽsēma   | \*gẽsēmū     | \*grẽsēmū     | \*gẽsēmãhʷa   | \*grẽsēmãhʷa   | \*gẽsēmãhʷɨ̄   | \*grẽsēmãhʷɨ̄   | \*gẽsēmãna   | \*grẽsēmãna   |
-| ^            | Applicative  | -   | \*gẽsira   | \*grẽsira   | \*gẽsirū     | \*grẽsirū     | \*gẽsirãhʷa   | \*grẽsirãhʷa   | \*gẽsirãhʷɨ̄   | \*grẽsirãhʷɨ̄   | \*gẽsirãna   | \*grẽsirãna   |
-| ^            | Causative    | -   | \*gẽsillō  | \*grẽsillō  | \*gẽsillū    | \*grẽsillū    | \*gẽsillũhʷa  | \*grẽsillũhʷa  | \*gẽsillũhʷɨ̄  | \*grẽsillũhʷɨ̄  | \*gẽsillũna  | \*grẽsillũna  |
+| Imperfective | Patient      | -   | \*gẽsi     | \*grẽsi     | \*gẽsiu      | \*grẽsiu      | \*gẽsẽhʷa     | \*grẽsẽhʷa     | \*gẽsẽhʷɨ̄     | \*grẽsẽhʷɨ̄     | \*gẽsẽna     | \*grẽsẽna     |
+| ^            | Actor        | -   | \*gẽsaŋka  | \*grẽsaŋka  | \*gẽsaŋkʷɨ̄  | \*grẽsaŋkʷɨ̄  | \*gẽsaŋkãhʷa  | \*grẽsaŋkãhʷa  | \*gẽsaŋkãhʷɨ̄  | \*grẽsaŋkãhʷɨ̄  | \*gẽsaŋkãna  | \*grẽsaŋkãna  |
+| ^            | Unaccusative | -   | \*gẽsama   | \*grẽsama   | \*gẽsamū     | \*grẽsamū     | \*gẽsamãhʷa   | \*grẽsamãhʷa   | \*gẽsamãhʷɨ̄   | \*grẽsamãhʷɨ̄   | \*gẽsamãna   | \*grẽsamãna   |
+| ^            | Applicative  | -   | \*gẽsɨra   | \*grẽsɨra   | \*gẽsɨrū     | \*grẽsɨrū     | \*gẽsɨrãhʷa   | \*grẽsɨrãhʷa   | \*gẽsɨrãhʷɨ̄   | \*grẽsɨrãhʷɨ̄   | \*gẽsɨrãna   | \*grẽsɨrãna   |
+| ^            | Causative    | -   | \*gẽslō    | \*grẽslō    | \*gẽslū      | \*grẽslū      | \*gẽslũhʷa    | \*grẽslũhʷa    | \*gẽslũhʷɨ̄    | \*grẽslũhʷɨ̄    | \*gẽslũna    | \*grẽslũna    |
 ##### \*ubnō, r- (II) "be increased"
 
-|              | <            | -   | Indicative | <           | <           | <            | Subjunctive   | <              | <              | <               | Jussive      | <             |
-| ------------ | ------------ | --- | ---------- | ----------- | ----------- | ------------ | ------------- | -------------- | -------------- | --------------- | ------------ | ------------- |
-|              | <            | -   | 1sg        | 1pl         | 2/3sg       | 2/3pl        | 1sg           | 1pl            | 2/3sg          | 2/3pl           | 2/3sg        | 2/3pl         |
-| Perfective   | Patient      | -   | \*uba      | \*ruba      | \*ubū       | \*rubū       | \*ubãhʷa      | \*rubãhʷa      | \*ubãhʷɨ̄      | \*rubãhʷɨ̄      | \*ubãna      | \*rubãna      |
-| ^            | Actor        | -   | \*ubaŋka   | \*rubaŋka   | \*ubaŋkʷɨ̄  | \*rubaŋkʷɨ̄  | \*ubaŋkãhʷa   | \*rubaŋkãhʷa   | \*ubaŋkãhʷɨ̄   | \*rubaŋkãhʷɨ̄   | \*ubaŋkãna   | \*rubaŋkãna   |
-| ^            | Unaccusative | -   | \*ubama    | \*rubama    | \*ubamū     | \*rubamū     | \*ubamãhʷa    | \*rubamãhʷa    | \*ubamãhʷɨ̄    | \*rubamãhʷɨ̄    | \*ubamãna    | \*rubamãna    |
-| ^            | Applicative  | -   | \*ubra     | \*rubra     | \*ubrū      | \*rubrū      | \*gandrãhʷa   | \*grandrãhʷa   | \*gandrãhʷɨ̄   | \*grandrãhʷɨ̄   | \*gandrãna   | \*grandrãna   |
-| ^            | Causative    | -   | \*ublō     | \*rublō     | \*ublū      | \*rublū      | \*gallũhʷa    | \*grallũhʷa    | \*gallũhʷɨ̄    | \*grallũhʷɨ̄    | \*gallũna    | \*grallũna    |
-| Imperfective | Patient      | -   | \*ipsē     | \*ripsē     | \*ipsū      | \*ripsū      | \*ipsēhʷa     | \*ripsēhʷa     | \*ipsēhʷɨ̄     | \*ripsēhʷɨ̄     | \*ipsēna     | \*ripsēna     |
-| ^            | Actor        | -   | \*ipsiŋka  | \*ripsiŋka  | \*ipsiŋkʷɨ̄ | \*ripsiŋkʷɨ̄ | \*ipsiŋkãhʷa  | \*ripsiŋkãhʷa  | \*ipsiŋkãhʷɨ̄  | \*ripsiŋkãhʷɨ̄  | \*ipsiŋkãna  | \*ripsiŋkãna  |
-| ^            | Unaccusative | -   | \*ipsēma   | \*ripsēma   | \*ipsēmū    | \*ripsēmū    | \*ipsēmãhʷa   | \*ripsēmãhʷa   | \*ipsēmãhʷɨ̄   | \*ripsēmãhʷɨ̄   | \*ipsēmãna   | \*ripsēmãna   |
-| ^            | Applicative  | -   | \*ipsira   | \*ripsira   | \*ipsirū    | \*ripsirū    | \*ipsirãhʷa   | \*ripsirãhʷa   | \*ipsirãhʷɨ̄   | \*ripsirãhʷɨ̄   | \*ipsirãna   | \*ripsirãna   |
-| ^            | Causative    | -   | \*ipsillō  | \*ripsillō  | \*ipsillū   | \*ripsillū   | \*ipsillũhʷa  | \*ripsillũhʷa  | \*ipsillũhʷɨ̄  | \*ripsillũhʷɨ̄  | \*ipsillũna  | \*ripsillũna  |
+|              | <            | -   | Indicative | <          | <           | <            | Subjunctive  | <             | <             | <              | Jussive     | <            |
+| ------------ | ------------ | --- | ---------- | ---------- | ----------- | ------------ | ------------ | ------------- | ------------- | -------------- | ----------- | ------------ |
+|              | <            | -   | 1sg        | 1pl        | 2/3sg       | 2/3pl        | 1sg          | 1pl           | 2/3sg         | 2/3pl          | 2/3sg       | 2/3pl        |
+| Perfective   | Patient      | -   | \*uba      | \*ruba     | \*ubū       | \*rubū       | \*ubãhʷa     | \*rubãhʷa     | \*ubãhʷɨ̄     | \*rubãhʷɨ̄     | \*ubãna     | \*rubãna     |
+| ^            | Actor        | -   | \*ubaŋka   | \*rubaŋka  | \*ubaŋkʷɨ̄  | \*rubaŋkʷɨ̄  | \*ubaŋkãhʷa  | \*rubaŋkãhʷa  | \*ubaŋkãhʷɨ̄  | \*rubaŋkãhʷɨ̄  | \*ubaŋkãna  | \*rubaŋkãna  |
+| ^            | Unaccusative | -   | \*ubama    | \*rubama   | \*ubamū     | \*rubamū     | \*ubamãhʷa   | \*rubamãhʷa   | \*ubamãhʷɨ̄   | \*rubamãhʷɨ̄   | \*ubamãna   | \*rubamãna   |
+| ^            | Applicative  | -   | \*ubra     | \*rubra    | \*ubrū      | \*rubrū      | \*gandrãhʷa  | \*grandrãhʷa  | \*gandrãhʷɨ̄  | \*grandrãhʷɨ̄  | \*gandrãna  | \*grandrãna  |
+| ^            | Causative    | -   | \*ublō     | \*rublō    | \*ublū      | \*rublū      | \*gallũhʷa   | \*grallũhʷa   | \*gallũhʷɨ̄   | \*grallũhʷɨ̄   | \*gallũna   | \*grallũna   |
+| Imperfective | Patient      | -   | \*ipsi     | \*ripsi    | \*ipsiu     | \*ripsiu     | \*ipsẽhʷa    | \*ripsẽhʷa    | \*ipsẽhʷɨ̄    | \*ripsẽhʷɨ̄    | \*ipsẽna    | \*ripsẽna    |
+| ^            | Actor        | -   | \*ipsaŋka  | \*ripsaŋka | \*ipsaŋkʷɨ̄ | \*ripsaŋkʷɨ̄ | \*ipsaŋkãhʷa | \*ripsaŋkãhʷa | \*ipsaŋkãhʷɨ̄ | \*ripsaŋkãhʷɨ̄ | \*ipsaŋkãna | \*ripsaŋkãna |
+| ^            | Unaccusative | -   | \*ipsama   | \*ripsama  | \*ipsamū    | \*ripsamū    | \*ipsamãhʷa  | \*ripsamãhʷa  | \*ipsamãhʷɨ̄  | \*ripsamãhʷɨ̄  | \*ipsamãna  | \*ripsamãna  |
+| ^            | Applicative  | -   | \*ipsɨra   | \*ripsɨra  | \*ipsɨrū    | \*ripsɨrū    | \*ipsɨrãhʷa  | \*ripsɨrãhʷa  | \*ipsɨrãhʷɨ̄  | \*ripsɨrãhʷɨ̄  | \*ipsɨrãna  | \*ripsɨrãna  |
+| ^            | Causative    | -   | \*ipslō    | \*ripslō   | \*ipslū     | \*ripslū     | \*ipslũhʷa   | \*ripslũhʷa   | \*ipslũhʷɨ̄   | \*ripslũhʷɨ̄   | \*ipslũna   | \*ripslũna   |
 
 ##### \*mitɨnō, mɨm- (IV) "be sewn, scattered"
 
@@ -318,7 +312,7 @@ The jussive mood is unique in having no first person form and always appearing w
 | ^            | Unaccusative | -   | \*mitama   | \*mɨmitama  | \*mitamū    | \*mɨmitamū    | \*mitamãhʷa  | \*mɨmitamãhʷa  | \*mitamãhʷɨ̄  | \*mɨmitamãhʷɨ̄  | \*mitamãna  | \*mɨmitamãna  |
 | ^            | Applicative  | -   | \*mitɨra   | \*mɨmitɨra  | \*mitɨrū    | \*mɨmitɨrū    | \*mitɨrãhʷa  | \*mɨmitɨrãhʷa  | \*mitɨrãhʷɨ̄  | \*mɨmitɨrãhʷɨ̄  | \*mitɨrãna  | \*mɨmitɨrãna  |
 | ^            | Causative    | -   | \*mitɨllō  | \*mɨmitɨllō | \*mitɨllū   | \*mɨmitɨllū   | \*mitɨllũhʷa | \*mɨmitɨllũhʷa | \*mitɨllũhʷɨ̄ | \*mɨmitɨllũhʷɨ̄ | \*mitɨllũna | \*mɨmitɨllũna |
-| Imperfective | Patient      | -   | \*mitē     | \*mɨmitē    | \*mitū      | \*mɨmitū      | \*mitĩhʷa    | \*mɨmitĩhʷa    | \*mitĩhʷɨ̄    | \*mɨmitĩhʷɨ̄    | \*mitĩna    | \*mɨmitĩna    |
+| Imperfective | Patient      | -   | \*miti     | \*mɨmiti    | \*mitiu     | \*mɨmitiu     | \*mitẽhʷa    | \*mɨmitẽhʷa    | \*mitẽhʷɨ̄    | \*mɨmitẽhʷɨ̄    | \*mitẽna    | \*mɨmitẽna    |
 | ^            | Actor        | -   | \*mitiŋka  | \*mɨmitiŋka | \*mitiŋkʷɨ̄ | \*mɨmitiŋkʷɨ̄ | \*mitiŋkãhʷa | \*mɨmitiŋkãhʷa | \*mitiŋkãhʷɨ̄ | \*mɨmitiŋkãhʷɨ̄ | \*mitiŋkãna | \*mɨmitiŋkãna |
 | ^            | Unaccusative | -   | \*mitēma   | \*mɨmitēma  | \*mitēmū    | \*mɨmitēmū    | \*mitēmãhʷa  | \*mɨmitēmãhʷa  | \*mitēmãhʷɨ̄  | \*mɨmitēmãhʷɨ̄  | \*mitēmãna  | \*mɨmitēmãna  |
 | ^            | Applicative  | -   | \*mitira   | \*mɨmitira  | \*mitirū    | \*mɨmitirū    | \*mitirãhʷa  | \*mɨmitirãhʷa  | \*mitirãhʷɨ̄  | \*mɨmitirãhʷɨ̄  | \*mitirãna  | \*mɨmitirãna  |
@@ -334,10 +328,10 @@ The jussive mood is unique in having no first person form and always appearing w
 | ^            | Unaccusative | -   | \*ŋagama   | \*jɨŋagama | \*ŋagamū | \*jɨŋagamū | \*ŋagamãhʷa | \*jɨŋagamãhʷa | \*ŋagamãhʷɨ̄ | \*jɨŋagamãhʷɨ̄ | \*ŋagamãna | \*jɨŋagamãna |
 | ^            | Applicative  | -   | \*ŋagra    | \*jɨŋagra  | \*ŋagrū  | \*jɨŋagrū  | \*ŋagrãhʷa  | \*jɨŋagrãhʷa  | \*ŋagrãhʷɨ̄  | \*jɨŋagrãhʷɨ̄  | \*ŋagrãna  | \*jɨŋagrãna  |
 | ^            | Causative    | -   | \*ŋaglō    | \*jɨŋaglō  | \*ŋaglū  | \*jɨŋaglū  | \*ŋaglũhʷa  | \*jɨŋaglũhʷa  | \*ŋaglũhʷɨ̄  | \*jɨŋaglũhʷɨ̄  | \*ŋaglũna  | \*jɨŋaglũna  |
-| Imperfective | Patient      | -   | \*ŋeso     | \*jɨŋeso   | \*ŋesō   | \*jɨŋesō   | \*ŋesõhʷa   | \*jɨŋesõhʷa   | \*ŋesõhʷɨ̄   | \*jɨŋesõhʷɨ̄   | \*ŋesõna   | \*jɨŋesõna   |
-| ^            | Actor        | -   | \*ŋesa     | \*jɨŋesa   | \*ŋesū   | \*jɨŋesū   | \*ŋesãhʷa   | \*jɨŋesãhʷa   | \*ŋesãhʷɨ̄   | \*jɨŋesãhʷɨ̄   | \*ŋesãna   | \*jɨŋesãna   |
+| Imperfective | Patient      | -   | \*ŋeso     | \*jɨŋeso   | \*ŋesou  | \*jɨŋesou  | \*ŋesõhʷa   | \*jɨŋesõhʷa   | \*ŋesõhʷɨ̄   | \*jɨŋesõhʷɨ̄   | \*ŋesõna   | \*jɨŋesõna   |
+| ^            | Actor        | -   | \*ŋesi     | \*jɨŋesi   | \*ŋesiu  | \*jɨŋesiu  | \*ŋesẽhʷa   | \*jɨŋesẽhʷa   | \*ŋesẽhʷɨ̄   | \*jɨŋesẽhʷɨ̄   | \*ŋesẽna   | \*jɨŋesẽna   |
 | ^            | Unaccusative | -   | \*ŋesama   | \*jɨŋesama | \*ŋesamū | \*jɨŋesamū | \*ŋesamãhʷa | \*jɨŋesamãhʷa | \*ŋesamãhʷɨ̄ | \*jɨŋesamãhʷɨ̄ | \*ŋesamãna | \*jɨŋesamãna |
-| ^            | Applicative  | -   | \*ŋesra    | \*jɨŋesra  | \*ŋesrū  | \*jɨŋesrū  | \*ŋesrãhʷa  | \*jɨŋesrãhʷa  | \*ŋesrãhʷɨ̄  | \*jɨŋesrãhʷɨ̄  | \*ŋesrãna  | \*jɨŋesrãna  |
+| ^            | Applicative  | -   | \*ŋesɨra   | \*jɨŋesɨra | \*ŋesɨrū | \*jɨŋesɨrū | \*ŋesɨrãhʷa | \*jɨŋesɨrãhʷa | \*ŋesɨrãhʷɨ̄ | \*jɨŋesɨrãhʷɨ̄ | \*ŋesɨrãna | \*jɨŋesɨrãna |
 | ^            | Causative    | -   | \*ŋeslō    | \*jɨŋeslō  | \*ŋeslū  | \*jɨŋeslū  | \*ŋeslũhʷa  | \*jɨŋeslũhʷa  | \*ŋeslũhʷɨ̄  | \*jɨŋeslũhʷɨ̄  | \*ŋeslũna  | \*jɨŋeslũna  |
 
 ##### \*ãnanō, r- (III) "see"
@@ -345,12 +339,12 @@ The jussive mood is unique in having no first person form and always appearing w
 |              | <            | -   | Indicative | <          | <         | <          | Subjunctive  | <             | <             | <              | Jussive     | <            |
 | ------------ | ------------ | --- | ---------- | ---------- | --------- | ---------- | ------------ | ------------- | ------------- | -------------- | ----------- | ------------ |
 |              | <            | -   | 1sg        | 1pl        | 2/3sg     | 2/3pl      | 1sg          | 1pl           | 2/3sg         | 2/3pl          | 2/3sg       | 2/3pl        |
-| Perfective   | Actor        | -   | \*ãna      | \*rãna     | \*ãnū     | \*rãnū     | \*ãnãhʷa     | \*rãnãhʷa     | \*ãnãhʷɨ̄     | \*rãnãhʷɨ̄     | \*ãnãna     | \*rãnãna     |
+| Perfective   | Actor        | -   | \*ãno      | \*rãno     | \*ãnou    | \*rãnou    | \*ãnãhʷa     | \*rãnãhʷa     | \*ãnãhʷɨ̄     | \*rãnãhʷɨ̄     | \*ãnãna     | \*rãnãna     |
 | ^            | Unaccusative | -   | \*ãnama    | \*rãnama   | \*ãnamū   | \*rãnamū   | \*ãnamãhʷa   | \*rãnamãhʷa   | \*ãnamãhʷɨ̄   | \*rãnamãhʷɨ̄   | \*ãnamãna   | \*rãnamãna   |
-| ^            | Applicative  | -   | \*andra    | \*randra   | \*andrū   | \*randrū   | \*andrãhʷa   | \*randrãhʷa   | \*andrãhʷɨ̄   | \*randrãhʷɨ̄   | \*andrãna   | \*randrãna   |
+| ^            | Applicative  | -   | \*anara    | \*ranara   | \*anarū   | \*ranarū   | \*anarãhʷa   | \*ranarãhʷa   | \*anarãhʷɨ̄   | \*ranarãhʷɨ̄   | \*anarãna   | \*ranarãna   |
 | ^            | Causative    | -   | \*ãnallō   | \*rãnallō  | \*ãnallū  | \*rãnallū  | \*ãnallũhʷa  | \*rãnallũhʷa  | \*ãnallũhʷɨ̄  | \*rãnallũhʷɨ̄  | \*ãnallũna  | \*rãnallũna  |
-| Imperfective | Patient      | -   | \*ãno      | \*rãno     | \*ãnō     | \*rãnō     | \*ãnõhʷa     | \*rãnõhʷa     | \*ãnõhʷɨ̄     | \*rãnõhʷɨ̄     | \*ãnõna     | \*rãnõna     |
-| ^            | Actor        | -   | \*ãnē      | \*rãnē     | \*ãnū     | \*rãnū     | \*ãnĩhʷa     | \*rãnĩhʷa     | \*ãnĩhʷɨ̄     | \*rãnĩhʷɨ̄     | \*ãnĩna     | \*rãnĩna     |
+| Imperfective | Patient      | -   | \*ãnō      | \*rãnō     | \*ãnū     | \*rãnū     | \*ãnũhʷa     | \*rãnũhʷa     | \*ãnũhʷɨ̄     | \*rãnũhʷɨ̄     | \*ãnũna     | \*rãnũna     |
+| ^            | Actor        | -   | \*ãni      | \*rãni     | \*ãniu    | \*rãniu    | \*ãnẽhʷa     | \*rãnẽhʷa     | \*ãnẽhʷɨ̄     | \*rãnẽhʷɨ̄     | \*ãnẽna     | \*rãnẽna     |
 | ^            | Unaccusative | -   | \*ãneima   | \*rãneima  | \*ãneimū  | \*rãneimū  | \*ãneimãhʷa  | \*rãneimãhʷa  | \*ãneimãhʷɨ̄  | \*rãneimãhʷɨ̄  | \*ãneimãna  | \*rãneimãna  |
 | ^            | Applicative  | -   | \*ãneira   | \*rãneira  | \*ãneirū  | \*rãneirū  | \*ãneirãhʷa  | \*rãneirãhʷa  | \*ãneirãhʷɨ̄  | \*rãneirãhʷɨ̄  | \*ãneirãna  | \*rãneirãna  |
 | ^            | Causative    | -   | \*ãneillō  | \*rãneillō | \*ãneillū | \*rãneillū | \*ãneillũhʷa | \*rãneillũhʷa | \*ãneillũhʷɨ̄ | \*rãneillũhʷɨ̄ | \*ãneillũna | \*rãneillũna |
@@ -364,9 +358,9 @@ The jussive mood is unique in having no first person form and always appearing w
 | ^            | Unaccusative | -   | \*pleŋēma   | \*pableŋēma   | \*pleŋēmū   | \*pableŋēmū   | \*pleŋimãhʷa   | \*pableŋimãhʷa   | \*pleŋimãhʷɨ̄   | \*pableŋimãhʷɨ̄   | \*pleŋimãna   | \*pableŋimãna   |
 | ^            | Applicative  | -   | \*pleŋira   | \*pableŋira   | \*pleŋirū   | \*pableŋirū   | \*pleŋirãhʷa   | \*pableŋirãhʷa   | \*pleŋirãhʷɨ̄   | \*pableŋirãhʷɨ̄   | \*pleŋirãna   | \*pableŋirãna   |
 | ^            | Causative    | -   | \*pleŋillō  | \*pableŋillō  | \*pleŋillū  | \*pableŋillū  | \*pleŋillũhʷa  | \*pableŋillũhʷa  | \*pleŋillũhʷɨ̄  | \*pableŋillũhʷɨ̄  | \*pleŋillũna  | \*pableŋillũna  |
-| Imperfective | Patient      | -   | \*pleŋiso   | \*pableŋiso   | \*pleŋisō   | \*pableŋisō   | \*pleŋisõhʷa   | \*pableŋisõhʷa   | \*pleŋisõhʷɨ̄   | \*pableŋisõhʷɨ̄   | \*pleŋisõna   | \*pableŋisõna   |
-| ^            | Actor        | -   | \*pleŋisa   | \*pableŋisa   | \*pleŋisū   | \*pableŋisū   | \*pleŋisãhʷa   | \*pableŋisãhʷa   | \*pleŋisãhʷɨ̄   | \*pableŋisãhʷɨ̄   | \*pleŋisãna   | \*pableŋisãna   |
-| ^            | Unaccusative | -   | \*pleŋisama | \*pableŋisama | \*pleŋisamū | \*pableŋisamū | \*pleŋisamãhʷa | \*pableŋisamãhʷa | \*pleŋisamãhʷɨ̄ | \*pableŋisamãhʷɨ̄ | \*pleŋisamãna | \*pableŋisamãna |
+| Imperfective | Patient      | -   | \*pleŋiso   | \*pableŋiso   | \*pleŋisou  | \*pableŋisou  | \*pleŋisõhʷa   | \*pableŋisõhʷa   | \*pleŋisõhʷɨ̄   | \*pableŋisõhʷɨ̄   | \*pleŋisõna   | \*pableŋisõna   |
+| ^            | Actor        | -   | \*pleŋisi   | \*pableŋisi   | \*pleŋisiu  | \*pableŋisiu  | \*pleŋisẽhʷa   | \*pableŋisẽhʷa   | \*pleŋisẽhʷɨ̄   | \*pableŋisẽhʷɨ̄   | \*pleŋisẽna   | \*pableŋisẽna   |
+| ^            | Unaccusative | -   | \*pleŋisama | \*pableŋisama | \*pleŋisamū | \*pableŋisamū | \*pleŋisamẽhʷa | \*pableŋisamẽhʷa | \*pleŋisamẽhʷɨ̄ | \*pableŋisamẽhʷɨ̄ | \*pleŋisamẽna | \*pableŋisamẽna |
 | ^            | Applicative  | -   | \*pleŋisra  | \*pableŋisra  | \*pleŋisrū  | \*pableŋisrū  | \*pleŋisrãhʷa  | \*pableŋisrãhʷa  | \*pleŋisrãhʷɨ̄  | \*pableŋisrãhʷɨ̄  | \*pleŋisrãna  | \*pableŋisrãna  |
 | ^            | Causative    | -   | \*pleŋislō  | \*pableŋislō  | \*pleŋislū  | \*pableŋislū  | \*pleŋislũhʷa  | \*pableŋislũhʷa  | \*pleŋislũhʷɨ̄  | \*pableŋislũhʷɨ̄  | \*pleŋislũna  | \*pableŋislũna  |
 
@@ -382,42 +376,30 @@ One common intransitive verb, \*tōnō "be able", has irregular perfective jussi
 | Perfective   | Intransitive | -   | \*rō       | \*drɨlō   | \*dū     | \*drū     | \*dõhʷa     | \*drõhʷa     | \*dõhʷɨ̄     | \*drõhʷɨ̄     | \*tõna     | \*trõna     |
 | ^            | Applicative  | -   | \*rora     | \*drɨlla  | \*dorū   | \*drɨllū  | \*dorãhʷa   | \*drɨllãhʷa  | \*dorãhʷɨ̄   | \*drɨllãhʷɨ̄  | \*torãna   | \*trɨllãna  |
 | ^            | Causative    | -   | \*rollō    | \*drɨllō  | \*dollū  | \*drɨllū  | \*dollũhʷa  | \*drɨllũhʷa  | \*dollũhʷɨ̄  | \*drɨllũhʷɨ̄  | \*tollũna  | \*trɨllũna  |
-| Imperfective | Intransitive | -   | \*rē       | \*drē     | \*rū     | \*drū     | \*rẽhʷa     | \*drẽhʷa     | \*rẽhʷɨ̄     | \*drẽhʷɨ̄     | \*rẽna     | \*drẽna     |
+| Imperfective | Intransitive | -   | \*ri       | \*dri     | \*riu    | \*driu    | \*rẽhʷa     | \*drẽhʷa     | \*rẽhʷɨ̄     | \*drẽhʷɨ̄     | \*rẽna     | \*drẽna     |
 | ^            | Applicative  | -   | \*reira    | \*dreira  | \*reirū  | \*dreirū  | \*reirãhʷa  | \*dreirãhʷa  | \*reirãhʷɨ̄  | \*dreirãhʷɨ̄  | \*reirãna  | \*dreirãna  |
 | ^            | Causative    | -   | \*reillō   | \*dreillō | \*reillū | \*dreillū | \*reillũhʷa | \*dreillũhʷa | \*reillũhʷɨ̄ | \*dreillũhʷɨ̄ | \*reillũna | \*dreillũna |
-##### \*ɨnnō "die"
-The verb \*ɨnnō "die" has an irregular imperfective stem and irregular perfective voices, but is otherwise regular.
-
-|              | <            | -   | Indicative | <         | <        | <         | Subjunctive | <            | <            | <             | Jussive    | <           |
-| ------------ | ------------ | --- | ---------- | --------- | -------- | --------- | ----------- | ------------ | ------------ | ------------- | ---------- | ----------- |
-|              | <            | -   | 1sg        | 1pl       | 2/3sg    | 2/3pl     | 1sg         | 1pl          | 2/3sg        | 2/3pl         | 2/3sg      | 2/3pl       |
-| Perfective   | Intransitive | -   | \*ɨnna     | \*rɨnna   | \*ɨnnū   | \*rɨnnū   | \*innãhʷa   | \*rinnãhʷa   | \*innãhʷɨ̄   | \*rinnãhʷɨ̄   | \*innãna   | \*rinnãhn   |
-| ^            | Applicative  | -   | \*ɨndra    | \*rɨndra  | \*ɨndrū  | \*rɨndrū  | \*indrãhʷa  | \*rindrãhʷa  | \*indrãhʷɨ̄  | \*rindrãhʷɨ̄  | \*indrãna  | \*rindrãn   |
-| ^            | Causative    | -   | \*ɨllō     | \*rɨllō   | \*ɨllū   | \*rɨllū   | \*illũhʷa   | \*rillũhʷa   | \*illũhʷɨ̄   | \*rillũhʷɨ̄   | \*illũna   | \*rillũna   |
-| Imperfective | Intransitive | -   | \*ĩsē      | \*rĩsē    | \*ĩsū    | \*rĩsū    | \*ĩsĩhʷa    | \*rĩsĩhʷa    | \*ĩsĩhʷɨ̄    | \*rĩsĩhʷɨ̄    | \*ĩsĩna    | \*rĩsĩna    |
-| ^            | Applicative  | -   | \*ĩsira    | \*rĩsira  | \*ĩsirū  | \*rĩsirū  | \*ĩsirãhʷa  | \*rĩsirãhʷa  | \*ĩsirãhʷɨ̄  | \*rĩsirãhʷɨ̄  | \*ĩsirãna  | \*rĩsirãna  |
-| ^            | Causative    | -   | \*ĩsillō   | \*rĩsillō | \*ĩsillū | \*rĩsillū | \*ĩsillũhʷa | \*rĩsillũhʷa | \*ĩsillũhʷɨ̄ | \*rĩsillũhʷɨ̄ | \*ĩsillũna | \*rĩsillũna |
 #### Copulas
 Perhaps the three most common and least regular verbs in Old Nambāno are the three intransitive copulas, which are the only verbs to feature irregular prefixed forms, though the initial relative tense-marking prefix (present \*r-, past \*hʷ-) still regularly applies.
 ##### Equative copula \*unō
 The first copula is the equative copula **\*unō**, which has a highly irregular conjugation in both the indicative and subjunctive and does not distinguish separate perfective and imperfective forms or grammatical voices.
 
-|            | -   | Indicative | <      | <                | <      | Subjunctive | <         | <          | <        | Jussive | <      |
-| ---------- | --- | ---------- | ------ | ---------------- | ------ | ----------- | --------- | ---------- | -------- | ------- | ------ |
-|            | -   | 1sg        | 1pl    | 2/3sg            | 2/3pl  | 1sg         | 1pl       | 2/3sg      | 2/3pl    | 2/3sg   | 2/3pl  |
-| Bare       | -   | \*ŋʷa      | \*hʷɨ  | \*ŋʷɨ̄, \*gʷɨ̄   | \*grū  | \*jūhʷa     | \*jūhʷɨ   | \*jũhʷɨ̄   | \*rũna   | \*jũna  | \*rũna |
-| Unemphatic | -   | \*ōhʷa     | \*ōhʷɨ | \*ohʷɨ̄          | \*orɨ̄ | \*ohʷãhʷa   | \*ohʷãhʷɨ | \*ohʷãhʷɨ̄ | \*orũna  | ^       | ^      |
-| Emphatic   | -   | \*ãhʷa     | \*ãhʷɨ | \*ãŋʷɨ̄, \*ãgʷɨ̄ | \*ãgrū | \*ãnũhʷa    | \*ãnũhʷɨ  | \*ãnũhʷɨ̄  | \*ãdrũna | ^       | ^      |
+|            | -   | Indicative | <      | <                | <      | Subjunctive | <         | <         | <         | Jussive | <      |
+| ---------- | --- | ---------- | ------ | ---------------- | ------ | ----------- | --------- | --------- | --------- | ------- | ------ |
+|            | -   | 1sg        | 1pl    | 2/3sg            | 2/3pl  | 1sg         | 1pl       | 2/3sg     | 2/3pl     | 2/3sg   | 2/3pl  |
+| Bare       | -   | \*ŋʷa      | \*hʷɨ  | \*ŋʷɨ̄, \*gʷɨ̄   | \*grū  | \*jūhʷa     | \*jūhʷɨ   | \*jũhʷɨ̄  | \*rũhʷɨ̄  | \*jũna  | \*rũna |
+| Unemphatic | -   | \*ōhʷa     | \*ōhʷɨ | \*ohʷɨ̄          | \*orɨ̄ | \*ohʷãhʷa   | \*ohʷãhʷɨ | \*ohʷãhʷɨ | \*orãhʷɨ̄ | \*orũna | ^      |
+| Emphatic   | -   | \*ãhʷa     | \*ãhʷɨ | \*ãŋʷɨ̄, \*ãgʷɨ̄ | \*ãgrū | \*ãnũhʷa    | \*ãnũhʷɨ  | \*ãnũhʷɨ̄ | \*ãdrũna  | ^       | ^      |
 
 ##### Attributive copula \*hʷinō
-The second copula is the attributive copula **\*hʷinō**, which attributes circumstantial properties, including locative and possessive uses, and also features pluractionality. The conjugation is essentially regular, except for the rare first person singular and plural forms \*-i and \*-iu respectively in the intransitive indicative. Like the equative copula, the attributive copula makes no distinction between perfective and imperfective aspects.
+The second copula is the attributive copula **\*hʷinō**, which attributes circumstantial properties, including locative and possessive uses, and also features pluractionality. The conjugation is essentially regular, except for the rare intransitive indicative form \*-i in the intransitive indicative. Like the equative copula, the attributive copula makes no distinction between perfective and imperfective aspects.
 
 |              | <          | -   | Indicative | <        | <         | <        | Subjunctive  | <           | <             | <            | Jussive    | <         |
 | ------------ | ---------- | --- | ---------- | -------- | --------- | -------- | ------------ | ----------- | ------------- | ------------ | ---------- | --------- |
 |              | <          | -   | 1sg        | 1pl      | 2/3sg     | 2/3pl    | 1sg          | 1pl         | 2/3sg         | 2/3pl        | 2/3sg      | 2/3pl     |
-| Intransitive | Bare       | -   | \*hʷi      | \*riu    | \*hʷɨ̄    | \*rū     | \*hʷĩhʷa     | \*rĩhʷɨ     | \*hʷĩhʷɨ̄     | \*rĩna       | \*hʷĩna    | \*rĩna    |
-| ^            | Unemphatic | -   | \*ōhʷi     | \*ōriu   | \*ohʷɨ̄   | \*orɨ̄   | \*ōhʷĩhʷa    | \*ōrĩhʷɨ    | \*ōhʷĩhʷɨ̄    | \*ōrĩna      | ^          | ^         |
-| ^            | Emphatic   | -   | \*ãhʷi     | \*ãriu   | \*ãnū     | \*ãdrū   | \*ãhʷĩhʷa    | \*ãrĩhʷɨ    | \*ãhʷĩhʷɨ̄    | \*ãdrĩna     | ^          | ^         |
+| Intransitive | Bare       | -   | \*hʷi      | \*ri     | \*hʷɨ̄    | \*rū     | \*hʷĩhʷa     | \*rĩhʷɨ     | \*hʷĩhʷɨ̄     | \*rĩna       | \*hʷĩna    | \*rĩna    |
+| ^            | Unemphatic | -   | \*ōhʷi     | \*ōri    | \*ohʷɨ̄   | \*orɨ̄   | \*ōhʷĩhʷa    | \*ōrĩhʷɨ    | \*ōhʷĩhʷɨ̄    | \*ōrĩna      | ^          | ^         |
+| ^            | Emphatic   | -   | \*ãhʷi     | \*ãri    | \*ãnū     | \*ãdrū   | \*ãhʷĩhʷa    | \*ãrĩhʷɨ    | \*ãhʷĩhʷɨ̄    | \*ãdrĩna     | ^          | ^         |
 | Applicative  | Bare       | -   | \*hʷɨra    | \*rura   | \*hʷɨrū   | \*rurū   | \*hʷirãhʷa   | \*rurãhʷa   | \*hʷirãhʷɨ̄   | \*rurãhʷa    | \*hʷirãna  | \*rurãna  |
 | ^            | Unemphatic | -   | \*ōhʷɨra   | \*ōrura  | \*ōhʷɨrū  | \*ōrurū  | \*ōhʷirãhʷa  | \*ōrurãhʷa  | \*ōhʷirãhʷɨ̄  | \*ōrurãhʷɨ̄  | ^          | ^         |
 | ^            | Emphatic   | -   | \*ãhʷɨra   | \*ãrura  | \*ãhʷɨrū  | \*ãrurū  | \*ãhʷirãhʷa  | \*ãrurãhʷa  | \*ãhʷirãhʷɨ̄  | \*ãrurãhʷɨ̄  | ^          | ^         |
@@ -426,26 +408,27 @@ The second copula is the attributive copula **\*hʷinō**, which attributes cir
 | ^            | Emphatic   | -   | \*ãhʷillō  | \*ãrullō | \*ãhʷillū | \*ãrullū | \*ãhʷillũhʷa | \*ãrullũhʷa | \*ãhʷillũhʷɨ̄ | \*ãrullũhʷɨ̄ | ^          | ^         |
 
 ##### Stative copula \*einō
-The third "copula", **\*einō**, is not a copula in the strict sense, rather it is a highly suppletive verb with the meaning "to be present" or "to exist". This verb is often accompanied with a gerund of another verb in the ablative case, acting to qualify the state of existence, e.g. \*migni io "I am in chase".
+The third "copula", **\*einō**, is not a copula in the strict sense, rather it is a highly suppletive verb with the meaning "to be present" or "to exist". This verb is often accompanied with a gerund of another verb in the ablative case, acting to qualify the state of existence, e.g. \*migni iu "I am in chase".
 
-|              |              | <          | -   | Indicative | <           | <         | <           | Subjunctive  | <              | <             | <               | Jussive   | <          |
-| ------------ | ------------ | ---------- | --- | ---------- | ----------- | --------- | ----------- | ------------ | -------------- | ------------- | --------------- | --------- | ---------- |
-|              |              | <          | -   | 1sg        | 1pl         | 2/3sg     | 2/3pl       | 1sg          | 1pl            | 2/3sg         | 2/3pl           | 2/3sg     | 2/3pl      |
-| Perfective   | Intransitive | Bare       | -   | \*iu       | \*ro        | \*ēlō     | \*ellō      | \*ãhʷa       | \*rãhʷa        | \*ãhʷɨ̄       | \*rãhʷɨ̄        | \*ãna     | \*rãna     |
-| ^            | ^            | Unemphatic | -   | \*eso      | \*ero       | ^         | ^           | \*ōhʷa       | \*rōhʷa        | \*ōhʷɨ̄       | \*rōhʷɨ̄        | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*ẽnila    | \*endrila   | \*ẽnilū   | \*endrilū   | \*ãnãhʷa     | \*andrãhʷa     | \*ãnãhʷɨ̄     | \*andrãhʷɨ̄     | ^         | ^          |
-| ^            | Applicative  | Bare       | -   | \*ēra      | \*rēla      | \*ērū     | \*rēlū      | \*ērãhʷa     | \*rēlãhʷa      | \*ērãhʷɨ̄     | \*rēlãhʷɨ̄      | \*ērãna   | \*rēlãna   |
-| ^            | ^            | Unemphatic | -   | ^          | ^           | ^         | ^           | \*ōhērãhʷa   | \*ōrēlãhʷa     | \*ōhērãhʷɨ̄   | \*ōrēlãhʷɨ̄     | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*ẽnēra    | \*endrēla   | \*ẽnērū   | \*endrēlū   | \*ẽnērãhʷa   | \*endrēlãhʷa   | \*ẽnērãhʷɨ̄   | \*endrēlãhʷɨ̄   | ^         | ^          |
-| ^            | Causative    | Bare       | -   | \*tɨlō     | \*trɨlō     | \*tɨlū    | \*trɨlū     | \*tɨlũhʷa    | \*trɨlũhʷa     | \*tɨlũhʷɨ̄    | \*trɨlũhʷɨ̄     | \*tɨlũna  | \*trɨlũna  |
-| ^            | ^            | Unemphatic | -   | \*ōtɨlō    | \*ōtrɨlō    | \*ōtɨlū   | \*ōtrɨlū    | \*ōtɨlũhʷa   | \*ōtrɨlũhʷa    | \*ōtɨlũhʷɨ̄   | \*ōtrɨlũhʷɨ̄    | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*antɨlō   | \*antrɨlō   | \*antɨlū  | \*antrɨlū   | \*antɨlũhʷa  | \*antrɨlũhʷa   | \*antɨlũhʷɨ̄  | \*antrɨlũhʷɨ̄   | ^         | ^          |
-| Imperfective | Intransitive | Bare       | -   | \*esē      | \*resira    | \*esirū   | \*resirū    | \*esĩhʷa     | \*resĩhʷa      | \*esĩhʷɨ̄     | \*resĩhʷɨ̄      | \*esĩna   | \*resĩna   |
-| ^            | ^            | Unemphatic | -   | \*ōhesē    | \*ōresē     | \*ōhesū   | \*ōresū     | \*ōhesĩhʷa   | \*ōresĩhʷa     | \*ōhesĩhʷɨ̄   | \*ōresĩhʷɨ̄     | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*ãnesē    | \*andresē   | \*ãnesū   | \*andresū   | \*ãhesĩhʷa   | \*andresĩhʷa   | \*ãhesĩhʷɨ̄   | \*andresĩhʷɨ̄   | ^         | ^          |
-| ^            | Applicative  | Bare       | -   | \*esira    | \*resira    | \*esirū   | \*resirū    | \*esirãhʷa   | \*resirãhʷa    | \*esirãhʷɨ̄   | \*resirãhʷɨ̄    | \*esirãna | \*resirãna |
-| ^            | ^            | Unemphatic | -   | \*ōhesira  | \*ōresira   | \*ōhesirū | \*ōresirū   | \*ōhesirãhʷa | \*ōresirãhʷa   | \*ōhesirãhʷɨ̄ | \*ōresirãhʷɨ̄   | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*ãnesira  | \*andresira | \*ãnesirū | \*andresirū | \*ãhesirãhʷa | \*andresirãhʷa | \*ãhesirãhʷɨ̄ | \*andresirãhʷɨ̄ | ^         | ^          |
-| ^            | Causative    | Bare       | -   | \*tilē     | \*trilē     | \*tilū    | \*trilū     | \*tilĩhʷa    | \*trilĩhʷa     | \*tilĩhʷɨ̄    | \*trilĩhʷɨ̄     | \*tilĩna  | \*trilĩna  |
-| ^            | ^            | Unemphatic | -   | \*ōtilē    | \*ōtrilē    | \*ōtilū   | \*ōtrilū    | \*ōtilĩhʷa   | \*ōtrilĩhʷa    | \*ōtilĩhʷɨ̄   | \*ōtrilĩhʷɨ̄    | ^         | ^          |
-| ^            | ^            | Emphatic   | -   | \*antilē   | \*antrilē   | \*antilū  | \*antrɨilū  | \*antilĩhʷa  | \*antrilĩhʷa   | \*antilĩhʷɨ̄  | \*antrilĩhʷɨ̄   | ^         | ^          |
+The perfective conjugation of \*einō is shown in the table below.
+
+|              | <          | -   | Indicative | <         | <        | <         | Subjunctive | <            | <            | <             | Jussive  | <         |
+| ------------ | ---------- | --- | ---------- | --------- | -------- | --------- | ----------- | ------------ | ------------ | ------------- | -------- | --------- |
+|              | <          | -   | 1sg        | 1pl       | 2/3sg    | 2/3pl     | 1sg         | 1pl          | 2/3sg        | 2/3pl         | 2/3sg    | 2/3pl     |
+| Intransitive | Bare       | -   | \*iu       | \*ro      | \*ēlō    | \*ellō    | \*ãhʷa      | \*rãhʷa      | \*ãhʷɨ̄      | \*rãhʷɨ̄      | \*ãna    | \*rãna    |
+| ^            | Unemphatic | -   | \*eso      | \*ero     | ^        | ^         | \*ōhʷa      | \*rōhʷa      | \*ōhʷɨ̄      | \*rōhʷɨ̄      | ^        | ^         |
+| ^            | Emphatic   | -   | \*ẽnila    | \*endrila | \*ẽnilū  | \*endrilū | \*ãnãhʷa    | \*andrãhʷa   | \*ãnãhʷɨ̄    | \*andrãhʷɨ̄   | ^        | ^         |
+| Applicative  | Bare       | -   | \*ēra      | \*rēla    | \*ērū    | \*rēlū    | \*ērãhʷa    | \*rēlãhʷa    | \*ērãhʷɨ̄    | \*rēlãhʷɨ̄    | \*ērãna  | \*rēlãna  |
+| ^            | Unemphatic | -   | ^          | ^         | ^        | ^         | \*ōhērãhʷa  | \*ōrēlãhʷa   | \*ōhērãhʷɨ̄  | \*ōrēlãhʷɨ̄   | ^        | ^         |
+| ^            | Emphatic   | -   | \*ẽnēra    | \*endrēla | \*ẽnērū  | \*endrēlū | \*ẽnērãhʷa  | \*endrēlãhʷa | \*ẽnērãhʷɨ̄  | \*endrēlãhʷɨ̄ | ^        | ^         |
+| Causative    | Bare       | -   | \*tɨlō     | \*trɨlō   | \*tɨlū   | \*trɨlū   | \*tɨlũhʷa   | \*trɨlũhʷa   | \*tɨlũhʷɨ̄   | \*trɨlũhʷɨ̄   | \*tɨlũna | \*trɨlũna |
+| ^            | Unemphatic | -   | \*ōtɨlō    | \*ōtrɨlō  | \*ōtɨlū  | \*ōtrɨlū  | \*ōtɨlũhʷa  | \*ōtrɨlũhʷa  | \*ōtɨlũhʷɨ̄  | \*ōtrɨlũhʷɨ̄  | ^        | ^         |
+| ^            | Emphatic   | -   | \*antɨlō   | \*antrɨlō | \*antɨlū | \*antrɨlū | \*antɨlũhʷa | \*antrɨlũhʷa | \*antɨlũhʷɨ̄ | \*antrɨlũhʷɨ̄ | ^        | ^         |
+
+The imperfective form, however, follows a regular conjugation with the base \*es-, shown in the table below with the prefixes omitted.
+
+|              | <    | -   | Indicative | <        | <        | <         | Subjunctive | <           | <           | <            | Jussive   | <          |
+| ------------ | ---- | --- | ---------- | -------- | -------- | --------- | ----------- | ----------- | ----------- | ------------ | --------- | ---------- |
+| Intransitive | Bare | -   | \*esi      | \*resiri | \*esiriu | \*resiriu | \*esẽhʷa    | \*resẽhʷa   | \*esẽhʷɨ̄   | \*resẽhʷɨ̄   | \*esĩna   | \*resĩna   |
+| Applicative  | Bare | -   | \*esɨra    | \*resɨra | \*esɨrū  | \*resɨrū  | \*esɨrãhʷa  | \*resɨrãhʷa | \*esɨrãhʷɨ̄ | \*resɨrãhʷɨ̄ | \*esɨrãna | \*resɨrãna |
+| Causative    | Bare | -   | \*eslō     | \*reslō  | \*eslū   | \*reslū   | \*esɨlũhʷa  | \*resɨlũhʷa | \*esɨlũhʷɨ̄ | \*resɨlũhʷɨ̄ | \*esɨlũna | \*resɨlũna |
