@@ -236,7 +236,7 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | \*a, \*o   | -   | \*-o         | \*-ou                                         |
 | \*e(i)     | -   | \*-i         | \*-iu                                         |
 
-The base vowel \*e(i) is a special case only occurring in the imperfective; on all voices of class-I verbs and in the unmarked voice of all other verbs.
+The base vowel \*e(i) is a special case only occurring in the imperfective; on all voices of class-III verbs and in the unmarked voice of all other verbs. Note that in the unmarked-voice imperfective, the base vowel is obscured by the person suffixes, while in other imperfective voices of class-III conjugation the vowel is visible. For example, compare the perfective forms \*atro "I ask" and \*atrara "I am asked for" (with base \*atra-) to the imperfective forms \*atri "I am asking" and \*atreira "I am being asked for" (with base \*atrei-).
 ### Example conjugations
 #### Intransitive
 ##### \*bessīnō, br- (II) "walk"
