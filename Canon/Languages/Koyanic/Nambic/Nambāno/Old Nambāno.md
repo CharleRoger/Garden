@@ -151,7 +151,7 @@ Verbs use various mechanisms for marking pluractionality which are not predictab
 	- \*pleŋi- → \*pableŋi- "pray, hope for"
 	- \*knohar- → \*kagnohar- "rot, spoil"
 - Insertion of the infix ⟨r⟩
-	- \*gonn- → \*gronn- "be known, familiar"
+	- \*ganta- → \*granta- "be known, understood"
 	- \*hemsi- → \*remsi- "be ploughed"
 	- \*ãna- → \*rãna- "see"
 - Addition of the prefix j(ɨ)-
@@ -240,7 +240,7 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | IV       | -   | \*-ē         | \*-iu                                         |
 ### Example conjugations
 #### Intransitive
-##### \*bessīnō, br- (II) "walk"
+##### \*bessihɨnō, br- (II) "walk"
 
 |              | <            | -   | Indicative | <           | <          | <           | Subjunctive   | <              | <              | <               | Jussive      | <             |
 | ------------ | ------------ | --- | ---------- | ----------- | ---------- | ----------- | ------------- | -------------- | -------------- | --------------- | ------------ | ------------- |
@@ -250,17 +250,22 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | ^            | Causative    | -   | \*bessillō | \*bressillō | \*bessillū | \*bressillū | \*bessillũhʷa | \*bressillũhʷa | \*bessillũhʷɨ̄ | \*bressillũhʷɨ̄ | \*bessillũna | \*bressillũna |
 | Imperfective | Intransitive | -   | \*bessīhē  | \*bressīhē  | \*bessīhiu | \*bressīhiu | \*bessīhẽhʷa  | \*bressīhẽhʷa  | \*bessīhẽhʷɨ̄  | \*bressīhẽhʷɨ̄  | \*bessīhẽna  | \*bressīhẽna  |
 | ^            | Applicative  | -   | \*bessīra  | \*bressīra  | \*bessīrū  | \*bressīrū  | \*bessīrãhʷa  | \*bressīrãhʷa  | \*bessīrãhʷɨ̄  | \*bressīrãhʷɨ̄  | \*bessīrãna  | \*bressīrãna  |
-| ^            | Causative    | -   | \*bessīlō  | \*bressīlō  | \*bessīlū  | \*bressīlū  | \*bessīlũhʷa  | \*bressīlũhʷa  | \*bessīlũhʷɨ̄  | \*bressīlũhʷɨ̄  | \*bessīlũna  | \*bressīlũna  |
-##### \*tŋonō, tadŋ- (III) "bend"
-|              | <            | -   | Indicative | <           | <         | <           | Subjunctive  | <              | <             | <               | Jussive     | <             |
-| ------------ | ------------ | --- | ---------- | ----------- | --------- | ----------- | ------------ | -------------- | ------------- | --------------- | ----------- | ------------- |
-|              | <            | -   | 1sg        | 1pl         | 2/3sg     | 2/3pl       | 1sg          | 1pl            | 2/3sg         | 2/3pl           | 2/3sg       | 2/3pl         |
-| Perfective   | Intransitive | -   | \*tŋo      | \*tadŋo     | \*tŋou    | \*tadŋou    | \*tŋõhʷa     | \*tadŋõhʷa     | \*tŋõhʷɨ̄     | \*tadŋõhʷɨ̄     | \*tŋõna     | \*tadŋõna     |
-| ^            | Applicative  | -   | \*tŋora    | \*tadŋora   | \*tŋorū   | \*tadŋorū   | \*tŋorãhʷa   | \*tadŋorãhʷa   | \*tŋorãhʷɨ̄   | \*tadŋorãhʷɨ̄   | \*tŋorãna   | \*tadŋorãna   |
-| ^            | Causative    | -   | \*tŋollō   | \*tadŋollō  | \*tŋollū  | \*tadŋollū  | \*tŋollũhʷa  | \*tadŋollũhʷa  | \*tŋollũhʷɨ̄  | \*tadŋollũhʷɨ̄  | \*tŋollũna  | \*tadŋollũna  |
-| Imperfective | Intransitive | -   | \*tŋē      | \*tadŋē     | \*tŋiu    | \*tadŋiu    | \*tŋẽhʷa     | \*tadŋẽhʷa     | \*tŋẽhʷɨ̄     | \*tadŋẽhʷɨ̄     | \*tŋẽna     | \*tadŋẽna     |
-| ^            | Applicative  | -   | \*tŋeira   | \*tadŋeira  | \*tŋeirū  | \*tadŋeirū  | \*tŋeirãhʷa  | \*tadŋeirãhʷa  | \*tŋeirãhʷɨ̄  | \*tadŋeirãhʷɨ̄  | \*tŋeirãna  | \*tadŋeirãna  |
-| ^            | Causative    | -   | \*tŋeillō  | \*tadŋeillō | \*tŋeillū | \*tadŋeillū | \*tŋeillũhʷa | \*tadŋeillũhʷa | \*tŋeillũhʷɨ̄ | \*tadŋeillũhʷɨ̄ | \*tŋeillũna | \*tadŋeillũna |
+| ^            | Causative    | -   | \*bessīllō | \*bressīllō | \*bessīllū | \*bressīllū | \*bessīllũhʷa | \*bressīllũhʷa | \*bessīllũhʷɨ̄ | \*bressīllũhʷɨ̄ | \*bessīllũna | \*bressīllũna |
+##### \*tŋobrɨnō, tadŋ- (I) "bend"
+
+|              | <            | -   | Indicative  | <             | <             | <               | Subjunctive    | <                | <               | <                 | Jussive       | <               |
+| ------------ | ------------ | --- | ----------- | ------------- | ------------- | --------------- | -------------- | ---------------- | --------------- | ----------------- | ------------- | --------------- |
+|              | <            | -   | 1sg         | 1pl           | 2/3sg         | 2/3pl           | 1sg            | 1pl              | 2/3sg           | 2/3pl             | 2/3sg         | 2/3pl           |
+| Perfective   | Patient      | -   | \*tŋobra    | \*tadŋobra    | \*tŋobrū      | \*tadŋobrū      | \*tŋobrãhʷa    | \*tadŋobrãhʷa    | \*tŋobrãhʷɨ̄    | \*tadŋobrãhʷɨ̄    | \*tŋobrãna    | \*tadŋobrãna    |
+| ^            | Actor        | -   | \*tŋobraŋka | \*tadŋobraŋka | \*tŋobraŋkʷɨ̄ | \*tadŋobraŋkʷɨ̄ | \*tŋobraŋkãhʷa | \*tadŋobraŋkãhʷa | \*tŋobraŋkãhʷɨ̄ | \*tadŋobraŋkãhʷɨ̄ | \*tŋobraŋkãna | \*tadŋobraŋkãna |
+| ^            | Unaccusative | -   | \*tŋobroma  | \*tadŋobroma  | \*tŋobromū    | \*tadŋobromū    | \*tŋobromãhʷa  | \*tadŋobromãhʷa  | \*tŋobromãhʷɨ̄  | \*tadŋobromãhʷɨ̄  | \*tŋobromãna  | \*tadŋobromãna  |
+| ^            | Applicative  | -   | \*tŋobrɨra  | \*tadŋobrɨra  | \*tŋobrɨrū    | \*tadŋobrɨrū    | \*tŋobrɨrãhʷa  | \*tadŋobrɨrãhʷa  | \*tŋobrɨrãhʷɨ̄  | \*tadŋobrɨrãhʷɨ̄  | \*tŋobrɨrãna  | \*tadŋobrɨrãna  |
+| ^            | Causative    | -   | \*tŋobrullō | \*tadŋobrullō | \*tŋobrullū   | \*tadŋobrullū   | \*tŋobrullũhʷa | \*tadŋobrullũhʷa | \*tŋobrullũhʷɨ̄ | \*tadŋobrullũhʷɨ̄ | \*tŋobrullũna | \*tadŋobrullũna |
+| Imperfective | Patient      | -   | \*tŋebrē    | \*tadŋebrē    | \*tŋebriu     | \*tadŋebriu     | \*tŋebrẽhʷa    | \*tadŋebrẽhʷa    | \*tŋebrẽhʷɨ̄    | \*tadŋebrẽhʷɨ̄    | \*tŋebrẽna    | \*tadŋebrẽna    |
+| ^            | Actor        | -   | \*tŋebraŋka | \*tadŋebraŋka | \*tŋebraŋkʷɨ̄ | \*tadŋebraŋkʷɨ̄ | \*tŋebraŋkãhʷa | \*tadŋebraŋkãhʷa | \*tŋebraŋkãhʷɨ̄ | \*tadŋebraŋkãhʷɨ̄ | \*tŋebraŋkãna | \*tadŋebraŋkãna |
+| ^            | Unaccusative | -   | \*tŋebroma  | \*tadŋebroma  | \*tŋebromū    | \*tadŋebromū    | \*tŋebromãhʷa  | \*tadŋebromãhʷa  | \*tŋebromãhʷɨ̄  | \*tadŋebromãhʷɨ̄  | \*tŋebromãna  | \*tadŋebromãna  |
+| ^            | Applicative  | -   | \*tŋebrɨra  | \*tadŋebrɨra  | \*tŋebrɨrū    | \*tadŋebrɨrū    | \*tŋebrɨrãhʷa  | \*tadŋebrɨrãhʷa  | \*tŋebrɨrãhʷɨ̄  | \*tadŋebrɨrãhʷɨ̄  | \*tŋebrɨrãna  | \*tadŋebrɨrãna  |
+| ^            | Causative    | -   | \*tŋebrullō | \*tadŋebrullō | \*tŋebrullū   | \*tadŋebrullū   | \*tŋebrullũhʷa | \*tadŋebrullũhʷa | \*tŋebrullũhʷɨ̄ | \*tadŋebrullũhʷɨ̄ | \*tŋebrullũna | \*tadŋebrullũna |
 ##### \*hesinō, hah- (IV) "sleep"
 
 |              | <            | -   | Indicative | <            | <          | <            | Subjunctive   | <               | <              | <                | Jussive      | <              |
@@ -273,35 +278,37 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | ^            | Applicative  | -   | \*hesisɨra | \*hahesisɨra | \*hesisɨrū | \*hahesisɨrū | \*hesisɨrãhʷa | \*hahesisɨrãhʷa | \*hesisɨrãhʷɨ̄ | \*hahesisɨrãhʷɨ̄ | \*hesisɨrãna | \*hahesisɨrãna |
 | ^            | Causative    | -   | \*hesislō  | \*hahesislō  | \*hesislū  | \*hahesislū  | \*hesislũhʷa  | \*hahesislũhʷa  | \*hesislũhʷɨ̄  | \*hahesislũhʷɨ̄  | \*hesislũna  | \*hahesislũna  |
 #### Passive
-##### \*gonnō, gr- (I) "be known, familiar"
-|              | <            | -   | Indicative | <           | <            | <             | Subjunctive   | <              | <              | <               | Jussive      | <             |
-| ------------ | ------------ | --- | ---------- | ----------- | ------------ | ------------- | ------------- | -------------- | -------------- | --------------- | ------------ | ------------- |
-|              | <            | -   | 1sg        | 1pl         | 2/3sg        | 2/3pl         | 1sg           | 1pl            | 2/3sg          | 2/3pl           | 2/3sg        | 2/3pl         |
-| Perfective   | Patient      | -   | \*gonna    | \*gronna    | \*gonnū      | \*gronnū      | \*gonnãhʷa    | \*gronnãhʷa    | \*gonnãhʷɨ̄    | \*gronnãhʷɨ̄    | \*gonnãna    | \*gronnãna    |
-| ^            | Actor        | -   | \*gonnaŋka | \*gronnaŋka | \*gonnaŋkʷɨ̄ | \*gronnaŋkʷɨ̄ | \*gonnaŋkãhʷa | \*gronnaŋkãhʷa | \*gonnaŋkãhʷɨ̄ | \*gronnaŋkãhʷɨ̄ | \*gonnaŋkãna | \*gronnaŋkãna |
-| ^            | Unaccusative | -   | \*gonnoma  | \*gronnoma  | \*gonnomū    | \*gronnomū    | \*gonnomãhʷa  | \*gronnomãhʷa  | \*gonnomãhʷɨ̄  | \*gronnomãhʷɨ̄  | \*gonnomãna  | \*gronnomãna  |
-| ^            | Applicative  | -   | \*gondra   | \*grondra   | \*gondrū     | \*grondrū     | \*gondrãhʷa   | \*grondrãhʷa   | \*gondrãhʷɨ̄   | \*grondrãhʷɨ̄   | \*gondrãna   | \*grondrãna   |
-| ^            | Causative    | -   | \*gollō    | \*grollō    | \*gollū      | \*grollū      | \*gollũhʷa    | \*grollũhʷa    | \*gollũhʷɨ̄    | \*grollũhʷɨ̄    | \*gollũna    | \*grollũna    |
-| Imperfective | Patient      | -   | \*gẽsē     | \*grẽsē     | \*gẽsiu      | \*grẽsiu      | \*gẽsẽhʷa     | \*grẽsẽhʷa     | \*gẽsẽhʷɨ̄     | \*grẽsẽhʷɨ̄     | \*gẽsẽna     | \*grẽsẽna     |
-| ^            | Actor        | -   | \*gẽsaŋka  | \*grẽsaŋka  | \*gẽsaŋkʷɨ̄  | \*grẽsaŋkʷɨ̄  | \*gẽsaŋkãhʷa  | \*grẽsaŋkãhʷa  | \*gẽsaŋkãhʷɨ̄  | \*grẽsaŋkãhʷɨ̄  | \*gẽsaŋkãna  | \*grẽsaŋkãna  |
-| ^            | Unaccusative | -   | \*gẽsoma   | \*grẽsoma   | \*gẽsomū     | \*grẽsomū     | \*gẽsomãhʷa   | \*grẽsomãhʷa   | \*gẽsomãhʷɨ̄   | \*grẽsomãhʷɨ̄   | \*gẽsomãna   | \*grẽsomãna   |
-| ^            | Applicative  | -   | \*gẽsɨra   | \*grẽsɨra   | \*gẽsɨrū     | \*grẽsɨrū     | \*gẽsɨrãhʷa   | \*grẽsɨrãhʷa   | \*gẽsɨrãhʷɨ̄   | \*grẽsɨrãhʷɨ̄   | \*gẽsɨrãna   | \*grẽsɨrãna   |
-| ^            | Causative    | -   | \*gẽslō    | \*grẽslō    | \*gẽslū      | \*grẽslū      | \*gẽslũhʷa    | \*grẽslũhʷa    | \*gẽslũhʷɨ̄    | \*grẽslũhʷɨ̄    | \*gẽslũna    | \*grẽslũna    |
-##### \*ubnō, r- (II) "be increased"
+##### \*gantanō, gr- (III) "be known, understood"
 
-|              | <            | -   | Indicative | <          | <           | <            | Subjunctive  | <             | <             | <              | Jussive     | <            |
-| ------------ | ------------ | --- | ---------- | ---------- | ----------- | ------------ | ------------ | ------------- | ------------- | -------------- | ----------- | ------------ |
-|              | <            | -   | 1sg        | 1pl        | 2/3sg       | 2/3pl        | 1sg          | 1pl           | 2/3sg         | 2/3pl          | 2/3sg       | 2/3pl        |
-| Perfective   | Patient      | -   | \*uba      | \*ruba     | \*ubū       | \*rubū       | \*ubãhʷa     | \*rubãhʷa     | \*ubãhʷɨ̄     | \*rubãhʷɨ̄     | \*ubãna     | \*rubãna     |
-| ^            | Actor        | -   | \*ubaŋka   | \*rubaŋka  | \*ubaŋkʷɨ̄  | \*rubaŋkʷɨ̄  | \*ubaŋkãhʷa  | \*rubaŋkãhʷa  | \*ubaŋkãhʷɨ̄  | \*rubaŋkãhʷɨ̄  | \*ubaŋkãna  | \*rubaŋkãna  |
-| ^            | Unaccusative | -   | \*uboma    | \*ruboma   | \*ubomū     | \*rubomū     | \*ubomãhʷa   | \*rubomãhʷa   | \*ubomãhʷɨ̄   | \*rubomãhʷɨ̄   | \*ubomãna   | \*rubomãna   |
-| ^            | Applicative  | -   | \*ubra     | \*rubra    | \*ubrū      | \*rubrū      | \*ubrãhʷa    | \*rubrãhʷa    | \*ubrãhʷɨ̄    | \*rubrãhʷɨ̄    |             |              |
-| ^            | Causative    | -   | \*ublō     | \*rublō    | \*ublū      | \*rublū      | \*ublũhʷa    | \*rublũhʷa    | \*ublũhʷɨ̄    | \*rublũhʷɨ̄    |             |              |
-| Imperfective | Patient      | -   | \*ipsē     | \*ripsē    | \*ipsiu     | \*ripsiu     | \*ipsẽhʷa    | \*ripsẽhʷa    | \*ipsẽhʷɨ̄    | \*ripsẽhʷɨ̄    | \*ipsẽna    | \*ripsẽna    |
-| ^            | Actor        | -   | \*ipsaŋka  | \*ripsaŋka | \*ipsaŋkʷɨ̄ | \*ripsaŋkʷɨ̄ | \*ipsaŋkãhʷa | \*ripsaŋkãhʷa | \*ipsaŋkãhʷɨ̄ | \*ripsaŋkãhʷɨ̄ | \*ipsaŋkãna | \*ripsaŋkãna |
-| ^            | Unaccusative | -   | \*ipsoma   | \*ripsoma  | \*ipsomū    | \*ripsomū    | \*ipsomãhʷa  | \*ripsomãhʷa  | \*ipsomãhʷɨ̄  | \*ripsomãhʷɨ̄  | \*ipsomãna  | \*ripsomãna  |
-| ^            | Applicative  | -   | \*ipsɨra   | \*ripsɨra  | \*ipsɨrū    | \*ripsɨrū    | \*ipsɨrãhʷa  | \*ripsɨrãhʷa  | \*ipsɨrãhʷɨ̄  | \*ripsɨrãhʷɨ̄  | \*ipsɨrãna  | \*ripsɨrãna  |
-| ^            | Causative    | -   | \*ipslō    | \*ripslō   | \*ipslū     | \*ripslū     | \*ipslũhʷa   | \*ripslũhʷa   | \*ipslũhʷɨ̄   | \*ripslũhʷɨ̄   | \*ipslũna   | \*ripslũna   |
+|              | <            | -   | Indicative  | <            | <            | <             | Subjunctive    | <               | <               | <                | Jussive       | <              |
+| ------------ | ------------ | --- | ----------- | ------------ | ------------ | ------------- | -------------- | --------------- | --------------- | ---------------- | ------------- | -------------- |
+|              | <            | -   | 1sg         | 1pl          | 2/3sg        | 2/3pl         | 1sg            | 1pl             | 2/3sg           | 2/3pl            | 2/3sg         | 2/3pl          |
+| Perfective   | Patient      | -   | \*ganto     | \*granto     | \*gantou     | \*grantou     | \*gantãhʷa     | \*grantãhʷa     | \*gantãhʷɨ̄     | \*grantãhʷɨ̄     | \*gantãna     | \*grantãna     |
+| ^            | Actor        | -   | \*gantaŋka  | \*grantaŋka  | \*gantaŋkʷɨ̄ | \*grantaŋkʷɨ̄ | \*gantaŋkãhʷa  | \*grantaŋkãhʷa  | \*gantaŋkãhʷɨ̄  | \*grantaŋkãhʷɨ̄  | \*gantaŋkãna  | \*grantaŋkãna  |
+| ^            | Unaccusative | -   | \*gantoma   | \*grantoma   | \*gantomū    | \*grantomū    | \*gantomãhʷa   | \*grantomãhʷa   | \*gantomãhʷɨ̄   | \*grantomãhʷɨ̄   | \*gantomãna   | \*grantomãna   |
+| ^            | Applicative  | -   | \*gantara   | \*grantara   | \*gantarū    | \*grantarū    | \*gantarãhʷa   | \*grantarãhʷa   | \*gantarãhʷɨ̄   | \*grantarãhʷɨ̄   | \*gantarãna   | \*grantarãna   |
+| ^            | Causative    | -   | \*gantallō  | \*grantallō  | \*gantallū   | \*grantallū   | \*gantallũhʷa  | \*grantallũhʷa  | \*gantallũhʷɨ̄  | \*grantallũhʷɨ̄  | \*gantallũna  | \*grantallũna  |
+| Imperfective | Patient      | -   | \*gantē     | \*grantē     | \*gantiu     | \*grantiu     | \*gantẽhʷa     | \*grantẽhʷa     | \*gantẽhʷɨ̄     | \*grantẽhʷɨ̄     | \*gantẽna     | \*grantẽna     |
+| ^            | Actor        | -   | \*gantēŋka  | \*grantēŋka  | \*gantēŋkū   | \*grantēŋkū   | \*gantēŋkãhʷa  | \*grantēŋkãhʷa  | \*gantēŋkãhʷɨ̄  | \*grantēŋkãhʷɨ̄  | \*gantēŋkãna  | \*grantēŋkãna  |
+| ^            | Unaccusative | -   | \*gantiuma  | \*grantiuma  | \*gantiumū   | \*grantiumū   | \*gantiumãhʷa  | \*grantiumãhʷa  | \*gantiumãhʷɨ̄  | \*grantiumãhʷɨ̄  | \*gantiumãna  | \*grantiumãna  |
+| ^            | Applicative  | -   | \*ganteira  | \*granteira  | \*ganteirū   | \*granteirū   | \*ganteirãhʷa  | \*granteirãhʷa  | \*ganteirãhʷɨ̄  | \*granteirãhʷɨ̄  | \*ganteirãna  | \*granteirãna  |
+| ^            | Causative    | -   | \*ganteillō | \*granteillō | \*ganteillū  | \*granteillū  | \*ganteillũhʷa | \*granteillũhʷa | \*ganteillũhʷɨ̄ | \*granteillũhʷɨ̄ | \*ganteillũna | \*granteillũna |
+
+##### \*ubodɨnō, r- (I) "be increased"
+
+|              | <            | -   | Indicative  | <            | <             | <              | Subjunctive    | <               | <               | <                | Jussive       | <              |
+| ------------ | ------------ | --- | ----------- | ------------ | ------------- | -------------- | -------------- | --------------- | --------------- | ---------------- | ------------- | -------------- |
+|              | <            | -   | 1sg         | 1pl          | 2/3sg         | 2/3pl          | 1sg            | 1pl             | 2/3sg           | 2/3pl            | 2/3sg         | 2/3pl          |
+| Perfective   | Patient      | -   | \*uboda     | \*ruboda     | \*ubodū       | \*rubodū       | \*ubodãhʷa     | \*rubodãhʷa     | \*ubodãhʷɨ̄     | \*rubodãhʷɨ̄     | \*ubodãna     | \*rubodãna     |
+| ^            | Actor        | -   | \*ubodaŋka  | \*rubodaŋka  | \*ubodaŋkʷɨ̄  | \*rubodaŋkʷɨ̄  | \*ubodaŋkãhʷa  | \*rubodaŋkãhʷa  | \*ubodaŋkãhʷɨ̄  | \*rubodaŋkãhʷɨ̄  | \*ubodaŋkãna  | \*rubodaŋkãna  |
+| ^            | Unaccusative | -   | \*ubodoma   | \*rubodoma   | \*ubodomū     | \*rubodomū     | \*ubodomãhʷa   | \*rubodomãhʷa   | \*ubodomãhʷɨ̄   | \*rubodomãhʷɨ̄   | \*ubodomãna   | \*rubodomãna   |
+| ^            | Applicative  | -   | \*ubodɨra   | \*rubodɨra   | \*ubodɨrū     | \*rubodɨrū     | \*ubodɨrãhʷa   | \*rubodɨrãhʷa   | \*ubodɨrãhʷɨ̄   | \*rubodɨrãhʷɨ̄   | \*ubodɨrãna   | \*rubodɨrãna   |
+| ^            | Causative    | -   | \*ubollō    | \*rubollō    | \*ubollū      | \*rubollū      | \*ubollũhʷa    | \*rubollũhʷa    | \*ubollũhʷɨ̄    | \*rubollũhʷɨ̄    | \*ubollũna    | \*rubollũna    |
+| Imperfective | Patient      | -   | \*ubessē    | \*rubessē    | \*ubessiu     | \*rubessiu     | \*ubessẽhʷa    | \*rubessẽhʷa    | \*ubessẽhʷɨ̄    | \*rubessẽhʷɨ̄    | \*ubessẽna    | \*rubessẽna    |
+| ^            | Actor        | -   | \*ubessaŋka | \*rubessaŋka | \*ubessaŋkʷɨ̄ | \*rubessaŋkʷɨ̄ | \*ubessaŋkãhʷa | \*rubessaŋkãhʷa | \*ubessaŋkãhʷɨ̄ | \*rubessaŋkãhʷɨ̄ | \*ubessaŋkãna | \*rubessaŋkãna |
+| ^            | Unaccusative | -   | \*ubessoma  | \*rubessoma  | \*ubessomū    | \*rubessomū    | \*ubessomãhʷa  | \*rubessomãhʷa  | \*ubessomãhʷɨ̄  | \*rubessomãhʷɨ̄  | \*ubessomãna  | \*rubessomãna  |
+| ^            | Applicative  | -   | \*ubessɨra  | \*rubessɨra  | \*ubessɨrū    | \*rubessɨrū    | \*ubessɨrãhʷa  | \*rubessɨrãhʷa  | \*ubessɨrãhʷɨ̄  | \*rubessɨrãhʷɨ̄  | \*ubessɨrãna  | \*rubessɨrãna  |
+| ^            | Causative    | -   | \*ubesslō   | \*rubesslō   | \*ubesslū     | \*rubesslū     | \*ubesslũhʷa   | \*rubesslũhʷa   | \*ubesslũhʷɨ̄   | \*rubesslũhʷɨ̄   | \*ubesslũna   | \*rubesslũna   |
 
 ##### \*mitɨnō, mɨm- (V) "be sewn, scattered"
 
@@ -320,20 +327,20 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | ^            | Causative    | -   | \*mitillō  | \*mɨmitillō | \*mitillū   | \*mɨmitillū   | \*mitillũhʷa | \*mɨmitillũhʷa | \*mitillũhʷɨ̄ | \*mɨmitillũhʷɨ̄ | \*mitillũna | \*mɨmitillũna |
 
 #### Active
-##### \*ŋagnō, jɨŋ- (I) "insult"
+##### \*kʷenibɨnō, jɨkʷ- (II) "call, beckon"
 
-|              | <            | -   | Indicative | <          | <        | <          | Subjunctive | <             | <            | <              | Jussive    | <            |
-| ------------ | ------------ | --- | ---------- | ---------- | -------- | ---------- | ----------- | ------------- | ------------ | -------------- | ---------- | ------------ |
-|              | <            | -   | 1sg        | 1pl        | 2/3sg    | 2/3pl      | 1sg         | 1pl           | 2/3sg        | 2/3pl          | 2/3sg      | 2/3pl        |
-| Perfective   | Actor        | -   | \*ŋaga     | \*jɨŋaga   | \*ŋagʷɨ̄ | \*jɨŋagʷɨ̄ | \*ŋagãhʷa   | \*jɨŋagãhʷa   | \*ŋagãhʷɨ̄   | \*jɨŋagãhʷɨ̄   | \*ŋagãna   | \*jɨŋagãna   |
-| ^            | Unaccusative | -   | \*ŋagoma   | \*jɨŋagoma | \*ŋagomū | \*jɨŋagomū | \*ŋagomãhʷa | \*jɨŋagomãhʷa | \*ŋagomãhʷɨ̄ | \*jɨŋagomãhʷɨ̄ | \*ŋagomãna | \*jɨŋagomãna |
-| ^            | Applicative  | -   | \*ŋagra    | \*jɨŋagra  | \*ŋagrū  | \*jɨŋagrū  | \*ŋagrãhʷa  | \*jɨŋagrãhʷa  | \*ŋagrãhʷɨ̄  | \*jɨŋagrãhʷɨ̄  | \*ŋagrãna  | \*jɨŋagrãna  |
-| ^            | Causative    | -   | \*ŋaglō    | \*jɨŋaglō  | \*ŋaglū  | \*jɨŋaglū  | \*ŋaglũhʷa  | \*jɨŋaglũhʷa  | \*ŋaglũhʷɨ̄  | \*jɨŋaglũhʷɨ̄  | \*ŋaglũna  | \*jɨŋaglũna  |
-| Imperfective | Patient      | -   | \*ŋeso     | \*jɨŋeso   | \*ŋesou  | \*jɨŋesou  | \*ŋesõhʷa   | \*jɨŋesõhʷa   | \*ŋesõhʷɨ̄   | \*jɨŋesõhʷɨ̄   | \*ŋesõna   | \*jɨŋesõna   |
-| ^            | Actor        | -   | \*ŋesē     | \*jɨŋesē   | \*ŋesiu  | \*jɨŋesiu  | \*ŋesẽhʷa   | \*jɨŋesẽhʷa   | \*ŋesẽhʷɨ̄   | \*jɨŋesẽhʷɨ̄   | \*ŋesẽna   | \*jɨŋesẽna   |
-| ^            | Unaccusative | -   | \*ŋesoma   | \*jɨŋesoma | \*ŋesomū | \*jɨŋesomū | \*ŋesomãhʷa | \*jɨŋesomãhʷa | \*ŋesomãhʷɨ̄ | \*jɨŋesomãhʷɨ̄ | \*ŋesomãna | \*jɨŋesomãna |
-| ^            | Applicative  | -   | \*ŋesɨra   | \*jɨŋesɨra | \*ŋesɨrū | \*jɨŋesɨrū | \*ŋesɨrãhʷa | \*jɨŋesɨrãhʷa | \*ŋesɨrãhʷɨ̄ | \*jɨŋesɨrãhʷɨ̄ | \*ŋesɨrãna | \*jɨŋesɨrãna |
-| ^            | Causative    | -   | \*ŋeslō    | \*jɨŋeslō  | \*ŋeslū  | \*jɨŋeslū  | \*ŋeslũhʷa  | \*jɨŋeslũhʷa  | \*ŋeslũhʷɨ̄  | \*jɨŋeslũhʷɨ̄  | \*ŋeslũna  | \*jɨŋeslũna  |
+|              | <            | -   | Indicative   | <              | <            | <              | Subjunctive     | <                 | <                | <                  | Jussive        | <                |
+| ------------ | ------------ | --- | ------------ | -------------- | ------------ | -------------- | --------------- | ----------------- | ---------------- | ------------------ | -------------- | ---------------- |
+|              | <            | -   | 1sg          | 1pl            | 2/3sg        | 2/3pl          | 1sg             | 1pl               | 2/3sg            | 2/3pl              | 2/3sg          | 2/3pl            |
+| Perfective   | Actor        | -   | \*kʷeniba    | \*jɨkʷeniba    | \*kʷenibʷɨ̄  | \*jɨkʷenibʷɨ̄  | \*kʷenibãhʷa    | \*jɨkʷenibãhʷa    | \*kʷenibãhʷɨ̄    | \*jɨkʷenibãhʷɨ̄    | \*kʷenibãna    | \*jɨkʷenibãna    |
+| ^            | Unaccusative | -   | \*kʷeniboma  | \*jɨkʷeniboma  | \*kʷenibomū  | \*jɨkʷenibomū  | \*kʷenibomãhʷa  | \*jɨkʷenibomãhʷa  | \*kʷenibomãhʷɨ̄  | \*jɨkʷenibomãhʷɨ̄  | \*kʷenibomãna  | \*jɨkʷenibomãna  |
+| ^            | Applicative  | -   | \*kʷenibra   | \*jɨkʷenibra   | \*kʷenibrū   | \*jɨkʷenibrū   | \*kʷenibrãhʷa   | \*jɨkʷenibrãhʷa   | \*kʷenibrãhʷɨ̄   | \*jɨkʷenibrãhʷɨ̄   | \*kʷenibrãna   | \*jɨkʷenibrãna   |
+| ^            | Causative    | -   | \*kʷeniblō   | \*jɨkʷeniblō   | \*kʷeniblū   | \*jɨkʷeniblū   | \*kʷeniblũhʷa   | \*jɨkʷeniblũhʷa   | \*kʷeniblũhʷɨ̄   | \*jɨkʷeniblũhʷɨ̄   | \*kʷeniblũna   | \*jɨkʷeniblũna   |
+| Imperfective | Patient      | -   | \*kʷenipso   | \*jɨkʷenipso   | \*kʷenipsou  | \*jɨkʷenipsou  | \*kʷenipsõhʷa   | \*jɨkʷenipsõhʷa   | \*kʷenipsõhʷɨ̄   | \*jɨkʷenipsõhʷɨ̄   | \*kʷenipsõna   | \*jɨkʷenipsõna   |
+| ^            | Actor        | -   | \*kʷenipsē   | \*jɨkʷenipsē   | \*kʷenipsiu  | \*jɨkʷenipsiu  | \*kʷenipsẽhʷa   | \*jɨkʷenipsẽhʷa   | \*kʷenipsẽhʷɨ̄   | \*jɨkʷenipsẽhʷɨ̄   | \*kʷenipsẽna   | \*jɨkʷenipsẽna   |
+| ^            | Unaccusative | -   | \*kʷenipsoma | \*jɨkʷenipsoma | \*kʷenipsomū | \*jɨkʷenipsomū | \*kʷenipsomãhʷa | \*jɨkʷenipsomãhʷa | \*kʷenipsomãhʷɨ̄ | \*jɨkʷenipsomãhʷɨ̄ | \*kʷenipsomãna | \*jɨkʷenipsomãna |
+| ^            | Applicative  | -   | \*kʷenipsɨra | \*jɨkʷenipsɨra | \*kʷenipsɨrū | \*jɨkʷenipsɨrū | \*kʷenipsɨrãhʷa | \*jɨkʷenipsɨrãhʷa | \*kʷenipsɨrãhʷɨ̄ | \*jɨkʷenipsɨrãhʷɨ̄ | \*kʷenipsɨrãna | \*jɨkʷenipsɨrãna |
+| ^            | Causative    | -   | \*kʷenipslō  | \*jɨkʷenipslō  | \*kʷenipslū  | \*jɨkʷenipslū  | \*kʷenipslũhʷa  | \*jɨkʷenipslũhʷa  | \*kʷenipslũhʷɨ̄  | \*jɨkʷenipslũhʷɨ̄  | \*kʷenipslũna  | \*jɨkʷenipslũna  |
 
 ##### \*ãnanō, r- (III) "see"
 

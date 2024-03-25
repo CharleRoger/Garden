@@ -13,3 +13,25 @@
 	- Shote
 	- Cisi
 	- Qachkav 
+
+
+Proto-Namb motive suffixes:
+- **-cix** "oscillating, ambulating"
+- **-ta** "properly, well, completely"
+- **-fom** "towards"
+- **-ib** "(all the way) to, at"
+- **-tɨ** "throughout, all over, randomly, onto"
+- "away from, before, differently"
+- **-aŋg** "along, adhering to a particular direction"
+- **-(e)br** "against, across, over itself, back on itself"
+- "following, after, in the same way"
+- "going into, inside, concurrently, together"
+- "coming out of, outside, separately"
+- **-ag** "bringing together, closing up, combining, gathering"
+- "between, among, around, about"
+- **-i** "upwards, forwards, progressing, for a purpose"
+- "across, via, through, over"
+- "under, improperly, going around, backwards"
+- "all the way up to, nearly, barely"
+- "frequentative"
+- **-je** "repeated, attempting, correcting"
