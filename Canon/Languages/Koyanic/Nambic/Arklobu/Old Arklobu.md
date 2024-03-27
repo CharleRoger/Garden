@@ -14,18 +14,19 @@
 ## Vowels
 |       | -   | Front unrounded | Front rounded | Central | Back |
 | ----- | --- | --------------- | ------------- | ------- | ---- |
-| Close | -   | \*i             | \*y           | \*ɨ     | \*u  |
+| Close | -   | \*i             | \*y           |         | \*u  |
 | Mid   | -   | \*e             | \*ø           | \*ə     | \*o  |
 | Open  | -   | \*æ             |               |         | \*ɑ  |
-In addition to the ten monophthongs, two diphthongs \*ei and \*oi are reconstructed. \*oi may have had a front rounded quality [øj].
+In addition to the nine monophthongs, two diphthongs \*ei and \*øi are reconstructed.
 # Grammar
 ## Nouns
 ### Case
+
 |            | -   | Singular | Plural   |
 | ---------- | --- | -------- | -------- |
 | Absolutive | -   | \*-(ɑ)   | \*-(ə)   |
-| Accusative | -   | \*-(ɑ)mɑ | \*-(ə)x  |
-| Relative   | -   | \*-(j)ɑx | \*-(j)ei |
+| Accusative | -   | \*-(ɑ)r  | \*-(ə)ɣu |
+| Relative   | -   | \*-(j)æx | \*-(j)ei |
 The relative case triggers certain stem-final consonants to mutate according to the following rules:
 - -r -l -w -ɣ > -j
 - -b -d -ɟ -g > -p -t -c -c
@@ -34,12 +35,12 @@ The final vowel in the stem of a noun follows one of four ablaut patterns, shown
 
 | Number   | Case     | -   | 1     | 2     | 3     | <      | 4     | <      |
 | -------- | -------- | --- | ----- | ----- | ----- | ------ | ----- | ------ |
-| Singular | Abs, Acc | -   | \*-ɑ- | \*-ɑ- | \*-e- | \*-ei- | \*-o- | \*-oi- |
+| Singular | Abs, Acc | -   | \*-ɑ- | \*-ɑ- | \*-e- | \*-ei- | \*-o- | \*-øi- |
 | ^        | Relative | -   | \*-æ- | \*-æ- | ^     | ^      | \*-ø- | ^      |
 | Plural   | Abs, Acc | -   | \*-ɑ- | \*-ə- | \*-i- | <      | \*-u- | <      |
 | ^        | Relative | -   | \*-e- | \*-i- | ^     | <      | \*-y- | <      |
 
-An archaic form of the class 3 and 4 relative plurals saw the use of a diphthong on vowel-final stems, for example the older \*keroboijei "Krobu.REL" which was later regularised to \*kerobyjei.
+An archaic form of the class 3 and 4 relative plurals saw the use of a diphthong on vowel-final stems, for example the older \*kerobøijei "Krobu.REL" which was later regularised to \*kerobyjei.
 
 The four ablaut classes primarily derive from different sets of vowels in [[Proto-Namb language|Proto-Namb]], though various sound changes and analogical processes have obscured the regular correspondences in many places. In general, ablaut classes correspond to the following [[Proto-Namb language|Proto-Namb]] vowels:
 1. \*a
@@ -50,44 +51,44 @@ The four ablaut classes primarily derive from different sets of vowels in [[Prot
 Some examples exhibiting the four ablaut classes are shown in the tables below.
 #### Inflection class 1
 
-| Number   | Case       | -   | \*fɑvɑ "leaf" | \*kerɑbɑ "melon" | \*cwɑrɑ "nut" | \*nɑmbə "swamp" | \*okɑrə "hills" |
-| -------- | ---------- | --- | ------------- | ---------------- | ------------- | --------------- | --------------- |
-| Singular | Absolutive | -   | \*fɑvɑ        | \*kerɑbɑ         | \*cwɑrɑ       | -               | -               |
-| ^        | Accusative | -   | \*fɑvɑmɑ      | \*kerɑbɑmɑ       | \*cwɑrɑmɑ     | -               | -               |
-| ^        | Relative   | -   | \*fævɑx       | \*keræpɑx        | \*cwæjɑx      | -               | -               |
-| Plural   | Absolutive | -   | \*fɑvə        | \*kerɑbə         | \*cwɑrə       | \*nɑmbə         | \*okɑrə         |
-| ^        | Accusative | -   | \*fɑvəx       | \*kerɑbəx        | \*cwɑrəx      | \*nɑmbəx        | \*okɑrəx        |
-| ^        | Relative   | -   | \*fevei       | \*kerepei        | \*cwejei      | \*nempei        | \*okejei        |
+|          | <          | -   | Leaf     | Melon      | Nut       | Swamp     | Hills     |
+| -------- | ---------- | --- | -------- | ---------- | --------- | --------- | --------- |
+| Singular | Absolutive | -   | \*fɑvɑ   | \*kərɑbɑ   | \*cwɑrɑ   | -         | -         |
+| ^        | Accusative | -   | \*fɑvɑr  | \*kərɑbɑr  | \*cwɑrɑr  | -         | -         |
+| ^        | Relative   | -   | \*fævæx  | \*kəræpæx  | \*cwæjæx  | -         | -         |
+| Plural   | Absolutive | -   | \*fɑvə   | \*kərɑbə   | \*cwɑrə   | \*nɑmbə   | \*okɑrə   |
+| ^        | Accusative | -   | \*fɑvəɣu | \*kərɑbəɣu | \*cwɑrəɣu | \*nɑmbəɣu | \*okɑrəɣu |
+| ^        | Relative   | -   | \*fevei  | \*kərepei  | \*cwejei  | \*nempei  | \*okejei  |
 #### Inflection class 2
 
-| Number   | Case       | -   | \*ɑdɑrɑ "human" | \*rɑŋgɑ "bone" | \*twɑɣɑ "tooth" | \*ləbə "guts" | \*ɲə "fire" |
-| -------- | ---------- | --- | --------------- | -------------- | --------------- | ------------- | ----------- |
-| Singular | Absolutive | -   | \*ɑdɑrɑ         | \*rɑŋgɑ        | \*twɑɣɑ         | -             | -           |
-| ^        | Accusative | -   | \*ɑdɑrɑmɑ       | \*rɑŋgɑmɑ      | \*twɑɣɑmɑ       | -             | -           |
-| ^        | Relative   | -   | \*ɑdæjɑx        | \*ræɲcɑx       | \*twæjɑx        | -             | -           |
-| Plural   | Absolutive | -   | \*ɑdərə         | \*rəŋgə        | \*twəɣə         | \*ləbə        | \*ɲə        |
-| ^        | Accusative | -   | \*ɑdərəx        | \*rəŋgəx       | \*twəɣəx        | \*ləbəx       | \*ɲəx       |
-| ^        | Relative   | -   | \*ɑdijei        | \*riɲcei       | \*twijei        | \*lipei       | \*ɲijei     |
+|          | <          | -   | Human     | Bone      | Tooth     | Guts     | Fire    |
+| -------- | ---------- | --- | --------- | --------- | --------- | -------- | ------- |
+| Singular | Absolutive | -   | \*ɑdɑrɑ   | \*rɑŋgɑ   | \*twɑɣɑ   | -        | -       |
+| ^        | Accusative | -   | \*ɑdɑrɑr  | \*rɑŋgɑr  | \*twɑɣɑr  | -        | -       |
+| ^        | Relative   | -   | \*ɑdæjæx  | \*ræɲcæɣu | \*twæjæx  | -        | -       |
+| Plural   | Absolutive | -   | \*ɑdərə   | \*rəŋgə   | \*twəɣə   | \*ləbə   | \*ɲə    |
+| ^        | Accusative | -   | \*ɑdərəɣu | \*rəŋgəɣu | \*twəɣəɣu | \*ləbəɣu | \*ɲəɣu  |
+| ^        | Relative   | -   | \*ɑdijei  | \*riɲcei  | \*twijei  | \*lipei  | \*ɲijei |
 #### Inflection class 3
 
-| Number   | Case       | -   | \*hevɑ "bird" | \*fei "house" | \*prewɑ "string" | \*ŋinə "malaise" | \*firə "road" |
-| -------- | ---------- | --- | ------------- | ------------- | ---------------- | ---------------- | ------------- |
-| Singular | Absolutive | -   | \*hevɑ        | \*fei         | \*prewɑ          | -                | -             |
-| ^        | Accusative | -   | \*hevɑmɑ      | \*feimɑ       | \*prewɑmɑ        | -                | -             |
-| ^        | Relative   | -   | \*hevɑx       | \*feijɑx      | \*prejɑx         | -                | -             |
-| Plural   | Absolutive | -   | \*hivə        | \*fi          | \*priwə          | \*ŋinə           | \*firə        |
-| ^        | Accusative | -   | \*hivəx       | \*fix         | \*priwəx         | \*ŋinəx          | \*firəx       |
-| ^        | Relative   | -   | \*hivei       | \*fijei       | \*prijei         | \*ŋinei          | \*fijei       |
+|          | <          | -   | Bird     | House    | String    | Malaise  | Road     |
+| -------- | ---------- | --- | -------- | -------- | --------- | -------- | -------- |
+| Singular | Absolutive | -   | \*hevɑ   | \*fei    | \*prewɑ   | -        | -        |
+| ^        | Accusative | -   | \*hevɑr  | \*feir   | \*prewɑr  | -        | -        |
+| ^        | Relative   | -   | \*hevæx  | \*feijæx | \*prejæx  | -        | -        |
+| Plural   | Absolutive | -   | \*hivə   | \*fi     | \*priwə   | \*ŋinə   | \*firə   |
+| ^        | Accusative | -   | \*hivəɣu | \*fiɣu   | \*priwəɣu | \*ŋinəɣu | \*firəɣu |
+| ^        | Relative   | -   | \*hivei  | \*fijei  | \*prijei  | \*ŋinei  | \*fijei  |
 #### Inflection class 4
 
-| Number   | Case       | -   | \*otmɑ "river" | \*ɟoimɑ "sibling" | \*tiboi "peeling" | \*muɣə "blood"   \*kerobu "Krobu" |
-| -------- | ---------- | --- | -------------- | ----------------- | ----------------- | -------------- | ---------------- |
-| Singular | Absolutive | -   | \*otmɑ         | \*ɟoimɑ           | \*tiboi           | -              | -                |
-| ^        | Accusative | -   | \*otmɑmɑ       | \*ɟoimɑmɑ         | \*tiboimɑ         | -              | -                |
-| ^        | Relative   | -   | \*øtmɑx        | \*ɟoimɑx          | \*tiboirɑx        | -              | -                |
-| Plural   | Absolutive | -   | \*utmə         | \*ɟumə            | \*tibu            | \*muɣə         | \*kerobu         |
-| ^        | Accusative | -   | \*utməx        | \*ɟuməx           | \*tibux           | \*muɣəx        | \*kerobux        |
-| ^        | Relative   | -   | \*ytmei        | \*ɟymei           | \*tibyjei         | \*myjei        | \*kerobyjei      |
+|          | <          | -   | River    | Sibling  | Peeling    | Blood    | Krobu                     |
+| -------- | ---------- | --- | -------- | -------- | ---------- | -------- | ------------------------- |
+| Singular | Absolutive | -   | \*otmɑ   | \*ɟøimɑ  | \*tibøi    | -        | -                         |
+| ^        | Accusative | -   | \*otmɑr  | \*ɟøimɑr | \*tibøir   | -        | -                         |
+| ^        | Relative   | -   | \*øtmæx  | \*ɟøimæx | \*tibøiræx | -        | -                         |
+| Plural   | Absolutive | -   | \*utmə   | \*ɟumə   | \*tibu     | \*muɣə   | \*kərobu                  |
+| ^        | Accusative | -   | \*utməɣu | \*ɟuməɣu | \*tibuɣu   | \*muɣəɣu | \*kərobuɣu                |
+| ^        | Relative   | -   | \*ytmei  | \*ɟymei  | \*tibyjei  | \*myjei  | \*kərobøijei, \*kərobyjei |
 ## Adverbs
 Old Arklobu features a class of adverbs derived from the lexicalisation of an older ablative case. They are often transparently related to nouns, though can show irregularities and semantic differences.
 
@@ -99,30 +100,3 @@ Old Arklobu features a class of adverbs derived from the lexicalisation of an ol
 | \*firi "correctly, conventionally" | \*firə "road.ABS", \*fijei "road.REL"     |
 | \*mydi "every day, often, always"  | \*møɟə "day.ABS", \*mycei "day.REL"       |
 | \*xæ "reflexively"                 | \*xɑxɑlɑ "self.ABS", \*xɑxijɑx "self.REL" |
-## Verbs
-
-| Class | -   | Indicative | <         | <         | Subjunctive | <           | <           | Infinitive  |
-| ----- | --- | ---------- | --------- | --------- | ----------- | ----------- | ----------- | ----------- |
-|       | -   | 1          | 2         | 3         | 1           | 2           | 3           |             |
-| I     | -   | \*-e...ɑ   | \*-i...uf | \*-i...ux | \*-e...ɑmpɑ | \*-e...ɑnnə | \*-e...ɑnnɑ | \*-i...(ç)i |
-| ^     | -   | \*-ɑ...ɑ   | \*-u...uf | \*-u...ux | ^           | ^           | ^           | \*-e...(ç)i |
-| II    | -   | \*-ɑ...ɑ   | \*-o...uf | \*-o...ux | \*-ɑ...ɑmpɑ | \*-ɑ...ɑnnə | \*-ɑ...ɑnnɑ | \*-e...(ç)i |
-| ^     | -   | \*-o...ɑ   | \*-u...uf | \*-u...ux | ^           | ^           | ^           | \*-ø...(ç)i |
-| III   | -   | \*-o...ɑ   | \*-u...uf | \*-u...ux | \*-o...ɑmpɑ | \*-o...ɑnnə | \*-o...ɑnnɑ | \*-y...(ç)i |
-|       | -   | \*-ei      | \*-yf     | \*-yx     | \*-empɑ     | \*-innə     | \*-ennɑ     | \*-i        |
-|       | -   | \*-ə       | \*-uf     | \*-ux     | \*-æmpɑ     | \*-ənnə     | \*-ɑnnɑ     | \*-e        |
-|       | -   | ^          | ^         | ^         | \*-ompɑ     | \*-unnə     | \*-onnɑ     | \*-y        |
-|       | -   | \*-o       | \*-of     | \*-ox     | \*-ompɑ     | \*-onnə     | \*-onnɑ     | \*-ø        |
-|       | -   | ^          | ^         | ^         | \*-ɑmpɑ     | \*-ɑnnə     | \*-ɑnnɑ     | \*-æ        |
-
-|           | -   | Indicative | <        | <        | Subjunctive | <          | <          | Infinitive |
-| --------- | --- | ---------- | -------- | -------- | ----------- | ---------- | ---------- | ---------- |
-| -aŋk      |     | \*-ɑŋkɑ    | \*-oŋkuf | \*-oŋkux | \*-ɑŋkɑmpɑ  | \*-ɑŋkɑnnə | \*-ɑŋkɑnnɑ | \*-eɲci    |
-| -tlu      |     | \*-tlə     | \*-tluf  | \*-tlux  | \*-tlompɑ   | \*-tlunnə  | \*-tlonnɑ  | \*-tly     |
-| -am       |     | \*-ɑmɑ     | \*-omuf  | \*-omux  | \*-ɑmɑmpɑ   | \*-ɑmɑnnə  | \*-ɑmɑnnɑ  | \*-emsi    |
-| -fa       |     | \*-fo      | \*-fof   | \*-fox   | \*-fɑmpɑ    | \*-fɑnnə   | \*-fɑnnɑ   | \*-fæ      |
-| -er       |     |            |          |          |             |            |            |            |
-| INF + -ul |     | \*-olɑ     | \*-uluf  | \*-ulux  | \*-olɑmpɑ   | \*-olɑnnə  | \*-olɑnnɑ  | \*-ysi     |
-| INF + -o  |     | \*-o       | \*-of    | \*-ox    | \*-ompɑ     | \*-onnə    | \*-onnɑ    | \*-ø       |
-| INF + -om |     | \*-omɑ     | \*-umuf  | \*-umux  | \*-ɑmɑmpɑ   | \*-ɑmɑnnə  | \*-ɑmɑnnɑ  | \*-ømsi    |
-
