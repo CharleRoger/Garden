@@ -1,0 +1,2 @@
+A Peke is a sacred clown. A religious performer and ritualist, who creates spiritual merit through comedic and dramatic performances. In the [[Traditional Oksandanderian faith]] it is believed that thoughts and emotions have a direct causation on the spiritual balance of the world. Thus someone who can entertain and bring joy to the people does religious merit and ultimately contributes positively to the spiritual wellbeing of society. 
+The Peke appear as entertainers, acrobats, dancers, musicians and theater actors. 
