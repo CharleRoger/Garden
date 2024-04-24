@@ -201,15 +201,14 @@ Numerals fall into the quantifier category and additionally have fully merged th
 | Accusative | -   |     |     |     |     |     |     |     |     |     |     |
 | Ergative   | -   |     |     |     |     |     |     |     |     |     |     |
 ### Irregular nouns
-Other than some suppletive numberless forms and irregularity in the oblique stem, nominal inflection is highly regular across the case paradigm. The very few irregularities which do exist are almost exclusively variation between stem forms, e.g. \*fierra "road" has the absolutive stem \*fierr-, but the oblique and relative stems take the form \*fin-.
+Other than some suppletive numberless forms and irregularity in the oblique stem, nominal inflection is highly regular across the case paradigm. The very few irregularities which do exist are almost exclusively represented by variation between stem forms, e.g. the irregular noun \*fierra "road", which has oblique and relative stems \*faŋ- and \*fin- respectively.
 #### \*fierra "road"
 
 |                 | <          | -   | Singular   | Plural   | Uncounted |
 | --------------- | ---------- | --- | ---------- | -------- | --------- |
 | Absolutive stem | Absolutive | -   | \*fierra   | \*fierre | \*fierror |
 | ^               | Accusative | -   | \*fierrarn | <        | \*fierrax |
-| Oblique stem    | Oblique    | -   | -          | <        | \*finxu   |
-| ^               | Possessive | -   | \*finnuex  | \*finnu  | -         |
+| Oblique stem    | Oblique    | -   | -          | <        | \*faŋxu   |
 | Relative stem   | Ergative   | -   | \*finiex   | \*fini   | \*finier  |
 | ^               | Ablative   | -   | -          | <        | \*fini    |
 | ^               | Genitive   | -   | \*finax    | \*fini   | <         |
