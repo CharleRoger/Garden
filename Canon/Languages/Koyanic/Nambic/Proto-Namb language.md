@@ -190,16 +190,6 @@ Certain temporal and spatial nouns, as well as uniquely named entities like deit
 | Relative stem   | Ergative   | -   | \*äfier   | \*tëfier    | \*füpcier       |
 | ^               | Ablative   | -   | \*äfi     | \*tëfi      | \*füpci         |
 | ^               | Genitive   | -   | ^         | ^           | ^               |
-### Quantitative nouns
-Quantifiers are a special lexical category which are mostly used as adjectives for quantification and comparison of nouns, though can stand alone as nouns themselves. All quantifiers are grammatically plural, even those which are semantically singular. This means that they take plural inflection, have no oblique or ablative case, and as a result can not be used in indirect syntactic roles.
-
-Numerals fall into the quantifier category and additionally have fully merged the ergative and genitive cases, as shown in the table below.
-
-|            | -   |     |     |     |     |     |     |     |     |     |     |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Absolutive | -   |     |     |     |     |     |     |     |     |     |     |
-| Accusative | -   |     |     |     |     |     |     |     |     |     |     |
-| Ergative   | -   |     |     |     |     |     |     |     |     |     |     |
 ### Irregular nouns
 Other than some suppletive numberless forms and irregularity in the oblique stem, nominal inflection is highly regular across the case paradigm. The very few irregularities which do exist are almost exclusively represented by variation between stem forms, e.g. the irregular noun \*fierra "road", which has oblique and relative stems \*faŋ- and \*fin- respectively.
 #### \*fierra "road"
