@@ -16,3 +16,11 @@ If scholars would make isotope analysis of the tools, one would find out that ev
 It is unclear whether there was state-level organisation between different OKM sites during this time or whether villages and towns formed small independent units. However there was one cosmopolitan element in their society, which connected traders and artisans alike. Some people have theorised about 
 
 At the same time as the OKM flourishes, the NKPM seems to collapse. During the 2nd century BGS the NKPM suddenly vanishes, with almost all settlements being given up in a matter of 40 years. What follows is a rapid transition to pastoralism.
+
+## Regionalisation Period / Terminal (2nd century BGS - 2nd Century AGS) 
+
+The Regionalisation period is the finale stage of the OKM and is regarded as the transition to the [[Krobuan Preclassic]] period. While classical OKM artefacts remain in use, new artefacts and innovative technologies appear, among them the [[Yayamok type canoe]]. New artefacts are particularly regional and indicate the presence of states or at least individual polities. While Arklobu histories may refer to this period, it should be kept in mind that writing was not yet in use in Krobu and would not for several more centuries. Thus the histories, which go back to this time period should be taken with skepticism. 
+
+## Language 
+
+The people of the OKM undoubtly spoke a [[Koyanic languages|Koyanic]] language. The candidates for the language of the people are languages ancestral to [[Nambāno]] and [[Arklobu]] or the common ancestor of both. The terminal OKM, especially its northern and insular variety is probably a language directly ancestral to [[Old Nambāno]]. There seems to be an old layer of loanwords, which might come from other Koyanic languages, among them Proto-Hnäzb, which was spoken by the [[Northern-Koty Pre-Metallic Complex|NKPM]] culture and the [[South-Koyanic Pastoralic Complex]]. This layer is small and given it is from one Koyanic language to another, its status is obscured by later sound changes. More recent strata of Hnäzbic loanwords date from the 5th century and the most recent one from the 10th century.  
