@@ -67,17 +67,28 @@ In other grammatical forms, a stem-final consonant would mutate according to the
 In Namb, this latter process developed further due to the loss of \*s between vowels, palatal obstruent assimilation and i-mutation, whereby the vowels \*a \*e \*o \*u were shifted to \*ä \*ë \*ö \*ü respectively in the presence of \*i or \*y in the next syllable.
 
 These changes yielded the following mutation rules which generally apply in Proto-Namb:
-- -b -d -j -g -x → -p -t -c -c -ç
+- -b -d -j/g/k -x → -p -t -c -ç
 - -r -y -w → -∅
 - -a- -e- -o- -u- → -ä- -ë- -ö- -ü-
 
-This mutation is not restricted to a single lexical class, all three alternate stem forms appear in the inflection of both nouns and verbs. Zero-derivation makes this especially clear, as the same stems can lend themselves to unrelated grammatical forms in different lexical classes, for example those shown in the table below.
+This mutation is not restricted to a single lexical class, all three alternating stem forms appear in the inflection of both nouns and verbs. Zero-derivation makes this especially clear, as the same stems can lend themselves to unrelated grammatical forms in different lexical classes, for example those shown in the table below.
 
-| Verb "give"          | Noun "gift"     |
-| -------------------- | --------------- |
-| \*leda (IND.1SG)     | \*leda (ABS.SG) |
-| \*lidanfa (SUBJ.1SG) | \*lidux (OBL)   |
-| \*lëci- (IMPFV)      | \*lëciex (ERG)  |
+| Stem     | -   | Verb "give"          | Noun "gift"     |
+| -------- | --- | -------------------- | --------------- |
+| Basic    | -   | \*leda (IND.1SG)     | \*leda (ABS.SG) |
+| Mutated  | -   | \*lëti (INFV)        | \*lëtiex (ERG)  |
+| Ablauted | -   | \*lidanfa (SUBJ.1SG) | \*lidux (OBL)   |
+
+The ablauted stem is used in compounding.
+
+There are six morphological paradigms relating the forms of the three stems and suffixes attached to the stem. These stem classes are defined by whether or not the stem ends in a consonant or vowel and which of three cardinal vowels appears as the final vowel in the ablauted stem.
+
+|          | -   | aC-stem | <   | <   | iC-stem | <    | <   | uC-stem | <    | <   | a-stem              | i-stem | u-stem |
+| -------- | --- | ------- | --- | --- | ------- | ---- | --- | ------- | ---- | --- | ------------------- | ------ | ------ |
+| Basic    | -   | -aC     | -ec | -oc | -iC     | -ieC | -eC | -uC     | -ueC | -oC | Fused with suffixes | <      | <      |
+| Mutated  | -   | -äC     | -ëC | -öC | -iC     | -ieC | -ëC | -üC     | -üeC | -öC | ^                   | ^      | ^      |
+| Ablauted | -   | -aC     | <   | <   | -iC     | <    | <   | -uC     | <    | <   | -a                  | -i     | -u     |
+
 ### Development from Proto-Gäj
 The uniformity of stem alternation across lexical class is the result of inflectional morphology coincidentally causing multiple independent sound changes to frequently occur together, and the compound phonological variation which arose becoming recognised as a common pattern. This separated a stem into distinct forms strengthened by semantic and morphological analogy. For example, the [[Proto-Gäj language|Proto-Gäj]] infinitive suffix \*-xi, which formed the basis of the imperfective verb conjugation in Proto-Namb, triggered mutation of the previous vowel in the stem and blocked the voicing of a stem-final plain plosive which had become voiced elsewhere. In nominal inflection, the [[Proto-Gäj language|Proto-Gäj]] genitive suffix \*-(r)i (< \*-z/si) also triggered the same ablaut and consonant mutation in most cases, as did the ablative suffixes \*-çi and \*-θi.
 
@@ -86,7 +97,7 @@ Many paradigms of related forms which partially or inconsistently mutated the st
 The semantic relationships between nominal cases may also have influenced this analogy. There may have been a semantic split into indirect relational roles like the genitive and ablative, and direct passive/recipient roles like the absolutive and accusative. In such a system, the ergative case would likely be more associated with the relational roles, and this may have influenced the use of this mutated stem for the ergative case in Proto-Namb, unlike the other [[Gäj languages]].
 ## Nouns
 ### Grammatical number
-Proto-Namb features two true grammatical numbers, singular and plural, which have different inflectional forms and corresponding verb affixes. Additionally, there is a "numberless" category, which is not strictly a grammatical number, but a form of a noun which carries no number and cannot be modified by quantifiers. When numbered and numberless nouns appear together within a discourse, the numberless noun typically has an indirect or adjunct role. Numberless nouns can be the direct object of a verb, though it is not known whether the verb was marked for a singular or plural subject in such a case, as descendant languages exhibit different behaviour.
+Proto-Namb features two true grammatical numbers, singular and plural, which have different inflectional forms and corresponding verb affixes. Additionally, there is a "numberless" category, which is not strictly a grammatical number, but a form of a noun which carries no number and cannot be modified by quantifiers. When numbered and numberless nouns appear together within a discourse, the numberless noun typically has an indirect or adjunct role. Numberless nouns can be the subject of a verb, though it is not known whether the verb was marked for a singular or plural subject in such a case, as descendant languages exhibit different behaviour.
 
 Mass nouns appear only in the numberless form, typically representing things like substances, emotions and weather events.
 
@@ -103,123 +114,117 @@ Nouns in Proto-Namb inflect for seven cases:
 
 The oblique and ablative cases, which are the only cases to take postpositions, are strictly always in the uncounted grammatical number and thus cannot take quantifiers directly.
 ### Declensions
-The case-marking systems of Proto-Namb can be categorised into six main paradigms depending on whether or not the stem ends in a consonant or vowel and which of the three cardinal vowels appears as the final vowel in the bare-stem, used in compounding:
-- -aC, -iC, -uC, -a, -i, -u
+The case-marking systems of Proto-Namb can be categorised according to the six stem classes.
 #### aC-stem declension (\*xela "person")
-aC-stem nouns have an absolutive stem ending in \*e, \*a or \*o followed by a consonant. The stem vowel ablauts to \*a in the oblique stem the bare compounding form.
 
-|                 | <          | -   | Singular  | Plural  | Uncounted |
-| --------------- | ---------- | --- | --------- | ------- | --------- |
-| Absolutive stem | Absolutive | -   | \*xela    | \*xele  | \*xelor   |
-| ^               | Accusative | -   | \*xelarn  | <       | \*xelax   |
-| Oblique stem    | Oblique    | -   | -         | <       | \*xalxu   |
-| ^               | Possessive | -   | \*xalnuex | \*xalnu | -         |
-| Relative stem   | Ergative   | -   | \*xëliex  | \*xëli  | \*xëlier  |
-| ^               | Ablative   | -   | -         | <       | \*xëli    |
-| ^               | Genitive   | -   | \*xëlrax  | \*xëlri |           |
+|               | <          | -   | Singular  | Plural   | Uncounted |
+| ------------- | ---------- | --- | --------- | -------- | --------- |
+| Basic stem    | Absolutive | -   | \*xela    | \*xele   | \*xelor   |
+| ^             | Accusative | -   | \*xelarn  | \*xelern | \*xelax   |
+| Ablauted stem | Oblique    | -   | -         | <        | \*xalxu   |
+| ^             | Possessive | -   | \*xalnuex | \*xalnu  | -         |
+| Mutated stem  | Ergative   | -   | \*xëliex  | \*xëli   | \*xëlier  |
+| ^             | Ablative   | -   | -         | <        | \*xëli    |
+| ^             | Genitive   | -   | \*xëlrax  | \*xëlri  |           |
 #### iC-stem declension (\*mreba "salamander")
-iC-stem nouns have a stem vowel of \*e, \*i or \*ie which ablauts to \*i in the oblique stem.
 
-Note that the lack of \*-r- on the genitive is regular for obstruent-final stems.
-
-|                 | <          | -   | Singular   | Plural   | Uncounted |
-| --------------- | ---------- | --- | ---------- | -------- | --------- |
-| Absolutive stem | Absolutive | -   | \*mreba    | \*mrebe  | \*mrebor  |
-| ^               | Accusative | -   | \*mrebarn  | <        | \*mrebax  |
-| Oblique stem    | Oblique    | -   | -          | <        | \*mribxu  |
-| ^               | Possessive | -   | \*mribnuex | \*mribnu | -         |
-| Relative stem   | Ergative   | -   | \*mrëpiex  | \*mrëpi  | \*mrëpier |
-| ^               | Ablative   | -   | -          | <        | \*mrëpi   |
-| ^               | Genitive   | -   | \*mrëpax   | \*mrëpi  | <         |
+|               | <          | -   | Singular   | Plural    | Uncounted |
+| ------------- | ---------- | --- | ---------- | --------- | --------- |
+| Basic stem    | Absolutive | -   | \*mreba    | \*mrebe   | \*mrebor  |
+| ^             | Accusative | -   | \*mrebarn  | \*mrebern | \*mrebax  |
+| Ablauted stem | Oblique    | -   | -          | <         | \*mribxu  |
+| ^             | Possessive | -   | \*mribnuex | \*mribnu  | -         |
+| Mutated stem  | Ergative   | -   | \*mrëpiex  | \*mrëpi   | \*mrëpier |
+| ^             | Ablative   | -   | -          | <         | \*mrëpi   |
+| ^             | Genitive   | -   | \*mrëpax   | \*mrëpi   | <         |
 #### uC-stem declension (\*ueda "lord")
-The uC-stem declension represents a back-rounded mirror of the iC-stem declension, in which an absolutive stem vowel of \*o, \*u or \*ue ablauts to \*u in the oblique stem.
 
-|                 | <          | -   | Singular        | Plural      | Uncounted |
-| --------------- | ---------- | --- | --------------- | ----------- | --------- |
-| Absolutive stem | Absolutive | -   | \*ueda          | \*uede      | \*uedor   |
-| ^               | Accusative | -   | \*uedarn        | <           | \*uedax   |
-| Oblique stem    | Oblique    | -   | -               | <           | \*udxu    |
-| ^               | Possessive | -   | \*udnuex~unnuex | \*udnu~unnu | -         |
-| Relative stem   | Ergative   | -   | \*üetiex        | \*üeti      | \*üetier  |
-| ^               | Ablative   | -   | -               | <           | \*üeti    |
-| ^               | Genitive   | -   | \*üetax         | \*üeti      | <         |
+|               | <          | -   | Singular        | Plural      | Uncounted |
+| ------------- | ---------- | --- | --------------- | ----------- | --------- |
+| Basic stem    | Absolutive | -   | \*ueda          | \*uede      | \*uedor   |
+| ^             | Accusative | -   | \*uedarn        | \*uedern    | \*uedax   |
+| Ablauted stem | Oblique    | -   | -               | <           | \*udxu    |
+| ^             | Possessive | -   | \*udnuex~unnuex | \*udnu~unnu | -         |
+| Mutated stem  | Ergative   | -   | \*üetiex        | \*üeti      | \*üetier  |
+| ^             | Ablative   | -   | -               | <           | \*üeti    |
+| ^             | Genitive   | -   | \*üetax         | \*üeti      | <         |
 #### a-stem declension (\*ŋaŋa "frog")
 The a-stem declension takes the same absolutive, accusative and ergative case endings as a C-stem noun, but features distinct oblique and relative stem forms. The ergative case, though exhibiting the vowel \*-i- on each suffix, notably does not feature i-mutation of the preceding vowel. This is because the ergative singular
 
 When compounding, the linking vowel \*-a- is used, but the oblique stem exhibits the vowel \*-u- before the case ending.
 
-|                 | <          | -   | Singular  | Plural   | Uncounted |
-| --------------- | ---------- | --- | --------- | -------- | --------- |
-| Absolutive stem | Absolutive | -   | \*ŋaŋa    | \*ŋaŋe   | \*ŋaŋor   |
-| ^               | Accusative | -   | \*ŋaŋarn  | <        | \*ŋaŋax   |
-| Oblique stem    | Oblique    | -   | -         | <        | \*ŋaŋuxu  |
-| ^               | Possessive | -   | \*ŋaŋunax | \*ŋaŋun  | -         |
-| Relative stem   | Ergative   | -   | \*ŋaŋiex  | \*ŋaŋi   | \*ŋaŋier  |
-| ^               | Ablative   | -   | -         | <        | \*ŋaŋöi   |
-| ^               | Genitive   | -   | \*ŋaŋörax | \*ŋaŋöri | <         |
+|               | <          | -   | Singular  | Plural   | Uncounted |
+| ------------- | ---------- | --- | --------- | -------- | --------- |
+| Basic stem    | Absolutive | -   | \*ŋaŋa    | \*ŋaŋe   | \*ŋaŋor   |
+| ^             | Accusative | -   | \*ŋaŋarn  | \*ŋaŋern | \*ŋaŋax   |
+| Ablauted stem | Oblique    | -   | -         | <        | \*ŋaŋaxu  |
+| ^             | Possessive | -   | \*ŋaŋanax | \*ŋaŋan  | -         |
+| Mutated stem  | Ergative   | -   | \*ŋaŋiex  | \*ŋaŋi   | \*ŋaŋier  |
+| ^             | Ablative   | -   | -         | <        | \*ŋaŋöi   |
+| ^             | Genitive   | -   | \*ŋaŋörax | \*ŋaŋöri | <         |
 #### i-stem declension (\*wecie "rabbit")
 
-|                 | <          | -   | Singular   | Plural    | Uncounted |
-| --------------- | ---------- | --- | ---------- | --------- | --------- |
-| Absolutive stem | Absolutive | -   | \*wëcie    | \*wëci    | \*wëcier  |
-| ^               | Accusative | -   | \*wëciern  | <         | \*wëciex  |
-| Oblique stem    | Oblique    | -   | -          | <         | \*wëcixu  |
-| ^               | Possessive | -   | \*wëcinax  | \*wëcin   | -         |
-| Relative stem   | Ergative   | -   | \*wëciex   | \*wëci    | \*wëcier  |
-| ^               | Ablative   | -   | -          | <         | \*wëci    |
-| ^               | Genitive   | -   | \*wëcierax | \*wëcieri | <         |
+|               | <          | -   | Singular   | Plural    | Uncounted |
+| ------------- | ---------- | --- | ---------- | --------- | --------- |
+| Basic stem    | Absolutive | -   | \*wëcie    | \*wëci    | \*wëcier  |
+| ^             | Accusative | -   | \*wëciern  | <         | \*wëciex  |
+| Ablauted stem | Oblique    | -   | -          | <         | \*wëcixu  |
+| ^             | Possessive | -   | \*wëcinax  | \*wëcin   | -         |
+| Mutated stem  | Ergative   | -   | \*wëciex   | \*wëci    | \*wëcier  |
+| ^             | Ablative   | -   | -          | <         | \*wëci    |
+| ^             | Genitive   | -   | \*wëcierax | \*wëcieri | <         |
 #### u-stem declension (\*namue "father")
 
-|                 | <          | -   | Singular   | Plural    | Uncounted |
-| --------------- | ---------- | --- | ---------- | --------- | --------- |
-| Absolutive stem | Absolutive | -   | \*namue    | \*namu    | \*namuer  |
-| ^               | Accusative | -   | \*namuern  | <         | \*namuex  |
-| Oblique stem    | Oblique    | -   | -          | <         | \*namuxu  |
-| ^               | Possessive | -   | \*namunax  | \*namun   | -         |
-| Relative stem   | Ergative   | -   | \*namüex   | \*namüi   | \*namüer  |
-| ^               | Ablative   | -   | -          | <         | \*namüi   |
-| ^               | Genitive   | -   | \*namüerax | \*namüeri | <         |
+|               | <          | -   | Singular   | Plural    | Uncounted |
+| ------------- | ---------- | --- | ---------- | --------- | --------- |
+| Basic stem    | Absolutive | -   | \*namue    | \*namu    | \*namuer  |
+| ^             | Accusative | -   | \*namuern  | <         | \*namuex  |
+| Ablauted stem | Oblique    | -   | -          | <         | \*namuxu  |
+| ^             | Possessive | -   | \*namunax  | \*namun   | -         |
+| Mutated stem  | Ergative   | -   | \*namüex   | \*namüi   | \*namüer  |
+| ^             | Ablative   | -   | -          | <         | \*namüi   |
+| ^             | Genitive   | -   | \*namüerax | \*namüeri | <         |
 ### Unique nouns
 Certain temporal and spatial nouns, as well as uniquely named entities like deities, celestial bodies and months, fall into a special category of "unique" nouns. Many of these were derived from the [[Proto-Koyanic language|Proto-Koyanic]] inanimate locative \*-tʰul and ablative \*-tʰīl, with \*-tʰ (later \*-f) reanalysed as part of the stem in Namb. Unique nouns take numberless inflectional forms, but are treated as singular by verb agreement. The typical accusative suffix \*-ax is not present, instead the oblique \*-xu is used, which triggers assimilation of the common stem-final \*f to \*x
 
-|                 | <          | -   | "the sun" | "the world" | "[[Smallmoon]]" |
-| --------------- | ---------- | --- | --------- | ----------- | --------------- |
-| Absolutive stem | Absolutive | -   | \*afor    | \*tefor     | \*füpcier       |
-| ^               | Accusative | -   | \*axxu    | \*tixxu     | \*füpcixu       |
-| Oblique stem    | Oblique    | -   | ^         | ^           | ^               |
-| Relative stem   | Ergative   | -   | \*äfier   | \*tëfier    | \*füpcier       |
-| ^               | Ablative   | -   | \*äfi     | \*tëfi      | \*füpci         |
-| ^               | Genitive   | -   | ^         | ^           | ^               |
+|               | <          | -   | "the sun" | "the world" | "[[Smallmoon]]" |
+| ------------- | ---------- | --- | --------- | ----------- | --------------- |
+| Basic stem    | Absolutive | -   | \*afor    | \*tefor     | \*füpcier       |
+| Ablauted stem | Accusative | -   | \*axxu    | \*tixxu     | \*füpcixu       |
+| ^             | Oblique    | -   | ^         | ^           | ^               |
+| Mutated stem  | Ergative   | -   | \*äfier   | \*tëfier    | \*füpcier       |
+| ^             | Ablative   | -   | \*äfi     | \*tëfi      | \*füpci         |
+| ^             | Genitive   | -   | ^         | ^           | ^               |
 ### Irregular nouns
-Other than some suppletive numberless forms and irregularity in the oblique stem, nominal inflection is highly regular across the case paradigm. The very few irregularities which do exist are almost exclusively represented by variation between stem forms, e.g. the irregular noun \*fierra "road", which has oblique and relative stems \*faŋ- and \*fin- respectively.
+Other than some suppletive numberless forms and irregularity in the oblique stem, nominal inflection is highly regular across the case paradigm. The very few irregularities which do exist are almost exclusively represented by variation between stem forms, e.g. the irregular noun \*fierra "road", which has ablauted and mutated stems \*faŋ- and \*fin- respectively.
 #### \*fierra "road"
 
-|                 | <          | -   | Singular   | Plural   | Uncounted |
-| --------------- | ---------- | --- | ---------- | -------- | --------- |
-| Absolutive stem | Absolutive | -   | \*fierra   | \*fierre | \*fierror |
-| ^               | Accusative | -   | \*fierrarn | <        | \*fierrax |
-| Oblique stem    | Oblique    | -   | -          | <        | \*faŋxu   |
-| Relative stem   | Ergative   | -   | \*finiex   | \*fini   | \*finier  |
-| ^               | Ablative   | -   | -          | <        | \*fini    |
-| ^               | Genitive   | -   | \*finax    | \*fini   | <         |
+|               | <          | -   | Singular   | Plural   | Uncounted |
+| ------------- | ---------- | --- | ---------- | -------- | --------- |
+| Basic stem    | Absolutive | -   | \*fierra   | \*fierre | \*fierror |
+| ^             | Accusative | -   | \*fierrarn | <        | \*fierrax |
+| Ablauted stem | Oblique    | -   | -          | <        | \*faŋxu   |
+| Mutated stem  | Ergative   | -   | \*finiex   | \*fini   | \*finier  |
+| ^             | Ablative   | -   | -          | <        | \*fini    |
+| ^             | Genitive   | -   | \*finax    | \*fini   | <         |
 #### \*ue "bird"
 
-|                 | <          | -   | Singular | Plural  | Uncounted |
-| --------------- | ---------- | --- | -------- | ------- | --------- |
-| Absolutive stem | Absolutive | -   | \*ue     | \*u     | \*uer     |
-| ^               | Accusative | -   | \*uern   | <       | \*uex     |
-| Oblique stem    | Oblique    | -   | -        | <       | \*uexu    |
-| ^               | Possessive | -   | \*unax   | \*un    | -         |
-| Relative stem   | Ergative   | -   | \*wiex   | \*wi    | \*wier    |
-| ^               | Ablative   | -   | -        | <       | \*wi      |
-| ^               | Genitive   | -   | \*wierax | \*wieri | <         |
+|               | <          | -   | Singular | Plural  | Uncounted |
+| ------------- | ---------- | --- | -------- | ------- | --------- |
+| Basic stem    | Absolutive | -   | \*ue     | \*u     | \*uer     |
+| ^             | Accusative | -   | \*uern   | <       | \*uex     |
+| Ablauted stem | Oblique    | -   | -        | <       | \*uxu     |
+| ^             | Possessive | -   | \*unax   | \*un    | -         |
+| Mutated stem  | Ergative   | -   | \*wiex   | \*wi    | \*wier    |
+| ^             | Ablative   | -   | -        | <       | \*wi      |
+| ^             | Genitive   | -   | \*wierax | \*wieri | <         |
 #### \*möjor "daytime"
 
-|                 |            | -   | Uncounted |
-| --------------- | ---------- | --- | --------- |
-| Absolutive stem | Absolutive | -   | \*möjor   |
-| ^               | Accusative | -   | \*möjux   |
-| Oblique stem    | Oblique    | -   | ^         |
-| Relative stem   | Ergative   | -   | \*mödier  |
-| ^               | Ablative   | -   | \*mödi    |
-| ^               | Genitive   | -   | ^         |
+|               |            | -   | Uncounted |
+| ------------- | ---------- | --- | --------- |
+| Basic stem    | Absolutive | -   | \*möjor   |
+| Ablauted stem | Accusative | -   | \*möjux   |
+| ^             | Oblique    | -   | ^         |
+| Mutated stem  | Ergative   | -   | \*mödier  |
+| ^             | Ablative   | -   | \*mödi    |
+| ^             | Genitive   | -   | ^         |
