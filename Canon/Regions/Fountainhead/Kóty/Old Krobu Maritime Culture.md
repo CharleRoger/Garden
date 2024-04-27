@@ -13,7 +13,7 @@ The OKM reaches its cultural cenith and largest expansion, with several major ce
 
 If scholars would make isotope analysis of the tools, one would find out that even those in Qnop were manufactured in Krobu and brought there by communities of traders, the active migration of metalworkers seems to have ceased and local elites "hoard" that knowledge. Maybe traders are also organised in guilds that monopolise certain trades. If one would examine human remains found in Qnop, one could find out that many were born in Krobu and migrated later in life to Qnop. If one would make genetic research, one would find out that some people that were born in Qnop did have ancestors in Krobu. 
 
-It is unclear whether there was state-level organisation between different OKM sites during this time or whether villages and towns formed small independent units. However there was one cosmopolitan element in their society, which connected traders and artisans alike. Some people have theorised about 
+It is unclear whether there was state-level organisation between different OKM sites during this time or whether villages and towns formed small independent units. However there was one cosmopolitan element in their society, which connected traders and artisans alike. Some people have theorised about guild like organizations, which dominated trade and formed cosmopolitan proto-states. 
 
 At the same time as the OKM flourishes, the NKPM seems to collapse. During the 2nd century BGS the NKPM suddenly vanishes, with almost all settlements being given up in a matter of 40 years. What follows is a rapid transition to pastoralism.
 
