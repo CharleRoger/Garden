@@ -87,11 +87,11 @@ The categories of high-animate and low-animate descend from the categories of an
 They are similar to a distinction between humans and non-humans and in some Hnäzbic languages they are. However generally they don't map to these concepts precisely and low-animate is also used for groups of humans or generic terms like _man_ or _woman_ and others like that (False plurals and collectives).
 The low-animate class can also be used derogatorily to insult people by likening them to animals. As the same time some instances of its use are to be understood as neutral and are just artefacts of its origin as animate.plural. Reversely the high-animate is also used on particular animals seen as noble creatures or mythical beings.
 
-| Class         | Nouns                                                                                                    | Origin           |
-| ------------- | -------------------------------------------------------------------------------------------------------- | ---------------- |
-| High-Animate  | Proper nouns, deities + spirits, humans, peoples and professions, some domestic animals (Ugo and cattle) | Animate.Singular |
-| (Low)-Animate | Animals, some plants, machinery (human tools), natural phenomena, collectives, false plurals             | Animate.Plural   |
-| Inanimate     | Most non-domesticated plants, objects, abstracts                                                         | Inanimate        |
+| Class         | Nouns                                                                                                | Origin           |
+| ------------- | ---------------------------------------------------------------------------------------------------- | ---------------- |
+| High-Animate  | Humans (+ Names), deities + spirits, peoples and professions, some domestic animals (Ugo and cattle) | Animate.Singular |
+| (Low)-Animate | Animals, some plants, machinery (human tools), natural phenomena, collectives, false plurals         | Animate.Plural   |
+| Inanimate     | Most non-domesticated plants, places, objects, abstracts                                             | Inanimate        |
 ## Case 
 
 There eight cases in total: **Absolutive, accusative, partitive, ergative, genitive, instrumental, dative** and **locative.** 
@@ -146,5 +146,30 @@ Proto-Hnäzb developed a series of noun classifiers, which attach to nouns as su
 
 # Verbal Morphology 
 
+## Ventive vs Separative stems 
 
+Each verb has two stem forms. These stem forms are derived from former infixed person markers. These person markers differentiated the first person and the non-first person. These infixes were semantically bleached and became fixed to the stem. First as obligate prefixes and later as integral part of the stem, often being phonologically reduced to just a single consonant or vowel colouring. 
+
+The first person markers became ventive forms, which represent something "away from the subject" or through the subject. Enacted by the subject, for the subject. The non-first person markers became separative markers, which means something from the outside towards the subject or something directed at the subject. The notion of the subject (or topic) replaces that of the first person, which is 
+
+**Examples** 
+(If there is no cluster and just a continuant and the vowel is either /a/ or /o/ it might be reanalysed as part of the prefix)
+
+ʔotsʼ "to cook" > Ventive: ʔotsʼ "to cook for oneself/to cook something" (regular stem), Separative: ʔatsʼ "to cook for someone".   
+
+kne "to cry" > Ventive: okne "to cry", Separative: akne "to lament" 
+
+semt "to die" > Ventive: osemt "to die", Separative: asemt "to be killed" 
+
+klat "to enjoy" > Ventive: oklat "to be happy", Separative: aklat "to enjoy something" 
+
+χoː "to hear" > Ventive: χoː "to listen", Separative: χaː "to perceive audible" 
+
+zai̯ "to see" > Ventive: zoi̯ "to watch", Separative: zai̯ "to perceive visually"
+
+tau̯ "to speak" > Ventive otau̯ "to speak (to someone)", Separative: atau̯ "to speak in favour of someone/thing" 
+
+naːq "to walk, to go" > Ventive: onaːq "to come", Separative: anaːq "to go away"
+
+sm̥oːm "to urinate" > Ventive: osm̥oːm "to relieve oneself", Separative: asm̥oːm "to piss"
 
