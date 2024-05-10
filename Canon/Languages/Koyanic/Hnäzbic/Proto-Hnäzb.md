@@ -78,8 +78,13 @@ Around the [[1st century|1st]] and [[2nd century]] Proto-Hnäzb diverged in indi
 
 A syllable can contain both a complex onset and a complex coda, resulting in a maximal structure of CCVCC. 
 All affricates > t / before another affricate or t
-All aspirates unaspirate before another plosive and at the end of words
+All aspirates unaspirate before another plosive and at the end of words.
 
+## Accentuation 
+
+Accent in Hnäzb is fixed on the ultimate syllable of the stem. Compounds bear their main accent on the first stem, while secondary stems are reduced (loss of long vowels, centralization). 
+
+Secondary stress usually appears on the second-to-first syllable, while other prefixal syllables are reduced. 
 # Nominal Morphology 
 ## Class
 The older bipartite system of animate and inanimate is broken down into a tripartite system of **high-animate, low-animate** and **inanimate**. 
@@ -146,6 +151,10 @@ Proto-Hnäzb developed a series of noun classifiers, which attach to nouns as su
 
 # Verbal Morphology 
 
+Finite verbs in Hnäzb are mainly prefixing. The verbal root is the final part of the finite verb. It is preceded by a possible ventive or separative marker, a person-polarity-tense marker and a definiteness marker. 
+
+| Definiteness | Person/Polarity/Tense | Version | Stem |
+| ------------ | --------------------- | ------- | ---- |
 ## Ventive vs Separative stems 
 
 Each verb has two stem forms. These stem forms are derived from former infixed person markers. These person markers differentiated the first person and the non-first person. These infixes were semantically bleached and became fixed to the stem. First as obligate prefixes and later as integral part of the stem, often being phonologically reduced to just a single consonant or vowel colouring. 
@@ -172,4 +181,33 @@ tau̯ "to speak" > Ventive otau̯ "to speak (to someone)", Separative: atau̯ "t
 naːq "to walk, to go" > Ventive: onaːq "to come", Separative: anaːq "to go away"
 
 sm̥oːm "to urinate" > Ventive: osm̥oːm "to relieve oneself", Separative: asm̥oːm "to piss"
+
+## Person Prefixes
+
+Hnäzbic has person prefixes, which distinguish tense (past and non-past), as well as polarity (positive and negative).  The prefixes for the third person differentiate transitivity, while those of the first and second person do not. The third person singular remains null if the the verb is intransitive. If it is transitive it receives a prefix. This prefix however gets replaced by the definiteness marker if there is a definite object (though this might vary in daughter languages, depending on whether the prefix is reanalysed fully), with the polarity + number marker -(m)ər remaining. 
+
+|          |     | 1SG    | 2SG            | 3SG            | 1PL          | 2PL            | 3PL            |
+| -------- | --- | ------ | -------------- | -------------- | ------------ | -------------- | -------------- |
+| Past     | -   | tʰokʰ- | pʰok-          | 0- / kʰə̄(ʔ)-  | tʰor-        | pʰor-          | 0- / kʰə̄ʔər-  |
+|          | NEG | tʰom-  | pʰom-          | 0- / kʰə̄m-    | tʰomər-      | pʰomər-        | 0- / kʰə̄mər-  |
+| Non-Past | -   | mi(n)- | simɨ-<br>simy- | sumɨ-<br>sumy- | ūmɨ-<br>ūmy- | somɨ-<br>somy- | zomɨ-<br>zomy- |
+|          | NEG | om-    | onu-<br>onw-   | onɨ-<br>ony-   | omɨr-        | onur-          | onɨr-          |
+## Definitenes Prefixes 
+
+The final prefixes mark definiteness, meaning whether the verb has a definite or indefinite object. If the verb is intransitive, there is no prefix. If the verb is transitive and the object is indefinite and the subject is in the third person, there is a single prefix, which was previously shown as the third person marker. 
+If the subject is first or second person and the object is indefinite there is no indefinite marker. If there is a definite object, a prefix is present. In the third person the prefix may replace the existing prefix (though this might vary in daughter languages, depending on whether the prefix is reanalysed fully). In the case of animate objects this distinction might be fuzzy and speakers might opt for an obligate prefix if the object is animate. 
+
+**Animate Singular:** Before vowels: əkʰ-, Before consonants: kʰɨ-
+**Animate Plural:** Before vowels: ət-, Before consonants: tɨ-
+**Inanimate:** kʰūʔ- 
+
+### Examples of finite verbs 
+
+kʰɨ-min-akne "I am lamenting them" 
+onw-asm̥oːm "You are not peeing" 
+kʰə̄-χaː "They (sg) heard something"
+omē tʰokʰ-otau̯ "I spoke to a baby"
+oma tʰokʰ-otau̯ "I spoke to babies"
+omē tɨ-tʰokʰ-otau̯ "I spoke to the baby"
+omtsəmē tɨ-tʰokʰ-otau̯ "I spoke to the babies"
 
