@@ -44,5 +44,49 @@ The following allophonies are largely variations of individual speakers based on
 - The unvoiced nasals also have a wider range of realisations. /m̥/ in particular can be realised as \[w, f, ʍ] or \[ɔ̯̃] in final position. Its counterpart /n̥/ remains as nasalization if reduced. In onset position both frequently appear as aspirated like their plosive counterparts, resulting in \[mʰ] and \[nʰ]. 
 - /ɰ/ is very often labialised into \[w]. Further labilisation that takes place in northwestern dialects, might be the result of contact with [[Nambāno]]. 
 # Nominal Morphology
-The nominal morphology of Common Hnäzb is in large parts a variation of the morphology of Proto-Hnäzb. 
+The nominal morphology of Common Hnäzb is in large parts a variation of the morphology of Proto-Hnäzb. The functions of cases is the same as in Proto-Hnäzb. The differences between the absolutive, accusative and partitive lie within class, plurality and definiteness. 
 
+Absolutive Objects: Inanimate Direct Object
+Accusative Objects: Definite Direct Object Animate 
+Partitive Objects:  Indefinite Direct Object High-Animate (Pl), Indefinite Direct Object (Low)-Animate. 
+
+The genitive has been replaced by the possessive and appears only in compounds. 
+
+|              | High-Animate | (Low) Animate | Inanimate |
+| ------------ | ------------ | ------------- | --------- |
+| Absolutive   | -(w)a        | -0            | -(aa)ȟ    |
+| Accusative   | -(y)ē        | -(w)a         | -0        |
+| Partitive    | -(w)a        | -řan          | -(aa)ȟ    |
+| Ergative     | -oȟ          | -(aa)tı       | -(y)ıł    |
+| Genitive     | -nı          | -nıs          | -müng     |
+| Instrumental | -ısłi        | -ıtł'i        | -(y)ıł    |
+| Dative       | -(w)ams      | -ıni          | -ıki      |
+| Locative     | -ınaȟ        | -ınaȟ         | -tsıł     |
+# Verbal Morphology 
+
+## Stem Types 
+As with [[Proto-Hnäzb]] Common Hnäzb differentiates between two stem forms, which can be called ventive and separative. The general distinction is whether something is in regards to or from the topic or to or from elsewhere. The difference is most visible in verbs of motion, where it translated into "to come" vs "to go away", in other instances it means "beneficial to the subject" vs something else. In yet other cases the differences in meaning have become removed from this original distinction. By convention these are called ventive and separative. 
+
+There are two modes of changing stem types, prefixing and ablauting. 
+The prefixing type appears before complex onsets, as well as sonorant (m, n, w, y, z, ř) onsets. It has two prefixes: o- for the ventive type and a- for the separative type. 
+
+The ablauting type differentiates between two grades, labial and non-labial, which in turn equal the o- and a- prefixes. In this system the non-labial form is taken to be the base form, except there the stem vowel used to be /o/ or /u/. 
+
+| Grade      | Non-Labial | Labial |
+| ---------- | ---------- | ------ |
+| Non-Labial | a \<a>     | o \<o> |
+|            | æ <ä>      | œ \<ö> |
+|            | i \<i>     | y \<ü> |
+|            | ɯ <ı>      | y \<ü> |
+| Labial     | i \<i>     | u \<u> |
+|            | o \<a>     | o \<o> |
+
+| Ventive<br>(Labial) |                       | Separative<br>(Non-Labial) |                            |
+| ------------------- | --------------------- | -------------------------- | -------------------------- |
+| 'otsʼ               | "to cook"             | 'atsʼ                      | "to make cook for someone" |
+| tłöts'              | "to remember"         | tłätsʼ                     | "to count something"       |
+| qoos                | "to build"            | qaas                       | "to create something"      |
+| qöpʼ                | "to share"            | qäp'                       | "to cut"                   |
+| hnünž               | "to drink"            | hnınž                      | "to give water"            |
+| otǩä                | "to dry food"         | atǩä                       | "to dry"                   |
+| nüdz                | "to embarass oneself" | nıdz                       | "to insult"                |

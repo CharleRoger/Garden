@@ -210,4 +210,5 @@ omē tʰokʰ-otau̯ "I spoke to a baby"
 oma tʰokʰ-otau̯ "I spoke to babies"
 omē tɨ-tʰokʰ-otau̯ "I spoke to the baby"
 omtsəmē tɨ-tʰokʰ-otau̯ "I spoke to the babies"
-
+pʰom-osemt "you did not die" 
+kʰɨ-pʰom-asemt "you were not killed by them (sg)"
