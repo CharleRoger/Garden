@@ -155,13 +155,37 @@ Finite verbs in Hnäzb are mainly prefixing. The verbal root is the final part o
 
 | Definiteness | Person/Polarity/Tense | Version | Stem |
 | ------------ | --------------------- | ------- | ---- |
-## Ventive vs Separative stems 
+## Stem Types 
 
-Each verb has two stem forms. These stem forms are derived from former infixed person markers. These person markers differentiated the first person and the non-first person. These infixes were semantically bleached and became fixed to the stem. First as obligate prefixes and later as integral part of the stem, often being phonologically reduced to just a single consonant or vowel colouring. 
+Each verb has four stem forms: ventive, separative, habitual and frequentive or verbal plural. 
+These stem forms are derived from former infixed person markers. These person markers differentiated the first person and the non-first person, as well as the habitual and plural habitual. These infixes were semantically bleached and became fixed to the stem. First as obligate prefixes and later as integral part of the stem, often being phonologically reduced to just a single consonant or vowel colouring. 
 
-The first person markers became ventive forms, which represent something "away from the subject" or through the subject. Enacted by the subject, for the subject. The non-first person markers became separative markers, which means something from the outside towards the subject or something directed at the subject. The notion of the subject (or topic) replaces that of the first person, which is 
+### Ventive
 
-**Examples** 
+The former first person progressive markers became ventive forms, which represent something "away from the subject" or through the subject. Enacted by the subject, for the subject. The notion of the subject (or topic) replaces that of the first person. In terms of motions it describes something which goes away from the deictic center. 
+
+The ventive is formed through an **o-** prefix or a labial-grade vocalic change. The prefix can also cause labialisation or labial-affection. 
+
+**Examples:**
+### Separative
+
+The non-first person markers became separative markers, which means something from the outside towards the subject or something directed at the subject. 
+
+The separative is formed through an **a-** prefix, or a vocalic grade of the stem. In most cases this vocalic great is unchanging, yet in some daughter languages it causes dialabialisation through analogy. 
+
+**Examples:**
+### Habitual
+
+The habitual goes back to an actual habitual infix in Proto-Koyanic, but since then has converged into a single form, abandoning person distinction. The regular meaning of the habitual are habitual actions or habits, yet in several daughter languages it forms the basis for a future tense. 
+The habitual is formed through a prefix of **ōN-** with an indistinct nasal ending, which might nasalise the following onset or in turn adapt to the following consonant. Reduction is also possible though less likely through the long vowel. 
+The habitual prefix is less prone to loss and can cause labial affection on the stem vowel in daughter languages. 
+### Frequentive
+
+The frequentive is the the converged plural form of the former progressive infixes. The frequently is an unstable form. It gave rise to either a frequentive aspect (doing something repeatly) or an aspectual form either terminative (having done already) or prospective (will be doing again) or forms of verbal plurality. The frequently is not very stable and can also merge with the habitual or take its place if a chain shift occurs. 
+
+
+
+**Examples (Preliminary)** 
 (If there is no cluster and just a continuant and the vowel is either /a/ or /o/ it might be reanalysed as part of the prefix)
 
 ʔotsʼ "to cook" > Ventive: ʔotsʼ "to cook for oneself/to cook something" (regular stem), Separative: ʔatsʼ "to cook for someone".   
@@ -192,6 +216,9 @@ Hnäzbic has person prefixes, which distinguish tense (past and non-past), as we
 |          | NEG | tʰom-  | pʰom-          | 0- / kʰə̄m-    | tʰomər-      | pʰomər-        | 0- / kʰə̄mər-  |
 | Non-Past | -   | mi(n)- | simɨ-<br>simy- | sumɨ-<br>sumy- | ūmɨ-<br>ūmy- | somɨ-<br>somy- | zomɨ-<br>zomy- |
 |          | NEG | om-    | onu-<br>onw-   | onɨ-<br>ony-   | omɨr-        | onur-          | onɨr-          |
+### Directionality 
+
+Direction in this context means the distinction of passive and active. As for the prefixes of Hnäzb, they are not inherently directional, which means a  person prefix does not inherently distinguish between being an agent or a patient or another participant. If there is no overt object otherwise, like through the definiteness prefixes, a patient interpretation is also possible, if the semantics of the verb allow it. 
 ## Definitenes Prefixes 
 
 The final prefixes mark definiteness, meaning whether the verb has a definite or indefinite object. If the verb is intransitive, there is no prefix. If the verb is transitive and the object is indefinite and the subject is in the third person, there is a single prefix, which was previously shown as the third person marker. 
@@ -200,15 +227,14 @@ If the subject is first or second person and the object is indefinite there is n
 **Animate Singular:** Before vowels: əkʰ-, Before consonants: kʰɨ-
 **Animate Plural:** Before vowels: ət-, Before consonants: tɨ-
 **Inanimate:** kʰūʔ- 
-
 ### Examples of finite verbs 
 
 kʰɨ-min-akne "I am lamenting them" 
 onw-asm̥oːm "You are not peeing" 
-kʰə̄-χaː "They (sg) heard something"
+kʰəː-χaː "They (sg) heard something" / "It was heard"
 omē tʰokʰ-otau̯ "I spoke to a baby"
 oma tʰokʰ-otau̯ "I spoke to babies"
 omē tɨ-tʰokʰ-otau̯ "I spoke to the baby"
-omtsəmē tɨ-tʰokʰ-otau̯ "I spoke to the babies"
+omtsəmeː tɨ-tʰokʰ-otau̯ "I spoke to the babies"
 pʰom-osemt "you did not die" 
 kʰɨ-pʰom-asemt "you were not killed by them (sg)"

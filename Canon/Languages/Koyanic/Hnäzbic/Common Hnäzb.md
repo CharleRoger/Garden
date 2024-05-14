@@ -17,6 +17,7 @@ Common Hnäzb is a [[Hnäzb languages|Hnäzbic language]] spoken from the [[3rd 
 
 Before postalveolar consonants, long mid vowels are realised as palatalised diphthongs \[œi̯] and \[ɔi̯].  
 
+### Labialisation and Labial Affection
 ## Consonants
 
 |             |         | Labial   | Dental     | Lateral    | Postal.   | Velar    | Uvular   | Glottal |
@@ -55,7 +56,7 @@ The genitive has been replaced by the possessive and appears only in compounds.
 |              | High-Animate | (Low) Animate | Inanimate |
 | ------------ | ------------ | ------------- | --------- |
 | Absolutive   | -(w)a        | -0            | -(aa)ȟ    |
-| Accusative   | -(y)ē        | -(w)a         | -0        |
+| Accusative   | -(y)ää       | -(w)a         | -0        |
 | Partitive    | -(w)a        | -řan          | -(aa)ȟ    |
 | Ergative     | -oȟ          | -(aa)tı       | -(y)ıł    |
 | Genitive     | -nı          | -nıs          | -müng     |
@@ -64,7 +65,8 @@ The genitive has been replaced by the possessive and appears only in compounds.
 | Locative     | -ınaȟ        | -ınaȟ         | -tsıł     |
 # Verbal Morphology 
 
-## Stem Types 
+## Stem Types (Redaction needed)
+
 As with [[Proto-Hnäzb]] Common Hnäzb differentiates between two stem forms, which can be called ventive and separative. The general distinction is whether something is in regards to or from the topic or to or from elsewhere. The difference is most visible in verbs of motion, where it translated into "to come" vs "to go away", in other instances it means "beneficial to the subject" vs something else. In yet other cases the differences in meaning have become removed from this original distinction. By convention these are called ventive and separative. 
 
 There are two modes of changing stem types, prefixing and ablauting. 
