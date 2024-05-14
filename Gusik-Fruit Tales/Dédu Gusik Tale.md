@@ -10,13 +10,14 @@ Proper names can either be replaced or kept, adopting them to a given language m
 - Spatial relations 
 - Possession of some kind 
 - (Negation? Questions?)
+- (Direct Speech?)
 # Dédu Language
 
 [[Dédu language|Dédu]] is a language spoken in the [[Eternal Deltas]] by a people of the same name. The Dédu version of the story is the first iteration of this tale. 
 # Gusik Tale
 ### Translation 
 
-Jalám brings the Gusik fruit to the Miləŋ tribe. Jalám is from the Tilíŋ tribe. The Gusik fruit is sweet and tasty. Jalám has a boat. Many Tilíŋ people have boats. They traverse the great rivers to trade. The Miləŋ live by the shore. Jalám travels to the Miləŋ village. Three Míləŋ people came to the shore to Jalám. He gave them thirteen tasty Gusik fruits. They say "You gave us 13 of your Gusik fruits, we give you four bags of vegetables". They give the Gusik fruit to people and the people give them vegetables from their gardens.
+Jalám brings the Gusik fruit to the Miləŋ tribe. Jalám is from the Tilíŋ tribe. The Gusik fruit is sweet and tasty. Jalám has a boat. Many Tilíŋ people have boats. They traverse the great rivers to trade. The Miləŋ live by the shore. Jalám travels to the Miləŋ village. Three Míləŋ people came to the shore to Jalám. He gave them thirteen tasty Gusik fruits. They say "You gave us 13 of your Gusik fruits, we give you four bags of vegetables". They give the Gusik fruit to Mileŋ people and the people give them vegetables from their gardens.
 ### Plain Text
 
 bákatʰsen Jalám kusɨ́kʰ bon təlúkʰ míləŋ. samsáŋ Jalám na təlúkʰ tilíŋ. kusɨ́kʰ na béli bópade.  
