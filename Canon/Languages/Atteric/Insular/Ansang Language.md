@@ -1,3 +1,4 @@
+#language #atteric_languages
 Spoken by the [[Ansang people]] is one of the languages spoken in [[Ansang Islands]].
 
 It's an agglutinative language and polysynthetic, most of it's grammatical constructions and morpheme can be agglutinated forming long words that encompass several phrases.
@@ -11,31 +12,26 @@ It belongs to the [Atteric languages](https://winter.miraheze.org/wiki/Atteric_l
 The first writings of the Ansang language are from when the [Lavondu](https://winter.miraheze.org/wiki/Lavondu "Lavondu") first arrived in the Ansang islands in the 7th century.
 
 ## Phonology
-
- 
-
-Main article: [Ansang phonology](https://winter.miraheze.org/wiki/Ansang_phonology "Ansang phonology")
-
 ### Consonants
 
-| |   |Labial|Coronal|Palatal|Velar|Glottal|
-|---|---|---|---|---|---|---|---|
-|Nasals|<  |**m**|**n**|**ñ** [ɲ]|**ŋ** [ŋ]||
-|Plosive|Voiced|**mb** [ᵐb]|**nd** [ⁿd]|**nj** [ᶮɟ \~ ᶮdʑ]|**ŋg** [ᵑɡ]||
-|^|Voiceless|**p**|**t**||**k**|**’** [ʔ]|
-|Implosive|<|**b’** [ɓ]|**d’** [ɗ]|**jʼ** [ʄ]|**g’** [ɠ]||
-|Fricatives|   <|**v** [ʋ]|**s**|**x** [ʃ]||**h** [ɦ]|
-|Affricative|   <||**c** [t͡s]||||
-|Approximant|   <||**l**||||
-|Flap|   <||**r** [ɾ]||||
+|             |           | -   | Labial      | Coronal     | Palatal            | Velar       | Glottal   |
+| ----------- | --------- | --- | ----------- | ----------- | ------------------ | ----------- | --------- |
+| Nasals      | <         | -   | **m**       | **n**       | **ñ** [ɲ]          | **ŋ** [ŋ]   |           |
+| Plosive     | Voiced    | -   | **mb** [ᵐb] | **nd** [ⁿd] | **nj** [ᶮɟ \~ ᶮdʑ] | **ŋg** [ᵑɡ] |           |
+| ^           | Voiceless | -   | **p**       | **t**       |                    | **k**       | **’** [ʔ] |
+| Implosive   | <         | -   | **b’** [ɓ]  | **d’** [ɗ]  | **jʼ** [ʄ]         | **g’** [ɠ]  |           |
+| Fricatives  | <         | -   | **v** [ʋ]   | **s**       | **x** [ʃ]          |             | **h** [ɦ] |
+| Affricative | <         | -   |             | **c** [t͡s] |                    |             |           |
+| Approximant | <         | -   |             | **l**       |                    |             |           |
+| Flap        | <         | -   |             | **r** [ɾ]   |                    |             |           |
 
 ### Vowels
 
-||Front|Mid|Back|
-|---|---|---|---|
-|Close|**i**|**ɨ**|**u**|
-|Middle|**e**||**o**|
-|Open|**a**|||
+|        | -   | Front | Mid   | Back  |
+| ------ | --- | ----- | ----- | ----- |
+| Close  | -   | **i** | **ɨ** | **u** |
+| Middle | -   | **e** |       | **o** |
+| Open   | -   | **a** |       |       |
 
 ### Phonotactics
 

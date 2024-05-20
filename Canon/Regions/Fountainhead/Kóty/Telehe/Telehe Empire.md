@@ -6,7 +6,7 @@ Before the Empire, around the 300AGS the early concept of the word Telehe starte
 
 # Relations with other institutions
 
-Despite the bitterness Telehe Empire framed itself, it had a few unpleasant neighbors that they had to befriend, otherwise war and disgrace would come certainly, the tribes up the [[Qachkav]] mountains were observed and left alone, tributes were paid to their tribesmen chiefs in return of no harm, they did that for the great amount of known struggles of other peoples around the [[Qachkav]] have faced in the past years, as the [[Qachkav]] folk know their ground and we do not.
+Despite the bitterness Telehe Empire framed itself, it had a few unpleasant neighbors that they had to befriend, otherwise war and disgrace would come certainly, the tribes up the [[Qachkav people]] mountains were observed and left alone, tributes were paid to their tribesmen chiefs in return of no harm, they did that for the great amount of known struggles of other peoples around the [[Qachkav people]] have faced in the past years, as the [[Qachkav people]] folk know their ground and we do not.
 Hautaric kingdoms were seen as the wrongdoers, they did not attempt assimilation but tried to enter their territory with their tongue, they were unsuccessful.
 Berkke kingdoms were small in comparison, they paid tributes greatly and their people were considered Telehe in spirit but Berkke in shape.
 

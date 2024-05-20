@@ -1,7 +1,7 @@
 Kóty ([[Ħautkar]]: kitu’ \[ˈki.t̪ʉʔ], [[Proper Ansang|Ansang]]: ketɨʼ \[ˈke.tɨʔ], [[Telehe language|Telehe]]: cetū \[kɤˈ.tɯː]) is a large, mountainous, volcanic active region. It is the home of the [[Geri]], who live in mountains next to rivers here. The [[Ħautar delûr|Ħautar people]] live further inland. [[Khufkey people]] live in a desert located in [[Kóty]]. The [[Ansang people]] live in islands near [[Bay of Lokkat]]. The [[Vakkey people]] live near [[Bay of Lokkat]] more inland.
 
 ## Name
-The name of [[Kóty]] is but one of many terms used to refer to Kóty itself, from [[Ħautar delûr|Ħautar]] *kitu’* 'tin', borrowed into [[Telehe language]] as cētu ~ cītū. Other people as [[Ansang]] and [[Qachkav]] people often call [[Kóty]] as *Tih* "world" from [[Old-Qachkav]], *Ömnöttö Ö* 'Mother land' also from Old-Qachkav, ''Öša̋'' "Big land" from Old-Qachkav; ''Unsong'' "home land" from Ansang language, it is a word that dates back to [[Proto-Attere]] iterations with non-concatenative morphology, possibily related with Telehe ''On-šō-nko'' "house, family" an old word that is no more of use in the actual stage of the language.
+The name of [[Kóty]] is but one of many terms used to refer to Kóty itself, from [[Ħautar delûr|Ħautar]] *kitu’* 'tin', borrowed into [[Telehe language]] as cētu ~ cītū. Other people as [[Ansang]] and [[Qachkav people]] people often call [[Kóty]] as *Tih* "world" from [[Old-Qachkav]], *Ömnöttö Ö* 'Mother land' also from Old-Qachkav, ''Öša̋'' "Big land" from Old-Qachkav; ''Unsong'' "home land" from Ansang language, it is a word that dates back to [[Proto-Attere]] iterations with non-concatenative morphology, possibily related with Telehe ''On-šō-nko'' "house, family" an old word that is no more of use in the actual stage of the language.
 
 ## Geography
 
@@ -17,7 +17,7 @@ The climate of the region is somewhat cold, but is a warmer, Mediterranean clima
  [[Kóty]] despite it's sparse land and fearful mountains has major cities that serve as reference for many to live and rule. It is believed cities begin to being much bigger around 0-50AGS with significant growth of populations in settlements as of [[Bērzun]] that later on became the capital of [[Telehe Empire]] being raided and destroyed by Ħautkar invation of 850AGS. Other notable cities in Kóty are [[Redeye]], [[Ɨrsɨsovunju’]], [[Mbomboŋ]], [[Tituχo]] and nevertheless [[Loyashas]] the first and long lasting Qachkav settlement and city.
 
 ## Cultures
-Kóty is home of many culture as of [[Dreic]], [[Atteric]], [[Qachkav]] and [[Ħautaric]].
+Kóty is home of many culture as of [[Dreic]], [[Atteric]], [[Qachkav people]] and [[Ħautaric]].
 
 ## Religions
 There are a plethora of religions in [[Kóty]] can be tough subject, getting more polytheistic faiths and shamanic ones, which are [[Geri religion]], [[Loshianism]]

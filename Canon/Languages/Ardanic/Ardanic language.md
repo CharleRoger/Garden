@@ -1,3 +1,4 @@
+#language
 Ardanic is a language family spoken in southwestern [[Oksandanderi]]. The most prominent member of this family is [[Classical Ardanic]], which is used as the official literary language of the [[Tyon-Arat]], the largest Ardanic speaking state. 
 The structure of Ardanic as a family is less like a tree and more like an onion, so to speak. It has its core members and a periphery, which are connected by transitional dialects. Apart from Core Ardanic, there are the peripherical dialect groups referred to as Northern Ardanic, Transfsikay and Murfa Ardanic. 
 For the grammar of Ardanic, please consult the article on the Classical Ardanic language. 

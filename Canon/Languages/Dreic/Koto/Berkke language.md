@@ -1,3 +1,4 @@
+#language #dreic_languages
 [[Berkke land]]
 [[Berkke tribes]]
 [[Berkke kingdom]]

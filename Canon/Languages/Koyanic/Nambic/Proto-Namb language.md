@@ -44,7 +44,7 @@ Namb languages typically exhibit separate shifts between plain and mutated vowel
 - a e o u [a~ɑ ə~ɤ o u]
 - ä ë ö ü [æ e ø y]
 
-It has also been suggested that \*ä \*ë \*ö \*ü were not fronted, but rather had an advanced tongue root, as is exhibited in [[Qachkav]] vowel harmony. This theory posits the following approximate vowel qualities:
+It has also been suggested that \*ä \*ë \*ö \*ü were not fronted, but rather had an advanced tongue root, as is exhibited in [[Qachkav people]] vowel harmony. This theory posits the following approximate vowel qualities:
 - a e o u [ɑ ɛ ɔ ʊ]
 - ä ë ö ü [a e o u]
 ### Diphthongs
