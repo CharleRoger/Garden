@@ -47,14 +47,14 @@ Older stages of Nespe retained length distinctions from [[Proto-Hnäzb]], but la
 
 ## Case 
 
-|              | High-Animate | (Low) Animate | Inanimate  |
-| ------------ | ------------ | ------------- | ---------- |
-| Absolutive   | -o           | -0            | -(a)ȟ / -0 |
-| Accusative   | -i           | -ä            | -0         |
-| Partitive    | -o           | -(w)an        | -(w)an     |
-| Ergative     | -üȟ          | -(it)ti       | -(y)iš     |
-| Genitive     | -(n)/Nıtso   | -(n)/Nıs      | -m/Nünk    |
-| Instrumental | -(ı)ššı      | -(ı)ššı       | -(y)iš     |
-| Dative       | -(a)msä      | -(a)msä       | -(w)ıkı    |
-| Locative     | -ına         | -ına          | -čıš       |
+|              | High-Animate | (Low) Animate | Inanimate |
+| ------------ | ------------ | ------------- | --------- |
+| Absolutive   | -o           | -0            | -aȟ / -0  |
+| Accusative   | -i           | -ä            | -0        |
+| Partitive    | -o           | -(w)an        | -(w)an    |
+| Ergative     | -üȟ          | -(it)ti       | -(y)iš    |
+| Genitive     | -(n)/Nıtso   | -(n)/Nıs      | -m/Nünk   |
+| Instrumental | -(ı)ššı      | -(ı)ššı       | -(y)iš    |
+| Dative       | -(a)msä      | -(a)msä       | -(w)ıkı   |
+| Locative     | -ına         | -ına          | -čıš      |
 ## Number 
