@@ -1,3 +1,4 @@
+#meta
 The **solar system** is the gravitationally bound system of the [[sun]] and the objects that orbit it.
 # Planets
 The largest eight objects orbiting the sun, which form a planetary system, are, in order of distance from the [[sun]]:

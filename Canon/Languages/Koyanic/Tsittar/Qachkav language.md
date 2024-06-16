@@ -31,7 +31,6 @@ Qachkav language is a Koyanic language of the [[Shimtar branch]], evolving from 
 ### Vowel Harmony
 Qachkav language features vowel harmony akin to its ancestor, following the same patterns of tongue-root harmony and a roundness harmony.
 
-
 |              |                     | -   | open | middle | closed |
 | ------------ | ------------------- | --- | ---- | ------ | ------ |
 | back (low)   | <                   | -   | ɑ    | o      | ʊ      |
