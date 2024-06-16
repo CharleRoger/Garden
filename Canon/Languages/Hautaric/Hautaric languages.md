@@ -1,4 +1,4 @@
-#hautaric_languages #Ħautar_delûr 
+#language #hautaric_languages #Ħautar_delûr 
 [[Rharnic]]
 [[Ħautkar language]]
 [[Rabak language]]
