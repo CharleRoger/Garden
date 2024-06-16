@@ -24,6 +24,11 @@ bákatʰsen Jalám kusɨ́kʰ bon təlúkʰ míləŋ. samsáŋ Jalám na təlúk
 MaJálam jamkʰá. Matíliŋ-jeŋ jamkʰá. baʃidúnu jólaw pʰaspʰas kʰokʰó múlkamúlka. túman míləŋ na wékʰa. júnemsu Jalám bon kʰujú míləŋ. láŋɨsu dédu míləŋ tu-daw bon Jalám kaj wékʰa.  
 
 ŋedédu míleŋ bákatʰalen kusɨ́kʰ san bakátʰaliŋ bátaw kúlaŋ.
+
+### Phonetic 
+
+\[bá.gætʰ.sən ja.lám gu.síkʰ vɔn d̥ə.lúkʰ míləŋ. sam.sáŋ ja.lám næ də.lúkʰ d̥i.líŋ. gu.síkʰ næ vé.li vó.bæ.dʒə. ma.já.læm jam.kʰá. ma.dí.liŋ.jəŋ jam.kʰá. ba.ʃi.dú.nɨ jó.læw pʰas.pʰæs kʰɔ.kʰó múl.gæ.múl.gæ. dú.mæn mí.ləŋ næ wé.kʰæ. jú.nəm.sɨ ja.lám vɔn kʰɨ.jú mí.ləŋ. lá.nɨ.sɨ dʒé.dʒɨ mí.ləŋ du.dʒæw vɔn ja.lám kæj wé.kʰæ. ŋe.dʒé.dʒɨ mí.ləŋ vá.gæ.tʰæ.lən gu.síkʰ san ba.gá.tʰæ.liŋ vá.dæw gú.læŋ] 
+
 ## Morph. Gloss
 
 #### 1)

@@ -21,7 +21,7 @@ The [[Classical Ardanic]] language is a member of the [[Ardanic language]]s spok
 Jalám brings the Gusik fruit to the Miləŋ tribe. Jalám is from the Tilíŋ tribe. The Gusik fruit is sweet and tasty. Jalám has a boat. Many Tilíŋ people have boats. They traverse the great rivers to trade. The Miləŋ live by the shore. Jalám travels to the Miləŋ village. Three Míləŋ people came to the shore to Jalám. He gave them thirteen tasty Gusik fruits. They say "You gave us 13 of your Gusik fruits, we give you four bags of vegetables". They give the Gusik fruit to people and the people give them vegetables from their gardens.
 ### Plain Text
 
-yaram kasekene alpanam katyu wša. nra nemače yaram apakumup. kasek fata nisarawis. yaram hmatyan. Nra nemače ču sta hmatyan. kakankeye yarafi kratyame trepče. uskay ukikeye alpa. yaram alpana yara wša. alpa sastunu kaseknime tyala yumna tutumunum ku-tyal ayksa. 
+yaram kasekene alpanam katyu wša. nra nemače yaram apakumup. kasek fata nisarawis. yaram hmatyan. nra nemače ču sta hmatyan. kakankeye yarafi kratyame trepče. uskay ukikeye alpa. yaram alpana yara wša. alpa sastunu kaseknime tyala yumna tutumnum ku-tyal ayksa. 
 
 #### 1)
 
@@ -81,7 +81,7 @@ yaram kasekene alpanam katyu wša. nra nemače yaram apakumup. kasek fata nisara
 | ---- | ------------- | ---------- | ------- |
 | Alpa | PL~people-ACC | kasek-DAT  | give-HD |
 
-| yum-na     | tu~tum-u-num        | ku=tyal     | ayksa |
-| ---------- | ------------------- | ----------- | ----- |
-| garden-ACC | PL~vegetable-HD-DAT | DEM.PL=give | PRF   |
+| yum-na     | tu~tum-num       | ku=tyal     | ayksa |
+| ---------- | ---------------- | ----------- | ----- |
+| garden-ACC | PL~vegetable-DAT | DEM.PL=give | PRF   |
 "They give the Kasek to people of Alpa and the people give them vegetables from their gardens."
