@@ -1,16 +1,17 @@
 # Kinship Terms
 ### father (1)
-**Proto-Ardanic:** \*ata
+**Proto-Ardanic:** \*ata "father, paternal ancestor, uncle (paternal)"
 *Vowel class:* -u > ataw(a)
 *Word class:* noun
 
-Old Ardanic: [[Old Ardanic (Dictionary)#ata|ata]]
-Classical Ardanic: [[Ardanic (Dictionary)#ata|ata]]
-Očew: [[Ardanic (Dictionary)#ata|ata]]
-Murfa Ardanic: [[Murfa (Dictionary)#atä|atä]]
+**Attested forms**
+Old Ardanic: [[Old Ardanic (Dictionary)#ata|ata]] "father"
+Classical Ardanic: [[Ardanic (Dictionary)#ata|ata]] "father"
+Očew: [[Ardanic (Dictionary)#ata|ata]] "father"
+Murfa Ardanic: [[Murfa (Dictionary)#atä|atä]] "paternal relative"
 Trans-Fsikay:
 Northern Ardanic: 
-Western Ardanic: [[Western Ardanic (Dictionary)#ādä|ādä]]
+Western Ardanic: [[Western Ardanic (Dictionary)#ādä|ādä]] "father"
 # Body Parts
 
 # People & Professions
