@@ -1,4 +1,4 @@
-During Psirin Aster first encounter with the [[Ansang emperor]], Psirin steps forward and addresses the great lord of Ansang. He has ten questions he is allowed to ask. 
+During [[Psirin Aster]] first encounter with the [[Ansang emperor]], Psirin steps forward and addresses the great lord of Ansang. He has ten questions he is allowed to ask. 
 
 1) Tell me, how did you and the king before you ascend to power. By what manner are the mighty chosen in your lands? 
 

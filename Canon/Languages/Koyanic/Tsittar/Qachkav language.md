@@ -5,6 +5,7 @@ A [[Koyanic languages]] of the [[Tsittar branch]] it's genetically related to [[
 Qachkav language is a Koyanic language of the [[Shimtar branch]], evolving from [[Old-Qachkav]] its proto language had a tongue root harmony system that got translated as a palatal-roundness harmony system in Qachkav. 
 
 # Phonology
+Qachkav language has 25 consonants and 7 vowels.
 ## Consonants
 
 |             |           | -   | Labial | Dental | Dorsal    | Uvular |
@@ -29,7 +30,9 @@ Qachkav language is a Koyanic language of the [[Shimtar branch]], evolving from 
 | Mid   | -   | e ø   | o    |
 | Open  | -   |       | ɑ    |
 ### Vowel Harmony
-Qachkav language features vowel harmony akin to its ancestor, following the same patterns of tongue-root harmony and a roundness harmony.
+Qachkav language features vowel harmony 
+
+akin to its ancestor, following the same patterns of tongue-root harmony and a roundness harmony.
 
 |              |                     | -   | open | middle | closed |
 | ------------ | ------------------- | --- | ---- | ------ | ------ |
@@ -40,6 +43,10 @@ Qachkav language features vowel harmony akin to its ancestor, following the same
 ## Phonotactics
 
 # Grammar
+[[Qachkav grammar]]
+Qachkav is an agglutinative language. Using various affixes, suffixes to change a word's meaning and its grammatical function.
+
+
 ## Nouns
 Qachkav displays a variety of noun cases.
 
