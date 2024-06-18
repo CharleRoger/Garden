@@ -1,4 +1,5 @@
 #language #upic_languages #cisi_people
+A language from the Southern Upic branch.
 ## Phonology
 
 ### Consonants
