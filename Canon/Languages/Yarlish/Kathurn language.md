@@ -1,0 +1,3 @@
+Kathurn is a Yarlish language, which functioned as the literary language of the [[Yarlish Lowlands]] from the [[2nd century BGS]] onwards. Kathurn was a spoken language until the [[5th century]] or [[6th century]] and then gradually developed into successor language. It remained the literary standard for several centuries and only got replaced piece by piece by written vernacular languages during the [[Empire of Kalotgane]] in the [[12th century]]. 
+The spoken variety of Kathurn is sometimes called [[Central Yarlish]], while Kathurn is only the name of the literary language. In common usage both are used almost synonymously. 
+
