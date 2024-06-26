@@ -28,7 +28,7 @@ Berkke kingdoms were small in comparison, they paid tributes greatly and their p
 - As time went on, [[Bērzun]] didn’t explicitly had plans to oppress [[Ħautkar]] and [[Shote]], those that promptly rejected to pay tributes and build temples in their lands, the Emperor at that point judged them wrong and prohibited their own cultural identity to be practiced.
 - This move wasn’t welcoming, [[Ħautkar]] and [[Shote]] lands were swept with Anti-Telehe-ist ideas, but nothing could be done; they were weak in the early centuries of the empire (550AGS).
 - Šemedo Ēodinare rise to the throne, he then launched campaigns against Berkke Kingdom, three years later he decided to let Berkke decide for themselves, two years they had. (578AGS)
-- In no time the emperor [[Šemedo]] Ēodinare formed a marriage bond with one the most rich families in the land of [[Berkke]], thus annexing Berkke kingdom, therefore tributes and total sovereignty of the land was given to the Emperor by his union with the lady [[Amakke]] Berkkun Hurut.(625AGS)
+- In no time the emperor [[Šemedo Ēodinare]] formed a marriage bond with one the most rich families in the land of [[Berkke]], thus annexing Berkke kingdom, therefore tributes and total sovereignty of the land was given to the Emperor by his union with the lady [[Amakke Berkkun Hurut]] of the [[Framy dinasty]].(625AGS)
 ![[Koty612.png]]
 ![[Koty680.png]]    
 - The main branch of the [[Foičē family]] was brought to an end throughout the 756AGS; Tuntun, distant cousin of Saemedor was promptly indicated, he then rose to power and elevated his status. The empire had to deal with inflation and monetary decline throughout the 758AGS.
