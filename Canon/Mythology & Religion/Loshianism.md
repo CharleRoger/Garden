@@ -1,3 +1,10 @@
+---
+aliases:
+  - Religion
+  - Cosmology
+---
+**Loshianism** is a monotheistic religion founded by the teachings of [[Ergoy]] and many of his writings such as the . 
+
 **Loshianism** is a monotheistic religion founded in the year 720, its adherents, the Loshianists, center their lives around the [[Isçamalirǰeǰ]] and the teachings of [[Ergoy]].
 Loshianists believe the world was plagued with falsehood and false idols, Ergoy was given the task to cleanse the world and teach every people the truth that was given to him the night he received visions from Losh.
 Loshianism originated in [[Stamnar-Lōššī]] about 720 AGS. Loshianists believe this is when [[Ergoy]] began receiving revelations, and when the flame of truth was given to him. By the time of his death [[Ergoy]] passed the flame of truth to his most trusted disciple and friend [[Brimys]]. 
@@ -107,9 +114,11 @@ Founder: Ergoy
 Scripture: Sayings of Ergoy, Isçamalirǰeǰ Morning-Afternoon-Evening.
 
 ## History
-**Loshian mysteries** were religious initiation rites performed in the cult of the god [[Lōš]]. Modelled after other mystery cults of the region the Loshian mysteries were however local and with no more than a few thousand adepts, which guaranteed its existence under the cover. Despite their Berkke origins, [[Lōš]] cult birthed from [[ancient Telehe religion]], in which the cult of [[Lōš]] arose. The Loshian mysteries required however direct intervention and purification rituals for initiation, required to honor [[Lōš]] above all other gods (but not exclusively deny their existence). The initiation process was of an intense purification ritual done in the river [[Sambȳr]] then the initiate was to be conducted into the inner chamber of the temple.
-Ergoy was a priest, he experienced what many call visions from [[Lōš]] himself, to which he felt the need to share and spread his faith to others.
-Founded in 720, Ergoy begun his journey to convert people leaving his house-temple behind with his friend [[Brimys]], he went in many cities speaking of Losh and showing people a new religion. Three have passed and Losh gathered 20 followers, to which he began receiving visions of the afterlife, end of the world and the evil that would come, he had fall sick worried about the end times.
+Founded in 720 by Ergoy a prophet known for his visions and prophetic visions of the end of the world
+
+
+Founded in 720 by Ergoy, he begun his journey to convert people leaving his house-temple behind with his friend [[Brimys]], he went in many cities speaking of Losh and showing people a new religion. Three years have passed and Losh gathered 20 followers, to which he began receiving visions of the afterlife, end of the world and the evil that would come, he had fall sick worried about the end times.
+
 In 729 Ergoy stablished a house of worship in [[Redeye]] in secrecy.
 In 778 Ergoy and his followers were persecuted by Berkke authorities, forcing early Loshians to scatter and fend for themselves.
 In 781 Ergoy died, the commotion of his death inspired many to reunite and they departed the Berkke lands, [[Brimys]] was made the new pastor to lead Loshians after Ergoy. One year after Loshianism gained some significance. 

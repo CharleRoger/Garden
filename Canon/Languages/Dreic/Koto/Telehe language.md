@@ -59,3 +59,11 @@ There are two genders in Telehe:
 
 ### Verbs
 #### Active Indicative
+
+#### Copula
+
+|     |       |
+| --- | ----- |
+|     | telo- |
+
+
