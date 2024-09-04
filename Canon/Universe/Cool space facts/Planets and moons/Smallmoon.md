@@ -22,12 +22,12 @@ Smallmoon is in a stable orbit which is remarkably circular given the strong inf
 | ------------------------ | ------------------------- |
 | Equatorial radius        | 1,969.0 km                |
 | Equatorial circumference | 12,372 km                 |
-| Mass                     | 4.03663 × 10²² kg         |
-| Mean density             | 1,262.4 kg/m³             |
-| Surface gravity          | 0.6949 m/s² (0.07086 g)   |
+| Mass                     | 1.12039 × 10²³ kg         |
+| Mean density             | 3,503.8 kg/m³             |
+| Surface gravity          | 1.9288 m/s² (0.19668 g)   |
 | Sidereal rotation period | 841,470s (9d 17h 44m 30s) |
 | Synodic rotation period  | 875,326s (10d 3h 8m 46s)  |
 | Axial tilt               | 5.1428°                   |
 
-Smallmoon has a similarly unusually low density to its parent planet [[Winter]].
+Unlike [[Winter]] and its other moon [[Bigmoon]], Smallmoon has a much higher and more usual density for a rocky body of this size. This suggests that the mechanism allowing the former two bodies to maintain such extraordinarily low densities is not present on Smallmoon, and perhaps indicates that Smallmoon formed separately.
 (See [[Winter#Internal structure]])
