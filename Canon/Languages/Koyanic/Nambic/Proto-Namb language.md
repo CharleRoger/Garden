@@ -9,7 +9,7 @@ The **Proto-Namb language** (abbreviated **PNmb**), also known as **Proto-Northe
 | ^         | Fricative   | -   | \*f      |          | \*ç     | \*x   | \*h     |
 | Sonorant  | Nasal       | -   | \*m      | \*n      | \*ɲ     | \*ŋ   |         |
 | ^         | Approximant | -   |          | \*l      | \*y     | \*w   |         |
-| ^         | Trill       |     |          | \*r      |         |       |         |
+| ^         | Trill       | -   |          | \*r      |         |       |         |
 The alveolar plosives \*d \*t were likely dental [d̪ t̪].
 
 Some analyses of Proto-Namb consider the sequences \*gw \*kw \*xw \*ŋw to be a class of singular labialized velar consonants.
@@ -44,7 +44,7 @@ Namb languages typically exhibit separate shifts between plain and mutated vowel
 - a e o u [a~ɑ ə~ɤ o u]
 - ä ë ö ü [æ e ø y]
 
-It has also been suggested that \*ä \*ë \*ö \*ü were not fronted, but rather had an advanced tongue root, as is exhibited in [[Qachkav people]] vowel harmony. This theory posits the following approximate vowel qualities:
+It has also been suggested that \*ä \*ë \*ö \*ü were not fronted, but rather had an advanced tongue root, as is exhibited in [[Qachkav]] vowel harmony. This theory posits the following approximate vowel qualities:
 - a e o u [ɑ ɛ ɔ ʊ]
 - ä ë ö ü [a e o u]
 ### Diphthongs
@@ -228,3 +228,89 @@ Other than some suppletive numberless forms and irregularity in the oblique stem
 | Mutated stem  | Ergative   | -   | \*mödier  |
 | ^             | Ablative   | -   | \*mödi    |
 | ^             | Genitive   | -   | ^         |
+## Verbs
+### Nonfinite verbs
+Two nonfinite verb forms exist, the **gerund** and the **infinitive**.
+
+The gerund is an uncountable a-stem noun formed with the suffix \*-na, which serves as the citation form of the verb, despite being the only form which is not actually a verb. The declension of the gerund is shown in the table below.
+
+| Basic stem    | Absolutive | -   | \*-nor  |
+| ------------- | ---------- | --- | ------- |
+| ^             | Accusative | -   | \*-nax  |
+| Ablauted stem | Oblique    | -   | \*-naxu |
+| Mutated stem  | Ergative   | -   | \*-nier |
+| ^             | Ablative   | -   | \*-nöi  |
+| ^             | Genitive   | -   | \*-nöri |
+
+The infinitive is formed with the suffix \*-(ç)i attached to the mutated stem. The presence of \*-ç- is determined by the final segment of the stem, as shown in the table below.
+
+| Mutated stem     | Infinitive |
+| ---------------- | ---------- |
+| \*-p             | \*-pç      |
+| \*-t             | \*-t       |
+| \*-c             | \*-c       |
+| \*-f, \*-x, \*-ç | \*-çç      |
+| \*-m             | \*-mç      |
+| \*-n, \*-ɲ, \*-ŋ | \*-ɲç      |
+| \*-ä             | \*-äi      |
+| \*-i             | \*-içi     |
+| \*-ü             | \*-üi      |
+### Finite verbs
+The morphological structure of a finite verb in Proto-Namb adheres to the following template:
+
+| Prefix | Root | Motive | Voice | Mood and ending |
+| ------ | ---- | ------ | ----- | --------------- |
+#### Aspect
+Verbs do not carry lexical aspect and are perfective in their basic form, with imperfective aspects expressed periphrastically with an auxiliary verb and the main verb in the infinitive.
+#### Voice
+Central to the Proto-Namb verb system is the extensive voice paradigm, in which the relationship between the subject and the action can be specified by various suffixes and phrasal constructions.
+
+Almost all verbs in Proto-Namb can be classified into categories based on their intrinsic voice:
+- **Passive** — Follows an ergative alignment, taking an absolutive subject and non-obligatory ergative agent. Tends to prefer agent-object-verb order.
+- **Active** — Follows a nominative alignment, taking an absolutive object and non-obligatory accusative object. Tends to prefer subject-verb-object order.
+- **Intransitive** — Takes only an absolutive subject. Any additional arguments must use the oblique or ablative cases.
+- **Impersonal** — Does not take a subject.
+
+The most common category is the passive verb, while true intransitive and impersonal verbs are rare. It is possible for passive and active verbs to be used intransitively, i.e. taking an absolutive subject alone, but it is not possible to use the ergative and accusative cases with verbs other than their respective classes.
+
+The voice system can be understood as the absolutive case representing a promotion of one of the four other adverbial cases to the role of subject. A given verb has prototypical roles for those four cases, some examples of which include:
+- **Accusative** — Object, patient, recipient.
+- **Ergative** — Agent, cause.
+- **Oblique** — Indirect object, benefactor, goal, purpose, certain instruments etc.
+- **Ablative** — Circumstance, source, location, cause, certain other instruments, etc.
+
+The active voice can then be described as the voice that promotes the prototypical ergative to the absolutive subject, while the passive voice promotes the accusative to subject. A given verb doesn't necessarily have associated roles for all of these cases, e.g. intransitive verbs have either no ergative or no accusative in their imaginary default case-role system. "Default" here is perhaps strange, since any actual realisation of the verb must promote one of these to the absolutive case.
+
+Excluding intransitive and impersonal verbs, Proto-Namb has seven reconstructible verb voices, though it is not known if all were operational simultaneously or how they fit together into a single paradigm, as the system appears to have been somewhat open and continuously evolving. The typical constructions of these voices, and the type of verbs they could operate on, are shown in the table below:
+
+| Intrinsic class   | Voice             | -   | Marker             | Absolutive               | Ergative | Accusative |
+| ----------------- | ----------------- | --- | ------------------ | ------------------------ | -------- | ---------- |
+| Passive           | Passive           | -   | Unmarked           | Promoted from accusative | Agent    | -          |
+| ^                 | Passive causative | -   | \*-tlu-            | Promoted from ablative   | Cause    | -          |
+| ^                 | Active            | -   | \*-a-              | Promoted from ergative   | -        | Object     |
+| Active            | Active            | -   | Unmarked           | Promoted from ergative   | -        | Object     |
+| Passive or active | Unaccusative      | -   | \*-am-             | Promoted from accusative | -        | -          |
+| Any               | Active causative  | -   | \*-fa-             | Promoted from ablative   | Cause    | -          |
+| ^                 | Applicative       | -   | \*-era-            | Promoted from oblique    | Agent    | Object     |
+| ^                 | Circumstantial    | -   | Infinitive + \*ul- | Promoted from ablative   | Agent    | Object     |
+The circumstantial voice is notably not formed with a suffix, but with the auxiliary verb \*ul- "be put in place" and the main verb in the infinitive.
+
+Some time after the establishment of roughly the above system, another auxiliary verb, ostensibly of the underlying form \*-a-, came to be used to form passive voices on an active verb. The source of this verb was likely either [[Proto-Koyanic language|Proto-Koyanic]] \*sə "become" or \*sə̄- "bear", with a shift in meaning to "undergo" in Namb and eventual semantic bleaching. The two most readily reconstructible uses of this auxiliary are in forming the passive and unaccusative voices:
+- **Passive** — Infinitive + \*a- or the extended form \*aŋk-, from an otherwise unattested suffix \*-ŋk. Relation to the intransitive verb \*ŋok- "go" has been suggested.
+- **Unaccusative** — Infinitive + \*om-, likely from [[Proto-Gäj language|Proto-Gäj]] \*ām- < \*a-am-.
+- **Passive causative** — Infinitive + \*atlu-.
+
+Since the infinitive was also used to form imperfective moods, these constructions also took on a basic imperfective aspect. Evidence from [[Nambāno]] suggests that the auxiliary \*-a- was similarly used to yield imperfective forms of the unaccusative and applicative voices on passive verbs.
+#### Mood
+Verbs distinguish two moods, **indicative** and **subjunctive**. The indicative stem is the unmarked, basic stem of the verb, while the subjunctive stem is the ablauted stem plus the suffix \*-an, which takes the form \*-n on vowel-final stems.
+
+The ending of the verb depends on the mood and agrees with the person of the subject. The typical forms of the verb endings are shown in the table below.
+
+|             | Stem class | -   | 1sg      | 2sg      | 3sg      | 1pl      | 2pl      | 3pl      |
+| ----------- | ---------- | --- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Indicative  | aC, iC, uC | -   | \*-a     | \*-a-f   | \*-a-x   | \*-u     | \*-u-f   | \*-u-x   |
+| ^           | a          | -   | \*-o     | \*-o-f   | \*-o-x   | \*-ou    | \*-ou-f  | \*-ou-x  |
+| ^           | i          | -   | \*-ie    | \*-ie-f  | \*-ie-x  | \*-iu    | \*-iu-f  | \*-iu-x  |
+| ^           | u          | -   | \*-ue    | \*-ue-f  | \*-ue-x  | \*-u     | \*-u-f   | \*-u-x   |
+| Subjunctive | VC         | -   | \*-an-fa | \*-an-na | \*-an-ta | \*-an-çu | \*-an-ne | \*-an-te |
+| ^           | V          | -   | \*-n-fa  | \*-n-na  | \*-n-ta  | \*-n-çu  | \*-n-ne  | \*-n-te  |
