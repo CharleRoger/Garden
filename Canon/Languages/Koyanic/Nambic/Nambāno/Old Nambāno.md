@@ -201,16 +201,16 @@ This alternation could often obscure the relation between the two stems, even fo
 #### Voice
 Verbs in Old Nambāno can be categorised into intransitive, passive and active types depending on the behaviour of their default arguments. The set of allowed arguments and their role within the verb are subject to the grammatical voice of the verb, of which there are six. Not all voices are necessarily present on any given verb and some voices are restricted to transitives (passive and active).
 
-Similarly to the imperfective, the suffixes which mark grammatical voice can again change the mode of the verb base. The forms of the voice suffixes which may occur on intransitive, passive and active verbs are shown in the table below with their mode changes.
+Similarly to the imperfective, the suffixes which mark grammatical voice can again change the mode of the verb base. The forms of the voice suffixes which may occur on intransitive, passive and active verbs are shown in the table below with their mode changes. Note that imperfective forms of verbs exist only in modes I, II and V, as discussed above.
 
-| Voice          | -   | Intransitive                                                                       | Passive                                                                  | Active                         |
-| -------------- | --- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------ |
-| Intransitive   | -   | PFV: \*-∅<br>IMPFV: \*-i (I, II, III, IV, V → V)                                   | Not present                                                              | <                              |
-| Patient        | -   | Not present                                                                        | PFV: \*-∅<br>IMPFV: \*-i (I, II, III, IV, V → V)                         | \*-ēŋk (I, II, III, IV, V → I) |
-| Actor          | -   | ^                                                                                  | \*-o (I, II, IV → III)<br>\*-u (III → IV)<br>\*-h (V → II)               | \*-∅                           |
-| Unaccusative   | -   | ^                                                                                  | \*-am (I, II → I)<br>\*-om (III → I)<br>\*-ōm (IV → I)<br>\*-ēm (V → II) | <                              |
-| Applicative    | -   | \*-ɨra (I, II → III)<br>\*-ra (III → III)<br>\*-ōra (IV → III)<br>\*-ēra (V → III) | <                                                                        | <                              |
-| Circumstantial | -   | \*-ul (I, II → II)<br>\*-l (III → I)<br>\*-l (IV, V → II)                          | <                                                                        |                                |
+| Voice          | -   | Intransitive                                                                       | Passive                                                                                                                                             | Active                                                                            |
+| -------------- | --- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Intransitive   | -   | Perfective:<br>Unmarked<br><br>Imperfective:<br>\*-i (I, II, V → V)                | Not present                                                                                                                                         | <                                                                                 |
+| Patient        | -   | Not present                                                                        | Perfective:<br>Unmarked<br><br>Imperfective:<br>\*-i (I, II, V → V)                                                                                 | Perfective:<br>Not present<br><br>Imperfective:<br>\*-ēŋk (I, II, III, IV, V → I) |
+| Actor          | -   | ^                                                                                  | \*-o (I, II, IV → III)<br>\*-u (III → IV)<br>\*-h (V → II)                                                                                          | Perfective:<br>Unmarked<br><br>Imperfective:<br>\*-i (I, II, V → V)               |
+| Unaccusative   | -   | ^                                                                                  | Perfective:<br>\*-am (I, II → I)<br>\*-om (III → I)<br>\*-ōm (IV → I)<br>\*-ēm (V → II)<br><br>Imperfective:<br>\*-om (I, II → I)<br>\*-ium (V → I) | <                                                                                 |
+| Applicative    | -   | \*-ɨra (I, II → III)<br>\*-ra (III → III)<br>\*-ōra (IV → III)<br>\*-ēra (V → III) | <                                                                                                                                                   | <                                                                                 |
+| Circumstantial | -   | \*-ul (I, II → II)<br>\*-l (III → I)<br>\*-l (IV, V → II)                          | <                                                                                                                                                   |                                                                                   |
 
 Most transitive verbs are passive-type, meaning the patient voice carries no voice suffix and the active voice is marked with the suffix shown in the table above. Conversely, others are active-type, meaning the actor voice is unmarked and the patient voice marked. Note that the active-type patient voice suffix only appears in the imperfective.
 
@@ -220,11 +220,11 @@ Finite verbs are marked for one of three moods; indicative, subjunctive and juss
 ##### Subjunctive
 The usual forms of the subjunctive suffix are \*-ãhʷ in the perfective and \*-ẽhʷ in the imperfective, onto which is attached a subsequent mandatory person marker. This suffix can take an alternate form when attaching to a vowel-final verb base, i.e. it depends on the current mode of the base, and can have an ablaut effect on the stem vowel otherwise, as shown in the table below.
 
-| Original mode            | -   | I        | <        | II       | <        | <        | III    | <      | IV     | V        |
-| ------------------------ | --- | -------- | -------- | -------- | -------- | -------- | ------ | ------ | ------ | -------- |
-| Indicative perfective    | -   | \*-aC    | \*-oC    | \*-iC    | \*-ɨC    | \*-uC    | \*-a   | \*-o   | \*-u   | \*-i     |
-| Subjunctive perfective   | -   | \*-aCãhʷ | \*-oCãhʷ | \*-iCãhʷ | \*-ɨCãhʷ | \*-uCãhʷ | \*-ãhʷ | \*-õhʷ | \*-ũhʷ | \*-ĩhʷ   |
-| Subjunctive imperfective | -   | \*-eCẽhʷ | <        | \*-iCẽhʷ | <        | <        | \*-ẽhʷ | <      | <      | \*-isẽhʷ |
+| Original mode            | -   | I        | <     | II       | <     | <        | III    | <    | IV     | V        |
+| ------------------------ | --- | -------- | ----- | -------- | ----- | -------- | ------ | ---- | ------ | -------- |
+| Indicative perfective    | -   | \*-aC    | \*-oC | \*-iC    | \*-ɨC | \*-uC    | \*-a   | \*-o | \*-u   | \*-i     |
+| Subjunctive perfective   | -   | \*-aCãhʷ | <     | \*-iCãhʷ | <     | \*-uCãhʷ | \*-õhʷ | <    | \*-ũhʷ | \*-ĩhʷ   |
+| Subjunctive imperfective | -   | \*-eCẽhʷ | <     | \*-iCẽhʷ | <     | <        | \*-ẽhʷ | <    | <      | \*-isẽhʷ |
 
 The resulting subjunctive-marked base is mode-I or mode-II, which take identical person marking as shown further below.
 ##### Jussive
@@ -246,9 +246,9 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | ------------ | -------------- | --- | ------------ | ------------- | ------------ | ------------- | --------------- | ---------------- | ---------------- | ----------------- | ------------- | -------------- |
 |              | <              | -   | 1sg          | 1pl           | 2/3sg        | 2/3pl         | 1sg             | 1pl              | 2/3sg            | 2/3pl             | 2/3sg         | 2/3pl          |
 | Perfective   | Intransitive   | -   | \*bessiha    | \*bressiha    | \*bessihū    | \*bressihū    | \*bessihãhʷa    | \*bressihãhʷa    | \*bessihãhʷɨ̄    | \*bressihãhʷɨ̄    | \*bessihãna   | \*bressihãna   |
-| ^            | Applicative    | -   | \*bessihɨro  | \*bressihɨro  | \*bessihɨrou | \*bressihɨrou | \*bessihɨrãhʷa  | \*bressihɨrãhʷa  | \*bessihɨrãhʷɨ̄  | \*bressihɨrãhʷɨ̄  | \*bessihɨrãna | \*bressihɨrãna |
+| ^            | Applicative    | -   | \*bessihɨro  | \*bressihɨro  | \*bessihɨrou | \*bressihɨrou | \*bessihɨrõhʷa  | \*bressihɨrõhʷa  | \*bessihɨrõhʷɨ̄  | \*bressihɨrõhʷɨ̄  | \*bessihɨrõna | \*bressihɨrõna |
 | Imperfective | Intransitive   | -   | \*bessīhē    | \*bressīhē    | \*bessīhiu   | \*bressīhiu   | \*bessīhẽhʷa    | \*bressīhẽhʷa    | \*bessīhẽhʷɨ̄    | \*bressīhẽhʷɨ̄    | -             | -              |
-| ^            | Applicative    | -   | \*bessīhɨro  | \*bressīhɨro  | \*bessīhɨrou | \*bressīhɨrou | \*bessīhɨrãhʷa  | \*bressīhɨrãhʷa  | \*bessīhɨrãhʷɨ̄  | \*bressīhɨrãhʷɨ̄  | -             | -              |
+| ^            | Applicative    | -   | \*bessīhɨro  | \*bressīhɨro  | \*bessīhɨrou | \*bressīhɨrou | \*bessīhɨrõhʷa  | \*bressīhɨrõhʷa  | \*bessīhɨrõhʷɨ̄  | \*bressīhɨrõhʷɨ̄  | -             | -              |
 | ^            | Circumstantial | -   | \*bessīhʷɨla | \*bressīhʷɨla | \*bessīhʷɨlū | \*bressīhʷɨlū | \*bessīhʷɨlãhʷa | \*bressīhʷɨlãhʷa | \*bessīhʷɨlãhʷɨ̄ | \*bressīhʷɨlãhʷɨ̄ | -             | -              |
 
 ##### \*tŋobrɨnō, tadŋ- (I) "bend"
@@ -256,10 +256,10 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 |              | <              | -   | Indicative | <            | <           | <             | Subjunctive   | <               | <              | <                | Jussive      | <              |
 | ------------ | -------------- | --- | ---------- | ------------ | ----------- | ------------- | ------------- | --------------- | -------------- | ---------------- | ------------ | -------------- |
 |              | <              | -   | 1sg        | 1pl          | 2/3sg       | 2/3pl         | 1sg           | 1pl             | 2/3sg          | 2/3pl            | 2/3sg        | 2/3pl          |
-| Perfective   | Intransitive   | -   | \*tŋobro   | \*tadŋobro   | \*tŋobrou   | \*tadŋobrou   | \*tŋobrãhʷa   | \*tadŋobrãhʷa   | \*tŋobrãhʷɨ̄   | \*tadŋobrãhʷɨ̄   | \*tŋobrãna   | \*tadŋobrãna   |
-| ^            | Applicative    | -   | \*tŋobrɨro | \*tadŋobrɨro | \*tŋobrɨrou | \*tadŋobrɨrou | \*tŋobrɨrãhʷa | \*tadŋobrɨrãhʷa | \*tŋobrɨrãhʷɨ̄ | \*tadŋobrɨrãhʷɨ̄ | \*tŋobrɨrãna | \*tadŋobrɨrãna |
+| Perfective   | Intransitive   | -   | \*tŋobra   | \*tadŋobra   | \*tŋobrū    | \*tadŋobrū    | \*tŋobrãhʷa   | \*tadŋobrãhʷa   | \*tŋobrãhʷɨ̄   | \*tadŋobrãhʷɨ̄   | \*tŋobrãna   | \*tadŋobrãna   |
+| ^            | Applicative    | -   | \*tŋobrɨro | \*tadŋobrɨro | \*tŋobrɨrou | \*tadŋobrɨrou | \*tŋobrɨrõhʷa | \*tadŋobrɨrõhʷa | \*tŋobrɨrõhʷɨ̄ | \*tadŋobrɨrõhʷɨ̄ | \*tŋobrɨrõna | \*tadŋobrɨrõna |
 | Imperfective | Intransitive   | -   | \*tŋebrē   | \*tadŋebrē   | \*tŋebriu   | \*tadŋebriu   | \*tŋebrẽhʷa   | \*tadŋebrẽhʷa   | \*tŋebrẽhʷɨ̄   | \*tadŋebrẽhʷɨ̄   | -            | -              |
-| ^            | Applicative    | -   | \*tŋebrɨro | \*tadŋebrɨro | \*tŋebrɨrou | \*tadŋebrɨrou | \*tŋebrɨrãhʷa | \*tadŋebrɨrãhʷa | \*tŋebrɨrãhʷɨ̄ | \*tadŋebrɨrãhʷɨ̄ | -            | -              |
+| ^            | Applicative    | -   | \*tŋebrɨro | \*tadŋebrɨro | \*tŋebrɨrou | \*tadŋebrɨrou | \*tŋebrɨrõhʷa | \*tadŋebrɨrõhʷa | \*tŋebrɨrõhʷɨ̄ | \*tadŋebrɨrõhʷɨ̄ | -            | -              |
 | ^            | Circumstantial | -   | \*tŋebrula | \*tadŋebrula | \*tŋebrulū  | \*tadŋebrulū  | \*tŋebrulãhʷa | \*tadŋebrulãhʷa | \*tŋebrulãhʷɨ̄ | \*tadŋebrulãhʷɨ̄ | -            | -              |
 
 ##### \*hesinō, hah- (V) "sleep"
@@ -267,10 +267,10 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 |              | <              | -   | Indicative | <            | <           | <             | Subjunctive   | <               | <              | <                | Jussive    | <            |
 | ------------ | -------------- | --- | ---------- | ------------ | ----------- | ------------- | ------------- | --------------- | -------------- | ---------------- | ---------- | ------------ |
 |              | <              | -   | 1sg        | 1pl          | 2/3sg       | 2/3pl         | 1sg           | 1pl             | 2/3sg          | 2/3pl            | 2/3sg      | 2/3pl        |
-| Perfective   | Intransitive   | -   | \*hesē     | \*hahesē     | \*hesiu     | \*hahesiu     | \*hesĩhʷa     | \*hahesĩhʷa     | \*hesĩhʷɨ̄     | \*hahesĩhʷɨ̄     | \*hesĩna   | \*hahesĩna   |
-| ^            | Applicative    | -   | \*hesiro   | \*hahesiro   | \*hesirou   | \*hahesirou   | \*hesirãhʷa   | \*hahesirãhʷa   | \*hesirãhʷɨ̄   | \*hahesirãhʷɨ̄   | \*hesirãna | \*hahesirãna |
+| Perfective   | Intransitive   | -   | \*hesē     | \*hahesē     | \*hesiu     | \*hahesiu     | \*hesẽhʷa     | \*hahesẽhʷa     | \*hesẽhʷɨ̄     | \*hahesẽhʷɨ̄     | \*hesẽna   | \*hahesẽna   |
+| ^            | Applicative    | -   | \*hesiro   | \*hahesiro   | \*hesirou   | \*hahesirou   | \*hesirõhʷa   | \*hahesirõhʷa   | \*hesirõhʷɨ̄   | \*hahesirõhʷɨ̄   | \*hesirõna | \*hahesirõna |
 | Imperfective | Intransitive   | -   | \*hesisē   | \*hahesisē   | \*hesisiu   | \*hahesisiu   | \*hesisẽhʷa   | \*hahesisẽhʷa   | \*hesisẽhʷɨ̄   | \*hahesisẽhʷɨ̄   | -          | -            |
-| ^            | Applicative    | -   | \*hesisɨro | \*hahesisɨro | \*hesisɨrou | \*hahesisɨrou | \*hesisɨrãhʷa | \*hahesisɨrãhʷa | \*hesisɨrãhʷɨ̄ | \*hahesisɨrãhʷɨ̄ | -          | -            |
+| ^            | Applicative    | -   | \*hesisɨro | \*hahesisɨro | \*hesisɨrou | \*hahesisɨrou | \*hesisɨrõhʷa | \*hahesisɨrõhʷa | \*hesisɨrõhʷɨ̄ | \*hahesisɨrõhʷɨ̄ | -          | -            |
 | ^            | Circumstantial | -   | \*hesisula | \*hahesisula | \*hesisulū  | \*hahesisulū  | \*hesisulãhʷa | \*hahesisulãhʷa | \*hesisulãhʷɨ̄ | \*hahesisulãhʷɨ̄ | -          | -            |
 
 #### Passive
@@ -279,15 +279,15 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 |              | <              | -   | Indicative | <           | <          | <           | Subjunctive   | <              | <              | <               | Jussive     | <            |
 | ------------ | -------------- | --- | ---------- | ----------- | ---------- | ----------- | ------------- | -------------- | -------------- | --------------- | ----------- | ------------ |
 |              | <              | -   | 1sg        | 1pl         | 2/3sg      | 2/3pl       | 1sg           | 1pl            | 2/3sg          | 2/3pl           | 2/3sg       | 2/3pl        |
-| Perfective   | Patient        | -   | \*ganto    | \*granto    | \*gantou   | \*grantou   | \*gantãhʷa    | \*grantãhʷa    | \*gantãhʷɨ̄    | \*grantãhʷɨ̄    | \*gantãna   | \*grantãna   |
+| Perfective   | Patient        | -   | \*ganto    | \*granto    | \*gantou   | \*grantou   | \*gantõhʷa    | \*grantõhʷa    | \*gantõhʷɨ̄    | \*grantõhʷɨ̄    | \*gantõna   | \*grantõna   |
 | ^            | Actor          | -   | \*gantō    | \*grantō    | \*gantū    | \*grantū    | \*gantũhʷa    | \*grantũhʷa    | \*gantũhʷɨ̄    | \*grantũhʷɨ̄    | \*gantũna   | \*grantũna   |
 | ^            | Unaccusative   | -   | \*gantoma  | \*grantoma  | \*gantomū  | \*grantomū  | \*gantomãhʷa  | \*grantomãhʷa  | \*gantomãhʷɨ̄  | \*grantomãhʷɨ̄  | \*gantomãna | \*grantomãna |
-| ^            | Applicative    | -   | \*gantaro  | \*grantaro  | \*gantarou | \*grantarou | \*gantarãhʷa  | \*grantarãhʷa  | \*gantarãhʷɨ̄  | \*grantarãhʷɨ̄  | \*gantarãna | \*grantarãna |
+| ^            | Applicative    | -   | \*gantaro  | \*grantaro  | \*gantarou | \*grantarou | \*gantarõhʷa  | \*grantarõhʷa  | \*gantarõhʷɨ̄  | \*grantarõhʷɨ̄  | \*gantarõna | \*grantarõna |
 | Imperfective | Patient        | -   | \*gantē    | \*grantē    | \*gantiu   | \*grantiu   | \*gantẽhʷa    | \*grantẽhʷa    | \*gantẽhʷɨ̄    | \*grantẽhʷɨ̄    | -           | -            |
 | ^            | Actor          | -   | \*ganteiha | \*granteiha | \*ganteihū | \*granteihū | \*ganteihãhʷa | \*granteihãhʷa | \*ganteihãhʷɨ̄ | \*granteihãhʷɨ̄ | -           | -            |
 | ^            | Unaccusative   | -   | \*gantiuma | \*grantiuma | \*gantiumū | \*grantiumū | \*gantiumãhʷa | \*grantiumãhʷa | \*gantiumãhʷɨ̄ | \*grantiumãhʷɨ̄ | -           | -            |
-| ^            | Applicative    | -   | \*gantēro  | \*grantēro  | \*gantērou | \*grantērou | \*gantērãhʷa  | \*grantērãhʷa  | \*gantērãhʷɨ̄  | \*grantērãhʷɨ̄  | -           | -            |
-| ^            | Circumstantial | -   | \*ganteila | \*granteila | \*ganteilū | \*granteilū | \*ganteilãhʷa | \*granteilãhʷa | \*ganteilãhʷɨ̄ | \*granteilãhʷɨ̄ | -           | -            |
+| ^            | Applicative    | -   | \*gantēro  | \*grantēro  | \*gantērou | \*grantērou | \*gantērõhʷa  | \*grantērõhʷa  | \*gantērõhʷɨ̄  | \*grantērõhʷɨ̄  | -           | -            |
+| ^            | Circumstantial | -   | \*gantiula | \*grantiula | \*gantiulū | \*grantiulū | \*gantiulãhʷa | \*grantiulãhʷa | \*gantiulãhʷɨ̄ | \*grantiulãhʷɨ̄ | -           | -            |
 
 ##### \*ubodɨnō, r- (I) "be increased"
 
@@ -297,28 +297,27 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | Perfective   | Patient        | -   | \*uboda    | \*ruboda    | \*ubodū     | \*rubodū     | \*ubodãhʷa    | \*rubodãhʷa    | \*ubodãhʷɨ̄    | \*rubodãhʷɨ̄    | \*ubodãna   | \*rubodãna   |
 | ^            | Actor          | -   | \*ubodo    | \*rubodo    | \*ubodou    | \*rubodou    | \*ubodõhʷa    | \*rubodõhʷa    | \*ubodõhʷɨ̄    | \*rubodõhʷɨ̄    | \*ubodõna   | \*rubodõna   |
 | ^            | Unaccusative   | -   | \*ubodama  | \*rubodama  | \*ubodamū   | \*rubodamū   | \*ubodamãhʷa  | \*rubodamãhʷa  | \*ubodamãhʷɨ̄  | \*rubodamãhʷɨ̄  | \*ubodamãna | \*rubodamãna |
-| ^            | Applicative    | -   | \*ubodɨro  | \*rubodɨro  | \*ubodɨrou  | \*rubodɨrou  | \*ubodɨrãhʷa  | \*rubodɨrãhʷa  | \*ubodɨrãhʷɨ̄  | \*rubodɨrãhʷɨ̄  | \*ubodɨrãna | \*rubodɨrãna |
+| ^            | Applicative    | -   | \*ubodɨro  | \*rubodɨro  | \*ubodɨrou  | \*rubodɨrou  | \*ubodɨrõãhʷa | \*rubodɨrõhʷa  | \*ubodɨrõhʷɨ̄  | \*rubodɨrõhʷɨ̄  | \*ubodɨrõna | \*rubodɨrõna |
 | Imperfective | Patient        | -   | \*ubessē   | \*rubessē   | \*ubessiu   | \*rubessiu   | \*ubessẽhʷa   | \*rubessẽhʷa   | \*ubessẽhʷɨ̄   | \*rubessẽhʷɨ̄   | -           | -            |
 | ^            | Actor          | -   | \*ubesso   | \*rubesso   | \*ubessou   | \*rubessou   | \*ubessõhʷa   | \*rubessõhʷa   | \*ubessõhʷɨ̄   | \*rubessõhʷɨ̄   | -           | -            |
-| ^            | Unaccusative   | -   | \*ubessama | \*rubessama | \*ubessamū  | \*rubessamū  | \*ubessamãhʷa | \*rubessamãhʷa | \*ubessamãhʷɨ̄ | \*rubessamãhʷɨ̄ | -           | -            |
-| ^            | Applicative    | -   | \*ubessɨro | \*rubessɨro | \*ubessɨrou | \*rubessɨrou | \*ubessɨrãhʷa | \*rubessɨrãhʷa | \*ubessɨrãhʷɨ̄ | \*rubessɨrãhʷɨ̄ | -           | -            |
+| ^            | Unaccusative   | -   | \*ubessoma | \*rubessoma | \*ubessomū  | \*rubessomū  | \*ubessomãhʷa | \*rubessomãhʷa | \*ubessomãhʷɨ̄ | \*rubessomãhʷɨ̄ | -           | -            |
+| ^            | Applicative    | -   | \*ubessɨro | \*rubessɨro | \*ubessɨrou | \*rubessɨrou | \*ubessɨrõhʷa | \*rubessɨrõhʷa | \*ubessɨrõhʷɨ̄ | \*rubessɨrõhʷɨ̄ | -           | -            |
 | ^            | Circumstantial | -   | \*ubessula | \*rubessula | \*ubessulū  | \*rubessulū  | \*ubessulãhʷa | \*rubessulãhʷa | \*ubessulãhʷɨ̄ | \*rubessulãhʷɨ̄ | -           | -            |
 
 ##### \*mitunō, mɨm- (IV) "be sewn, scattered"
 
-|              | <              | -   | Indicative | <          | <         | <           | Subjunctive | <             | <            | <              | Jussive    | <            |
-| ------------ | -------------- | --- | ---------- | ---------- | --------- | ----------- | ----------- | ------------- | ------------ | -------------- | ---------- | ------------ |
-|              | <              | -   | 1sg        | 1pl        | 2/3sg     | 2/3pl       | 1sg         | 1pl           | 2/3sg        | 2/3pl          | 2/3sg      | 2/3pl        |
-| Perfective   | Patient        | -   | \*mitō     | \*mɨmitō   | \*mitū    | \*mɨmitū    | \*mitũhʷa   | \*mɨmitũhʷa   | \*mitũhʷɨ̄   | \*mɨmitũhʷɨ̄   | \*mitũna   | \*mɨmitũna   |
-| ^            | Actor          | -   | \*mito     | \*mɨmito   | \*mitou   | \*mɨmitou   | \*mitõhʷa   | \*mɨmitõhʷa   | \*mitõhʷɨ̄   | \*mɨmitõhʷɨ̄   | \*mitõna   | \*mɨmitõna   |
-| ^            | Unaccusative   | -   | \*mitōma   | \*mɨmitōma | \*mitōmū  | \*mɨmitōmū  | \*mitōmãhʷa | \*mɨmitōmãhʷa | \*mitōmãhʷɨ̄ | \*mɨmitōmãhʷɨ̄ | \*mitōmãna | \*mɨmitōmãna |
-| ^            | Applicative    | -   | \*mituro   | \*mɨmituro | \*miturou | \*mɨmiturou | \*miturãhʷa | \*mɨmiturãhʷa | \*miturãhʷɨ̄ | \*mɨmiturãhʷɨ̄ | \*miturãna | \*mɨmiturãna |
-| Imperfective | Patient        | -   | \*mitē     | \*mɨmitē   | \*mitiu   | \*mɨmitiu   | \*mitẽhʷa   | \*mɨmitẽhʷa   | \*mitẽhʷɨ̄   | \*mɨmitẽhʷɨ̄   | -          | -            |
-| ^            | Actor          | -   | \*mitiha   | \*mɨmitiha | \*mitihū  | \*mɨmitihū  | \*mitihãhʷa | \*mɨmitihãhʷa | \*mitihãhʷɨ̄ | \*mɨmitihãhʷɨ̄ | -          | -            |
-| ^            | Unaccusative   | -   | \*mitēma   | \*mɨmitēma | \*mitēmū  | \*mɨmitēmū  | \*mitēmãhʷa | \*mɨmitēmãhʷa | \*mitēmãhʷɨ̄ | \*mɨmitēmãhʷɨ̄ | -          | -            |
-| ^            | Applicative    | -   | \*mitiro   | \*mɨmitiro | \*mitirou | \*mɨmitirou | \*mitirãhʷa | \*mɨmitirãhʷa | \*mitirãhʷɨ̄ | \*mɨmitirãhʷɨ̄ | -          | -            |
-| ^            | Circumstantial | -   | \*mitila   | \*mɨmitila | \*mitilū  | \*mɨmitilū  | \*mitilãhʷa | \*mɨmitilãhʷa | \*mitilãhʷɨ̄ | \*mɨmitilãhʷɨ̄ | -          | -            |
-
+|              | <              | -   | Indicative | <           | <         | <           | Subjunctive  | <              | <             | <               | Jussive    | <            |
+| ------------ | -------------- | --- | ---------- | ----------- | --------- | ----------- | ------------ | -------------- | ------------- | --------------- | ---------- | ------------ |
+|              | <              | -   | 1sg        | 1pl         | 2/3sg     | 2/3pl       | 1sg          | 1pl            | 2/3sg         | 2/3pl           | 2/3sg      | 2/3pl        |
+| Perfective   | Patient        | -   | \*mitō     | \*mɨmitō    | \*mitū    | \*mɨmitū    | \*mitũhʷa    | \*mɨmitũhʷa    | \*mitũhʷɨ̄    | \*mɨmitũhʷɨ̄    | \*mitũna   | \*mɨmitũna   |
+| ^            | Actor          | -   | \*mito     | \*mɨmito    | \*mitou   | \*mɨmitou   | \*mitõhʷa    | \*mɨmitõhʷa    | \*mitõhʷɨ̄    | \*mɨmitõhʷɨ̄    | \*mitõna   | \*mɨmitõna   |
+| ^            | Unaccusative   | -   | \*mitōma   | \*mɨmitōma  | \*mitōmū  | \*mɨmitōmū  | \*mitōmãhʷa  | \*mɨmitōmãhʷa  | \*mitōmãhʷɨ̄  | \*mɨmitōmãhʷɨ̄  | \*mitōmãna | \*mɨmitōmãna |
+| ^            | Applicative    | -   | \*mituro   | \*mɨmituro  | \*miturou | \*mɨmiturou | \*miturõhʷa  | \*mɨmiturõhʷa  | \*miturõhʷɨ̄  | \*mɨmiturõhʷɨ̄  | \*miturõna | \*mɨmiturõna |
+| Imperfective | Patient        | -   | \*mitē     | \*mɨmitē    | \*mitiu   | \*mɨmitiu   | \*mitẽhʷa    | \*mɨmitẽhʷa    | \*mitẽhʷɨ̄    | \*mɨmitẽhʷɨ̄    | -          | -            |
+| ^            | Actor          | -   | \*mitiha   | \*mɨmitiha  | \*mitihū  | \*mɨmitihū  | \*mitihãhʷa  | \*mɨmitihãhʷa  | \*mitihãhʷɨ̄  | \*mɨmitihãhʷɨ̄  | -          | -            |
+| ^            | Unaccusative   | -   | \*mitiuma  | \*mɨmitiuma | \*mitiumū | \*mɨmitiumū | \*mitiumãhʷa | \*mɨmitiumãhʷa | \*mitiumãhʷɨ̄ | \*mɨmitiumãhʷɨ̄ | -          | -            |
+| ^            | Applicative    | -   | \*mitiro   | \*mɨmitiro  | \*mitirou | \*mɨmitirou | \*mitirõhʷa  | \*mɨmitirõhʷa  | \*mitirõhʷɨ̄  | \*mɨmitirõhʷɨ̄  | -          | -            |
+| ^            | Circumstantial | -   | \*mitiula  | \*mɨmitiula | \*mitiulū | \*mɨmitiulū | \*mitiulãhʷa | \*mɨmitiulãhʷa | \*mitiulãhʷɨ̄ | \*mɨmitiulãhʷɨ̄ | -          | -            |
 #### Active
 ##### \*kʷenibɨnō, jɨkʷ- (II) "call, beckon"
 
@@ -327,11 +326,11 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 |              | <              | -   | 1sg           | 1pl             | 2/3sg           | 2/3pl             | 1sg              | 1pl                | 2/3sg             | 2/3pl               | 2/3sg         | 2/3pl           |
 | Perfective   | Actor          | -   | \*kʷeniba     | \*jɨkʷeniba     | \*kʷenibʷɨ̄     | \*jɨkʷenibʷɨ̄     | \*kʷenibãhʷa     | \*jɨkʷenibãhʷa     | \*kʷenibãhʷɨ̄     | \*jɨkʷenibãhʷɨ̄     | \*kʷenibãna   | \*jɨkʷenibãna   |
 | ^            | Unaccusative   | -   | \*kʷenibama   | \*jɨkʷenibama   | \*kʷenibamū     | \*jɨkʷenibamū     | \*kʷenibamãhʷa   | \*jɨkʷenibamãhʷa   | \*kʷenibamãhʷɨ̄   | \*jɨkʷenibamãhʷɨ̄   | \*kʷenibamãna | \*jɨkʷenibamãna |
-| ^            | Applicative    | -   | \*kʷenibro    | \*jɨkʷenibro    | \*kʷenibrou     | \*jɨkʷenibrou     | \*kʷenibrãhʷa    | \*jɨkʷenibrãhʷa    | \*kʷenibrãhʷɨ̄    | \*jɨkʷenibrãhʷɨ̄    | \*kʷenibrãna  | \*jɨkʷenibrãna  |
+| ^            | Applicative    | -   | \*kʷenibro    | \*jɨkʷenibro    | \*kʷenibrou     | \*jɨkʷenibrou     | \*kʷenibrõhʷa    | \*jɨkʷenibrõhʷa    | \*kʷenibrõhʷɨ̄    | \*jɨkʷenibrõhʷɨ̄    | \*kʷenibrõna  | \*jɨkʷenibrõna  |
 | Imperfective | Patient        | -   | \*kʷenipsēŋka | \*jɨkʷenipsēŋka | \*kʷenipsēŋkʷɨ̄ | \*jɨkʷenipsēŋkʷɨ̄ | \*kʷenipsēŋkãhʷa | \*jɨkʷenipsēŋkãhʷa | \*kʷenipsēŋkãhʷɨ̄ | \*jɨkʷenipsēŋkãhʷɨ̄ | -             | -               |
 | ^            | Actor          | -   | \*kʷenipsē    | \*jɨkʷenipsē    | \*kʷenipsiu     | \*jɨkʷenipsiu     | \*kʷenipsẽhʷa    | \*jɨkʷenipsẽhʷa    | \*kʷenipsẽhʷɨ̄    | \*jɨkʷenipsẽhʷɨ̄    | -             | -               |
-| ^            | Unaccusative   | -   | \*kʷenipsama  | \*jɨkʷenipsama  | \*kʷenipsamū    | \*jɨkʷenipsamū    | \*kʷenipsamãhʷa  | \*jɨkʷenipsamãhʷa  | \*kʷenipsamãhʷɨ̄  | \*jɨkʷenipsamãhʷɨ̄  | -             | -               |
-| ^            | Applicative    | -   | \*kʷenipsɨro  | \*jɨkʷenipsɨro  | \*kʷenipsɨrou   | \*jɨkʷenipsɨrou   | \*kʷenipsɨrãhʷa  | \*jɨkʷenipsɨrãhʷa  | \*kʷenipsɨrãhʷɨ̄  | \*jɨkʷenipsɨrãhʷɨ̄  | -             | -               |
+| ^            | Unaccusative   | -   | \*kʷenipsoma  | \*jɨkʷenipsoma  | \*kʷenipsomū    | \*jɨkʷenipsomū    | \*kʷenipsomãhʷa  | \*jɨkʷenipsomãhʷa  | \*kʷenipsomãhʷɨ̄  | \*jɨkʷenipsomãhʷɨ̄  | -             | -               |
+| ^            | Applicative    | -   | \*kʷenipsɨro  | \*jɨkʷenipsɨro  | \*kʷenipsɨrou   | \*jɨkʷenipsɨrou   | \*kʷenipsɨrõhʷa  | \*jɨkʷenipsɨrõhʷa  | \*kʷenipsɨrõhʷɨ̄  | \*jɨkʷenipsɨrõhʷɨ̄  | -             | -               |
 | ^            | Circumstantial | -   | \*kʷenipsula  | \*jɨkʷenipsula  | \*kʷenipsulū    | \*jɨkʷenipsulū    | \*kʷenipsulãhʷa  | \*jɨkʷenipsulãhʷa  | \*kʷenipsulãhʷɨ̄  | \*jɨkʷenipsulãhʷɨ̄  | -             | -               |
 
 ##### \*ãnanō, r- (III) "see"
@@ -340,28 +339,27 @@ Finite verbs take one of two suffixes which agree with the person of the subject
 | ------------ | -------------- | --- | ---------- | --------- | ---------- | ----------- | ----------- | ------------ | ------------ | ------------- | --------- | ---------- |
 |              | <              | -   | 1sg        | 1pl       | 2/3sg      | 2/3pl       | 1sg         | 1pl          | 2/3sg        | 2/3pl         | 2/3sg     | 2/3pl      |
 | Perfective   | Actor          | -   | \*ãno      | \*rãno    | \*ãnou     | \*rãnou     | \*ãnãhʷa    | \*rãnãhʷa    | \*ãnãhʷɨ̄    | \*rãnãhʷɨ̄    | \*ãnãna   | \*rãnãna   |
-| ^            | Unaccusative   | -   | \*ãnoma    | \*rãnoma  | \*ãnomū    | \*rãnomū    | \*ãnomãhʷa  | \*rãnomãhʷa  | \*ãnomãhʷɨ̄  | \*rãnomãhʷɨ̄  | \*ãnomãna | \*rãnomãna |
-| ^            | Applicative    | -   | \*anaro    | \*ranaro  | \*anarou   | \*ranarou   | \*anarãhʷa  | \*ranarãhʷa  | \*anarãhʷɨ̄  | \*ranarãhʷɨ̄  | \*anarãna | \*ranarãna |
+| ^            | Unaccusative   | -   | \*ãnama    | \*rãnama  | \*ãnamū    | \*rãnamū    | \*ãnamãhʷa  | \*rãnamãhʷa  | \*ãnamãhʷɨ̄  | \*rãnamãhʷɨ̄  | \*ãnamãna | \*rãnamãna |
+| ^            | Applicative    | -   | \*anaro    | \*ranaro  | \*anarou   | \*ranarou   | \*anarõhʷa  | \*ranarõhʷa  | \*anarõhʷɨ̄  | \*ranarõhʷɨ̄  | \*anarõna | \*ranarõna |
 | Imperfective | Patient        | -   | \*ãnēŋka   | \*rãnēŋka | \*ãnēŋkʷɨ̄ | \*rãnēŋkʷɨ̄ | \*ãnēŋkãhʷa | \*rãnēŋkãhʷa | \*ãnēŋkãhʷɨ̄ | \*rãnēŋkãhʷɨ̄ | -         | -          |
 | ^            | Actor          | -   | \*ãnē      | \*rãnē    | \*ãniu     | \*rãniu     | \*ãnẽhʷa    | \*rãnẽhʷa    | \*ãnẽhʷɨ̄    | \*rãnẽhʷɨ̄    | -         | -          |
-| ^            | Unaccusative   | -   | \*ãnēma    | \*rãnēma  | \*ãnēmū    | \*rãnēmū    | \*ãnēmãhʷa  | \*rãnēmãhʷa  | \*ãnēmãhʷɨ̄  | \*rãnēmãhʷɨ̄  | -         | -          |
-| ^            | Applicative    | -   | \*ãnēro    | \*rãnēro  | \*ãnērou   | \*rãnērou   | \*ãnērãhʷa  | \*rãnērãhʷa  | \*ãnērãhʷɨ̄  | \*rãnērãhʷɨ̄  | -         | -          |
-| ^            | Circumstantial | -   | \*ãneila   | \*rãneila | \*ãneilū   | \*rãneilū   | \*ãneilãhʷa | \*rãneilãhʷa | \*ãneilãhʷɨ̄ | \*rãneilãhʷɨ̄ | -         | -          |
+| ^            | Unaccusative   | -   | \*ãniuma   | \*rãniuma | \*ãniumū   | \*rãniumū   | \*ãniumãhʷa | \*rãniumãhʷa | \*ãniumãhʷɨ̄ | \*rãniumãhʷɨ̄ | -         | -          |
+| ^            | Applicative    | -   | \*ãnēro    | \*rãnēro  | \*ãnērou   | \*rãnērou   | \*ãnērõhʷa  | \*rãnērõhʷa  | \*ãnērõhʷɨ̄  | \*rãnērõhʷɨ̄  | -         | -          |
+| ^            | Circumstantial | -   | \*ãniula   | \*rãniula | \*ãniulū   | \*rãniulū   | \*ãniulãhʷa | \*rãniulãhʷa | \*ãniulãhʷɨ̄ | \*rãniulãhʷɨ̄ | -         | -          |
 
 ##### \*pleŋinō, pabl- (V) "pray, hope for"
 
 |              | <              | -   | Indicative   | <              | <              | <                | Subjunctive     | <                 | <                | <                  | Jussive     | <             |
 | ------------ | -------------- | --- | ------------ | -------------- | -------------- | ---------------- | --------------- | ----------------- | ---------------- | ------------------ | ----------- | ------------- |
 |              | <              | -   | 1sg          | 1pl            | 2/3sg          | 2/3pl            | 1sg             | 1pl               | 2/3sg            | 2/3pl              | 2/3sg       | 2/3pl         |
-| Perfective   | Actor          | -   | \*pleŋē      | \*pableŋē      | \*pleŋū        | \*pableŋū        | \*pleŋĩhʷa      | \*pableŋĩhʷa      | \*pleŋĩhʷɨ̄      | \*pableŋĩhʷɨ̄      | \*pleŋĩna   | \*pableŋĩna   |
+| Perfective   | Actor          | -   | \*pleŋē      | \*pableŋē      | \*pleŋū        | \*pableŋū        | \*pleŋẽhʷa      | \*pableŋẽhʷa      | \*pleŋẽhʷɨ̄      | \*pableŋẽhʷɨ̄      | \*pleŋẽna   | \*pableŋẽna   |
 | ^            | Unaccusative   | -   | \*pleŋēma    | \*pableŋēma    | \*pleŋēmū      | \*pableŋēmū      | \*pleŋēmãhʷa    | \*pableŋēmãhʷa    | \*pleŋēmãhʷɨ̄    | \*pableŋēmãhʷɨ̄    | \*pleŋēmãna | \*pableŋēmãna |
-| ^            | Applicative    | -   | \*pleŋiro    | \*pableŋiro    | \*pleŋirou     | \*pableŋirou     | \*pleŋirãhʷa    | \*pableŋirãhʷa    | \*pleŋirãhʷɨ̄    | \*pableŋirãhʷɨ̄    | \*pleŋirãna | \*pableŋirãna |
+| ^            | Applicative    | -   | \*pleŋiro    | \*pableŋiro    | \*pleŋirou     | \*pableŋirou     | \*pleŋirõhʷa    | \*pableŋirõhʷa    | \*pleŋirõhʷɨ̄    | \*pableŋirõhʷɨ̄    | \*pleŋirõna | \*pableŋirõna |
 | Imperfective | Patient        | -   | \*pleŋisēŋka | \*pableŋisēŋka | \*pleŋisēŋkʷɨ̄ | \*pableŋisēŋkʷɨ̄ | \*pleŋisēŋkãhʷa | \*pableŋisēŋkãhʷa | \*pleŋisēŋkãhʷɨ̄ | \*pableŋisēŋkãhʷɨ̄ | -           | -             |
 | ^            | Actor          | -   | \*pleŋisē    | \*pableŋisē    | \*pleŋisiu     | \*pableŋisiu     | \*pleŋisẽhʷa    | \*pableŋisẽhʷa    | \*pleŋisẽhʷɨ̄    | \*pableŋisẽhʷɨ̄    | -           | -             |
-| ^            | Unaccusative   | -   | \*pleŋisama  | \*pableŋisama  | \*pleŋisamū    | \*pableŋisamū    | \*pleŋisamĩhʷa  | \*pableŋisamĩhʷa  | \*pleŋisamĩhʷɨ̄  | \*pableŋisamĩhʷɨ̄  | -           | -             |
-| ^            | Applicative    | -   | \*pleŋisro   | \*pableŋisro   | \*pleŋisrou    | \*pableŋisrou    | \*pleŋisrãhʷa   | \*pableŋisrãhʷa   | \*pleŋisrãhʷɨ̄   | \*pableŋisrãhʷɨ̄   | -           | -             |
+| ^            | Unaccusative   | -   | \*pleŋisoma  | \*pableŋisoma  | \*pleŋisomū    | \*pableŋisomū    | \*pleŋisomãhʷa  | \*pableŋisomãhʷa  | \*pleŋisomãhʷɨ̄  | \*pableŋisomãhʷɨ̄  | -           | -             |
+| ^            | Applicative    | -   | \*pleŋisɨro  | \*pableŋisɨro  | \*pleŋisɨrou   | \*pableŋisɨrou   | \*pleŋisɨrõhʷa  | \*pableŋisɨrõhʷa  | \*pleŋisɨrõhʷɨ̄  | \*pableŋisɨrõhʷɨ̄  | -           | -             |
 | ^            | Circumstantial | -   | \*pleŋisula  | \*pableŋisula  | \*pleŋisulū    | \*pableŋisulū    | \*pleŋisulãhʷa  | \*pableŋisulãhʷa  | \*pleŋisulãhʷɨ̄  | \*pableŋisulãhʷɨ̄  | -           | -             |
-
 ### Irregular verbs
 Some Nambāno verbs do not follow one of the regular conjugation patterns laid out above, though generally the tense-emphasis prefix is always regularly attached even to irregular verbs.
 #### Intransitive
