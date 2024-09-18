@@ -11,5 +11,5 @@
 	- Culture
 - Kóty language
 	- Shote
-	- [[Cisi language]]
+	- Cisi language
 	- Qachkav 

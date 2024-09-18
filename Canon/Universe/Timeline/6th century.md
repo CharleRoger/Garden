@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **6th century** is the period from 500 to 599 AGS. This century began with the expansion of the newly established [[Telehe Empire]] in [[Kóty]], which continued to expand and remained the dominant political power for several centuries thereafter. In [[Oksandanderi]], the [[Walken Empire|Walkenian]] invasions of the lowlands prompted the formation of the [[Yarlaganda Empire]]. It was also a formative period for [[Maicqa]] society.
 # Events
 - 512: The [[Walkenian people|Walkenians]], led by the "Blue Prince" [[Egun-Yayt]], invade the [[Yarlish Lowlands]] of [[Oksandanderi]], beginning the [[Walken Empire]] and the [[History of Oksandanderi#Four Empire Period|Four Kingdoms Period]].

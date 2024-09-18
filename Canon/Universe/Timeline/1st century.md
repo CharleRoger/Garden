@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **1st century** was the century spanning the [[Universal calendar|year 0]] to 99 AGS. It is often written as the **1st century AGS** to distinguish it from the 1st century BGS which preceded it. During this period, cross-cultural contact increased almost universally, establishing many important tribes and nations. Heightened trade led to the spread of writing independently in two different parts of the world: The [[Söwita̋néÿ]] script in [[K'tlagn]] and the [[Ugugo]] in [[T'ugü]].
 # Events
 - 23: The first [[Dugrien]] clans are formed.

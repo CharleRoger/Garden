@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **3rd century** is the period from 200 to 299 AGS. Many systems of governance, rule and other political institutions were established in the third century, namely the [[Ansang Empire]], the [[Tyon-Arat]], the [[First God-Kingdom of the West]] and the [[Nuric Council]].
 # Events
 - Early 3rd century: Some north-east [[Ħautar delûr|Ħautar]] cities end the tradition of ritual suicide and decapitation of a widowed [[ârcak]].

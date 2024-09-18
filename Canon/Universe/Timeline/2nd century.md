@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **2nd century** is the period from 100 to 199 AGS. In the latter half of the century, the [[Astmergian Empire]] and several important cities were founded in [[Oksandanderi]].
 # Events
 - Early 2nd century: The [[Yunge]] language begins to diverge from [[Common-Ansangic]].

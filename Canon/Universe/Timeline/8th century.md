@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **8th century** is the period from 700 to 799 AGS. In this century, [[Loshianism]], a widespread monotheistic religion, was founded by [[Ergoy]].
 # Events
 - Early 8th century: The [[Azodo Government]] establishes the first state universities on all five islands of [[Udovuʼo]].

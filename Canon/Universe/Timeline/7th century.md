@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **7th century** is the period from 600 to 699 AGS. It saw a period of rapid expansion of population and international contact in [[Udovuʼo]] brought to an end by a plague and famine, and the reestablishment of the [[Ansang Empire]].
 # Events
 - 605: The [[Dugrien]] war ends, dividing the states into two commonwealths, the [[Free Kingdoms of the North]] and the [[Southern Commonwealth]].

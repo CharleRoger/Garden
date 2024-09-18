@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **4th century** is the period from 300 to 399 AGS. This period of history features several notable military conflicts in [[Fountainhead]], such as the [[Makhatganda#Civil War|Makhatganda Civil War]], the invasion of [[Dâmer-ṭegik]], and various clashes between the [[Telehe people|Telehe]] and the [[Ansang Empire]].
 # Events
 - Early 4th century: Tensions in the [[Makhatganda#Erkhanda Province|Erkhanda]] (later [[Makhatganda]]) rise and lead eventually to a [[Makhatganda#Civil War|civil war]].

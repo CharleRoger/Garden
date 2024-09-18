@@ -1,3 +1,8 @@
+---
+tags:
+  - meta
+  - history
+---
 The **9th century** is the period from 800 to 899 AGS. This century saw great shifts of power throughout [[Fountainhead]], with the end of powerful states such as the [[Yarlaganda Empire]] and the [[Telehe Empire]] and the flourishing growth of the [[Ansang Empire]] and [[Lavondu|Lavondu culture]]. These shifts led to an increase in cultural contact between previously isolated regions of the continent.
 # Events
 - 9th century: The rebuilding of [[Kalotgane]] and expansion of the [[Imperial Palace of Kalotgane|Imperial Palace]] begins.
