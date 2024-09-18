@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 Eight-Antler (as in Antlers with eight points) was a [[Hnäzb people|Hnäzb]] or early [[Nespe]] warlord and conqueror who lived during the [[3rd century]]. According to later estimates he arrived in the [[Uhustaw]] (Then [[Čüüwän]]) in the year 211 AGS and took it as his own, subjugating the native population. Soon he would rule over one of the mightiest early Hnäzb realms. 
 
 His two sons would marry the "daughters of the lakes", which appear in the legend as the physical emanations of the spirits of the great lakes of the land. Though others have interpreted it to mean that they married the daughters of preexisting chieftains of the land. 

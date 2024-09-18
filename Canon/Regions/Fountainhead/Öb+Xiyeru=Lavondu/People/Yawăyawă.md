@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 **Yawăyawă** (777 – 879) was the [[Āʼiyoru|governor]] of [[Azodo]] from 845 to 856, and the last to inherit the role automatically without electoral challenge. He was the great-great-grandson of [[Cetănehă]], one of the founding [[Āʼiyoru|governors]] of the [[Azodo Government]].
 # Name
 *Yawăyawă* simply means "mass of folded fabric".

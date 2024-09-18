@@ -1,4 +1,8 @@
-#Telehe_Empire #Kóty 
+---
+tags:
+  - Kóty
+  - Telehe_Empire
+---
 Telehe Empire government consisted of three institutions that together administrated the whole Empire.
 ## Ōle ilrasamer 'First council'
 ### Asay

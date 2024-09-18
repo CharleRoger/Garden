@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The history of **[[Xiyeru]] sailing** began with the development of the sailing ship, thought to have taken place on or near the island of [[Buhō]] c. 2000 BGS. The technology matured in [[Udovuʼo]] and developed further with the spread of the [[Lavondu]] macroculture in the first and second millennium AGS.
 # Prehistory
 Linguistic connections between [[Udovuʼo]] and other [[Fountainhead]] islands, particularly [[Buhō]], suggest that the ancestors of the [[Xiyeru]] originated in mainland [[Fountainhead]], first arriving in [[Udovuʼo]] in the second millennium BGS. There was a significant loss and mystification of cultural and technological knowledge from the time of settlement of [[Udovuʼo]] until around the middle of the first millennium BGS, when the earliest written form of the [[Nejinayon]] historical tradition began recording contemporary history.

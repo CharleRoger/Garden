@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The Makhatganda was a majority [[Yarlish people|Yarlish]] state located within the [[Central Highlands]] of [[Oksandanderi]]. It lasted from the year [[4th century|331]] AGS till [[11th century|1076]], when it was annexed by the [[Empire of Kalotgane]], after its surrender in the the [[Makhat-Kalotgane War]]. It was one of the largest and most influential states in Oksandanderian history. 
 ## Prehistory 
 The [[Central Highlands]] of Oks. have been inhabited by humans for thousands of course. Among the earliest discernible cultures is the [[Roundhouse culture]] or Ulitin culture. This culture prospered around [[6th millennium BGS|5000 BGS]] until its demise during the [[4th millennium BGS]]. The culture itself is named after its most prominent buildings, large round or rounded (often eight-sided, reminiscient of the [[Yorp building]]s of later centuries). After the Roundhouse culture declined, a sort of habitation gap set in and there were no traces of sedentary peoples living in the highlands for over a thousand years. 

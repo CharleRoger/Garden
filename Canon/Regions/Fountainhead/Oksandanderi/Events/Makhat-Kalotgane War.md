@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 During [[11th century]] the [[Empire of Kalotgane]] rose to prominence as one of the largest and most aggressive polities of [[Oksandanderi]]. During the 1070s it fought a war against the state of [[Makhatganda]], which ended in a victory for Kalotgane and the dissolution of the Makhatganda. After this, the Empire of Kalotgane would come out as the sole hegemon of Oksan. 
 
 ## Prelude 

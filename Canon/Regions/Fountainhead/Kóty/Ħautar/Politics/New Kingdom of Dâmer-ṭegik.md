@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The New Kingdom of Dâmer-ṭegik was a [[Ħautar delûr|Ħautaric]] absolute monarchy seated in the city of [[Dâmer-ṭegik]], which ruled over various cities from 354 AGS onwards, being briefly replaced by 
 # History
 The [[First God-Kingdom of the West]] left its mark on the western cities, particularly [[Dâmer-ṭegik]] and [[Leṣek-etku]]. When [[Dâmer-ṭegik]] declared independence in 354 AGS, they did so to install their own monarchy in order to self-rule. The noble families conspired to create their own line of succession, beginning with the marriage of [[Turen I]] to his wife [[Ralku I]]. While no man among the nobility could be proven to be related to [[Ra'iek I]], [[Ralku I|Ralku]] had a claim to the throne by way of being the great-granddaughter of [[Mteni II]] and the cousin of [[Mnubaiek I]]. The pair won the support of other families through promises of future marriages to their children from previous marriages.

@@ -1,4 +1,8 @@
-#empire #ansang
+---
+tags:
+  - ansang
+  - empire
+---
 **Ansang Empire** was a thalassocratic empire in [[Southern Fountainhead]] that was based on the [[Ansang Islands]]. It existed from 670 to 1200 and reached its peak during the coming of the [[Lavondu]] once the knowledge of outside world came forth.
 
 Official language [[Ansang Language]], during the rule of the [[Yuge dynasty]] the [[Yuge language]] was enforced; official religion [[Ansaŋetuʼakɨmi|Ansang traditional religion]].

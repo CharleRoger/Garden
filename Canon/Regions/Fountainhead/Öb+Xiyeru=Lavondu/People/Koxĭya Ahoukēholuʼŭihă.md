@@ -3,6 +3,8 @@ aliases:
   - Koxĭya
   - Koxĭya Eʼōene
   - sixth governor
+tags:
+  - person
 ---
 **Koxĭya Ahoukēholuʼŭihă** was an accomplished [[Xiyeru]] accountant and politician from [[Erido]] who served as the first and only [[Āʼiyoru|governor]] of [[Lavdo]], known as the mastermind behind the [[Tuvöblin]] project which established the [[Zúnton]] system in [[T'ugü]] in 861 AGS.
 # Name and titles

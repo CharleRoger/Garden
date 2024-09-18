@@ -1,4 +1,7 @@
-#meta 
+---
+tags:
+  - meta
+---
 **Rubroplano** is the fourth [[Solar system#Planets|planet]] from the [[sun]]. It is a large rocky planet with a thick atmosphere shrouded in red-orange clouds.
 ![[Rubroplano.png]]
 # Observational characteristics

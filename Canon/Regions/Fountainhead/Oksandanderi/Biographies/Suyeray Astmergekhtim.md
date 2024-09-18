@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 Suyeray Astmergekhtim ([[10th century|982]] in [[Vërev]] - [[11th century|1092]] in [[Kalotgane]]) was the first Emperor of the [[Empire of Kalotgane]], member of the [[Astmergekhtim Dynasty]] and one of the most influential rulers in [[Oksandanderi]].
 
 ## Early Life

@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Khumnuk Union** was a union of [[Ħautar delûr|Ħautaric]] cities lasting from 766 to 1012 AGS. The cities within the union operated with a high degree of autonomy, while a special [[ârcacak]] held certain universal powers.
 # History
 Around 760 AGS, the [[ârcacak]] of the cities of [[Cerin]], [[Tulu-Mdari]] and [[C̣auhin]] were in dispute with fish-merchants over the rights to fish in certain parts of the nearby river and lake. In 761, the Khumnuk Alliance (*khumnuk* "lake") was formed out of the three cities, in order to regulate the use of fishing waters, among other economic matters. The city of [[Karhetaian]] joined shortly thereafter.

@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 Esre Aster was member of the [[Aster Itif]] and the shortlived governor of the city of [[Asterin-Nem]]. 
 Esre was born in the [[Uhustaw]] and was among the Ardanic people who considered themselves  native to this region, rather than just being a colonist coming over from the ancient homeland of [[Tyon-Arat]]. 
 

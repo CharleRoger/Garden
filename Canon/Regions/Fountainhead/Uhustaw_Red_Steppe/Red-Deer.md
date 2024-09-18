@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 Red-Deer or **Taałndzı-Řaba** was a powerful [[Hnäzb people|Hnäzb]] warlord of the [[4th century]] AGS. Red-Deer is credited with founding the first great [[Qneček]] and to conquer seven cities of [[Nambō]] and surrounding areas. Red-Deer become the quintessential Hnäzb warlord, whom others tried to emulate for centuries. 
 ## Early Life 
 Most of the early life of Red-Deer is shrouded in mystery. It is not known when he was born, but there are legends, which tell that his mother was foretold the arrival of a great conqueror. Some say his father was a ugo-demigod or a mountain spirit or that is mother was a daughter of the sky. 

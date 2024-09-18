@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The history of [[Oksandanderi]] spans several millennia. It covers the early neolithic, bronze age and the advent of writing and large states. 
 
 ## Paleolithic Horticulturists (5500 - 4000 BGS) 

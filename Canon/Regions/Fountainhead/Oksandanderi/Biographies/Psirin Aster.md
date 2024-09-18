@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 Psirin Aster (845 in [[Tyeleš]] - 960 in the [[Ansang Empire]]) was an [[Ardanic people|Ardanian]] scholar, bureaucrat, explorer and founder of the town of [[Asterin-Nem]] and one of the most important political figures of the [[10th century]] in [[Oksandanderi]] and the early history of the [[Uhustaw]]. He largely spearheaded the Ardanian settlement of the Uhustaw, as well as the establishment of diplomatic relations with the people of the west, including [[Nespe]] and [[Nambāno]]. During the early 950s he embarked in a journey, from which he would not return and which ultimately brought him into the confines of the [[Ansang Empire]], where he spend the last years of his life. His [[Journals of Psirin Aster|journal]] from this time are seen as invaluable historical documents. 
 
 ## Early Life (845-875)

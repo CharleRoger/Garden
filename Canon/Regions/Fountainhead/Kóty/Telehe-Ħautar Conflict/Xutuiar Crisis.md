@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Xutuiar Crisis** (840 - 842 AGS) was a series of pivotal events in the [[Telehe-Ħautar Conflict]] which ultimately led to [[Ħautar invasion]] of 847 - 850.
 # Background
 In 839 AGS, the [[Telehe Empire|Telehe emperor]] [[Maynda Oferay]] had sent a [[839 Telehe Expedition|punitive expedition]] against the [[Khumnuk Union]], which failed after months of fighting. The survivors of the expedition were ordered to retreat back to imperial territory, but were captured by local enforcers at the city of [[Xutuiar Crisis]].

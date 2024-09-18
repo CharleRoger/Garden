@@ -1,4 +1,8 @@
-#language #ginbi_people
+---
+tags:
+  - language
+  - ginbi_people
+---
 ## Introduction
 Spoken by the [[Ginbi people]] in the....
 ## History

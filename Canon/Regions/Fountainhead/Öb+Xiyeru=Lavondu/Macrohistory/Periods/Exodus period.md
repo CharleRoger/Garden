@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Exodus period** ([[Möxali]] *eginja nayam*) was the third canonical period of [[Nejinayon]], lasting from 655 to 861 AGS. This period follows the [[Horizon period]] and precedes the [[Thousand Rivers period]]. It was a transitional period of T'ugü's history characterised by large-scale population movement and societal restructuring. 
 # History
 ## The Great Sickness (655 AGS)

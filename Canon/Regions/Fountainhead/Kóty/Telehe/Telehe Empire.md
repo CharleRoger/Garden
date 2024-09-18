@@ -1,4 +1,9 @@
-#empire #history #telehe
+---
+tags:
+  - empire
+  - history
+  - telehe
+---
 # Proto-Telehe kingdom
 
 [[Bērzun]] had existed a century before the Telehe Empire as it is transmitted to us by the records of that time, though not fully accurate they serve as a foundation to the history of this empire. A proto-telehe kingdom would likely be true as a step towards unity of the telehe speaking tribes in the Haracute “Heart of Kóty”.

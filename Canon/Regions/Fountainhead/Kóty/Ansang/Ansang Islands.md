@@ -1,8 +1,10 @@
 ---
 aliases:
   - Ansang
+tags:
+  - ansang
 ---
-#ansang 
+
 ![[AnsangIslandsMapsPictures.png]]
 [[Ɨrsɨryuŋe]]
 [[Ɨrsɨrso'vunju']]

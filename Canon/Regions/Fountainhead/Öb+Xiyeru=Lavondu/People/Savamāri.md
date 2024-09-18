@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 **Savamāri** was a semi-legendary [[ńa’ayeru]] (tattooist) in [[Xiyeru]] history who is said to have invented writing in 729 BGS.
 # Traditional legend
 [[Fobizāgāju Āeruweʼa]] heard word of a [[ńaʼayeru]] on the far north island of [[Kigipwa]] who was said to be able to write out a *xi’iyo* (ritual aphorism) in such a way that a student of theirs who had never heard that particular xi’iyo was able to read it and speak it out loud. The [[Āeruweʼa]] saw the power of such an ability, and travelled to meet with Savamāri for a demonstration in person. This is unusual for an [[Āeruweʼa]], who normally stays at her home on the main island while people travel from all around [[Udovuʼo]] seeking her advice.

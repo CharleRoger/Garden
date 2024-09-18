@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Ħautar invasion** (847 - 850 AGS) was a military effort to invade and dismantle the [[Telehe Empire]] by the alliance of the [[New Kingdom of Dâmer-ṭegik]], the [[Khumnuk Union]] and the city of [[Xutuiar Uṣûnur]].
 # Background
 The Ħautar invasion was the final chapter in the centuries-long [[Telehe-Ħautar Conflict]], in which the [[Ħautar delûr]] fought for their independence from the tyrannical [[Telehe Empire]] in response to the gradual loss of their rights and freedoms. The key events leading directly to the invasion were the formation of the [[Khumnuk Union]], the [[839 Telehe Expedition]] and the subsequent [[Xutuiar Crisis]].

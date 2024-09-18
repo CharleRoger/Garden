@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The First Ardanic-Kalotgane war was series of military conflicts between the [[Tyon-Arat]] and the [[Empire of Kalotgane]]. It took place from the [[11th century|1080s]] till the year [[12th century|1111]] AGS and resulted in an [[Ardanic people|Ardanic]] victory. 
 
 ## Prelude 

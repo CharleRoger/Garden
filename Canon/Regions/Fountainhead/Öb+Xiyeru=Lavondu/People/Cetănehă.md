@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cetănehăkī
+tags:
+  - person
 ---
 
 **Cetănehă** (c. 630 – 726) was the [[Āʼiyoru|governor]] of [[Azodo]] from 694 to 726, and is said to have directed the formation of the [[Azodo Government]] c. 700 AGS.

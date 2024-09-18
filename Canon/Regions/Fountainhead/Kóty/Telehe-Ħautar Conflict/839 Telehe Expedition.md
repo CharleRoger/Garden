@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Telehe Expedition of 839** was a punitive expedition against the [[Khumnuk Union]] commanded by the last [[Telehe Empire|Telehe emperor]] [[Maynda Oferay]].
 # Background
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The Old Krobu Maritime Culture of OKM was an early metallic culture, which was vastly successful and covered large parts of [[Krobu]] and extended into the northern reaches of [[Kóty]] and as far north as [[Qnōp']]. It contributed to the spread of the ancestors of the [[Nambāno]] and [[Arklobu]] peoples and languages. 
 
 ## Early OKM (7th - 4th century BGS)

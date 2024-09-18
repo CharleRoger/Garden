@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 **Rhamari Fīkwaziguma Āeruweʼa** (c. 580 - 708 AGS) was the [[Āeruweʼa#Numbering|81st Āeruweʼa]] from 622 until her death in 708, and the last [[Āeruweʼa]] to wield a significant degree of political power of [[Udovuʼo]].
 
 ![[Rhamari Fīkwaziguma Āeruweʼa.jpg]]

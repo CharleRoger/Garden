@@ -1,6 +1,8 @@
 ---
 aliases:
   - oríxayija nayam
+tags:
+  - history
 ---
 The **Thousand Rivers period** ([[Möxali]] *oríxayija nayam*) was the fourth canonical period of [[Nejinayon]], lasting from 861 to 1184 AGS. This period follows the [[Exodus period]] and precedes the [[Shining light period]].
 # Name

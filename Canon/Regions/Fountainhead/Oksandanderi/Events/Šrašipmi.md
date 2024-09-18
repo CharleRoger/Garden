@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The Šrašipmi was an internal conflict within the [[Uhustaw]], which ended in a coup d'etat against [[Esre Aster]] and the foundation of the [[Grand Council of Uhustaw|Grand Council]] and the [[Ternary System]]. 
 
 ## Background

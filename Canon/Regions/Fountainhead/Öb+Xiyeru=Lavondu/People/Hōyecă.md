@@ -1,3 +1,7 @@
+---
+tags:
+  - person
+---
 **Hōyecă** (887 – 959) was an [[Azodo]]-born [[Xiyeru]] ship-builder and explorer, credited with the [[Exploration of Cqa#Voyages by Hōyecă|938 rediscovery of Cqa]] and the first acquisition of [[plink]] by a non-[[Maicqa]] person.
 
 ![[hōyecă.jpg]]

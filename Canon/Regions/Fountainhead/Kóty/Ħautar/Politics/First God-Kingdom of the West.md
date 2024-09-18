@@ -1,6 +1,8 @@
 ---
 aliases:
   - God-Kingdom of the West
+tags:
+  - history
 ---
 The First God-Kingdom of the West was a [[Ħautar delûr|Ħautaric]] absolute monarchy ruling the cities of [[Uṣûnur]], [[Leṣek-etku]] and [[Dâmer-ṭegik]], lasting from 265 to 358 AGS.
 # History

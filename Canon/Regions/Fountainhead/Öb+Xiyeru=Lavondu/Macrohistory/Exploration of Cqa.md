@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Exploration of Cqa** by non-inhabitant people took place throughout
 
 # Early accounts

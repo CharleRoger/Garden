@@ -1,3 +1,7 @@
+---
+tags:
+  - history
+---
 The **Horizon period** ([[Möxali]] *vonjalca nayam*) was the second canonical period of [[Nejinayon]], lasting from 67 to 655 AGS. This period follows the [[Sunrise period]] and precedes the [[Exodus period]].
 # History
 Increasing [[Xiyeru]] population towards the end of the Sunrise period led to expansion in search of resources and eventually to the discovery of [[T'ugü]] and the [[Öb]], which marks the beginning of the Horizon period. The import of a diverse range of food from [[T'ugü]] allowed the population of [[Udovuʼo]] to grow more rapidly, and a trade-based economy to emerge in [[T'ugü]]. Historical records from this period describe a technological revolution with the development of specialised writing ink, paper, the backstrap loom and subsequent more advanced ships, and various other technologies.
