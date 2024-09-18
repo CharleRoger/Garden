@@ -4,7 +4,7 @@ tags:
   - ginbi_people
 ---
 ## Introduction
-Spoken by the [[Ginbi people]] in the....
+Spoken by the [[Gïnbi people]] in the....
 ## History
 
 ## Classification
