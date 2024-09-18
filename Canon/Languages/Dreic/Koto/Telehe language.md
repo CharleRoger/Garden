@@ -29,9 +29,11 @@ Telehe language is spoken by the [[Telehe people]] in [[Hārūcute]], it was one
 - /z s/ in some environments change to its allophone \[ʐ ʂ] next to /r/.
 ### Vowels
 
-|     |     |
-| --- | --- |
-|     |     |
+|     |         |         |
+| --- | ------- | ------- |
+|     | **i ī** | **u ū** |
+|     | **e ē** | **o ō** |
+|     | **a ā** | <       |
 
 ### Phonotactics
 - S – Sibilant /s z/
