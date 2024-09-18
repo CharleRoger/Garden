@@ -5,6 +5,8 @@ aliases:
   - Seʻisektiküt Towkatahey Teyokkayʻoʻï
   - Koʻwan Towkatahey Teyokkayʻoʻï
   - Hum Teyokkayʻoʻï
+tags:
+  - person
 ---
 **Teyokkaykoʻwan Seʻisektiküt Towkatahey** `[t͡seˈjok.kai̯.koʔ.wɑn‿se.ʔiˈsek.t͡ʃi.cyt͡s ˈt͡sou̯.ka.t͡sa.xei̯]`, born **Koʻwan Seʻisektiküt Tiinayay** `[ˈkoʔ.wɑn‿se.ʔiˈsek.t͡ʃi.cyt͡s t͡ʃiː.na.jai̯]`, also known as **Koʻwan Seʻisektiküt Towkatahey Teyokkayʻoʻï** `[ˈkoʔ.wɑn‿se.ʔiˈsek.t͡ʃi.cyt͡s ˈt͡sou̯.ka.t͡sa.xei̯ t͡seˈjok.kai̯.ʔo.ʔɯ]`, also called **Seʻisektiküt Towkatahey Teyokkayʻoʻï** `[se.ʔiˈsek.t͡ʃi.cyt͡s ˈt͡sou̯.ka.t͡sa.xei̯ t͡seˈjok.kai̯.ʔo.ʔɯ]` or **Koʻwan Towkatahey Teyokkayʻoʻï** `[ˈkoʔ.wɑn‿ˈt͡sou̯.ka.t͡sa.xei̯ t͡seˈjok.kai̯.ʔo.ʔɯ]`, or simply **Hum Teyokkayʻoʻï** `[xun‿t͡seˈjok.kai̯.ʔo.ʔɯ]`, was the ruler of the first full coalition of the [[The Haankaysiw People|Haankaysiw]] simply known as the First Sun Empire or the [[First Sun Chiefdom]].
 

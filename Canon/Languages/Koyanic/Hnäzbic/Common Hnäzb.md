@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 Common Hnäzb is a [[Hnäzb languages|Hnäzbic language]] spoken from the [[3rd century]] to the [[7th century]] in the [[Red Steppe]]. Common Hnäzb is a Koiné language, which is an amalgamation of various Hnäzb dialects and languages. It served as common lingua franca among the various tribes. 
 
 # Phonology

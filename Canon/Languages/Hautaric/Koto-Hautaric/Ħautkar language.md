@@ -1,4 +1,8 @@
-#language #hautaric_languages #Ħautar_delûr 
+---
+tags:
+  - language/hautaric
+  - Ħautar_delûr
+---
 Spoken by the [[Ħautar delûr|Ħautar]] 
 [[Hautaric languages]]
 ## Phonology

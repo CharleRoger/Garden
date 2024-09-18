@@ -1,3 +1,7 @@
+---
+tags:
+  - language/hautaric
+---
 
 
 # Rabak

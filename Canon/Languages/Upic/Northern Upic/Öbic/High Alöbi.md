@@ -1,3 +1,7 @@
+---
+tags:
+  - language/upic
+---
 **High Alöbi** is one of the two major dialect clusters comprising the [[Öbic languages]], the other being [[Low Alöbi]]. High Alöbi, spoken in the southern hills of [[T'ugü]], tends to be more phonologically conservative, but lexically more innovative, with many compound words replacing older vocabulary retained in [[Low Alöbi]].
 # Name
  Like [[Low Alöbi]], the language is simply called "Alöbi" by its native speakers, which in High Alöbi is rendered as *alöpe* [ɑlʏpɪ]. (See: [[Low Alöbi#Name]]).

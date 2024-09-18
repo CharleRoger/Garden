@@ -1,4 +1,7 @@
-#language #koyanic_languages 
+---
+tags:
+  - language/koyanic
+---
 **Old Yueyar** (*Yúehær*, pronounced `[jue̯.hær]`) is the ancestor of [[Yueyar]]. It is one of the [[Namb languages]]. It is often shortened to '*OYue.*' when discussing the [[Koyanic languages]] and when discussing sound changes or comparisons.
 
 # Phonology

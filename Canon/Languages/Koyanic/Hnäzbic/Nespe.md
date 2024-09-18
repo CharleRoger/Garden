@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 Nespe is a [[Hnäzb languages|Hnäzbic]] language, spoken by the inhabitants of the [[Uhustaw]], which they call [[Čüüwän]]. 
 Nespe is slightly more divergent than the usual Hnäzb languages, due to its early isolation and different lifestyle of its speakers. The Nespe people lived under the [[Sat'öḫ stewardship]] system and did not participate in the great [[Qneček]] of the central [[Red Steppe]]. 
 

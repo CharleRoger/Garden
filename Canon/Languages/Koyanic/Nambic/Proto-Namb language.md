@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 The **Proto-Namb language** (abbreviated **PNmb**), also known as **Proto-Northern Gäj** is the reconstructed ancestor of the [[Nambāno]] and [[Arklobu]] language clusters, which together form the Northern branch of the "Gäj" languages, a primary subgroup of the [[Koyanic languages|Koyanic language family]].
 # Phonology
 ## Consonants

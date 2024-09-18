@@ -1,3 +1,7 @@
+---
+tags:
+  - language/upic
+---
 **Low Alöbi** is one of the two major dialect clusters comprising the [[Öbic languages]], the other being [[High Alöbi]].
 # Name
 The name *Alöbi* was likely formed long before the first attestation of the language in writing in the [[1st century]], evidenced by the use of the archaic genitive *-i*, yielding *al-öbi* "tongue of [[Öb]]".

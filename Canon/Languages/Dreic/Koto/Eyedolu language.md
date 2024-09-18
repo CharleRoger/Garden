@@ -1,1 +1,4 @@
-#language #dreic_languages 
+---
+tags:
+  - language/dreic
+---

@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 **Old Nambāno**, also known as **Early Nambāno** or **Proto-Nambāno**, is the ancestor of most language varieties within the [[Nambāno]] dialect cluster, and is believed to be the oldest [[Koyanic languages|Koyanic language]] spoken in [[Qnōp']].
 # Phonology
 ## Consonants

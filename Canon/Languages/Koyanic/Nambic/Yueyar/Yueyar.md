@@ -1,4 +1,7 @@
-#language #koyanic_languages 
+---
+tags:
+  - language/koyanic
+---
 **Yueyar** ( Yueyar pronunciation: `[jue̯.jær]`), also called **Yuer** (Yueyar pronunciation: `[jue̯r]`), is a Nambic language spoken in the first and second millennia AGS along the southern lowlands of [[Qnōp']], near the Senzeppo peninsula.
 
 Yueyar is a [[Koyanic languages|Koyanic Language]].

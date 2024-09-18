@@ -1,3 +1,7 @@
+---
+tags:
+  - sophont/human
+---
 **Öboids** are a subspecies of humans indigenous to various locations on [[Winter]], such as the [[Mivēra]] of [[Iccous ru īsaur]] and various peoples in northern [[Fountainhead]], most notably the [[Öb]] peoples of [[T'ugü]], from which the term *öboid* is derived.
 # Anatomy
 Öboids are anatomically considered a subgroup of humans rather than a separate group, but bear several superficial differences which set them apart from other human groups. The most notable characteristics of öboid anatomy are:

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Proto-Upic
+tags:
+  - language/upic
 ---
 The **Proto-Upic language** (**PUp**) is the reconstructed ancestor of the [[Upic languages]]. It is thought to have been spoken c. 5,000 - 4,000 BGS somewhere in the [[Koyan]] region of Western [[Fountainhead]].
 # Phonology

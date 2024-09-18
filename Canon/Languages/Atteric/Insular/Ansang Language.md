@@ -1,4 +1,8 @@
-#language #atteric_languages #ansang 
+---
+tags:
+  - ansang
+  - language/atteric
+---
 Spoken by the [[Ansang people]] is one of the languages spoken in [[Ansang Islands]].
 
 It's an agglutinative language and polysynthetic, most of it's grammatical constructions and morpheme can be agglutinated forming long words that encompass several phrases.

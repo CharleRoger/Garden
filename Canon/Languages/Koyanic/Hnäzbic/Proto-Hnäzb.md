@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 Proto-Hnäzb is the hypothetical ancestor of the [[Hnäzb languages|Hnäzbic languages]]. It is a [[Koyanic languages|Koyanic]] language and thus related to [[Nambāno]], [[Qachkav people]] and many others. 
 
 It is estimated that Proto-Hnäzb was spoken by the [[Northern-Koty Pre-Metallic Complex]] and by the [[South-Koyanic Pastoralic Complex]]. The former likely spoke an early form of Proto-Hnäzb, still more in line with its ancestral language, while the latter made up the speaker community of the ancestral language of all Hnäzb languages. For this reason the SKP is sometimes called the Proto-Hnäzb culture. 

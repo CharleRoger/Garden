@@ -1,4 +1,3 @@
-#language #koyanic_languages
 ## Verbs
 
 | Class | -   | Indicative | <         | <         | Subjunctive | <           | <           | Infinitive  |

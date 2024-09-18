@@ -1,3 +1,9 @@
+---
+tags:
+  - empire
+  - history
+---
+
 The First Sun Chiefdom was the first attested coalition of all [[The Haankaysiw People|Haankaysiw]] [[Mefmoʻï]]. It was known to the Haankaysiw as **Hum Mefmoʻïʻoʻï**.
 
 # Before The Chiefdom

@@ -1,3 +1,7 @@
+---
+tags:
+  - language/hautaric
+---
 # *Wurár-K'í Language*
 ## Phonology 
 ## Sound changes

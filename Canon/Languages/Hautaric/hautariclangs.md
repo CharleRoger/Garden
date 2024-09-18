@@ -251,8 +251,8 @@ In most of the daughter languages this system became insignificant, except in *W
 * tj > ts
 * sˤ > ts
 * tˤ > t
-* k > x / #_
-* g > k / #_
+* k > x / \#_
+* g > k / \#_
 * ɣ > g
 * ə > e
 

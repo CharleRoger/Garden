@@ -1,3 +1,7 @@
+---
+tags:
+  - language/upic
+---
 **Eubli** ([ˈøy̯bl̪ɪ], later [ˈybl̪ɪ]) is an [[Öbic languages|Öbic language]] and the primary language spoken by the [[Öb]] throughout most of [[T'ugü]] in the second millennium AGS.
 # Name
 The name *Eubli* simply means "[[Öb]]-language", which is essentially a remodelling of the world *[[Low Alöbi#Name|Alöbi]]*, which was a more archaic equivalent construction. Note that the Eubli word for "[[Öb]]" was *öb*, identical to the older [[Low Alöbi]] form, while *eub-* is an alternate form with vowel breaking triggered by the following close vowel *-i*, also seen in the ergative *eubi*.

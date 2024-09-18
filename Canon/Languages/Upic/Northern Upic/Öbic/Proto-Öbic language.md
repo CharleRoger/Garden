@@ -1,6 +1,8 @@
 ---
 aliases:
   - Proto-Öbic
+tags:
+  - language/upic
 ---
 The **Proto-Öbic language** (**PÖb**) is the reconstructed common ancestor of the [[Öbic languages]], the native languages of [[T'ugü]].
 # Phonology

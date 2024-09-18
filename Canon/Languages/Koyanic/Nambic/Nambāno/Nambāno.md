@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 **Nambāno** is a Namb dialect cluster spoken throughout the [[Qnōp']] lowlands in the first and second millennia AGS.
 # Phonology
 ## Consonants

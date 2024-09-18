@@ -1,3 +1,7 @@
+---
+tags:
+  - language/koyanic
+---
 **Old Arklobu** is the partially reconstructed ancestor to the [[Arklobu]] later spoken in [[Krobu]], thought to have been spoken in the 1st millennium BGS.
 # Phonology
 ## Consonants

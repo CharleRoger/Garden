@@ -1,4 +1,7 @@
-#language #atteric_languages
+---
+tags:
+  - language/atteric
+---
 ## Phonology
 ### Consonants
 |  |Labial | Coronal | Dorsal |

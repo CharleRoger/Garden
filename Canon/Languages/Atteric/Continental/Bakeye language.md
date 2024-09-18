@@ -1,2 +1,6 @@
-#atteric_languages 
+---
+tags:
+  - language/atteric
+---
+
 [[Khey desert]]
