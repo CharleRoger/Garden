@@ -80,7 +80,7 @@ It is useful to analyse the structure of Möxali as having an underspecified mor
 ## Coda neutralisation
 An underlying stop consonant (nasal or plosive) in morpheme-final position is subject to neutralisation if it arises as a syllable coda at the phonemic level, i.e. if there is no following syllable in which the consonant can act as the onset.
 
-Nasals neutralise into assimilatory coda n:
+Nasals neutralise into assimilatory coda *n*:
 - |ösem-∅| → *ösen* (firewood-ᴀʙꜱ)
 - |ösem-in| → *ösemin* (firewood-ᴇʀɢ)
 
@@ -95,20 +95,24 @@ While coda plosives were initially allowed in Möxali and are retained in the In
 - |límok-en| → *límokin* (bee-ᴇʀɢ)
 
 Despite this spirantisation rule being present in the most commonly spoken forms of Möxali throughout history, the native orthography tends to favour more conservative spelling in formal contexts, e.g. ⟨LÍ-MO-KA⟩ rather than ⟨LÍ-MO-HA⟩ for *límoh*. For consistency and clarity, romanisation of Möxali generally uses conservative spelling unless otherwise stated, i.e. *límok* not *límoh*.
+
+The marginal phoneme *r*, which only appears between vowels, also undergoes a coda neutralisation with *l*:
+- |korar-∅| → *koral* (ship-ᴀʙꜱ)
+- |korar-en| → *koraren* (ship-ᴇʀɢ)
 ## Obstruent devoicing
-Voiced obstruents (*b d j z v*) devoice to (*p t c s f*) when in a cluster with any voiceless consonant (*p t c k q f s x h*). For example, the [[Low Alöbi]] verb *ubsöb* (write) is reflected in Möxali as *upsöb*, the adjunct form of which *opsíb-d-a* (written) is the source of the name of Möxali's script [[Opsíbdañox]] "sacred written thing". The stativiser suffix *-d* will also similarly devoice, for example the verb *mídös* (to smoke, as of meat) yields the adjunct form *midista* (smoked). This voicedness alternation is most commonly seen in the aspect conjugation of verb roots:
+Voiced obstruents (*b d j z v*) devoice to (*p t c s f*) when in a cluster with any voiceless consonant (*p t c k q f s x h*). For example, the [[Low Alöbi]] verb *ubsöb* (write) is reflected in Möxali as *upsöb*, the adjunct form of which *opsíb-d-a* (written) is the source of the name of Möxali's script [[Opsíbdañox]] "sacred written thing". The stativiser suffix *-d* will also similarly devoice when next to a voiceless consonant, for example the verb *mídös* (to smoke, as of meat) yields the adjunct form *midista* (smoked). This voicedness alternation is most commonly seen in the aspect conjugation of verb roots:
 
 |          |              | -   | *yub-* (reign) | *díj-* (touch) | *zav-* (die) |
 | -------- | ------------ | --- | -------------- | -------------- | ------------ |
-| Voiced   | Progressive  | -   | *yubo*           | *díji*               | *zava*             |
-| ^        | Prospective  | -   | *yubje*               | *díje*               | *zavje*             |
-| ^        | Continuative | -   | *yubyo*               | *díjo*               | *zavyo*             |
-| ^        | Inchoative   | -   | *yubli*               | *díjli*               | *zavli*             |
-| ^        | Resumptive   | -   | *yubño*               | *díjño*               | *zavño*             |
-| ^        | Defective    |     | *yube*               | *díjbe*               | *zavbe*             |
-| Devoiced | Perfective   | -   | *yupha*               | *dícha*               | *zafha*             |
-| ^        | Cessative    | -   | *yupco*               | *díco*               | *zafco*             |
-| ^        | Iterative    | -   | *yupto*               | *dícto*               | *zafto*             |
+| Voiced   | Progressive  | -   | *yubo*         | *díji*         | *zava*       |
+| ^        | Prospective  | -   | *yubje*        | *díje*         | *zavje*      |
+| ^        | Continuative | -   | *yubyo*        | *díjo*         | *zavyo*      |
+| ^        | Inchoative   | -   | *yubli*        | *díjli*        | *zavli*      |
+| ^        | Resumptive   | -   | *yubño*        | *díjño*        | *zavño*      |
+| ^        | Defective    |     | *yube*         | *díjbe*        | *zavbe*      |
+| Devoiced | Perfective   | -   | *yup(qa)*      | *díc(qa)*      | *zaf(qa)*    |
+| ^        | Cessative    | -   | *yupco*        | *díco*         | *zafco*      |
+| ^        | Iterative    | -   | *yupto*        | *dícto*        | *zafto*      |
 
 The exception to this rule is the consonant *v* following another consonant, in which position it acts as a medial approximant, thus is not itself subject to obstruent devoicing. For example, the [[Low Alöbi]] adjective *wik'wa* (different) is reflected in Möxali by *víkva* [ˈβi.kβ̞ɑ] rather than *\*víkfa* [ˈβik.ɸɑ].
 
@@ -186,13 +190,13 @@ This elision is blocked by an approximant in the syllable onset:
 If the approximant has the same place of articulation as that preceding onset, it too is elided:
 - |ijí-azi| → \*íj(i)ˈyazi → \*iˈj(y)azi → *iˈjazi* (Note also the inversion of the initial stem *íji-* → *ijí-*)
 
-Some morphemes, particularly short inflectional affixes, have two allomorphs, one with the vowel *a* and one with the vowel elided. This is shown in square brackets in the underlying morphophonemic notation. The presence of the vowel depends on its morphophonological environment and functions as epenthesis wherever phonotactically required. For example, consider the active voice prefix |f[a]-|:
-- When affixed to vowel or approximant-initial stem, the [a] is not necessary and so is not present:
-	- |f[a]-u-qa| → *fuqa* (ᴀᴠ-eat-ᴘꜰᴠ)
-	- |f[a]-la-qa| → *flaqa* (ᴀᴠ-cook-ᴘꜰᴠ)
-- When affixed to other stems, the [a] is required to break up the *fC-* onset cluster:
-	- |f[a]-mum-qa| → *famunpa* (ᴀᴠ-fill-ᴘꜰᴠ)
-	- |f[a]-jí-qa| → *fajíqa* (ᴀᴠ-bite-ᴘꜰᴠ)
+Some morphemes, particularly short inflectional affixes, have two allomorphs, one with the vowel *a* and one with the vowel elided. This is shown in square brackets in the underlying morphophonemic notation. The presence of the vowel depends on its morphophonological environment and functions as epenthesis wherever phonotactically required. For example, consider the active voice prefix |f[a]-| and the perfective suffix |-q[a]|:
+- When preceding a vowel or approximant or following a simple vowel-consonant sequence, the [a] is not necessary and so is not present:
+	- |f[a]-u-q[a]| → *fuq* (ᴀᴠ-eat-ᴘꜰᴠ)
+	- |f[a]-la-q[a]| → *flaq* (ᴀᴠ-cook-ᴘꜰᴠ)
+- When preceding any other consonant or following a complex consonant cluster, the [a] is required to avoid a cluster occurring at the start of end of the word:
+	- |f[a]-mum-q[a]| → *famunqa* (ᴀᴠ-fill-ᴘꜰᴠ)
+	- |f[a]-qar-q[a]| → *faqalqa* (ᴀᴠ-sail-ᴘꜰᴠ)
 # Dialects
 The history of Möxali features two major dialect groups, Inner and Outer Möxali, which each have unique features and geographic distributions.
 ## Inner Möxali
@@ -234,26 +238,26 @@ A ubiquitous pillar of Möxali's grammar is a closed set of valency-decreasing s
 - ***-n*** — Converts a transitive stem into a noun stem, the act of the verb itself
 
 These processes are derivational in nature, involving a change in class and the production of a different part of speech, but are practically as regular as inflection. A newly derived word using one of these suffixes tends to retain a strong semantic relationship to the basic stem from which they are derived, unlike other more typical derivational patterns in Möxali. For example, consider the following derivations from the transitive root *líj-* "divide":
-- *líjto-d-* — stative stem: the state of undergoing iterated division (transitive → stative)
+- *lícto-d-* — stative stem: the state of undergoing iterated division (transitive → stative)
 - *líji-n* — noun stem: the act of ongoing division (transitive → noun)
 - *líji-n-c-* — stative stem: the state of being associated with the act ongoing division (transitive → noun → stative)
 
 Compare the following other derivations, showing semantic abstraction from the original stem:
 - *xiya-líji* — transitive stem: to fairly share between people (lit. "fair-divide", a stative-transitive compound)
-- *lijtu-d-n-e* — noun stem: a particular short unit of time (lit. "divide.ɪᴛᴇʀ-ꜱᴛᴀᴛ-n-ᴄʟꜰ", a numeral classifier construction using the dummy root *-n-* and the classifier *-e* for segmented things, i.e. "segment which has been iteratively divided")
+- *lictu-d-n-e* — noun stem: a particular short unit of time (lit. "divide.ɪᴛᴇʀ-ꜱᴛᴀᴛ-n-ᴄʟꜰ", a numeral classifier construction using the dummy root *-n-* and the classifier *-e* for segmented things, i.e. "segment which has been iteratively divided")
 ## Nouns
 ### Case
 Nouns take an obligatory inflection for case, of which there are three which mark different morphosyntactic roles.
 
 The ergative suffix is subject to [[Möxali#Vowel sandhi|sandhi]] with a preceding vowel:
-- |udok-in| (lizard-ᴇʀɢ) → *udokin*
-- |ana-in| (mouth-ᴇʀɢ) → *anen*
-- |tino-in| (salt-ᴇʀɢ) → *tinín*
+- |udok-in| → *udokin* (lizard-ᴇʀɢ)
+- |ana-in| → *anen* (mouth-ᴇʀɢ)
+- |tino-in| → *tinín* (salt-ᴇʀɢ)
 
 The accusative case has two allomorphs, *-b* and *-eb,* depending on whether the stem ends in a vowel or a consonant respectively.
-- |udok-(e)b| (lizard-ᴀᴄᴄ) → *udokeb*
-- |ana-(e)b| (mouth-ᴀᴄᴄ) → *anab*
-- |tino-(e)b| (salt-ᴀᴄᴄ) → *tinob*
+- |udok-(e)b| → *udokab* (lizard-ᴀᴄᴄ)
+- |ana-(e)b| → *anab* (mouth-ᴀᴄᴄ)
+- |tino-(e)b| → *tinob* (salt-ᴀᴄᴄ)
 
 The underlying form of the stem is important to consider for case inflection, particularly in the peripheral dialects which exhibit coda plosive spirantisation. Compare the inflectional set *tanih*/*tanikin*/*tanikeb* (knife) to *ínih*/*ínihin*/*íniheb* (finger), with the underlying forms |tanik| and |ínih| respectively.
 ### Instancing and number
@@ -283,20 +287,34 @@ The transitive verb stem is disyllabic, either a single morpheme with a fixed le
 
 There are nine verb aspects, each with a suffix for deriving new verb stems from roots, show in the table below.
 
-| Aspect | - | Suffix | Description |
-| ---- | ---- | ---- | ---- |
-| Progressive | - | \|~V\| | Ongoing action or state |
-| Perfective | - | \|-qa\| | Simple action, often semelfactive in nature |
-| Prospective | - | \|-je\| | Action occuring later than a time under consideration |
-| Continuative | - | \|-yo\| | Action still ongoing at a time under consideration |
-| Inchoative | - | \|-ri\| | Commencing action, beginning of a state |
-| Cessative | - | \|-co\| | Completed action, end of a state |
-| Resumptive | - | \|-ño\| | Resumed action or success after failed attempts |
-| Defective | - | \|-be\| | Temporarily paused action, action prevented from continuing or failed action |
-| Iterative | - | \|-to\| | Single instance of a repetitious action |
+| Aspect       | -   | Suffix    | Description                                                                  |
+| ------------ | --- | --------- | ---------------------------------------------------------------------------- |
+| Progressive  | -   | \|~V\|    | Ongoing action or state                                                      |
+| Perfective   | -   | \|-q[a]\| | Simple action, often semelfactive in nature                                  |
+| Prospective  | -   | \|-je\|   | Action occuring later than a time under consideration                        |
+| Continuative | -   | \|-yo\|   | Action still ongoing at a time under consideration                           |
+| Inchoative   | -   | \|-ri\|   | Commencing action, beginning of a state                                      |
+| Cessative    | -   | \|-co\|   | Completed action, end of a state                                             |
+| Resumptive   | -   | \|-ño\|   | Resumed action or success after failed attempts                              |
+| Defective    | -   | \|-be\|   | Temporarily paused action, action prevented from continuing or failed action |
+| Iterative    | -   | \|-to\|   | Single instance of a repetitious action                                      |
+The progressive is formed by a reduplication of the root vowel, which is modified according to the same phonological lowering process seen in [[Möxali#Inversion|inversion]], in which close vowels are changed to their more open counterpart (u ú i í → o u e i).
+- |yad~V| → *yada* (show-ᴘʀᴏɢ)
+- |min~V| → *mine* (cultivate-ᴘʀᴏɢ)
+- |qúr~V| → *qúru* (sharpen-ᴘʀᴏɢ)
+
+If the verb root ends in a vowel, a glottal stop is inserted before the reduplicated vowel
+- |qo~V| → *qoqo* (carry-ᴘʀᴏɢ)
+- |vi~V| → *viqe* (break-ᴘʀᴏɢ)
+- |ví~V| → *víqi* (see-ᴘʀᴏɢ)
+
+The perfective suffix *-qa* has an allomorph *-q* following a vowel as described [[Möxali#Inversion|above]], but can also be dropped completely when following an obstruent, leaving the effect of devoicing:
+- |dus~q[a]| → *dusqa* or *dus* (hunt-ᴘꜰᴠ)
+- |dúz~q[a]| → *dúsqa* or *dús* (carve-ᴘꜰᴠ)
+- |míb~q[a]| → *mípqa* or *míp* (wrap-ᴘꜰᴠ)
 ### Subject
 The subject prefix is present only when an explicit subject noun is not. These come directly from [[Xiri]] and are the only remnant of its pronominal system, which was completely supplanted by the [[Low Alöbi]] system. Unlike freestanding pronouns, these prefixes do not mark grammatical number, only first, second and third person as follows:
-- First person |ñ(a)-|
+- First person |ñ[a]-|
 - Second person |su-|
 - Third person |mi-|
 
@@ -314,20 +332,20 @@ Möxali inherited most of [[Xiri|Xiri’s]] evidential particles, but also adopt
 
 The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of twelve prefixes are identified, shown in the table below.
 
-| Mood               | -   | Prefix | Description |
-| ------------------ | --- | ------ | ----------- |
-| Visual sensory     | -   | \|mu-\|    | First hand report, visual witness or experience            |
-| Non-visual sensory | -   | \|se-\|       | First hand report, non-visual witness e.g. heard or felt            |
-| Inferential        | -   | \|ko-\|       | First hand report, inferred from available information but not directly sensed            |
-| Reportative        | -   | \|ci-\|       | Second hand direct report or quote            |
-| Hearsay            | -   | \|pe-\|       | Second hand indirect report, source of information is unknown            |
-| Narrative          | -   | \|ge-\|       | Third hand report, statements "said to be" true in general by people            |
-| Common knowledge   | -   | \|mi-\|       | Third hand report, common knowledge or belief assumed to be held by the listener, unevidenced            |
-| Assertive          | -   | \|u-\|       | Unevidenced personal belief, judgement or wish            |
-| Permissive         | -   | \|ax-\|       | Permitted or declared possible by speaker            |
-| Imperative         | -   | \|i-\|       | Commanded or requested by speaker            |
-| Conditional        | -   | \|qa-\|       | Dependent on a conditional, typically present as an adjunct to the verb            |
-| Interrogative      | -   | \|xa-\|       | Questioning the listener            |
+| Mood               | -   | Prefix  | Description                                                                                   |
+| ------------------ | --- | ------- | --------------------------------------------------------------------------------------------- |
+| Visual sensory     | -   | \|mu-\| | First hand report, visual witness or experience                                               |
+| Non-visual sensory | -   | \|se-\| | First hand report, non-visual witness e.g. heard or felt                                      |
+| Inferential        | -   | \|ko-\| | First hand report, inferred from available information but not directly sensed                |
+| Reportative        | -   | \|ci-\| | Second hand direct report or quote                                                            |
+| Hearsay            | -   | \|pe-\| | Second hand indirect report, source of information is unknown                                 |
+| Narrative          | -   | \|ge-\| | Third hand report, statements "said to be" true in general by people                          |
+| Common knowledge   | -   | \|mi-\| | Third hand report, common knowledge or belief assumed to be held by the listener, unevidenced |
+| Assertive          | -   | \|u-\|  | Unevidenced personal belief, judgement or wish                                                |
+| Permissive         | -   | \|ax-\| | Permitted or declared possible by speaker                                                     |
+| Imperative         | -   | \|i-\|  | Commanded or requested by speaker                                                             |
+| Conditional        | -   | \|qa-\| | Dependent on a conditional, typically present as an adjunct to the verb                       |
+| Interrogative      | -   | \|xa-\| | Questioning the listener                                                                      |
 
 The seven prefixes used for realis moods are mostly derived from [[Xiri]] evidentials and can be categorised by type of evidence: first-hand assertion (visual sensory, non-visual sensory, inferential), second-hand report (quotative, hearsay) and third-hand statement of fact (narrative, common knowledge). Unlike [[Xiri]], there is no unmarked indicative mood, evidentiality is necessarily expressed through the mood.
 
