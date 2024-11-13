@@ -7,7 +7,7 @@ tags:
 The name *Alöbi* was likely formed long before the first attestation of the language in writing in the [[1st century]], evidenced by the use of the archaic genitive *-i*, yielding *al-öbi* "tongue of [[Öb]]".
 # History
 ## Prehistory
-Alöbi descends from [[Proto-Öbic language|Proto-Öbic]], a language brought to [[T'ugü]] by an unknown [[Upic peoples|Upic people]] some time around the 3rd - 1st millennia BGS. This language diversified into perhaps several dialects in the 1st millennium BGS, with two primary groups of dialects having emerged by [[Universal calendar|year 0]], known as **[[High Alöbi|High]]** and **Low** Alöbi, which remained in contact for several subsequent centuries. Low Alöbi was the more populous group, spoken by the settled riverine populations of the lowlands, while [[High Alöbi|High dialects]] were spoken by semi-nomadic people scattered around [[T'ugü]].
+Alöbi descends from [[Proto-Öbic language|Proto-Öbic]], a language brought to [[T'ugü]] by an unknown [[Upic peoples|Upic people]] some time around the 3rd–1st millennia BGS. This language diversified into perhaps several dialects in the 1st millennium BGS, with two primary groups of dialects having emerged by [[Universal calendar|year 0]], known as **[[High Alöbi|High]]** and **Low** Alöbi, which remained in contact for several subsequent centuries. Low Alöbi was the more populous group, spoken by the settled riverine populations of the lowlands, while [[High Alöbi|High dialects]] were spoken by semi-nomadic people scattered around [[T'ugü]].
 ## Early literate stage
 The first writing in [[T'ugü]] appears towards the end of the [[1st century]], when writing, among other things, was brought to [[T'ugü]] by [[Xiyeru]] explorers. For the first few centuries AGS, writing was sparsely found, existing primarily as a trading utility.
 ## Mature stage
@@ -17,9 +17,9 @@ Low Alöbi underwent several phonological changes in this period, primarily moti
 
 The corpus of Alöbi literature is primarily from the latter centuries of this period, in which the orthographic diversity that had evolved in [[T'ugü]] was consolidated into standardised writing systems.
 ## Transitional Alöbi
-The Low [[Öbic languages|Öbic language]] of the second millennium AGS had diverged enough from Low Alöbi to be considered a historically distinct language, called [[Eubli]]. By convention, [[Eubli]] is taken to be historically separated from Low Alöbi via a transitional stage defined as the common spoken language of the [[Öb]] populace c. 700-1000 AGS. This language stage, called Transitional Alöbi, also developed into various other minor languages and notably contributed to the Alöbi-[[Xiri]] mixed language [[Möxali]].
+The Low [[Öbic languages|Öbic language]] of the second millennium AGS had diverged enough from Low Alöbi to be considered a historically distinct language, called [[Eubli]]. By convention, [[Eubli]] is taken to be historically separated from Low Alöbi via a transitional stage defined as the common spoken language of the [[Öb]] populace c. 800-1200 AGS. This language stage, called Transitional Alöbi, also developed into various other minor languages and notably contributed to the Alöbi-[[Xiri]] mixed language [[Möxali]].
 
-The precise form of Transitional Alöbi is uncertain since its deviation from the standard language was not recorded in writing until [[Eubli]] spelling reforms in the [[12th century|12th]] and [[13th century|13th]] centuries. Certain changes to the phonology, particularly of the vowel inventory, have been reconstructed, some examples of which are shown below (*Low Alöbi* → **Transitional Alöbi** → *Eubli*):
+The precise form of Transitional Alöbi is uncertain since its deviation from the standard language was not recorded in writing until [[Eubli]] spelling reforms in the [[12th century|12th]] and [[13th century|13th]] centuries. Certain changes to the phonology, particularly of the vowel inventory, have been reconstructed, some examples of which are shown below (*Low Alöbi (mature stage)* → **Transitional Alöbi** → *Eubli*):
 - Merger of word-final /ɑ e/ to \*ə:
 	- *bit'e* [bitʼɛ] → **\*bit'ə** → *bit* [bitʼ] "egg"
 	- *blixma* [bliʃmɐ] → **\*blixmə** → *blišma* [bliɕmə] "iridescent"
@@ -31,9 +31,9 @@ The precise form of Transitional Alöbi is uncertain since its deviation from th
 	- *celcel* [tʃeɫdʒɛɫ] → **\*cewjew** → *čeuǰeu* [tɕøy̯dʑøy̯] "arrive"
 - Loss of coda nasals, forming four nasalised vowels \*in (← iN), \*un (← uN, üN) , \*en (← eN), \*on (← aN, oN, öN):
 	- *wilig* [wil̪ɪ̃(ŋ)] → **\*wilin** → *wili* [wil̪ɪ] "rod"
-	- *gosum* [ŋosʊ̃(m)] → **\*gosun** → *gosu* [ŋosʊ] "sieve"
+	- *gosum* [ŋosʊ̃(m)] → **\*gosun** → *gosu* [ŋosʊ] "remove, filter out, sieve"
 	- *höten* [ɸød̪ɛ̃(n̪)] → **\*föden** → *föde* [ɸød̪ɛ] "1PL"
-	- *anta* [ɑ̃(n̪)d̪ɐ] → **\*ondə** → *od* [ɔd̪] "open (as of a flower)"
+	- *agta* [ɑ̃(n̪)d̪ɐ] → **\*ondə** → *od* [ɔd̪] "open (as of a flower)"
 - Formation of six diphthongs (\*ey \*ay \*oy \*ew \*aw \*ow) from vowel + glide and vowel + vowel sequences (note that nasalised vowels were also subject to this merger):
 	- *üyet*' [yjɛtʼ] → **\*eyt'** → *eit* [ei̯tʼ] "fear"
 	- *aib* [ɑɪb] → **\*ayb** → *aeb* [äɛ̯b] "narrow gap"

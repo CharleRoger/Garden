@@ -26,7 +26,7 @@ Old suffixes like \*-kīr̥h > \*-cix, if they are not completely obscured by so
 - **-cix** "oscillating, ambulating"
 - **-ta** "properly, well, completely"
 - **-fom** "towards"
-- **-ib** "(all the way) to, at"
+- **-ida** "(all the way) to, at"
 - **-tu** "throughout, all over, randomly, onto"
 - "away from, before, differently"
 - **-aŋg** "along, adhering to a particular direction"
