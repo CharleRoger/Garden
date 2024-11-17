@@ -24,9 +24,9 @@ The pictographic symbols employed in the ńaʼay were connected to lexical eleme
 
 The earliest attested form of the [[Ugugo]], known as the [[Savamāri|Savamaric abjad]], has letter forms which bear striking resemblance to the written forms of ńaʼay symbols, but no direct connection between characters has been confirmed. The ńaʼay predates the use of writing in [[Udovuʼo]] by several millennia, so if they did emerge directly from the linguistic reading of a tattoo as a personal name, this would represent a unique case in writing first developed in the medium of tattoo.
 
-Under the influence of writing elsewhere in [[Udovuʼo]], the tattoo pictography evolved into a true logographic system in [[Azodo]], eventually becoming the official writing system used by the [[Azodo Government|Azodo state]] to write the [[Ahōtoli]] language, which also included purely phonetic elements.
+Under the influence of writing elsewhere in [[Udovuʼo]], the tattoo pictography evolved into a true logographic system in [[Azodo]], eventually becoming the official writing system used by the [[Xiyeru Confederation]] to write the [[Ahōtoli]] language, which also included purely phonetic elements.
 ## Example
-The connection between the tattoo and the personal name is shown below using the example of [[Koxĭya Ahoukēholuʼŭihă]], the first governor of [[T'ugü]] installed by the [[Azodo Government]], whose name is particularly well-recorded for the period. Note that the lexical and pictographic forms are representative of their native language and the language of the [[Azodo Government|Azodo state]], [[Ahōtoli]].
+The connection between the tattoo and the personal name is shown below using the example of [[Koxĭya Ahoukēholuʼŭihă]], the first governor of [[T'ugü]] installed by the [[Azodo Government]], whose name is particularly well-recorded for the period. Note that the lexical and pictographic forms are representative of their native language and the language of the [[Xiyeru Confederation]], [[Ahōtoli]].
 
 | Part of name  | Ahōtoli                       | Meaning                                            |
 | ------------- | ----------------------------- | -------------------------------------------------- |
