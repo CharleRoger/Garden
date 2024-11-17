@@ -1,6 +1,6 @@
 **Eruweʼa** was a title given to parents and spiritual leaders in the [[Xiyeru]] culture. 
 
-Upon becoming a parent, a person would receive a special tattoo called [[Ńaʼay#We’ańa’ay|We’ańa’ay]] "river-marking" and a corresponding [[Ńuʼu#Weʼańuʼu|Weʼańuʼu]] "river-name". This name was *Egiruwe’a* for mothers and *Eńiruwe’a* for fathers, which were homophonous (Early [[Xiri]] [eˈŋiɾuˌweʔa] > Late [[Xiri]] [ɛˈŋiɾʊˌweʔə]) and distinguished only in writing. Certain mothers considered exceptionally wise and accomplished may be given the generic name *Eruweʼa*, designating them as symbolic parents to all people of the village.
+Upon becoming a parent, a person would receive a special tattoo called [[Ńaʼay#Other tattoos|Weʼańaʼay]] "river-marking" and a corresponding [[Ńuʼu#Weʼańuʼu|Weʼańuʼu]] "river-name". This name was *Egiruweʼa* for mothers and *Eńiruweʼa* for fathers, which were homophonous (Early [[Xiri]] [eˈŋiɾuˌweʔa] > Late [[Xiri]] [ɛˈŋiɾʊˌweʔə]) and distinguished only in writing. Certain mothers considered exceptionally wise and accomplished may be given the generic name *Eruweʼa*, designating them as symbolic parents to all people of the village.
 
 Not all families had an Eruweʼa, people from other families in the village would visit them for sage advice, though it should be noted that they were not necessarily older people.
 

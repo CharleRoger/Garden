@@ -8,7 +8,7 @@ tags:
 # Name and titles
 The [[Āeruweʼa|Āeruweʼa's]] *[[Ńuʼu|Xińuʼu]]* "true-name" *Rhamari* is equivalent to the compound *rham-ari* "sticky-coil". It is not known why this name was chosen or whether this was the intended meaning, though it was transliterated as such into other languages, such as the [[Möxali]] *Semari*, from *sima* "sticky". In later historical documentation, this name is rendered in the [[Ahōtoli script]] using the characters *lewŭ* "sticky" and *elĭ* "coil", cognates to the original [[Xiri]] components.
 
-Her posthumous *[[Ńuʼu|Mū’ojūńuʼu]]* "forever-name" *Fīkwaziguma* literally means "who has an obsidian heart". This was a title granted to certain [[Āeruweʼa]] who lived in times of severe hardship and were forced to make difficult, often unpopular decisions.
+Her posthumous *[[Ńuʼu|Mūʼojūńuʼu]]* "forever-name" *Fīkwaziguma* literally means "who has an obsidian heart". This was a title granted to certain [[Āeruweʼa]] who lived in times of severe hardship and were forced to make difficult, often unpopular decisions.
 # Early life
 Rhamari was born in a village near the [[Kaʼāʼi river]], c. 580 AGS. Her mother was a yam farmer, and it was said that the village was a significant provider of yams to the nearby city of [[Fenimeni]], where Rhamari studied as a scribe during her adolescence.
 

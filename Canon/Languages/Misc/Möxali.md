@@ -31,10 +31,10 @@ Note that common Outer Möxali spelling additionally does not use certain diacri
 ### Front-back allophones
 Some consonants have a pair of allophones determined by the presence of a front (*e ö i í*) or back (*a o u ú*) vowel in the host syllable. These allophonic pairs or some variants of them are present in the vast majority of speakers, particularly those who speak Möxali as a first language or are in regular contact with those who do. The typical phonetic values of these allophonic pairs are shown below:
 
-|  | - | *t* | *d* | *s* | *z* | *c* | *x* | *j* | *g* | *k* | *h* |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Front | - | [t̪ˢ] | [d̪ᶻ] | [s̪] | [z̪] | [tɕ] | [ɕ] | [ʑ] | [ŋ] | [k] | [x] |
-| Back | - | [t̪] | [d̪] | [θ] | [ð] | [tʃ] | [ʃ] | [ʒ] | [ɴ] | [q] | [χ] |
+|       | -   | *t*   | *d*   | *s*  | *z*  | *c*  | *x* | *j* | *g* | *k* | *h* |
+| ----- | --- | ----- | ----- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Front | -   | [t̪ˢ] | [d̪ᶻ] | [s̪] | [z̪] | [tɕ] | [ɕ] | [ʑ] | [ŋ] | [k] | [x] |
+| Back  | -   | [t̪]  | [d̪]  | [θ]  | [ð]  | [tʃ] | [ʃ] | [ʒ] | [ɴ] | [q] | [χ] |
 ## Vowels
 |  | - | Front unrounded | Front rounded | Back |
 | ---- | ---- | ---- | ---- | ---- |
@@ -179,7 +179,7 @@ In Outer Möxali (OM) dialects, the lack of a glottal stop at the phonemic level
 - |'añon| *añon* (lid, cf. IM *qañon*) → |xu-'añon| *xu'añon* (ᴘʟ-lid), underlying glottal stop blocks interaction between vowel qualities
 - |onxub| *onxub* (adze, cf. IM *onxub*) → |xu-onxub| *xvonxub* (ᴘʟ-adze), sandhi interaction present
 
-Note that sandhi processes apply only at morpheme boundaries, thus the full range of Möxali’s phonology can be expressed elsewhere within the morpheme, e.g. Outer Möxali *mú'a* "long (of time)" may be analysed /mua/ with an epenthetic glottal stop.
+Note that sandhi processes apply only at morpheme boundaries, thus the full range of Möxali's phonology can be expressed elsewhere within the morpheme, e.g. Outer Möxali *mú'a* "long (of time)" may be analysed /mua/ with an epenthetic glottal stop.
 ## Vowel elision
 Stressed vowels may never be elided, but there are several circumstances which trigger the regular elision of unstressed vowels. One such circumstance is in the consonant epenthesis of vowel-initial morphemes described above:
 - |su-azi| → \*s(o)ˈvazi → *ˈsvazi*
@@ -328,7 +328,7 @@ The syncretism of the first and third person on vowel-initial stems rarely leads
 
 The subject prefix *ñ-* on *ñaxuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
 ### Mood
-Möxali inherited most of [[Xiri|Xiri’s]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
+Möxali inherited most of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
 
 The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of twelve prefixes are identified, shown in the table below.
 
