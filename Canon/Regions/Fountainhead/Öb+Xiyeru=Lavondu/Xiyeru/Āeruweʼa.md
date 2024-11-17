@@ -3,6 +3,9 @@ The **Āeruweʼa** was the spiritual leader of the [[Xiyeru]] who acted as the h
 The role of the Āeruweʼa, who was always a woman, changed throughout time. She was technically not a politician, but every person of status in [[Udovuʼo]] would answer to her and ultimately she acted as a sort of head of state in many respects, until the events of the [[Exodus period]] caused a broad loss of faith in her authority.
 
 It was said that the Āeruweʼa was the physical embodiment of the entire history of the [[Xiyeru]] culture in a single person. There was no Āeruweʼa without the [[Xiyeru]], and no [[Xiyeru]] without the Āeruweʼa.
+
+![[Rhamari Fīkwaziguma Āeruweʼa.jpg]]
+*Artistic interpretation of [[Rhamari Fīkwaziguma Āeruweʼa]] during the [[Exodus period#The Great Departure (c. 660 - 700/701 AGS)|Xiyeru exodus]].*
 # Etymology
 *Āeruweʼa* is simply an augmentative form of *[[Eruweʼa]]* "person of the river", a title given to parents and spiritual leaders.
 # Public image
