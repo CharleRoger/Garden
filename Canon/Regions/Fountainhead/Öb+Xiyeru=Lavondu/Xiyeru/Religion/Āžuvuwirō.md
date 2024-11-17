@@ -1,4 +1,4 @@
-**Āžuvuwirō** is a semi-legendary location or phenomena in [[Xiyeru folklore]], generally described as a blanket of dark clouds which can block out the sun, depriving the world of life. It was perhaps inspired by ancient observations of the floating islands of [[Cqa]], and later in history became explicitly identified with contemporary knowledge of the islands, which  continued to be known colloquially as *Āžuvuwirō* in [[Xiri]].
+**Āžuvuwirō** is a semi-legendary location or phenomena in [[Xiyeru#Religion|Xiyeru folklore]], generally described as a blanket of dark clouds which can block out the sun, depriving the world of life. It was perhaps inspired by ancient observations of the floating islands of [[Cqa]], and later in history became explicitly identified with contemporary knowledge of the islands, which  continued to be known colloquially as *Āžuvuwirō* in [[Xiri]].
 # Etymology
 The term *Āžuvuwirō* [aːˈʒuvuˌwiɾoː] is the common name used in [[Xiri|Standard Xiri]] c. [[Universal calendar|year 0]], a compound of *ā-* "great" + *xuvu* "dark, as of night" + *wirō* "cloud cover".
 # Description and interpretation
