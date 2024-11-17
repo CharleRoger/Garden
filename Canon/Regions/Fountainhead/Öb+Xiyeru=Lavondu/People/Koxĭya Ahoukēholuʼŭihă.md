@@ -8,7 +8,11 @@ tags:
 ---
 **Koxĭya Ahoukēholuʼŭihă** was an accomplished [[Xiyeru]] accountant and politician from [[Erido]] who served as the first and only [[Āʼiyoru|governor]] of [[Lavdo]], known as the mastermind behind the [[Tuvöblin]] project which established the [[Zúnton]] system in [[T'ugü]] in 861 AGS.
 # Name and titles
-Koxĭya's official title as governor of [[Lavdo]] was *ʼuhi Aʼĭolu Lăhototokīʼă* (first governor in the [[Rhavo todo|foreign villages]]), though she was more often known to the [[Xiyeru]] populace as *Yaʼŭhi Aʼĭolu* (the sixth [[Āʼiyoru|governor]]) or just Yaʼŭhi.
+Koxĭya's official title as governor of [[Lavdo]] was *ʼuhi Aʼĭolu Lăwototokīʼă* (first governor in the [[Rhavo todo|foreign villages]]), though she was more often known to the [[Xiyeru]] populace as *Yaʼŭhi Aʼĭolu* (the sixth [[Āʼiyoru|governor]]) or just Yaʼŭhi. She is one of few individuals of the period to have their entire [[ńuʼu|personal name]] recorded with certainty in multiple contemporaneous records:
+> *Koxĭya Ńūōkĭkī Esīxĭʼelakī Eʼōene Wuwuuhă Īlōke’alu ʼuhi Aʼĭolu Lăwototokīʼă Ne’ācelă Ulŭtuńĭ Ahoukēholuʼŭihă Ekĭluwe’ă*
+> "Obsidian-wing, Daughter of Bug-lover, of the Ten-black-sands, Who brings rice, Who counts days, Who has the soul of a rat, First Governor in the Foreign-villages, Who speaks for the Öb, Who molds T’ugü, Who knows greatly of the entire world, sea and sky, Mother"
+
+![[koxĭya tattoo example.png]]
 # Life and work
 ## In Udovuʼo
 Koxĭya was born around 800 AGS to a noble family on [[Erido]], the main central island of [[Udovuʼo]], during the administration of the [[Azodo Government]]. She likely spoke a local dialect in her youth, but later spoke only [[Ahōtoli]], the dominant language of the period. Like most other people of noble descent in this period, she learnt to read and write the [[Ahōtoli script]], as well as mathematics, economics and politics in a state-managed university on her home island.
