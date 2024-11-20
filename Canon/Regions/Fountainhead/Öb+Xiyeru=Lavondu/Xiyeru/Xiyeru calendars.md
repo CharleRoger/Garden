@@ -1,0 +1,30 @@
+# Lunar calendar
+
+# Solar calendars
+The [[Xiyeru]] distinguished two annual cycles which did not align, the **fixed year** and the **solar year**, both of which are referred to in [[Xiri]] by the word *samēs*.
+## Fixed year
+The calendar year was a fixed 256-day period called the "perfect-year", *carizamēs* in [[Xiri]] and *colĭhewŭnehă* in [[Ahōtoli]], after 256 being known as the principal "perfect number". It ran alongside a 385-day calendar which acted as the primary time-keeping system for the [[Xiyeru]]. Both the 256-day and 385-day periods cycle indefinitely without correction by intercalation and were used for dating events and administrative purposes like calculating debts and taxes.
+
+Dates in the two cycles were recorded differently:
+- In the 256-day calendar year, dates were recorded in a purely abstract base-4 format where the year is successively divided into quarters. For example, the 184th day of the year would be called in [[Xiri]] *inpi sepwi tanure ozubi* "2nd 3rd 1st 4th", meaning the 4th day of the 1st 4-day quarter of the 3rd 16-day quarter of the 2nd 64-day quarter of the year.
+- In the 385-day cycle, dates were based on the 16 phases of [[Bigmoon]] within its 64-day months, of which there were six named after the visible [[Solar system#Planets|planets]]. The 385th day was intercalary, called "pause", *xīne* in [[Xiri]] and *kine* in [[Ahōtoli]].
+
+Any given day in a period of approximately 400 years is uniquely identified by the pair of dates given by the two cycles. For essentially the entire first millennium AGS, [[Xiyeru]] historians used this dual system to chronologise dates on long timescales, stretching back several millennia, though such retrospective calculations become increasingly inaccurate as the time depth is increased.
+
+The 385-day calendar aligned with and formed the basis for the 1540-day (4×385) [[Öcídñox|Öcídñox calendar]], developed by [[Lavondu]] astronomers in T'ugü the 850s. The new calendar was more complex and reused some elements for new purposes, such as the day of pause, *xínen* in [[Möxali]], which took place five times in 385 days at 77-day intervals, related to the phases of [[Smallmoon]], not [[Bigmoon]].
+
+The traditional [[Xiyeru]] dual system remained in use in [[Udovuʼo]] until 1208 AGS, when the [[Öcídñox]] was officially adopted as the primary calendar for use within the [[Xiyeru Confederation]]. The [[Öcídñox]] had a different method of counting cycles on large timescales, making the 256-day calendar year obsolete.
+## Solar year
+The solar year was based on the actual orbital period of [[Winter]], 251.8016 days, and could be 251 or 252 days in length. The [[Xiyeru]] solar year did not follow a systematic calendar, rather it was declared to begin on the winter solstice, which was measured by astronomers each year. The solar year was used to plan feasts and the planting and harvesting of rice and yams around the summer, during which there was increased rainfall, but did not serve any other function in daily life.
+
+At sea, however, keeping track of the solar year is critical in predicting the behaviour of ocean swells and the annual monsoon, which has a much more pronounced effect than in [[Udovuʼo]]. Counting the number of days passed since the solstice also allowed [[Xiyeru]] navigators to triangulate their position on the globe by precisely measuring the rising times of certain stars. For these reasons, the solar year aws often called *hāraruže samēs* "sailor's year" or *rhūʼuže samēs* "year of the sea".
+
+The winter solstice could be determined by any [[Xiyeru astronomy|Xiyeru astronomer]], and thus the solar year could be calculated and tracked locally, but under the [[Xiyeru Confederation]] the solstice was only allowed to be declared by governmental decree after measurement by official astronomers. Days of rest and festivals became controlled by the state, superseding many local island traditions which had more variance.
+
+For over a millennium after the [[Xiyeru Confederation]] collapsed in 1290, and the solar year was no longer managed by a central political entity, the official festivals continued to be practised, and the techniques used for the measurement of solstices and global positioning remained in use for maritime navigation in the [[Lavondu]] macroculture.
+### Annual festivals
+The most widely celebrated annual festival was a 12-day spring festival called *[[Ñārujū]]* "flower-time". Ñārujū was marked by the canonical first appearance of the brightest star in the night sky, [[Xiyeru astronomy#Messenger stars|Āzimi]], on the 57th day of the year. The first six days of the festival involved gathering flowers, planting yams and slaughtering livestock, while the latter six, beginning with the vernal equinox on the 63rd, were feast days. 
+
+The summer solstice, which always fell on the 125th day of the [[Xiyeru]] solar year, marked the beginning of summer and a six-day festival which was also celebrated by the [[Xiyeru]]. The first three days involved gathering certain wild fruits and vegetables and were marked at the end by the arrival of the [[Xiyeru astronomy#Messenger stars|wife star]] in the night sky on the 128th. Three days of feast followed before the [[Xiyeru astronomy#Messenger stars|husband star]] arrived on the 131st, after which various agricultural preparations are made for the oncoming monsoon. It was also common to hold marriage ceremonies in conjunction with the typical festivities throughout the six days.
+
+The autumnal equinox would fall on either the 188th or 189th day of the solar year, with the particular day determined by astronomers and used to calibrate the final quarter of the solar year and determine whether it would have 251 or 252 days. The equinox also marked the start of the yam harvest season, and thus was most commonly known as *Kwiyūba* "yam-day".
