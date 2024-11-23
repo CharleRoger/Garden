@@ -1,8 +1,6 @@
 **Möxali** is a [[Xiri]]-[[Low Alöbi]] mixed language which emerged in bilingual communities of [[Xiyeru]] in [[T'ugü]] following the [[Exodus period#The Great Departure (c. 660 - 700/701 AGS)|Xiyeru exodus]]. It was the primary language of the [[Lavondu]] people of [[T'ugü]], and a lingua franca throughout surrounding coastal regions of [[Fountainhead]], particularly those connected to [[T'ugü]] by maritime trade. 
-# Early evolution
-## Pre-Möxali
 # Phonology
-Möxali was most commonly spoken as a second language, by many peoples over a wide area throughout its long history, so there is much variation in the phonology. There are, however, some patterns and general tendencies common to all speakers or particular subgroups. In order to view Möxali as a whole, its phonology is discussed here using the romanisation of its core phonemic inventory, which is common to almost all varieties of the language. Each phoneme can be understood as representing a diaphoneme, an abstracted phonological unit with an analogous phoneme in each variety of Möxali, which may have different phonetic realisations depending on the dialect or historical stage. Particular phonetic varieties are also given in square brackets where relevant.
+Möxali was most commonly spoken as a second language by many peoples over a wide area throughout its long history, so there is much variation in the phonology. There are, however, some patterns and general tendencies common to all speakers or particular subgroups. In order to view Möxali as a whole, its phonology is discussed here using the romanisation of its core phonemic inventory, which is common to almost all varieties of the language. Each phoneme can be understood as representing a diaphoneme, an abstracted phonological unit with an analogous phoneme in each variety of Möxali, which may have different phonetic realisations depending on the dialect or historical stage. Particular phonetic varieties are also given in square brackets where relevant.
 ## Consonants
 |  | - | Labial | Alveolar | Postalveolar / Palatal | Dorsal | Glottal |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -20,12 +18,12 @@ In the native writing of Möxali, the [[Opsíbdañox]], *r* is written with the 
 ### Glottal stop
 The glottal stop *q* is phonemic only in Inner Möxali, the dialect which remained spoken in [[T'ugü]] after the Möxali language was carried elsewhere by population migration. The group of emigrant dialects, Outer Möxali, do not have the phoneme *q*, but still have a phonetic glottal stop with predictable epenthetic placement between vowels. The phonetic glottal stop is romanised as ⟨'⟩ for clarity, but is not represented in the native script. Compare the following examples:
 
-|  | - | Meaning | Native spelling | Romanisation | Phonetic |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Inner Möxali | - | daytime | QE-LO-SA | *qelos* | [ʔe̞.l̪o̞θ] |
-| Outer Möxali | - | ^ | E-RO-ZA | *elos* | [ɛ.l̪ɔs̪] |
-| Inner Möxali | - | [[Rubroplano]] | DA-QÍ-BE | *daqib* | [d̪ɑ.ʔib] |
-| Outer Möxali | - | ^ | DA-Í-VE | *da'iv* | [d̪ɑ.ʔiv] |
+|              | -   | Meaning        | Native spelling | Romanisation | Phonetic    |
+| ------------ | --- | -------------- | --------------- | ------------ | ----------- |
+| Inner Möxali | -   | daytime        | QE-LO-SA        | *qelos*      | [ʔe̞.l̪o̞θ] |
+| Outer Möxali | -   | ^              | E-RO-ZA         | *elos*       | [ɛ.l̪ɔs̪]   |
+| Inner Möxali | -   | [[Rubroplano]] | DA-QÍ-BE        | *daqíb*      | [d̪ɑ.ʔib]   |
+| Outer Möxali | -   | ^              | DA-Í-VE         | *da'ív*      | [d̪ɑ.ʔiv]   |
 
 Note that common Outer Möxali spelling additionally does not use certain diacritics, thus *l* and *s* are not distinguished from *r* and *z* respectively.
 ### Front-back allophones
@@ -95,10 +93,6 @@ While coda plosives were initially allowed in Möxali and are retained in the In
 - |límok-en| → *límokin* (bee-ᴇʀɢ)
 
 Despite this spirantisation rule being present in the most commonly spoken forms of Möxali throughout history, the native orthography tends to favour more conservative spelling in formal contexts, e.g. ⟨LÍ-MO-KA⟩ rather than ⟨LÍ-MO-HA⟩ for *límoh*. For consistency and clarity, romanisation of Möxali generally uses conservative spelling unless otherwise stated, i.e. *límok* not *límoh*.
-
-The marginal phoneme *r*, which only appears between vowels, also undergoes a coda neutralisation with *l*:
-- |korar-∅| → *koral* (ship-ᴀʙꜱ)
-- |korar-en| → *koraren* (ship-ᴇʀɢ)
 ## Obstruent devoicing
 Voiced obstruents (*b d j z v*) devoice to (*p t c s f*) when in a cluster with any voiceless consonant (*p t c k q f s x h*). For example, the [[Low Alöbi]] verb *ubsöb* (write) is reflected in Möxali as *upsöb*, the adjunct form of which *opsíb-d-a* (written) is the source of the name of Möxali's script [[Opsíbdañox]] "sacred written thing". The stativiser suffix *-d* will also similarly devoice when next to a voiceless consonant, for example the verb *mídös* (to smoke, as of meat) yields the adjunct form *midista* (smoked). This voicedness alternation is most commonly seen in the aspect conjugation of verb roots:
 
@@ -226,28 +220,15 @@ Möxali is an agglutinative language, in which words are formed by attaching sev
 Transitive verbs take inflectional affixes for mood, voice and aspect but are not inflected for person, number or tense. Tense is generally denoted by temporal adjuncts or understood from context. The person of the subject may optionally be marked with a prefix to refer back to a previously established subject, but this is not strictly part of the verb's inflection.
 
 Möxali's morphosyntactic alignment has characteristics of ergativity and its transitive verbs use a system of symmetrical voice to mark the syntactic role of the subject of the verb. Nouns are marked for absolutive, ergative and accusative case and have additional optional number marking.
-## Lexical classes
+## Content words
+### Lexical classes
 Content words in Möxali are categorised into three lexical classes distinguished by valency, that is the number of arguments they take:
 - **Nouns** cannot be predicate (zero arguments)
 - **Statives** can be predicate with exactly one argument
 - **Transitives** can be predicate with one or more arguments
-
-A ubiquitous pillar of Möxali's grammar is a closed set of valency-decreasing suffixes which convert a word from one class to another:
-- ***-j*** / ***-c*** — Converts a noun stem into a stative stem, the state of being associated with the noun
-- ***-d*** / ***-t*** — Converts a transitive stem into a stative stem, the state of participating in the verb
-- ***-n*** — Converts a transitive stem into a noun stem, the act of the verb itself
-
-These processes are derivational in nature, involving a change in class and the production of a different part of speech, but are practically as regular as inflection. A newly derived word using one of these suffixes tends to retain a strong semantic relationship to the basic stem from which they are derived, unlike other more typical derivational patterns in Möxali. For example, consider the following derivations from the transitive root *líj-* "divide":
-- *lícto-d-* — stative stem: the state of undergoing iterated division (transitive → stative)
-- *líji-n* — noun stem: the act of ongoing division (transitive → noun)
-- *líji-n-c-* — stative stem: the state of being associated with the act ongoing division (transitive → noun → stative)
-
-Compare the following other derivations, showing semantic abstraction from the original stem:
-- *xiya-líji* — transitive stem: to fairly share between people (lit. "fair-divide", a stative-transitive compound)
-- *lictu-d-n-e* — noun stem: a particular short unit of time (lit. "divide.ɪᴛᴇʀ-ꜱᴛᴀᴛ-n-ᴄʟꜰ", a numeral classifier construction using the dummy root *-n-* and the classifier *-e* for segmented things, i.e. "segment which has been iteratively divided")
-## Nouns
-### Case
-Nouns take an obligatory inflection for case, of which there are three which mark different morphosyntactic roles.
+### Nouns
+#### Case
+Nouns take an obligatory inflection for case, of which there are three which mark different morphosyntactic roles. The default unmarked case is the absolutive, used for the sole argument of a stative verb, the object of a transitive verb, as well as the only case governed by prepositions.
 
 The ergative suffix is subject to [[Möxali#Vowel sandhi|sandhi]] with a preceding vowel:
 - |udok-in| → *udokin* (lizard-ᴇʀɢ)
@@ -260,7 +241,7 @@ The accusative case has two allomorphs, *-b* and *-eb,* depending on whether the
 - |tino-(e)b| → *tinob* (salt-ᴀᴄᴄ)
 
 The underlying form of the stem is important to consider for case inflection, particularly in the peripheral dialects which exhibit coda plosive spirantisation. Compare the inflectional set *tanih*/*tanikin*/*tanikeb* (knife) to *ínih*/*ínihin*/*íniheb* (finger), with the underlying forms |tanik| and |ínih| respectively.
-### Instancing and number
+#### Instancing and number
 Nouns in Möxali exhibit the phenomenon of [[Noun instancing|instancing]], a trait inherited from [[Low Alöbi]], where nouns distinguish two types of reference:
 - **Instanced** — countable reference to a particular instance of a thing regardless of definiteness, e.g. "a person", "the person", "two people"
 - **Uninstanced** — uncountable reference to a kind or category of thing, e.g. "people" or "humans" in general
@@ -276,20 +257,56 @@ Each instancing prefix ends in a vowel which is subject to sandhi with an initia
 | ^ | Animate | - | *x-* | *xi-* |
 | ^ | Inanimate | - | *xun-* | *xu-* |
 | Dual | < | - | *k-* | *ke-* |
-## Transitive verbs
+### Transitive verbs
 The origin of Möxali's transitive verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
 
-| Optional prefixes | < | Obligatory prefixes | < | Stem | < |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Subject | Adjunct | Mood | Voice | Root | Aspect |
-### Aspect and stem
-The transitive verb stem is disyllabic, either a single morpheme with a fixed lexical aspect or derived from a monosyllabic root by addition of a monosyllabic suffix marking the aspect. The formation of a verb stem is closer to derivation than regular inflection, with particular verb stem formations often carrying nuanced meanings, and the polymorphemic verb stems, never roots, appearing in compounds.
+| Optional prefixes | <       | Obligatory prefixes | <     | Stem | <      | Optional suffixes |
+| ----------------- | ------- | ------------------- | ----- | ---- | ------ | ----------------- |
+| Subject           | Adjunct | Mood                | Voice | Root | Aspect | Polarity          |
+#### Subject
+The subject prefix is present only when an explicit subject noun is not. These come directly from [[Xiri]] and are the only remnant of its pronominal system, which was completely supplanted by the [[Low Alöbi]] system. Unlike freestanding pronouns, these prefixes do not mark grammatical number, only first, second and third person as follows:
+- First person |ñ[a]-|
+- Second person |su-|
+- Third person |mi-|
+
+The first person prefix appears as *ñ-* on vowel-initial stems and *ña-* on consonant-initial stems, while the second and third person prefixes may also appear as *sv-* and *ñ-* (← \*my-) respectively, according to regular morphophonological processes.
+
+The syncretism of the first and third person on vowel-initial stems rarely leads to ambiguity, as the subject prefix is used only to refer back to a recently established subject of another verb. Consider the following example:
+> Faden den-ínen munötíʼoha i ñaxuri
+> `faden    den-     ína   -in   mu-nötö\⇵-∅-ʼo   -ha   i     ñ[a]-ax-u  -ri`
+> `1PL.ABS  1SG.POSS-parent-ERG  EV-meat  -PV-bring-PFV  CONJ  1-   EV-eat-INCH`
+> "We were brought meat by my parent, and so we could start eating (like animals)"
+
+The subject prefix *ñ-* on *ñaxuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
+#### Mood
+Möxali inherited most of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
+
+The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of ten prefixes are identified, shown in the table below.
+
+| Mood               | -   | Prefix  | Description                                                                                                                      |
+| ------------------ | --- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Visual sensory     | -   | \|mu-\| | First hand report, visual witness or experience                                                                                  |
+| Non-visual sensory | -   | \|se-\| | First hand report, non-visual witness e.g. heard or felt                                                                         |
+| Inferential        | -   | \|ko-\| | First hand report, inferred from available information but not directly sensed                                                   |
+| Reportative        | -   | \|pe-\| | Second hand report, quote, or untrustworthy information                                                                          |
+| Narrative          | -   | \|ge-\| | Third hand report, statements "said to be" true in general by people or belief assumed to be held by the listener, unevidenced   |
+| Subjunctive        | -   | \|u-\|  | Optative or exhortative when used as an independent clause, otherwise has a variety of uses as a dependent of an indicative verb |
+| Permissive         | -   | \|ax-\| | Permitted or declared possible by speaker                                                                                        |
+| Imperative         | -   | \|i-\|  | Commanded or requested by speaker                                                                                                |
+| Conditional        | -   | \|qa-\| | Dependent on a conditional, typically present as an adjunct to the verb                                                          |
+| Interrogative      | -   | \|xa-\| | Questioning the listener                                                                                                         |
+
+Unlike [[Xiri]], there is no unmarked indicative mood, evidentiality is necessarily expressed through the mood. A verb can appear in its bare stem form without a mood prefix when it occurs as the main verb of an auxiliary verb.
+
+Many of these prefixes were not common in ordinary speech and some were not used at all in most dialects, while others were essentially equivalent. For example *se-* and *ko-* were often used in overlapping roles and *pe-* and *ge-* became completely interchangeable in Outer Möxali dialects.
+#### Aspect and stem
+The transitive verb stem is usually disyllabic, either a single morpheme with a fixed lexical aspect or derived from a monosyllabic root by addition of a monosyllabic suffix marking the aspect. The formation of a verb stem is closer to derivation than regular inflection, with particular verb stem formations often carrying nuanced meanings, and the polymorphemic verb stems, never roots, appearing in compounds.
 
 There are nine verb aspects, each with a suffix for deriving new verb stems from roots, show in the table below.
 
 | Aspect       | -   | Suffix    | Description                                                                  |
 | ------------ | --- | --------- | ---------------------------------------------------------------------------- |
-| Progressive  | -   | \|~V\|    | Ongoing action or state                                                      |
+| Progressive  | -   | \|\~V\|   | Ongoing action or state                                                      |
 | Perfective   | -   | \|-q[a]\| | Simple action, often semelfactive in nature                                  |
 | Prospective  | -   | \|-je\|   | Action occuring later than a time under consideration                        |
 | Continuative | -   | \|-yo\|   | Action still ongoing at a time under consideration                           |
@@ -312,41 +329,29 @@ The perfective suffix *-qa* has an allomorph *-q* following a vowel as described
 - |dus~q[a]| → *dusqa* or *dus* (hunt-ᴘꜰᴠ)
 - |dúz~q[a]| → *dúsqa* or *dús* (carve-ᴘꜰᴠ)
 - |míb~q[a]| → *mípqa* or *míp* (wrap-ᴘꜰᴠ)
-### Subject
-The subject prefix is present only when an explicit subject noun is not. These come directly from [[Xiri]] and are the only remnant of its pronominal system, which was completely supplanted by the [[Low Alöbi]] system. Unlike freestanding pronouns, these prefixes do not mark grammatical number, only first, second and third person as follows:
-- First person |ñ[a]-|
-- Second person |su-|
-- Third person |mi-|
 
-The first person prefix appears as *ñ-* on vowel-initial stems and *ña-* on consonant-initial stems, while the second and third person prefixes may also appear as *sv-* and *ñ-* (← \*my-) respectively, according to regular morphophonological processes.
+### Valency-decreasing suffixes
+A ubiquitous pillar of Möxali's grammar is a closed set of valency-decreasing suffixes which convert a word from one class to another:
+- ***-j*** / ***-c*** — Converts a noun stem into a stative stem, the state of being associated with the noun
+- ***-d*** / ***-t*** — Converts a transitive stem into a stative stem, the state of participating in the verb
+- ***-n*** — Converts a transitive stem into a noun stem, the act of the verb itself
 
-The syncretism of the first and third person on vowel-initial stems rarely leads to ambiguity, as the subject prefix is used only to refer back to a recently established subject of another verb. Consider the following example:
-> Faden den-ínen munötíʼoha i ñaxuri
-> `faden    den-     ína   -in   mu-nötö\⇵-∅-ʼo   -ha   i     ñ[a]-ax-u  -ri`
-> `1PL.ABS  1SG.POSS-parent-ERG  EV-meat  -PV-bring-PFV  CONJ  1-   EV-eat-INCH`
-> "We were brought meat by my parent, and so we could start eating (like animals)"
+These processes are derivational in nature, involving a change in class and the production of a different part of speech, but are practically as regular as inflection. A newly derived word using one of these suffixes tends to retain a strong semantic relationship to the basic stem from which they are derived, unlike other more typical derivational patterns in Möxali. For example, consider the following derivations from the transitive root *líj-* "divide":
+- *lícto-d-* — stative stem: the state of undergoing iterated division (transitive → stative)
+- *líji-n* — noun stem: the act of ongoing division (transitive → noun)
+- *líji-n-c-* — stative stem: the state of being associated with the act ongoing division (transitive → noun → stative)
 
-The subject prefix *ñ-* on *ñaxuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
-### Mood
-Möxali inherited most of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
+Compare the following other derivations, showing semantic abstraction from the original stem:
+- *xiya-líji* — transitive stem: to fairly share between people (lit. "fair-divide", a stative-transitive compound)
+- *lictu-d-n-e* — noun stem: a particular short unit of time (lit. "divide.ɪᴛᴇʀ-ꜱᴛᴀᴛ-n-ᴄʟꜰ", a numeral classifier construction using the dummy root *-n-* and the classifier *-e* for segmented things, i.e. "segment which has been iteratively divided")
 
-The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of twelve prefixes are identified, shown in the table below.
-
-| Mood               | -   | Prefix  | Description                                                                                   |
-| ------------------ | --- | ------- | --------------------------------------------------------------------------------------------- |
-| Visual sensory     | -   | \|mu-\| | First hand report, visual witness or experience                                               |
-| Non-visual sensory | -   | \|se-\| | First hand report, non-visual witness e.g. heard or felt                                      |
-| Inferential        | -   | \|ko-\| | First hand report, inferred from available information but not directly sensed                |
-| Reportative        | -   | \|ci-\| | Second hand direct report or quote                                                            |
-| Hearsay            | -   | \|pe-\| | Second hand indirect report, source of information is unknown                                 |
-| Narrative          | -   | \|ge-\| | Third hand report, statements "said to be" true in general by people                          |
-| Common knowledge   | -   | \|mi-\| | Third hand report, common knowledge or belief assumed to be held by the listener, unevidenced |
-| Assertive          | -   | \|u-\|  | Unevidenced personal belief, judgement or wish                                                |
-| Permissive         | -   | \|ax-\| | Permitted or declared possible by speaker                                                     |
-| Imperative         | -   | \|i-\|  | Commanded or requested by speaker                                                             |
-| Conditional        | -   | \|qa-\| | Dependent on a conditional, typically present as an adjunct to the verb                       |
-| Interrogative      | -   | \|xa-\| | Questioning the listener                                                                      |
-
-The seven prefixes used for realis moods are mostly derived from [[Xiri]] evidentials and can be categorised by type of evidence: first-hand assertion (visual sensory, non-visual sensory, inferential), second-hand report (quotative, hearsay) and third-hand statement of fact (narrative, common knowledge). Unlike [[Xiri]], there is no unmarked indicative mood, evidentiality is necessarily expressed through the mood.
-
-Many of these prefixes were not common in ordinary speech and some were not used at all in most dialects, while others were essentially equivalent. For example *se-* and *ko-* were often used in overlapping roles and *pe-* and *ge-* became completely interchangeable in Outer Möxali dialects.
+There are various extensions and variations of these suffixes. One common derivation is *-jaqe* which forms a phrasal adverb from a noun describing the circumstances or context, usually appearing at the beginning of a phrase.
+### Adjuncts
+Adjuncts are not an intrinsic lexical class, but a form of statives which are a distinct part of speech in their own right. Adjuncts are marked by the suffix *-a* on a stative stem.
+## Function words
+### Prepositions
+All prepositions in Möxali are monosyllabic and always unstressed, appearing at the start of a noun phrase, so can be thought of as clitics. Prepositions exclusively govern the absolutive case
+### Conjunctions
+A small set of conjunctions is used to link clauses or begin statements:
+- *i* — basic positive conjunction meaning "and, thus, so, then"
+- *fi* — basic negative conjunction meaning "but, however, regardless"
