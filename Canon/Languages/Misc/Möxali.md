@@ -254,9 +254,9 @@ Each instancing prefix ends in a vowel which is subject to sandhi with an initia
 ### Transitive verbs
 The origin of Möxali's transitive verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
 
-| Optional prefixes | <       | Obligatory prefixes | Stem | <      | Optional suffixes |
-| ----------------- | ------- | ------------------- | ---- | ------ | ----------------- |
-| Subject           | Adjunct | Voice               | Root | Aspect | Polarity          |
+| Optional prefixes | <                    | Obligatory prefixes | Stem | <      | Optional suffixes |
+| ----------------- | -------------------- | ------------------- | ---- | ------ | ----------------- |
+| Subject           | Incorporated adjunct | Voice               | Root | Aspect | Polarity          |
 #### Subject
 The subject prefix is present only when an explicit subject noun is not. These come directly from [[Xiri]] and are the only remnant of its pronominal system, which was completely supplanted by the [[Low Alöbi]] system. Unlike freestanding pronouns, these prefixes do not mark grammatical number, only first, second and third person as follows:
 - First person |ñ[a]-|
@@ -266,13 +266,19 @@ The subject prefix is present only when an explicit subject noun is not. These c
 The first person prefix appears as *ñ-* on vowel-initial stems and *ña-* on consonant-initial stems, while the second and third person prefixes may also appear as *sv-* and *ñ-* (← \*my-) respectively, according to regular morphophonological processes.
 
 The syncretism of the first and third person on vowel-initial stems rarely leads to ambiguity, as the subject prefix is used only to refer back to a recently established subject of another verb. Consider the following example:
-> Faden den-ínen munötíʼoha i ñaxuri
-> `faden    den-     ína   -in   mu-nötö\⇵-∅-ʼo   -ha   i     ñ[a]-ax-u  -ri`
-> `1PL.ABS  1SG.POSS-parent-ERG  EV-meat  -PV-bring-PFV  CONJ  1-   EV-eat-INCH`
+> Mu-faden den-ínen nötíquq i ax-ñuri
+> `mu- faden    den-     ína   -in   nötö-∅-qu   -q[a]  i     ax-  ñ[a]-u  -ri`
+> `VIS-1PL.ABS  1SG.POSS-parent-ERG  meat-PV-bring-PFV  CONJ  PERM-1-   eat-INCH`
 > "We were brought meat by my parent, and so we could start eating (like animals)"
 
-The subject prefix *ñ-* on *ñaxuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
-#### Aspect and stem
+The subject prefix *ñ-* on *ñuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
+
+The subject prefix slot is also used to form the imperative with the prefix *i-*, which takes the form *y-* before vowels.
+> [ˈœ.s̪ɛ̃ː iˈbœbœ]
+> `ösen    -∅    í-    -böb      ~ö   `
+> `firewood-ABS  IMP-PV-gather_up~PROG`
+> "Get to gathering up some firewood!"
+#### Stem and aspect
 The transitive verb stem is usually disyllabic, either a single morpheme with a fixed lexical aspect or derived from a monosyllabic root by addition of a monosyllabic suffix marking the aspect. The formation of a verb stem is closer to derivation than regular inflection, with particular verb stem formations often carrying nuanced meanings, and the polymorphemic verb stems, never roots, appearing in compounds.
 
 There are nine verb aspects, each with a suffix for deriving new verb stems from roots, show in the table below.
@@ -303,6 +309,10 @@ The perfective suffix *-qa* has an allomorph *-q* following a vowel as described
 - |dúz~q[a]| → *dúsqa* or *dús* (carve-ᴘꜰᴠ)
 - |míb~q[a]| → *mípqa* or *míp* (wrap-ᴘꜰᴠ)
 
+#### Polarity
+A final polarity suffix may be used to mark a verb as negative or emphatic.
+- |-s[a]| — Negative
+- |-x[a]| — Emphatic
 ### Valency-decreasing suffixes
 A ubiquitous pillar of Möxali's grammar is a closed set of valency-decreasing suffixes which convert a word from one class to another:
 - ***-j*** / ***-c*** — Converts a noun stem into a stative stem, the state of being associated with the noun
@@ -323,11 +333,11 @@ There are various extensions and variations of these suffixes. One common deriva
 Adjuncts are not an intrinsic lexical class, but a form of statives which are a distinct part of speech in their own right. Adjuncts are marked by the suffix *-a* on a stative stem.
 ## Function words
 #### Modal clitics
-Möxali inherited most of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
+Möxali inherited many of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and four of the [[Xiri]] irrealis moods (subjunctive, permissive, conditional, interrogative) into a single paradigm. 
 
 Modal particles act as phrase-initial clitics; their syntactic position is always at the start of a phrase, but they are pronounced like a prefix on the following word, and can affect the pronunciation of that word according to the sandhi rules established [[Möxali#Vowel sandhi|above]].
 
-The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of ten clitics are identified, shown in the table below.
+The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of nine clitics are identified, shown in the table below.
 
 | Mood               | -   | Clitic  | Description                                                                                                                      |
 | ------------------ | --- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -338,7 +348,6 @@ The set of moods and their usage varied throughout the history and dialectology 
 | Narrative          | -   | \|ge-\| | Third hand report, statements "said to be" true in general by people or belief assumed to be held by the listener, unevidenced   |
 | Subjunctive        | -   | \|u-\|  | Optative or exhortative when used as an independent clause, otherwise has a variety of uses as a dependent of an indicative verb |
 | Permissive         | -   | \|ax-\| | Permitted or declared possible by speaker                                                                                        |
-| Imperative         | -   | \|i-\|  | Commanded or requested by speaker                                                                                                |
 | Conditional        | -   | \|qa-\| | Dependent on a conditional, typically present as an adjunct to the verb                                                          |
 | Interrogative      | -   | \|xa-\| | Questioning the listener                                                                                                         |
 
