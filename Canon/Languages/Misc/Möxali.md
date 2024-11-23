@@ -76,21 +76,15 @@ Since *v* patterns both as a fricative and an approximant in the context of syll
 # Morphophonology
 It is useful to analyse the structure of Möxali as having an underspecified morphophonemic level, with phonotactics and other regular processes yielding the phonemic level. Morphophonemic forms are shown in |vertical bars|. In addition to the phonotactic constraints on onset clusters described above, there are five main phenomena; coda neutralisation, obstruent devoicing, inversion, vowel sandhi and vowel elision.
 ## Coda neutralisation
-An underlying stop consonant (nasal or plosive) in morpheme-final position is subject to neutralisation if it arises as a syllable coda at the phonemic level, i.e. if there is no following syllable in which the consonant can act as the onset.
-
-Nasals neutralise into assimilatory coda *n*:
-- |ösem-∅| → *ösen* (firewood-ᴀʙꜱ)
-- |ösem-in| → *ösemin* (firewood-ᴇʀɢ)
-
-The donation of a stop to a following syllable can occur across morpheme or word boundaries, meaning the phonological form of a word can depend on the following word:
-> [ˈœ.s̪ɛ.m‿iˈbil̪.bɪl̪]
-> `ösem    -∅    í-    -bílbil`
-> `firewood-ABS  IMP-PV-gather_up`
-> "Gather up some firewood!"
-
-While coda plosives were initially allowed in Möxali and are retained in the Inner dialect, they were lost in the later and more widespread Outer dialects. In these dialects, plosives undergo spirantisation when they fall in coda position, in which they mutate to the corresponding fricative with the same voicedness and place of articulation: *p t c k b d* → *f s x h v z*. This results in inflectional alternation like the following:
+While coda plosives were initially allowed in Möxali and are retained in the Inner dialect, they were lost in the later and more widespread Outer dialects. In these dialects, underlying plosives undergo spirantisation when they fall in coda position, in which they mutate to the corresponding fricative with the same voicedness and place of articulation: *p t c k b d* → *f s x h v z*. This results in inflectional alternation like the following:
 - |límok-∅| → *límoh* (bee-ᴀʙꜱ)
 - |límok-en| → *límokin* (bee-ᴇʀɢ)
+
+The donation of a plosive to a following syllable can occur across morpheme or word boundaries, meaning the phonological form of a word can depend on the following word:
+> [fɑ.d̪ᶻɛ̃ː ɑ.ʒɔ.q‿u.l̪o fɛ.ʔɑ]
+> `faden    ajok -∅    úl  ~u     f[a]-e -q[a]`
+> `1SG.NOM  stone-ABS  work~PROG  ACT- do-PFV `
+> "I work stone"
 
 Despite this spirantisation rule being present in the most commonly spoken forms of Möxali throughout history, the native orthography tends to favour more conservative spelling in formal contexts, e.g. ⟨LÍ-MO-KA⟩ rather than ⟨LÍ-MO-HA⟩ for *límoh*. For consistency and clarity, romanisation of Möxali generally uses conservative spelling unless otherwise stated, i.e. *límok* not *límoh*.
 ## Obstruent devoicing
@@ -260,9 +254,9 @@ Each instancing prefix ends in a vowel which is subject to sandhi with an initia
 ### Transitive verbs
 The origin of Möxali's transitive verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
 
-| Optional prefixes | <       | Obligatory prefixes | <     | Stem | <      | Optional suffixes |
-| ----------------- | ------- | ------------------- | ----- | ---- | ------ | ----------------- |
-| Subject           | Adjunct | Mood                | Voice | Root | Aspect | Polarity          |
+| Optional prefixes | <       | Obligatory prefixes | Stem | <      | Optional suffixes |
+| ----------------- | ------- | ------------------- | ---- | ------ | ----------------- |
+| Subject           | Adjunct | Voice               | Root | Aspect | Polarity          |
 #### Subject
 The subject prefix is present only when an explicit subject noun is not. These come directly from [[Xiri]] and are the only remnant of its pronominal system, which was completely supplanted by the [[Low Alöbi]] system. Unlike freestanding pronouns, these prefixes do not mark grammatical number, only first, second and third person as follows:
 - First person |ñ[a]-|
@@ -278,27 +272,6 @@ The syncretism of the first and third person on vowel-initial stems rarely leads
 > "We were brought meat by my parent, and so we could start eating (like animals)"
 
 The subject prefix *ñ-* on *ñaxuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
-#### Mood
-Möxali inherited most of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
-
-The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of ten prefixes are identified, shown in the table below.
-
-| Mood               | -   | Prefix  | Description                                                                                                                      |
-| ------------------ | --- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Visual sensory     | -   | \|mu-\| | First hand report, visual witness or experience                                                                                  |
-| Non-visual sensory | -   | \|se-\| | First hand report, non-visual witness e.g. heard or felt                                                                         |
-| Inferential        | -   | \|ko-\| | First hand report, inferred from available information but not directly sensed                                                   |
-| Reportative        | -   | \|pe-\| | Second hand report, quote, or untrustworthy information                                                                          |
-| Narrative          | -   | \|ge-\| | Third hand report, statements "said to be" true in general by people or belief assumed to be held by the listener, unevidenced   |
-| Subjunctive        | -   | \|u-\|  | Optative or exhortative when used as an independent clause, otherwise has a variety of uses as a dependent of an indicative verb |
-| Permissive         | -   | \|ax-\| | Permitted or declared possible by speaker                                                                                        |
-| Imperative         | -   | \|i-\|  | Commanded or requested by speaker                                                                                                |
-| Conditional        | -   | \|qa-\| | Dependent on a conditional, typically present as an adjunct to the verb                                                          |
-| Interrogative      | -   | \|xa-\| | Questioning the listener                                                                                                         |
-
-Unlike [[Xiri]], there is no unmarked indicative mood, evidentiality is necessarily expressed through the mood. A verb can appear in its bare stem form without a mood prefix when it occurs as the main verb of an auxiliary verb.
-
-Many of these prefixes were not common in ordinary speech and some were not used at all in most dialects, while others were essentially equivalent. For example *se-* and *ko-* were often used in overlapping roles and *pe-* and *ge-* became completely interchangeable in Outer Möxali dialects.
 #### Aspect and stem
 The transitive verb stem is usually disyllabic, either a single morpheme with a fixed lexical aspect or derived from a monosyllabic root by addition of a monosyllabic suffix marking the aspect. The formation of a verb stem is closer to derivation than regular inflection, with particular verb stem formations often carrying nuanced meanings, and the polymorphemic verb stems, never roots, appearing in compounds.
 
@@ -349,6 +322,29 @@ There are various extensions and variations of these suffixes. One common deriva
 ### Adjuncts
 Adjuncts are not an intrinsic lexical class, but a form of statives which are a distinct part of speech in their own right. Adjuncts are marked by the suffix *-a* on a stative stem.
 ## Function words
+#### Modal clitics
+Möxali inherited most of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and five of the [[Xiri]] irrealis moods (subjunctive, permissive, imperative, conditional, interrogative) into a single paradigm. 
+
+Modal particles act as phrase-initial clitics; their syntactic position is always at the start of a phrase, but they are pronounced like a prefix on the following word, and can affect the pronunciation of that word according to the sandhi rules established [[Möxali#Vowel sandhi|above]].
+
+The set of moods and their usage varied throughout the history and dialectology of Möxali. In most Inner Möxali writing, a total of ten clitics are identified, shown in the table below.
+
+| Mood               | -   | Clitic  | Description                                                                                                                      |
+| ------------------ | --- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Visual sensory     | -   | \|mu-\| | First hand report, visual witness or experience                                                                                  |
+| Non-visual sensory | -   | \|se-\| | First hand report, non-visual witness e.g. heard or felt                                                                         |
+| Inferential        | -   | \|ko-\| | First hand report, inferred from available information but not directly sensed                                                   |
+| Reportative        | -   | \|pe-\| | Second hand report, quote, or untrustworthy information                                                                          |
+| Narrative          | -   | \|ge-\| | Third hand report, statements "said to be" true in general by people or belief assumed to be held by the listener, unevidenced   |
+| Subjunctive        | -   | \|u-\|  | Optative or exhortative when used as an independent clause, otherwise has a variety of uses as a dependent of an indicative verb |
+| Permissive         | -   | \|ax-\| | Permitted or declared possible by speaker                                                                                        |
+| Imperative         | -   | \|i-\|  | Commanded or requested by speaker                                                                                                |
+| Conditional        | -   | \|qa-\| | Dependent on a conditional, typically present as an adjunct to the verb                                                          |
+| Interrogative      | -   | \|xa-\| | Questioning the listener                                                                                                         |
+
+A single modal clitic can serve to introduce several verb phrases, but unlike [[Xiri]], there is no unmarked indicative mood, meaning evidentiality is necessarily expressed for an indicative verb. Until a new modal particle is used, every verb phrase will be assumed to be in the grammatical mood previously established by the speaker.
+
+Many of these clitics were not common in ordinary speech and some were not used at all in most dialects, while others were essentially equivalent. For example *se-* and *ko-* were often used in overlapping roles and *pe-* and *ge-* became completely interchangeable in Outer Möxali dialects.
 ### Prepositions
 All prepositions in Möxali are monosyllabic and always unstressed, appearing at the start of a noun phrase, so can be thought of as clitics. Prepositions exclusively govern the absolutive case
 ### Conjunctions
