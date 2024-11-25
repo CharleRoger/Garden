@@ -42,6 +42,11 @@ Some consonants have a pair of allophones determined by the presence of a front 
 | Open | - |  |  | *a* [a\~ɑ] |
 
 The mid vowels (*i u e ö o*) are realised as [ɪ ʊ e̞ ø̞ o̞] in [[T'ugü]] and most typically [e o ɛ œ ɔ] elsewhere. *ö* in particular can vary in height quite freely between [œ] and [ʏ] depending on speaker and phonological environment, but the height hierarchy *e* < *ö* < *i* is usually maintained.
+
+In addition to the eight typically contrastive vowels, there are four nasalised vowels *in un en on*, which are often considered to be sequences of a vowel and an underlying nasal consonant. When occurring before a stop (plosive or nasal), the nasalised vowels are realised with a nasal stop assimilated to the place of articulation of the following consonant, otherwise they are lengthened.
+> *binbin* "fly (insect)" — Inner [bɪ̃mbɪ̃ː]; Outer [bẽmbẽː]
+> *tinno* "salt" — Inner [t̪ɪ̃n̪n̪o̞]; Outer [t̪ˢẽn̪n̪ɔ]
+> *vonjal* "horizon" — Inner [βõ̞ndʒɑl̪]; Outer [vɔ̃ːʒɑl̪]
 ## Phonotactics
 Möxali's syllable structure is (OR/C)V(D), where O is an obstruent (*p t c k b d f s x v z j*), R is an approximant (*v l y*) with a different place of articulation to O, C is any consonant, V is any vowel (*e ö i í a o u ú*), and D may be any consonant except *y* (*p t c k b d f s x h v z j l*).
 
@@ -227,7 +232,12 @@ Nouns take an obligatory inflection for case, of which there are three which mar
 The ergative suffix is subject to [[Möxali#Vowel sandhi|sandhi]] with a preceding vowel:
 - |udok-in| → *udokin* (lizard-ᴇʀɢ)
 - |ana-in| → *anen* (mouth-ᴇʀɢ)
-- |tino-in| → *tinín* (salt-ᴇʀɢ)
+- |tinno-in| → *tinnín* (salt-ᴇʀɢ)
+
+This sandhi process treats stem-final nasalised vowels like ordinary vowels, though this is not necessarily true in general. All four nasalised vowels, *in un en on*, become *in* due to the ergative suffix.
+- |ösen-in| → *ösin* (firewood-ᴇʀɢ)
+- |yojon-in| → *yojin* (rib-ᴇʀɢ)
+- |adun-in| → *adin* (pouch-ᴇʀɢ)
 
 The dative case has two allomorphs, *-b* and *-ab,* depending on whether the stem ends in a vowel or a consonant respectively.
 - |udok-[a]b| → *udokab* (lizard-ᴅᴀᴛ)
