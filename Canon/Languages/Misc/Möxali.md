@@ -222,19 +222,19 @@ Content words in Möxali are categorised into three lexical classes distinguishe
 - **Transitives** can be predicate with one or more arguments
 ### Nouns
 #### Case
-Nouns take an obligatory inflection for case, of which there are three which mark different morphosyntactic roles. The default unmarked case is the absolutive, used for the sole argument of a stative verb, the object of a transitive verb, as well as the only case governed by prepositions.
+Nouns take an obligatory inflection for case, of which there are three which mark different morphosyntactic roles. The default unmarked case is the absolutive, used for the sole argument of a stative verb or the object of most transitive verbs. Some transitive verbs use a different alignment in which the subject takes the absolutive case and the object takes the dative case. The dative case can also be used to express a recipient or benefactive role with many ordinary ergative verbs. The dative case is also the usual case governed by prepositions, though a small handful of adnominal and locative prepositions govern the absolutive case.
 
 The ergative suffix is subject to [[Möxali#Vowel sandhi|sandhi]] with a preceding vowel:
 - |udok-in| → *udokin* (lizard-ᴇʀɢ)
 - |ana-in| → *anen* (mouth-ᴇʀɢ)
 - |tino-in| → *tinín* (salt-ᴇʀɢ)
 
-The accusative case has two allomorphs, *-b* and *-eb,* depending on whether the stem ends in a vowel or a consonant respectively.
-- |udok-(e)b| → *udokab* (lizard-ᴀᴄᴄ)
-- |ana-(e)b| → *anab* (mouth-ᴀᴄᴄ)
-- |tino-(e)b| → *tinob* (salt-ᴀᴄᴄ)
+The dative case has two allomorphs, *-b* and *-ab,* depending on whether the stem ends in a vowel or a consonant respectively.
+- |udok-[a]b| → *udokab* (lizard-ᴅᴀᴛ)
+- |ana-[a]b| → *anab* (mouth-ᴅᴀᴛ)
+- |tino-[a]b| → *tinob* (salt-ᴅᴀᴛ)
 
-The underlying form of the stem is important to consider for case inflection, particularly in the peripheral dialects which exhibit coda plosive spirantisation. Compare the inflectional set *tanih*/*tanikin*/*tanikeb* (knife) to *ínih*/*ínihin*/*íniheb* (finger), with the underlying forms |tanik| and |ínih| respectively.
+The underlying form of the stem is important to consider for case inflection, particularly in the peripheral dialects which exhibit coda plosive spirantisation. Compare the inflectional set *tanih*/*tanikin*/*tanikab* (knife) to *ínih*/*ínihin*/*ínihab* (finger), with the underlying forms |tanik| and |ínih| respectively.
 #### Instancing and number
 Nouns in Möxali exhibit the phenomenon of [[Noun instancing|instancing]], a trait inherited from [[Low Alöbi]], where nouns distinguish two types of reference:
 - **Instanced** — countable reference to a particular instance of a thing regardless of definiteness, e.g. "a person", "the person", "two people"
@@ -355,8 +355,9 @@ A single modal clitic can serve to introduce several verb phrases, but unlike [[
 
 Many of these clitics were not common in ordinary speech and some were not used at all in most dialects, while others were essentially equivalent. For example *se-* and *ko-* were often used in overlapping roles and *pe-* and *ge-* became completely interchangeable in Outer Möxali dialects.
 ### Prepositions
-All prepositions in Möxali are monosyllabic and always unstressed, appearing at the start of a noun phrase, so can be thought of as clitics. Prepositions exclusively govern the absolutive case
+All prepositions in Möxali are monosyllabic and always unstressed, appearing at the start of a noun phrase, so can be thought of as clitics. 
 ### Conjunctions
 A small set of conjunctions is used to link clauses or begin statements:
 - *i* — basic positive conjunction meaning "and, thus, so, then"
 - *fi* — basic negative conjunction meaning "but, however, regardless"
+- *dúbi* — 
