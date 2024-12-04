@@ -1,6 +1,8 @@
 ---
 tags:
   - language/koyanic
+aliases:
+  - Proto-Gäj
 ---
 **Proto-Gäj** (abbreviated **PGäj**) is the reconstructed ancestor of the "Gäj" branch of the Koyanic languages.
 # Phonology
