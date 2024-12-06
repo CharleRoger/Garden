@@ -1,6 +1,7 @@
 ---
 tags:
   - language/dreic
+  - Telehe_Empire
 ---
 Telehe language is spoken by the [[Telehe people]] in [[Hārūcute]], it was one of the most spoken languages in [[Kóty]] before it's extinction in 1200AGS, influential language between 500-850AGS to many other peoples in Koty, its decline met when the [[Telehe Empire]] fell.
 ## Phonology
