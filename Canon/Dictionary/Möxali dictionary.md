@@ -599,6 +599,11 @@ tags:
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#tosi|tosi]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tusi|*tusi]]_.
 > ¹ Louse, flea
+### duso
+ɪɴɴᴇʀ [d̪ʊθo̞]; ᴏᴜᴛᴇʀ [d̪os̪ɔ]
+
+*v. root* From [[Xiri]] _[[Xiri dictionary#fados|fados]]_ ("to hunt"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#tos|tos]]_ ("hunt, prey").
+> ¹ To hunt
 ### dúzu
 ɪɴɴᴇʀ [d̪uðʊ]; ᴏᴜᴛᴇʀ [d̪uz̪o]
 
@@ -1815,7 +1820,7 @@ tags:
 
 *suff.* From [[Low Alöbi]] _[[Low Alöbi dictionary#-lam|-lam]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-lam|*-lam]]_.
 > ¹ Numeral classifier used to count flat, stackable objects such as flatbreads, leaves and pieces of cloth
-> **Derivatives:** _[[Möxali dictionary#yabdanon|yabdanon]]_ ("[[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript")
+> **Derivatives:** _[[Möxali dictionary#yabdanlon|yabdanlon]]_ ("[[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript")
 ### lökic
 ɪɴɴᴇʀ [l̪ø̞kʲɪtɕ]; ᴏᴜᴛᴇʀ [l̪œkʲeɕ]
 
@@ -2256,7 +2261,7 @@ tags:
 
 *num.*
 > ¹ Dummy root
-> **Derivatives:** _[[Möxali dictionary#öcídnö|öcídnö]]_ ("[[Öcídñox]] calendar"), _[[Möxali dictionary#bigídne|bigídne]]_ ("4-day lunar phase"), _[[Möxali dictionary#sulmo|sulmo]]_ ("sinking canoe"), _[[Möxali dictionary#köxmo|köxmo]]_ ("rising canoe"), _[[Möxali dictionary#lavondu|lavondu]]_ ("[[Lavondu]]"), _[[Möxali dictionary#yabdanon|yabdanon]]_ ("[[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript")
+> **Derivatives:** _[[Möxali dictionary#öcídnö|öcídnö]]_ ("[[Öcídñox]] calendar"), _[[Möxali dictionary#bigídne|bigídne]]_ ("4-day lunar phase"), _[[Möxali dictionary#sulmo|sulmo]]_ ("sinking canoe"), _[[Möxali dictionary#köxmo|köxmo]]_ ("rising canoe"), _[[Möxali dictionary#lavondu|lavondu]]_ ("[[Lavondu]]"), _[[Möxali dictionary#yabdanlon|yabdanlon]]_ ("[[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript")
 ### nöpö
 ɪɴɴᴇʀ [n̪ø̞pø̞]; ᴏᴜᴛᴇʀ [n̪œpœ]
 
@@ -3370,9 +3375,9 @@ tags:
 
 *stat.* From [[Low Alöbi]] _[[Low Alöbi dictionary#yabta|yabta]]_ ("closed"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yapta|*yapta]]_, from _[[Proto-Öbic dictionary#\*yap|*yap]]_ ("close, as of a mouth") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Folded flat; ² Closed
-> **Derivatives:** _[[Möxali dictionary#yabdanon|yabdanon]]_ ("[[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript")
-### yabdanon
-ɪɴɴᴇʀ [jäbd̪än̪õ̞ː]; ᴏᴜᴛᴇʀ [javd̪an̪ɔ̃ː]
+> **Derivatives:** _[[Möxali dictionary#yabdanlon|yabdanlon]]_ ("[[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript")
+### yabdanlon
+ɪɴɴᴇʀ []; ᴏᴜᴛᴇʀ []
 
 *n.* From _[[Möxali dictionary#yabda|yabda]]_ ("folded") + _[[Möxali dictionary#nö|nö]]_ ("dummy root") + _[[Möxali dictionary#-lon|-lon]]_ ("flat object classifier").
 > ¹ [[Ink and Paper in Udovuʼo and T'ugü#Paper|Yabdonlon]] manuscript

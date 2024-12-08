@@ -4563,12 +4563,12 @@ tags:
 
 *v.* From _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*hǖp|*hǖp]]_ ("suck").
 > ¹ To suck
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#olhüb|olhüb]]_, [[High Alöbi]] _[[High Alöbi dictionary#urgǖp|urgǖp]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#olhüb|olhüb]]_, [[High Alöbi]] _[[High Alöbi dictionary#uggǖp|uggǖp]]_
 ### \*urk'üp
 
 *v.* From _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*k'üp|*k'üp]]_ ("spit, vomit").
 > ¹ To spit at
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#olk'öb|olk'öb]]_, [[High Alöbi]] _[[High Alöbi dictionary#urk'üp|urk'üp]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#olk'öb|olk'öb]]_, [[High Alöbi]] _[[High Alöbi dictionary#ugk'üp|ugk'üp]]_
 ### \*urlak'
 
 *v.* From _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*lak'|*lak']]_ ("insert").
@@ -4724,7 +4724,7 @@ tags:
 
 *n.* From _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*kata|*kata]]_ ("head").
 > ¹ Split head
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#ökata|ökata]]_ → [[Möxali]] _[[Möxali dictionary#ökta|ökta]]_; [[High Alöbi]] _[[High Alöbi dictionary#ükqata|ükqata]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#ökata|ökata]]_ → [[Möxali]] _[[Möxali dictionary#ökta|ökta]]_; [[High Alöbi]] _[[High Alöbi dictionary#üqqata|üqqata]]_
 ### \*üktyag
 
 *n.* From _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").

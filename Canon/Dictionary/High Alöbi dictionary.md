@@ -3001,6 +3001,16 @@ tags:
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'ūxiw|*t'ūxiw]]_, from _[[Proto-Öbic dictionary#\*t'ū-|*t'ū-]]_ ("whole, entire") + _[[Proto-Öbic dictionary#\*xiw|*xiw]]_ ("expel").
 > ¹ To expel, drive away
 # u
+### uggǖp
+[ʊɣɣyːp]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urhǖp|*urhǖp]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*hǖp|*hǖp]]_ ("suck").
+> ¹ To suck
+### ugk'üp
+[ʊɣkʼʏp]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urk'üp|*urk'üp]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*k'üp|*k'üp]]_ ("spit, vomit").
+> ¹ To spit at
 ### ukit'
 [ʊkɪtʼ]
 
@@ -3081,16 +3091,6 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urcüm|*urcüm]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*cüm|*cüm]]_ ("manipulate").
 > ¹ To push
-### urgǖp
-[ʊʁɣyːp]
-
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urhǖp|*urhǖp]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*hǖp|*hǖp]]_ ("suck").
-> ¹ To suck
-### urk'üp
-[ʊʁkʼʏp]
-
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urk'üp|*urk'üp]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*k'üp|*k'üp]]_ ("spit, vomit").
-> ¹ To spit at
 ### urlaq'
 [ʊʁlɑqʼ]
 
@@ -3210,11 +3210,6 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üket|*üket]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Split bamboo used for flooring
-### ükqata
-[ʏkqɑtɑ]
-
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ükkata|*ükkata]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*kata|*kata]]_ ("head").
-> ¹ Split head
 ### üktyar
 [ʏktjɑʁ]
 
@@ -3245,6 +3240,11 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üp|*üp]]_, from _[[Proto-Öbic dictionary#\*üp|*üp]]_ ("person").
 > ¹ Person; ² The [[Öb]] people as a whole
+### üqqata
+[ʏqqɑtɑ]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ükkata|*ükkata]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*kata|*kata]]_ ("head").
+> ¹ Split head
 ### üsap
 [ʏsɑp]
 

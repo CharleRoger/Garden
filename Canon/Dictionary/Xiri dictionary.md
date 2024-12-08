@@ -39,7 +39,7 @@ tags:
 > ¹ Mixture
 > **Derivatives:** _[[Xiri dictionary#fa’awa|fa’awa]]_ ("to stir, mix, jostle")
 ### ’awaraza
-ᴇᴀʀʟʏ [ʔawaɾaza]; ʟᴀᴛᴇ [ʔəwaɾəza]
+ᴇᴀʀʟʏ [ʔawaɾaza]; ʟᴀᴛᴇ [ʔəwaɾəzə]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*’awalasa|*’awalasa]]_, from _[[Proto-Xiric dictionary#\*’awa|*’awa]]_ ("mixture") + _[[Proto-Xiric dictionary#\*lasa|*lasa]]_ ("stuff, matter").
 > ¹ Complex substance, a mixture of fundamental substances
@@ -192,7 +192,7 @@ tags:
 > ¹ Twisted, coiled
 > **Derivatives:** _[[Xiri dictionary#ariyari|ariyari]]_ ("spiral")
 ### ariyari
-ᴇᴀʀʟʏ [aɾijaɾi]; ʟᴀᴛᴇ [əɾijəɾi]
+ᴇᴀʀʟʏ [aɾijaɾi]; ʟᴀᴛᴇ [əɾijəɾɪ]
 
 *n.* From _[[Xiri dictionary#arida|arida]]_ ("twisted, coiled").
 > ¹ Spiral
@@ -253,12 +253,12 @@ tags:
 *n.* From _[[Xiri dictionary#ā-|ā-]]_ ("augmentative") + _[[Xiri dictionary#mugo|mugo]]_ ("hill").
 > ¹ Mountain
 ### āńurōgi
-ᴇᴀʀʟʏ [aːŋuɾoːŋi]; ʟᴀᴛᴇ [aŋuɾoŋi]
+ᴇᴀʀʟʏ [aːŋuɾoːŋi]; ʟᴀᴛᴇ [aŋuɾoŋɪ]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*āńulāuqi|*āńulāuqi]]_.
 > ¹ The Āńurōgi, a large cockroach-like insect that scavenges for dead meat
 ### ārōidi
-ᴇᴀʀʟʏ [aːɾoːid̪i]; ʟᴀᴛᴇ [aɾoɪd̪i]
+ᴇᴀʀʟʏ [aːɾoːid̪i]; ʟᴀᴛᴇ [aɾoɪd̪ɪ]
 
 *n.* From _[[Xiri dictionary#ā-|ā-]]_ ("augmentative") + _[[Xiri dictionary#ferō|ferō]]_ ("cover") + _[[Xiri dictionary#idi|idi]]_ ("tree").
 > ¹ The [[Aroidi tree]], a banyan-like tree endemic to [[Udovuʼo]]
@@ -603,13 +603,13 @@ tags:
 > **Derivatives:** _[[Xiri dictionary#xiyeru|xiyeru]]_ ("Xiyeru")
 > **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#elu|elu]]_ ("Xiyeru person") → [[Möxali]] _[[Möxali dictionary#ilu|ilu]]_; [[Möxali]] _[[Möxali dictionary#-ru|-ru]]_ ("people classifier")
 ### eruwe’a
-ᴇᴀʀʟʏ [eɾuweʔa]; ʟᴀᴛᴇ [ɛɾuwɛʔa]
+ᴇᴀʀʟʏ [eɾuweʔa]; ʟᴀᴛᴇ [ɛɾuwɛʔə]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*eleuwai’a|*eleuwai’a]]_, from _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person") + _[[Proto-Xiric dictionary#\*wai’a|*wai’a]]_ ("river, wind").
 > ¹ Parent
 > **Derivatives:** _[[Xiri dictionary#āeruwe’a|āeruwe’a]]_ ("[[Aeruweʼa]], the spiritual and political leader of the [[Xiyeru]]")
 ### eruyēgom
-ᴇᴀʀʟʏ [eɾujeːŋõ]; ʟᴀᴛᴇ [ɛɾujeŋõ]
+ᴇᴀʀʟʏ [eɾujeːŋõ]; ʟᴀᴛᴇ [ɛɾujeŋɔ̃]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*eleuiēkaume|*eleuiēkaume]]_.
 > ¹ Friend
@@ -734,6 +734,7 @@ tags:
 
 *v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#tos|tos]]_ ("hunt, prey").
 > ¹ To hunt
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#duso|duso]]_ ("to hunt, stalk")
 ### faduzu
 ᴇᴀʀʟʏ [fad̪uzu]; ʟᴀᴛᴇ [fəd̪uzʊ]
 
@@ -741,7 +742,7 @@ tags:
 > ¹ To carve, scratch
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#dúzu|dúzu]]_
 ### fagara’e
-ᴇᴀʀʟʏ [faŋaɾaʔe]; ʟᴀᴛᴇ [fəŋaɾəʔe]
+ᴇᴀʀʟʏ [faŋaɾaʔe]; ʟᴀᴛᴇ [fəŋaɾəʔɛ]
 
 *v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#kara’e|kara’e]]_ ("anger, passion").
 > ¹ To anger, make angry; ² To make passionate
@@ -802,7 +803,7 @@ tags:
 > ¹ To cultivate, rear, plant
 > **Derivatives:** _[[Xiri dictionary#famenekwi|famenekwi]]_ ("The planet [[Fleck]]")
 ### famenekwi
-ᴇᴀʀʟʏ [famen̪ekwi]; ʟᴀᴛᴇ [fəmen̪ɛkwi]
+ᴇᴀʀʟʏ [famen̪ekwi]; ʟᴀᴛᴇ [fəmen̪ɛkwɪ]
 
 *n.* From _[[Xiri dictionary#famene|famene]]_ ("to cultivate, rear, plant") + _[[Xiri dictionary#kwi|kwi]]_ ("yam").
 > ¹ The planet [[Fleck]]
@@ -830,7 +831,7 @@ tags:
 > ¹ To speak, utter; ² To talk; ³ (with _[[Xiri dictionary#kyē|kyē]]_) to say
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#naqa|naqa]]_
 ### fańa’āi
-ᴇᴀʀʟʏ [faŋaʔaːi]; ʟᴀᴛᴇ [fəŋaʔai]
+ᴇᴀʀʟʏ [faŋaʔaːi]; ʟᴀᴛᴇ [fəŋaʔaɪ]
 
 *v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#ńa’āi|ńa’āi]]_ ("tattoo").
 > ¹ To stain; ² To tattoo; ³ To mark
@@ -883,7 +884,7 @@ tags:
 > **Derivatives:** _[[Xiri dictionary#farižida|farižida]]_ ("division, group of people")
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#díji|díji]]_
 ### farižida
-ᴇᴀʀʟʏ [faɾiʒid̪a]; ʟᴀᴛᴇ [fəɾiʒɪd̪a]
+ᴇᴀʀʟʏ [faɾiʒid̪a]; ʟᴀᴛᴇ [fəɾiʒɪd̪ə]
 
 *n.* From _[[Xiri dictionary#fariži|fariži]]_ ("to divide") + _[[Xiri dictionary#-ta|-ta]]_ ("adjectiviser").
 > ¹ Division, group of people
@@ -971,7 +972,7 @@ tags:
 > ¹ To give a gift
 > **Derivatives:** _[[Xiri dictionary#fazegiri|fazegiri]]_ ("The planet [[Tünd]]")
 ### fazegiri
-ᴇᴀʀʟʏ [fazeŋiɾi]; ʟᴀᴛᴇ [fəzeŋɪɾi]
+ᴇᴀʀʟʏ [fazeŋiɾi]; ʟᴀᴛᴇ [fəzeŋɪɾɪ]
 
 *n.* From _[[Xiri dictionary#fazegi|fazegi]]_ ("to give a gift") + _[[Xiri dictionary#rhi|rhi]]_ ("tongue, language").
 > ¹ The planet [[Tünd]]
@@ -995,7 +996,7 @@ tags:
 > ¹ To beat to a pulp; ² To flatten
 > **Derivatives:** _[[Xiri dictionary#fazūjebe|fazūjebe]]_ ("paper")
 ### fazūjebe
-ʟᴀᴛᴇ [fəzudʒɛbe]
+ʟᴀᴛᴇ [fəzudʒɛbɛ]
 
 *n.* From _[[Xiri dictionary#fazū|fazū]]_ ("to beat") + _[[Xiri dictionary#cebe|cebe]]_ ("skin, bark").
 > ¹ Paper
@@ -1303,7 +1304,7 @@ tags:
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*īpu|*īpu]]_.
 > ¹ Cat
 ### īdoskare
-ᴇᴀʀʟʏ [iːd̪oskaɾe]; ʟᴀᴛᴇ [id̪oskəɾe]
+ᴇᴀʀʟʏ [iːd̪oskaɾe]; ʟᴀᴛᴇ [id̪oskəɾɛ]
 
 *n.* From _[[Xiri dictionary#ī|ī]]_ ("dark in colour") + _[[Xiri dictionary#tos|tos]]_ ("hunt, prey") + _[[Xiri dictionary#kare|kare]]_ ("demon").
 > ¹ Idoskare, big cat sp.
@@ -1315,7 +1316,7 @@ tags:
 > **Derivatives:** _[[Xiri dictionary#ījižāga|ījižāga]]_ ("hawk sp.")
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#íjiya|íjiya]]_
 ### ījižāga
-ᴇᴀʀʟʏ [iːdʒiʒaːŋa]; ʟᴀᴛᴇ [idʒiʒaŋa]
+ᴇᴀʀʟʏ [iːdʒiʒaːŋa]; ʟᴀᴛᴇ [idʒiʒaŋə]
 
 *n.* From _[[Xiri dictionary#īji|īji]]_ ("black") + _[[Xiri dictionary#xāga|xāga]]_ ("scalp").
 > ¹ Hawk sp.
@@ -1427,7 +1428,7 @@ tags:
 > ¹ Heart
 > **Derivatives:** _[[Xiri dictionary#kumaswiži|kumaswiži]]_ ("waterfowl sp.")
 ### kumaswiži
-ᴇᴀʀʟʏ [kumaswiʒi]; ʟᴀᴛᴇ [kʊmaswɪʒi]
+ᴇᴀʀʟʏ [kumaswiʒi]; ʟᴀᴛᴇ [kʊmaswɪʒɪ]
 
 *n.* From _[[Xiri dictionary#kuma|kuma]]_ ("heart") + _[[Xiri dictionary#swiži|swiži]]_ ("waterfowl").
 > ¹ Waterfowl sp.
@@ -1486,7 +1487,7 @@ tags:
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ma’āleu|*ma’āleu]]_, from _[[Proto-Xiric dictionary#\*ma’a|*ma’a]]_ ("five") + _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
 > ¹ Five people
 ### ma’āvuru
-ᴇᴀʀʟʏ [maʔaːvuɾu]; ʟᴀᴛᴇ [məʔavʊɾu]
+ᴇᴀʀʟʏ [maʔaːvuɾu]; ʟᴀᴛᴇ [məʔavʊɾʊ]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ma’āfieleu|*ma’āfieleu]]_, from _[[Proto-Xiric dictionary#\*ma’āfi|*ma’āfi]]_ ("fifty") + _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
 > ¹ Fifty people
@@ -1684,12 +1685,12 @@ tags:
 *n.* From _[[Xiri dictionary#ńa’āi|ńa’āi]]_ ("tattoo") + _[[Xiri dictionary#fozi|fozi]]_ ("knowledge").
 > ¹ The quality of being adept at tattooing; ² Knowledge of the [[Ńaʼay]]
 ### ńa’āiwa
-ᴇᴀʀʟʏ [ŋaʔaːiwa]; ʟᴀᴛᴇ [ŋəʔaɪwa]
+ᴇᴀʀʟʏ [ŋaʔaːiwa]; ʟᴀᴛᴇ [ŋəʔaɪwə]
 
 *n.* From _[[Xiri dictionary#ńa’āi|ńa’āi]]_ ("tattoo") + _[[Xiri dictionary#wa|wa]]_ ("correct").
 > ¹ Tattoo correction
 ### ńa’āiza
-ᴇᴀʀʟʏ [ŋaʔaːiza]; ʟᴀᴛᴇ [ŋəʔaɪza]
+ᴇᴀʀʟʏ [ŋaʔaːiza]; ʟᴀᴛᴇ [ŋəʔaɪzə]
 
 *n.* From _[[Xiri dictionary#ńa’āi|ńa’āi]]_ ("tattoo") + _[[Xiri dictionary#sa|sa]]_ ("general negativising adverb").
 > ¹ One who is not tattooed; ² A non-[[Xiyeru]] person
@@ -1906,7 +1907,7 @@ tags:
 > ¹ Red
 > **Derivatives:** _[[Xiri dictionary#rhajožin|rhajožin]]_ ("reef fish sp."), _[[Xiri dictionary#rhajoadu|rhajoadu]]_ ("bird sp.")
 ### rhajoadu
-ᴇᴀʀʟʏ [ɹadʒoad̪u]; ʟᴀᴛᴇ [ɹədʒoəd̪u]
+ᴇᴀʀʟʏ [ɹadʒoad̪u]; ʟᴀᴛᴇ [ɹədʒoəd̪ʊ]
 
 *n.* From _[[Xiri dictionary#rhajo|rhajo]]_ ("red") + _[[Xiri dictionary#adu|adu]]_ ("leg of an animal").
 > ¹ Bird sp.
@@ -1937,7 +1938,7 @@ tags:
 > **Derivatives:** _[[Xiri dictionary#rhavododo|rhavododo]]_ ("foreign villages")
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#lava|lava]]_
 ### rhavododo
-ʟᴀᴛᴇ [ɹəvod̪ɔd̪o]
+ʟᴀᴛᴇ [ɹəvod̪ɔd̪ɔ]
 
 *n.* From _[[Xiri dictionary#rhavo|rhavo]]_ ("other, different") + _[[Xiri dictionary#todo|todo]]_ ("village").
 > ¹ The [[Lavdo|Rhavo todo]], lit. "foreign villages" established by the [[Xiyeru]] in [[T'ugü]]'
@@ -2041,7 +2042,7 @@ tags:
 *n.* From _[[Xiri dictionary#rhurā|rhurā]]_ ("white") + _[[Xiri dictionary#xin|xin]]_ ("reef fish").
 > ¹ Reef fish sp.
 ### rhureyāwa
-ᴇᴀʀʟʏ [ɹuɾejaːwa]; ʟᴀᴛᴇ [ɹʊɾejawa]
+ᴇᴀʀʟʏ [ɹuɾejaːwa]; ʟᴀᴛᴇ [ɹʊɾejawə]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*luleiāwa|*luleiāwa]]_, Perhaps related to [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*iāwa|*iāwa]]_ ("folded fabric or leaf").
 > ¹ Reef fish sp.
@@ -2110,7 +2111,7 @@ tags:
 > ¹ Nose; ² Protrusion
 > **Derivatives:** _[[Xiri dictionary#sańāji’i|sańāji’i]]_ ("sańajiʼi, sibig sp.")
 ### sańāji’i
-ᴇᴀʀʟʏ [saŋaːdʒiʔi]; ʟᴀᴛᴇ [səŋadʒɪʔi]
+ᴇᴀʀʟʏ [saŋaːdʒiʔi]; ʟᴀᴛᴇ [səŋadʒɪʔɪ]
 
 *n.* From _[[Xiri dictionary#sańā|sańā]]_ ("nose") + _[[Xiri dictionary#ci’i|ci’i]]_ ("tooth").
 > ¹ Sańajiʼi, sibig sp.
@@ -2382,7 +2383,7 @@ tags:
 > ¹ Behind, after; ² Below; ³ At the end of
 > **Derivatives:** _[[Xiri dictionary#cadaru|cadaru]]_ ("to come after, under"), _[[Xiri dictionary#tarudaru|tarudaru]]_ ("sequence, series"), _[[Xiri dictionary#fadaru|fadaru]]_ ("to follow")
 ### tarudaru
-ᴇᴀʀʟʏ [t̪aɾud̪aɾu]; ʟᴀᴛᴇ [t̪əɾud̪əɾu]
+ᴇᴀʀʟʏ [t̪aɾud̪aɾu]; ʟᴀᴛᴇ [t̪əɾud̪əɾʊ]
 
 *v. intr.* From _[[Xiri dictionary#taru|taru]]_ ("after, below") + _[[Xiri dictionary#taru|taru]]_ ("after, below").
 > ¹ Sequence, series
@@ -2485,7 +2486,7 @@ tags:
 *pref.*
 > ¹ Comitative case, a subcase of the genitive case
 ### udovu’o
-ᴇᴀʀʟʏ [ud̪ovuʔo]; ʟᴀᴛᴇ [ʊd̪ovʊʔo]
+ᴇᴀʀʟʏ [ud̪ovuʔo]; ʟᴀᴛᴇ [ʊd̪ovʊʔɔ]
 
 *n.* From _[[Xiri dictionary#u-|u-]]_ ("plural") + _[[Xiri dictionary#to|to]]_ ("house") + _[[Xiri dictionary#fu’o|fu’o]]_ ("island").
 > ¹ The "Home Islands", the homeland of the [[Xiyeru]]
@@ -2529,7 +2530,7 @@ tags:
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūpa|*ūpa]]_.
 > ¹ The sun; ² Day
 ### ūbazura
-ᴇᴀʀʟʏ [uːbazuɾa]; ʟᴀᴛᴇ [ubazʊɾa]
+ᴇᴀʀʟʏ [uːbazuɾa]; ʟᴀᴛᴇ [ubazʊɾə]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūpasulua|*ūpasulua]]_, from _[[Proto-Xiric dictionary#\*ūpa|*ūpa]]_ ("sun") + _[[Proto-Xiric dictionary#\*sulua|*sulua]]_ ("resting, west").
 > ¹ Sunset; ² West
@@ -2568,7 +2569,7 @@ tags:
 *adj.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūkiā|*ūkiā]]_.
 > ¹ Entire, whole; ² True
 ### ūžāraza
-ᴇᴀʀʟʏ [uːʒaːɾaza]; ʟᴀᴛᴇ [uʒaɾəza]
+ᴇᴀʀʟʏ [uːʒaːɾaza]; ʟᴀᴛᴇ [uʒaɾəzə]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūkiālasa|*ūkiālasa]]_, from _[[Proto-Xiric dictionary#\*ūkiā|*ūkiā]]_ ("whole") + _[[Proto-Xiric dictionary#\*lasa|*lasa]]_ ("stuff, matter").
 > ¹ Fundamental substance, one of the primary components of matter

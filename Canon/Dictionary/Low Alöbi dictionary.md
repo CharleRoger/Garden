@@ -170,7 +170,7 @@ tags:
 > ¹ Axe
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#anök|anök]]_
 ### anxub
-ᴇᴀʀʟʏ [ɑnʃub]; ᴍᴀᴛᴜʀᴇ [ʌ̃nʃʊb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɔ̃nʃʊb]
+ᴇᴀʀʟʏ [ɑnʃub]; ᴍᴀᴛᴜʀᴇ [ʌ̃nʃʊb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɔ̃ːʃʊb]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*anxūp|*anxūp]]_, from _[[Proto-Öbic dictionary#\*<an>|*<an>]]_ ("instrument") + _[[Proto-Öbic dictionary#\*xūp|*xūp]]_ ("adze").
 > ¹ Adze, a tool used to hollow out a log into a canoe
@@ -3632,7 +3632,7 @@ tags:
 > ¹ Sticky, adhesive
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#síma|síma]]_
 ### sümsüm
-ᴇᴀʀʟʏ [symsym]; ᴍᴀᴛᴜʀᴇ [sʏ̃nsʏ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sʊ̃nsʊ̃ː]
+ᴇᴀʀʟʏ [symsym]; ᴍᴀᴛᴜʀᴇ [sʏ̃nsʏ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sʊ̃ːsʊ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*sǖmsǖm|*sǖmsǖm]]_, from _[[Proto-Öbic dictionary#\*sǖm|*sǖm]]_ ("sap, tree oil") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ Sap
@@ -4575,7 +4575,7 @@ tags:
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#vöxik|vöxik]]_
 # x
 ### xagxag
-ᴇᴀʀʟʏ [ʃɑɴʃɑɴ]; ᴍᴀᴛᴜʀᴇ [ʃʌ̃nʃʌ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃɔ̃nʃɔ̃ː]
+ᴇᴀʀʟʏ [ʃɑɴʃɑɴ]; ᴍᴀᴛᴜʀᴇ [ʃʌ̃nʃʌ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃɔ̃ːʃɔ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xagxag|*xagxag]]_, from _[[Proto-Öbic dictionary#\*xag|*xag]]_ ("ash, dust") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ Ash, dust
@@ -4735,7 +4735,7 @@ tags:
 > ¹ Something unknown
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#xömon|xömon]]_
 ### xömxöm
-ᴇᴀʀʟʏ [ʃømʃøm]; ᴍᴀᴛᴜʀᴇ [ʃœ̃nʃœ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃɔ̃nʃɔ̃ː]
+ᴇᴀʀʟʏ [ʃømʃøm]; ᴍᴀᴛᴜʀᴇ [ʃœ̃nʃœ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃɔ̃ːʃɔ̃ː]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xümxüm|*xümxüm]]_, from _[[Proto-Öbic dictionary#\*xüm|*xüm]]_ ("hide") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To hide; ² To store
