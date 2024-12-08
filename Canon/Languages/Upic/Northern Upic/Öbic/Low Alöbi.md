@@ -134,25 +134,25 @@ Ten and twenty-five have their own roots, *üs-* and *myaq-* respectively. O
 #### Classifiers
 Numeral stems do not occur in isolation and must be suffixed with a classifier which specifies the type of object being counted. Animals are classified by type of animal and non-animal objects are generally classified by shape.
 
-|Classifier|Noun class|
-|---|---|
-|_-ka_|**Öb people**: [[Öb]], as distinct from other humanoid peoples like the [[Xiyeru]], which the [[Öb]] came into contact with in the [[1st century]]. |
-|_-tu_|**Non-Öb humans**|
-|_-to_|**Large land animals which are strictly not eaten**: large ungulates, large birds, [[t'ak'og]] |
-|_-ag_|**Small land animals which can typically be eaten**: flightless birds, toads, some large crabs, [[k'übi]], [[sibig]] |
-|_-c'i_|**Smaller animals which are not typically eaten, pests**: insects, small crustaceans, lizards, rodents, worms|
-|_-iw_|**Flying birds**|
-|_-sü_|**Fish**|
-|_-wo_|**Hollow objects**: baskets, barrels, bags, houses, caves, some shells|
-|_-en_|**Roundish objects that fit in the hand**: most fruit and vegetables, pieces of meat|
-|_-tik'_|**Small clustering objects**: seeds, grains, pebbles, berries, eggs, stars|
-|_-lam_|**Flat objects which can be stacked**: flatbreads, leaves, pieces of cloth|
-|_-na_|**Slightly elongated objects**: fish (as food), certain fruit, dead bodies, knives, planks of wood|
-|_-ig_|**Extremely elongated objects**: sticks, rods, bones|
-|_-öx_|**Large, irregularly shaped objects**: boulders, clouds, mountains, villages, forests|
-|_-luc_|**Objects with a branching structure**: trees, pieces of [[Cimcim#Ökya cimcim\|ökya cimcim]], lightning bolts |
-|_-ö_|**Cyclic or reciprocal things**: months, years, wheels, transactions|
-|_-ay_|**Objects with no physical form**: words, thoughts, colours, days, other non-physical things|
+| Classifier | Noun class                                                                                                           |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| *-ka*      | **Humans**                                                                                                           |
+| *-to*      | **Large land animals which are strictly not eaten**: large ungulates, large birds, [[t'ak'og]]                       |
+| *-ag*      | **Small land animals which can typically be eaten**: flightless birds, toads, some large crabs, [[k'übi]], [[sibig]] |
+| *-c'i*     | **Smaller animals which are not typically eaten, pests**: insects, small crustaceans, lizards, rodents, worms        |
+| *-iw*      | **Flying birds**                                                                                                     |
+| *-sü*      | **Fish** (as a living animal)                                                                                        |
+| *-wo*      | **Hollow objects**: baskets, barrels, bags, houses, caves, some shells                                               |
+| *-en*      | **Roundish objects that fit in the hand**: most fruit and vegetables, pieces of meat                                 |
+| *-tik'*    | **Small clustering objects**: seeds, grains, pebbles, berries, eggs, stars                                           |
+| *-lam*     | **Flat objects which can be stacked**: flatbreads, leaves, pieces of cloth                                           |
+| *-na*      | **Slightly elongated objects**: fish (as food), certain fruit, dead bodies, knives, planks of wood                   |
+| *-ig*      | **Extremely elongated objects**: sticks, rods, bones                                                                 |
+| *-öx*      | **Large, irregularly shaped objects**: boulders, clouds, mountains, villages, forests                                |
+| *-luc*     | **Objects with a branching structure**: trees, pieces of [[Cimcim#Ökya cimcim\|ökya cimcim]], lightning bolts        |
+| *-ay*      | **Segments**: teeth, scales, words, links of a chain, certain short units of time                                    |
+| *-ö*       | **Cyclic or reciprocal things**: months, years, wheels, transactions                                                 |
+| *-u*       | **Objects with no physical form**: words, thoughts, colours, other non-physical things                               |
 Two of the classifiers were innovated in the first few centuries AGS:
 - *-lu* ~ *-du* — Initially referring to Xiyeru people, derived from *elu* ~ *edu* [ˈelʊ ~ edʊ] "Xiyeru person" ← Xiri *eru* "person".
 - *-ö* — Partially a back-formation from *omö* "major month (50 days)", rebracketed as `five-CLF`.
