@@ -96,6 +96,10 @@ The donation of a plosive to a following syllable can occur across morpheme or w
 > "I work stone"
 
 Despite this spirantisation rule being present in the most commonly spoken forms of Möxali throughout history, the native orthography tends to favour more conservative spelling in formal contexts, e.g. ⟨LÍ-MO-KA⟩ rather than ⟨LÍ-MO-HA⟩ for *límoh*. For consistency and clarity, romanisation of Möxali generally uses conservative spelling unless otherwise stated, i.e. *límok* not *límoh*.
+
+The marginal phoneme *r*, which only appears between vowels, also undergoes a coda neutralisation with *l*:
+- |xíqar-∅| → *xíqal* (ship-ᴀʙꜱ)
+- |xíqar-in| → *xíqarin* (ship-ᴇʀɢ)
 ## Obstruent devoicing
 Voiced obstruents (*b d j z v*) devoice to (*p t c s f*) when in a cluster with any voiceless consonant (*p t c k q f s x h*). For example, the [[Low Alöbi]] verb *ubsöb* (write) is reflected in Möxali as *upsöb*, the adjunct form of which *opsíb-d-a* (written) is the source of the name of Möxali's script [[Opsíbdañox]] "sacred written thing". The stativiser suffix *-d* will also similarly devoice when next to a voiceless consonant, for example the verb *mídös* (to smoke, as of meat) yields the adjunct form *midista* (smoked). This voicedness alternation is most commonly seen in the aspect conjugation of verb roots:
 
