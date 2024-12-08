@@ -1,0 +1,11 @@
+/* remove extra line spacing added by obsidian */
+.dictionary :is(h3,h6,ul,ol,p) {
+  display: inline;
+  & + .cm-line { display: inline; }
+}
+
+/* margins between paragraphs and blockquotes */
+.dictionary :has(p) + div:has(blockquote) :is(blockquote) {
+	margin-top: 0.0em;
+    margin-bottom: 0.75em;
+}
