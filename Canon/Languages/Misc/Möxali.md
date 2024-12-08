@@ -29,19 +29,23 @@ Note that common Outer Möxali spelling additionally does not use certain diacri
 ### Front-back allophones
 Some consonants have a pair of allophones determined by the presence of a front (*e ö i í*) or back (*a o u ú*) vowel in the host syllable. These allophonic pairs or some variants of them are present in the vast majority of speakers, particularly those who speak Möxali as a first language or are in regular contact with those who do. The typical phonetic values of these allophonic pairs are shown below:
 
-|       | -   | *t*   | *d*   | *s*  | *z*  | *c*  | *x* | *j* | *g* | *k* | *h* |
-| ----- | --- | ----- | ----- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
-| Front | -   | [t̪ˢ] | [d̪ᶻ] | [s̪] | [z̪] | [tɕ] | [ɕ] | [ʑ] | [ŋ] | [k] | [x] |
-| Back  | -   | [t̪]  | [d̪]  | [θ]  | [ð]  | [tʃ] | [ʃ] | [ʒ] | [ɴ] | [q] | [χ] |
-## Vowels
-|  | - | Front unrounded | Front rounded | Back |
-| ---- | ---- | ---- | ---- | ---- |
-| Close | - | *í* [i] |  | *ú* [u] |
-| Close-mid | - | *i* [e\~ɪ] | *ö* [œ\~ø̞\~ʏ] | *u* [o\~ʊ] |
-| Open-mid | - | *e* [ɛ\~e̞] | ^ | *o* [ɔ\~o̞]] |
-| Open | - |  |  | *a* [a\~ɑ] |
+|       | -   | *t*   | *d*   | *s*  | *z*  | *c*  | *x* | *j* | *g*   | *k*   | *h*   |
+| ----- | --- | ----- | ----- | ---- | ---- | ---- | --- | --- | ----- | ----- | ----- |
+| Front | -   | [t̪ˢ] | [d̪ᶻ] | [s̪] | [z̪] | [tɕ] | [ɕ] | [ʑ] | [ŋʲ]  | [kʲ]  | [xʲ]  |
+| Back  | -   | [t̪]  | [d̪]  | [θ]  | [ð]  | [tʃ] | [ʃ] | [ʒ] | [ŋ~ɴ] | [k~q] | [x~χ] |
 
-The mid vowels (*i u e ö o*) are realised as [ɪ ʊ e̞ ø̞ o̞] in [[T'ugü]] and most typically [e o ɛ œ ɔ] elsewhere. *ö* in particular can vary in height quite freely between [œ] and [ʏ] depending on speaker and phonological environment, but the height hierarchy *e* < *ö* < *i* is usually maintained.
+The uvular qualities of the velar consonants are generally only used by bilingual speakers of [[Low Alöbi]] and later [[Eubli]], which both feature these phones extensively, especially next to the vowel *a*.
+## Vowels
+|           | -   | Front unrounded | Front rounded  | Back         |
+| --------- | --- | --------------- | -------------- | ------------ |
+| Close     | -   | *í* [i]         |                | *ú* [u]      |
+| Close-mid | -   | *i* [e\~ɪ]      | *ö* [œ\~ø̞\~ʏ] | *u* [o\~ʊ]   |
+| Open-mid  | -   | *e* [ɛ\~e̞]     | ^              | *o* [ɔ\~o̞]] |
+| Open      | -   |                 |                | *a* [ä\~ɑ]   |
+
+The mid vowels (*i u e ö o*) are realised as [ɪ ʊ e̞ ø̞ o̞] in the [[Möxali#Inner Möxali|inner dialects]] of [[T'ugü]] and most typically [e o ɛ œ ɔ] elsewhere. *ö* in particular can vary in height quite freely between [œ] and [ʏ] depending on speaker and phonological environment, but the height hierarchy *e* < *ö* < *i* is usually maintained.
+
+The open vowel *a* varies between central and back qualities, with the furthest back [ɑ] typically used by bilingual speakers of [[Low Alöbi]] and triggering the uvular consonant allophones described above.
 
 In addition to the eight typically contrastive vowels, there are four nasalised vowels *in un en on*, which are often considered to be sequences of a vowel and an underlying nasal consonant. When occurring before a stop (plosive or nasal), the nasalised vowels are realised with a nasal stop assimilated to the place of articulation of the following consonant, otherwise they are lengthened.
 > *binbin* "fly (insect)" — Inner [bɪ̃mbɪ̃ː]; Outer [bẽmbẽː]
@@ -202,7 +206,7 @@ The most characteristic feature of Inner Möxali phonology is the retention of c
 - *j* is typically pronounced as an affricate [dʒ~dʑ], rather than a fricative [ʒ~ʑ]
 - The vowels (*i ö u*) are realised as [ɪ œ ʊ], rather than close-mid [e ø o]
 
-The front/back consonant allophones described [[Möxali#Front-back allophones|above]] were present in first language speakers, but less so in second language speakers, i.e. [[Öb]] who spoke [[Low Alöbi]] as a first language. In [[Öb]]-style Inner Möxali, the coronal obstruents (*t d s z c x j*) were [t̪ d̪ θ ð tʃ ʃ (d)ʒ] in all environments, never the allophones [t̪ˢ d̪ᶻ s̪ z̪ tɕ ɕ (d)ʑ] which were present next to front vowels for most other speakers.
+The front/back consonant allophones described [[Möxali#Front-back allophones|above]] were present in first language speakers, but less so in second language speakers, i.e. [[Öb]] who spoke [[Low Alöbi]] as a first language. In [[Öb]]-style Inner Möxali, the velar consonants (*g k h*) were uvular [ɴ q χ] next to the vowel *a* and sometimes next to other back vowels, while the coronal obstruents (*t d s z c x j*) were [t̪ d̪ θ ð tʃ ʃ (d)ʒ] in all environments, never the allophones [t̪ˢ d̪ᶻ s̪ z̪ tɕ ɕ (d)ʑ] which were present next to front vowels for most other speakers.
 ## Outer Möxali
 Outer Möxali was a collection of dialects which were spread throughout the coast of [[Fountainhead]] beginning at the end of the [[9th century]]. There was more variation in the outer dialects than in Inner Möxali, but there still existed many common features which distinguished them as a related group. Outer Möxali was spoken as a first language by some [[Lavondu]] settlements along [[Fountainhead|Fountainhead's]] coast, but most commonly as a second language by many other cultures, including but not limited to: the [[Xiyeru]], [[Ansang people]], and speakers of [[Nambāno]] dialects.
 
