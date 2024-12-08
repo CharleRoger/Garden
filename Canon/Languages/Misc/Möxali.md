@@ -317,6 +317,8 @@ The progressive is formed by a reduplication of the root vowel, which is modifie
 - |min~V| → *mine* (cultivate-ᴘʀᴏɢ)
 - |qúr~V| → *qúru* (sharpen-ᴘʀᴏɢ)
 
+The progressive stem serves as the citation form of a verb root, e.g. *[[Möxali dictionary#eqe|eqe]]* representing the verb root *e-* "do, make, put in place".
+
 If the verb root ends in a vowel, a glottal stop is inserted before the reduplicated vowel
 - |qo~V| → *qoqo* (carry-ᴘʀᴏɢ)
 - |vi~V| → *viqe* (break-ᴘʀᴏɢ)
