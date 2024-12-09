@@ -95,12 +95,12 @@ A prefix can be optionally attached directly to a noun stem to specify grammatic
 
 A noun with a number prefix is said to have [[noun instancing|instanced]] reference to a specific, countable instance of a thing, regardless of definiteness, rather than generic reference to a kind or category. The instancing number prefixes of Alöbi are shown in the table below.
 
-|  | - | People | Animate | Inanimate |
-| ---- | ---- | ---- | ---- | ---- |
-| Singular | - | *(e)-* | *ti- / ty-* | *yo-* |
-| Dual | - | *k(e)-* |  | *xun-* |
-| Paucal | - | *ma-* | *bu-* |  |
-| Plural | - | *ni- / ny-* | *x(i)-* |  |
+|          | -   | People      | Animate     | Inanimate    |
+| -------- | --- | ----------- | ----------- | ------------ |
+| Singular | -   | *(e)-*      | *ti- / ty-* | *yo-* / *w-* |
+| Dual     | -   | *k(e)-*     | <           | *xun-*       |
+| Paucal   | -   | *ma-*       | *b(u)-*     | ^            |
+| Plural   | -   | *ni- / ny-* | *x(i)-*     | ^            |
 
 Vowels in brackets are present only on obstruent-initial stems, so the singular person prefix is null on vowel and approximant-initial stems.
 
@@ -193,8 +193,8 @@ First and second person pronouns are "true" pronouns which represent the speaker
 > "I see you"
 
 Like the typical absolutive case, the nominative also has a genitive function when placed immediately before a noun.
-> *yaten yomam*
-> `yaten    yo=     (a)mam`
+> *yaten wamam*
+> `yaten    w=      amam`
 > `1SG.NOM  INAN.SG=house.ABS`
 > "my house"
 
