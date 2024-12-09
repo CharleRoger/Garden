@@ -5,6 +5,7 @@ tags:
   - auto_generated dictionary language/xiric
 ---
 
+A dictionary of terms in the [[Xiri]] language.
 
 # ’
 ### ’a’ē

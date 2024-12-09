@@ -5,6 +5,7 @@ tags:
   - auto_generated dictionary language/upic
 ---
 
+A dictionary of terms in the [[Proto-Öbic language|Proto-Öbic]] language.
 
 # a
 ### \*a=

@@ -5,6 +5,7 @@ tags:
   - auto_generated dictionary language/upic
 ---
 
+A dictionary of terms in the [[High Alöbi]] language.
 
 # a
 ### acas
