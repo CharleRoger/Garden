@@ -3,20 +3,19 @@ tags:
   - ansang
   - language/atteric
 ---
-Spoken by the [[Ansang people]] is one of the languages spoken in [[Ansang Islands]].
-
+**Ansang** or **Later Ansang**, also called **Proper Ansang** is a variety of Ansang spoken roughly the [[6th century]] through the following two centuries. Spoken by the [[Ansang people]] is one of the languages spoken in [[Ansang Islands]].
 It's an agglutinative language and polysynthetic, most of it's grammatical constructions and morpheme can be agglutinated forming long words that encompass several phrases.
-
 ## History
 
-Originally spoken by [[Ansang people]], that live in the [Ansang islands](https://winter.miraheze.org/wiki/Ansang_islands "Ansang islands") an archipelago of eight islands considered to be the womb of the world according to [Ansaŋetuʼakɨmi](https://winter.miraheze.org/wiki/Ansa%C5%8Betu%CA%BCak%C9%A8mi "Ansaŋetuʼakɨmi") the common belief system of Ansang people.
+Originally spoken by [[Ansang people]], that live in the [[Ansang islands]] an archipelago of eight islands considered to be the womb of the world according to [[Ansaŋetuʼakɨmi]] the common belief system of Ansang people.
 
-It belongs to the [Atteric languages](https://winter.miraheze.org/wiki/Atteric_languages "Atteric languages") family, a group of languages spoken in Kóty alongside with [Dreic languages](https://winter.miraheze.org/wiki/Dreic_languages "Dreic languages"), [Hautaric languages](https://winter.miraheze.org/wiki/Hautaric_languages "Hautaric languages"), [Koyanic languages](https://winter.miraheze.org/wiki/Koyanic_languages "Koyanic languages") and [Cisi language](https://winter.miraheze.org/wiki/Cisi "Cisi").
+It belongs to the [[Atteric languages]] family, a group of languages spoken in Kóty alongside with [[Dreic languages]], [[Hautaric languages]], [[Koyanic languages]] and [[Cisi language]].
 
-The first writings of the Ansang language are from when the [Lavondu](https://winter.miraheze.org/wiki/Lavondu "Lavondu") first arrived in the Ansang islands in the 7th century.
+The first writings of the Ansang language are from when the [[Lavondu]] first arrived in the Ansang islands in the 7th century.
 
 ## Phonology
 ### Consonants
+Later Ansang features a consonantal inventory characterized by its pre-nasal consonants, and peculiar implosive consonants that are direct influence of loan words from [[Möxali]].
 
 |             |           | -   | Labial      | Coronal     | Palatal            | Velar       | Glottal   |
 | ----------- | --------- | --- | ----------- | ----------- | ------------------ | ----------- | --------- |
@@ -42,10 +41,42 @@ The first writings of the Ansang language are from when the [Lavondu](https://wi
 Ansang syllable structure is observed to be simple plain (C)V(V)(C).
 
 ## Grammar
+Ansang is mostly SVO, with nominative-accusative alignment.
+### Particles
+Ansang language features three particles, they are used to mark nouns according to their grammatical case or thematic relation in a sentence or clause.
+- *ŋgo* marks the comitative, instrumental of an object.
+- *ndel* marks the generic locative position of a noun.
+- *masa* marks the goal of any movement. This goal may be location or a state of affairs, i.e., a purpose.
 
- 
+### Nouns
+#### Pronouns
+In Ansang pronouns are particles that can be attached to the verb or noun that can come after or before the root word. Functioning as clitics pronouns don't function on their own.
 
-Main article: [Ansang grammar](https://winter.miraheze.org/wiki/Ansang_grammar "Ansang grammar")
+|             |     | -   | Subject | Object   | Possessive | Locative | Resultative |
+| ----------- | --- | --- | ------- | -------- | ---------- | -------- | ----------- |
+| 1st         | Sg. | -   | *mbu-*  | *-lai*   | *-re-*     | *rut-*   | *ko-*       |
+| ^           | Pl. | -   | *nda’-* | *-lɨ’*   | *-may-*    | *hur-*   | ^           |
+| 2nd         | Sg. | -   | *vel-*  | *-nde*   | *-tu-*     | *ŋgu-*   | *o-*        |
+| Animate/3rd | ^   | -   | *tɨr-*  | *-mbai’* | *-yu-*     | *ruk-*   | ^           |
+| 2nd/3rd     | Pl. | -   | *ŋges-* | *-lu*    | *-hey-*    | *tov-*   | ^           |
+| Inanimate   | <   | -   | *ñ(i)-* | <        | *ŋe-*      | <        | <           |
+- **Subject pronouns**: Subject of the intransitive/transitive verb, essentially the Nominative.
+- **Object pronouns**: Object of the transitive verb, essentially the Accusative.
+- **Possessive pronouns**: Possessor prefixes, in verbs assumes function of reflexive pronoun going after the subject pronouns rendering them infixes.
+- **Locative pronouns**: Locative deixis for pronouns, only **animate objects** may be marked with the locative, otherwise the particle *ndel* maybe used. In verbs assumes function of Andative and Venitive verbal deixis.
+- Resultative pronouns:  Indicates state of change of a person.
+
+
+> *kouŋoto orot*
+> `ko-uŋoto orot`
+> `1.RES=drink water`
+> "I'll become the one drinking the water."
+
+> *opoñeʼendi ndel vombɨt usonjo*
+> `o=   poñe  -ʼendi ndel vombɨt usonjo.`
+> `2.RES=health-IRR   LOC next day`
+> "May you become healthy by the next day."
+
 
 ## Syntax
 
