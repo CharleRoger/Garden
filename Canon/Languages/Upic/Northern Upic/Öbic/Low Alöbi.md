@@ -22,34 +22,34 @@ The Low [[Öbic languages|Öbic language]] of the second millennium AGS had dive
 The precise form of Transitional Alöbi is uncertain since its deviation from the standard language was not recorded in writing until [[Eubli]] spelling reforms in the [[12th century|12th]] and [[13th century|13th]] centuries. Certain changes to the phonology, particularly of the vowel inventory, have been reconstructed, some examples of which are shown below (*Low Alöbi (mature stage)* → **Transitional Alöbi** → *Eubli*):
 - Merger of word-final /ɑ e/ to \*ə:
 	- *bit'e* [bitʼɛ] → **\*bit'ə** → *bit* [bitʼ] "egg"
-	- *blixma* [bliʃmɐ] → **\*blixmə** → *blišma* [bliɕmə] "iridescent"
+	- *blixma* [bliʃmɑ] → **\*blixmə** → *blišma* [bliɕmə] "iridescent"
 - Unstressed vowel loss between an approximant /w l j/ and an obstruent, likely first by shifting to \*ə:
-	- *qayox* [ʔɑjɔʃ] → **\*qay(ə)x** → *aex* [äɛ̯x] "clear weather"
-	- *owik*' [owɪkʼ] → **\*ow(ə)k'** → *ouk* [ou̯kʼ] "change"
+	- *qayox* [ʔɑj(ɔ)ʃ] → **\*qayx** → *aex* [äɛ̯x] "clear weather"
+	- *owik*' [ow(ɪ)kʼ] → **\*owk'** → *ouk* [ou̯kʼ] "change"
 - Vocalisation of coda /l/ to \*w:
-	- *ibyal* [ibjɐɫ] → **\*ibyaw** → *ibyao* [ibjäɔ̯] "cross over, travel through"
+	- *ibyal* [ibjɑɫ] → **\*ibyaw** → *ibyao* [ibjäɔ̯] "cross over, travel through"
 	- *celcel* [tʃeɫdʒɛɫ] → **\*cewjew** → *čeuǰeu* [tɕøy̯dʑøy̯] "arrive"
 - Loss of coda nasals, forming four nasalised vowels \*in (← iN), \*un (← uN, üN) , \*en (← eN), \*on (← aN, oN, öN):
-	- *wilig* [wil̪ɪ̃(ŋ)] → **\*wilin** → *wili* [wil̪ɪ] "rod"
+	- *wilig* [wilɪ̃(ŋ)] → **\*wilin** → *wili* [wil̪ɪ] "rod"
 	- *gosum* [ŋosʊ̃(m)] → **\*gosun** → *gosu* [ŋosʊ] "remove, filter out, sieve"
-	- *höten* [ɸød̪ɛ̃(n̪)] → **\*föden** → *föde* [ɸød̪ɛ] "1PL"
-	- *agta* [ɑ̃(n̪)d̪ɐ] → **\*ondə** → *od* [ɔd̪] "open (as of a flower)"
+	- *höten* [ɸødɛ̃(n)] → **\*föden** → *föde* [ɸødɛ] "1PL"
+	- *agta* [ɑ̃(n)dɑ] → **\*ondə** → *od* [ɔd] "open (as of a flower)"
 - Formation of six diphthongs (\*ey \*ay \*oy \*ew \*aw \*ow) from vowel + glide and vowel + vowel sequences (note that nasalised vowels were also subject to this merger):
-	- *üyet*' [yjɛtʼ] → **\*eyt'** → *eit* [ei̯tʼ] "fear"
+	- *üyet*' [yj(ɛ)tʼ] → **\*eyt'** → *eit* [ei̯tʼ] "fear"
 	- *aib* [ɑɪb] → **\*ayb** → *aeb* [äɛ̯b] "narrow gap"
 	- *yuek* [juɛk] → **\*yoyk** → *yeik* [jei̯k] "scaly fish"
 	- kihiw [kixɪw] → **\*kihew** → *kiheu* [kixøy̯] "inhale"
-	- *laüm* [l̪ɑʏ̃(m)] → (\*laun → ) **\*law** → *lao* [l̪äɔ̯] "corner"
-	- *xulab* [ʃul̪ɐb] → **\*xowb** → *xoub* [xou̯b] "wrap up"
+	- *laüm* [lɑʏ̃(m)] → (\*laun → ) **\*law** → *lao* [l̪äɔ̯] "corner"
+	- *xulab* [ʃulɑb~ʃuɫb] → **\*xowb** → *xoub* [xou̯b] "wrap up"
 # Phonology
 ## Consonants
-|  | - | Labial | Alveolar | Post-alveolar | Dorsal | Glottal |
-| ---- | ---- | :--: | :--: | :--: | :--: | :--: |
-| Nasal | - | *m* | *n* | (*ny* [ɲ]) | *g* [ŋ\~ɴ] |  |
-| Ejective plosive | - | *p'* | *t'* | *c'* [tʃʼ] | *k'* [kʼ\~qʼ] |  |
-| Plain plosive | - | *b* | *t* (*d*) | *c* [tʃ] (*j* [dʒ]) | *k* [k\~q] | *ʔ* |
-| Fricative | - | (*f* [ɸ\~f]) | *s* | *x* [ʃ] | *h* [x\~χ] |  |
-| Resonant | - | *w* | *l* | *y* [j] |  |  |
+|                  | -   |   Labial   |  Alveolar  | Post-alveolar |    Dorsal     | Glottal |
+| ---------------- | --- | :--------: | :--------: | :-----------: | :-----------: | :-----: |
+| Nasal            | -   |    *m*     |    *n*     |  (*ny* [ɲ])   |  *g* [ŋ\~ɴ]   |         |
+| Ejective plosive | -   |    *p'*    |    *t'*    |  *c'* [tʃʼ]   | *k'* [kʼ\~qʼ] |         |
+| Plain plosive    | -   |    *b*     | *t* [t\~d] | *c* [tʃ\~dʒ]  |  *k* [k\~q]   |   *ʔ*   |
+| Fricative        | -   | (*hw* [ɸ]) |    *s*     |    *x* [ʃ]    |  *h* [x\~χ]   |         |
+| Resonant         | -   |    *w*     |    *l*     |    *y* [j]    |               |         |
 ### Coronal consonants
 The consonants *c c' x* are pronounced [tʃ tʃʼ ʃ] respectively, while the approximant *y* is palatal [j] but forms a natural group with the post-alveolars when considering phonotactics.
 
@@ -64,12 +64,12 @@ The labial fricative *f* did not exist natively in Alöbi, being introduced vi
 | Close | - | *i* | *ü* | *u* |
 | Mid | - | *e* | *ö* | *o* |
 | Open | - |  |  | *a* |
-Unstressed vowels are slightly centralised and, with the exception of *a*, more open than when stressed. A table of typical vowel qualities is shown below:
+Stressed vowels are slightly lengthened and unstressed vowels, with the exception of *a*, are more open than when stressed. A table of typical vowel qualities is shown below:
 
-|  | - | a | e | ö | o | i | ü | u |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Stressed | - | ɑˑ | eˑ | øˑ | oˑ | iˑ | yˑ | uˑ |
-| Unstressed | - | ɑ | ë̞\~ə | ø̞̈ | ö̞ | ɪ | ʏ | ʊ |
+|            | -   | a   | e    | ö   | o   | i   | ü   | u   |
+| ---------- | --- | --- | ---- | --- | --- | --- | --- | --- |
+| Stressed   | -   | ɑˑ  | eˑ   | øˑ  | oˑ  | iˑ  | yˑ  | uˑ  |
+| Unstressed | -   | ɑ   | ɛ\~ə | œ   | ɔ   | ɪ   | ʏ   | ʊ   |
 ### Diphthongs
 In the [[8th century]], sequences of vowels and coda glides began to collapse into a system of six diphthongs, shown in the table below, laying the foundation for what would become the vowel system of the later [[Eubli]] language. This late stage of Low Alöbi is known as [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]].
 
@@ -230,8 +230,8 @@ Additionally, possessive proclitics are sometimes used to express certain inalie
 | First person | - | *ten-* | *n-* |
 | Second person | - | *so-* | *s-* |
 > *ninin inel tennoclo oltüm*
-> `n=     inin     inel     ten=     noclo     oltüm`
-> `1.POSS=2SG.DAT  1SG.DAT  1.POSS=  name.ABS  give`
+> `n=     inin        inel     ten=     noclo     oltüm`
+> `1.POSS=parent.ERG  1SG.DAT  1.POSS=  name.ABS  give`
 > "My parents gave me my name"
 
 > *tyacasin soktihac xulab*
@@ -255,31 +255,31 @@ Alöbi has no true third person pronouns, instead using the dummy numeral _-n-_
 ## Xiri loans
 Low Alöbi loaned many words from [[Xiri]] when the speakers of the two languages began trading around the [[1st century|1st]] or [[2nd century|2nd]] century. Most of the borrowed vocabulary consists of material cultural terminology, some examples of which with the approximate pronunciations c. 400 AGS are shown in the table below.
 
-|Xiri|Alöbi|
-|---|---|
-|*eru* [ˈeɾʊ] "person, soul" |*elu* [ˈel̪ʊ] "Xiyeru person" |
-|*kare* [ˈkaɾɛ̈] "demon, evil spirit" |*kale* [ˈkɑl̪ə] "malaise" |
-|*iji* [ˈidʒɪ] "pig" |*ici* [ˈidʒɪ] "pig, k'übi" |
-|*igi* [ˈiŋɪ] "milk" |*igi* [ˈiŋɪ] "milk" |
-|*ene* [ˈen̪ɛ̈] "rice" |*ene* [ˈen̪ə] "rice" |
-|*kwi* [kʷi] "yam" |*kükü* [ˈkykʏ] "yam" |
-|*warań* [ˈwaɾə̃ː] "alcohol, yam wine" |*wadeg* [ˈwɑd̪ə̃ŋ] "yam wine" |
-|*saža* [ˈsaʒə] "tea" |*sace* [ˈsɑdʒə] "tea" |
-|*(fawēʼeya)žožada* [(fəˈweʔɛˌja)ʒɔˌʒad̪ə] "garlic" |*xocat* [ˈʃodʒɑt̪] "garlic" |
-The ubiquitous [[Xiri]] transitive verb prefix *fa-* was carried into Low Alöbi as a derivational prefix *fo-* forming verbs from roots with the meaning "to enact or create [noun/state]". This prefix emerged just before [ɸ], previously a rounded allophone of *h*, became phonemic, and may have originally been loaned as *hwa-* [xʷɒ- ~ ɸɒ-]. Also around this time, the native [[Öbic languages|Öbic]] root + affix derivational pattern dropped out of use, fossilising disyllabic stems, so *fo-* may have been one of the last productive derivational prefixes. Some examples of *fo-* verbs with corresponding nouns using the same reanalysed root are shown in the table below.
+| Xiri                                               | Alöbi                        |
+| -------------------------------------------------- | ---------------------------- |
+| *eru* [ˈeɾʊ] "person, soul"                        | *elu* [ˈelʊ] "Xiyeru person" |
+| *kare* [ˈkaɾɛ] "demon, evil spirit"                | *kale* [ˈqɑlɛ] "malaise"     |
+| *iji* [ˈidʒɪ] "pig"                                | *ici* [ˈidʒɪ] "pig, k'übi"   |
+| *igi* [ˈiŋɪ] "milk"                                | *igi* [ˈiŋɪ] "milk"          |
+| *ēnē* [ˈen̪e] "rice"                               | *ene* [ˈenɛ] "rice"          |
+| *kwi* [kʷi] "yam"                                  | *kükü* [ˈkykʏ] "yam"         |
+| *warań* [ˈwaɾə̃] "alcohol, yam wine"               | *walag* [ˈwɑlɑ̃ɴ] "yam wine" |
+| *sažā* [ˈsaʒa] "tea"                               | *saca* [ˈsɑdʒɑ] "tea"        |
+| *(fawēʼeya)žožāda* [(fəˈweʔɛˌja)ʒɔˌʒad̪ə] "garlic" | *xocat* [ˈʃodʒɑt] "garlic"   |
+The ubiquitous [[Xiri]] transitive verb prefix *fa-* was carried into Low Alöbi as a derivational prefix *ho-* forming verbs from roots with the meaning "to enact or create [noun/state]". This prefix emerged just before [ɸ], previously a rounded allophone of *h*, became phonemic. Also around this time, the native [[Öbic languages|Öbic]] root + affix derivational pattern dropped out of use, fossilising disyllabic stems, so *ho-* may have been one of the last productive derivational prefixes. Some examples of *ho-* verbs with corresponding nouns using the same reanalysed root are shown in the table below.
 
-|Xiri|Alöbi verb|Alöbi noun|
-|---|---|---|
-|*fańaʼay-* [fəˈŋaʔai̯-] "to tattoo, mark, stain" |*fogaq* [ˈɸoɴɑʔ] "to tattoo" |*gayaq* [ˈɴɑjɑʔ] "tattoo" |
-|*faʼawa-* [fəˈawə-] "to stir, mix, jostle" |*foqaw* [ˈɸoʔɑw] "to mix" |*qawqaw* [ˈʔɑwʔɑw] "mixture" |
-|*fańū-* [fəˈŋu-] "to love, like, enjoy" |*fogu* [ˈɸoŋʊ] "to enjoy" |*bagu* [ˈbɑŋʊ] "passion" |
-|*faraʼe-* [fəˈɾaʔɛ̈-] "to burn, heat, cook" |*folaq* [ˈɸol̪ɑʔ] "to cook" |*laqem* [ˈl̪ɑʔə̃m] "(cooked) food" |
+| Xiri                                             | Alöbi verb                        | Alöbi noun                        |
+| ------------------------------------------------ | --------------------------------- | --------------------------------- |
+| *fańaʼay-* [fəˈŋaʔai̯-] "to tattoo, mark, stain" | *hogaq* [ˈɸoɴɑʔ] "to tattoo"      | *gayaq* [ˈɴɑjɑʔ] "tattoo"         |
+| *faʼawa-* [fəˈawə-] "to stir, mix, jostle"       | *hoqaw* [ˈɸoʔɑw] "to mix"         | *qawqaw* [ˈʔɑwʔɑw] "mixture"      |
+| *fańū-* [fəˈŋu-] "to love, like, enjoy"          | *hogu* [ˈɸoŋʊ] "to enjoy"         | *bagu* [ˈbɑŋʊ] "passion"          |
+| *faraʼe-* [fəˈɾaʔɛ-] "to burn, heat, cook"       | *holaq* [ˈɸol̪ɑʔ~ˈɸoɫʔ] "to cook" | *laqem* [ˈlɑʔɛ̃m] "(cooked) food" |
 
 Some words appear to have been influenced by the grammar and vocabulary of [[Xiri]], though are not direct loans. Some examples of such words are shown in the table below, along with the original terms which were replaced or remodelled.
 
-| Xiri                          | Remodelled Alöbi                                         | Original Alöbi                                                  |
-| ----------------------------- | -------------------------------------------------------- | --------------------------------------------------------------- |
-| *naʼa* [ˈn̪aʔə] "mouth"       | *a(n)naqa* [ˈɑ(n)nɑʔɑ] "mouth"                           | *-naq-* "eat"                                                   |
-| *haskāzi* [həsˈkazɪ] "arrow"  | *lihas* [ˈliχɑs] "arrow"                                 | *lihek* "point, arrow"                                          |
-| *sō* [so] "blue"              | *so(w)a* [ˈso(w)ɑ] "blue"                                | *sota* "blue, green"                                            |
+| Xiri                          | Remodelled Alöbi                                     | Original Alöbi                                              |
+| ----------------------------- | ---------------------------------------------------- | ----------------------------------------------------------- |
+| *naʼa* [ˈn̪aʔə] "mouth"       | *a(n)naqa* [ˈɑ(n)nɑʔɑ] "mouth"                       | *-naq-* "eat"                                               |
+| *haskāzi* [həsˈkazɪ] "arrow"  | *lihas* [ˈliχɑs] "arrow"                             | *lihek* "point, arrow"                                      |
+| *sō* [so] "blue"              | *so(w)a* [ˈso(w)ɑ] "blue"                            | *sota* "blue, green"                                        |
 | *rhi* [li] "tongue, language" | *ali* [ˈɑlɪ] "language"<br>*oli* [ˈolɪ] "to discuss" | *-al-* "tongue/language"<br>*-ali* "pertaining to language" |
