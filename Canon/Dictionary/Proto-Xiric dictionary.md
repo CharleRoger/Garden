@@ -1144,7 +1144,7 @@ tags:
 
 *n.*
 > ¹ Tattoo, marking; ² Stain
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ńə̆’ə̆ĭ|ńə̆’ə̆ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ńă’eĭ|ńă’eĭ]]_; [[Xiri]] _[[Xiri dictionary#ńa’āi|ńa’āi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geq|geq]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ńə̆’ə̆ĭ|ńə̆’ə̆ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ńă’eĭ|ńă’eĭ]]_; [[Xiri]] _[[Xiri dictionary#ńa’āi|ńa’āi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geyaq|geyaq]]_
 ### \*ńala
 
 *adj.*
@@ -1750,7 +1750,7 @@ tags:
 
 *n.*
 > ¹ Alcohol; ² Yam wine
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#wə̆lə̆ńə̆|wə̆lə̆ńə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#weleńă|weleńă]]_; [[Xiri]] _[[Xiri dictionary#warań|warań]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valon|valon]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#wə̆lə̆ńə̆|wə̆lə̆ńə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#weleńă|weleńă]]_; [[Xiri]] _[[Xiri dictionary#warań|warań]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valan|valan]]_
 ### \*wau’acū
 
 *n.*

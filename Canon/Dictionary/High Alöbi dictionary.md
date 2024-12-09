@@ -22,16 +22,16 @@ tags:
 
 *num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔacü|*ʔacü]]_, from _[[Proto-Öbic dictionary#\*ʔac|*ʔac]]_ ("one").
 > ¹ One
-### agua
-[ɑɣʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*agua|*agua]]_, from _[[Proto-Öbic dictionary#\*ag|*ag]]_ ("open") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Open, as of a mouth or cave
 ### agük
 [ɑɣʏk]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*agük|*agük]]_, from _[[Proto-Öbic dictionary#\*ag|*ag]]_ ("open") + _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split").
 > ¹ To split open
+### agwa
+[ɑɣwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*agwa|*agwa]]_, from _[[Proto-Öbic dictionary#\*ag|*ag]]_ ("open") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Open, as of a mouth or cave
 ### agwi
 [ɑɣwɪ]
 
@@ -218,10 +218,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*casem|*casem]]_, from _[[Proto-Öbic dictionary#\*cas|*cas]]_ ("raw") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Raw meat
-### casua
-[tɕɑsʊɑ]
+### caswa
+[tɕɑswɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*casua|*casua]]_, from _[[Proto-Öbic dictionary#\*cas|*cas]]_ ("raw") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*caswa|*caswa]]_, from _[[Proto-Öbic dictionary#\*cas|*cas]]_ ("raw") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Raw; ² Unripe
 ### cayal
 [tɕɑjɑl]
@@ -263,10 +263,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cic'īʔ|*cic'īʔ]]_, from _[[Proto-Öbic dictionary#\*ci|*ci]]_ ("red") + _[[Proto-Öbic dictionary#\*c'īʔ|*c'īʔ]]_ ("earth, clay").
 > ¹ Red clay
-### cigua
-[tɕɪɣʊɑ]
+### cigwa
+[tɕɪɣwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cihua|*cihua]]_, from _[[Proto-Öbic dictionary#\*cih|*cih]]_ ("divide") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cihwa|*cihwa]]_, from _[[Proto-Öbic dictionary#\*cih|*cih]]_ ("divide") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Separated, far apart
 ### cimcim
 [tɕɪmtɕɪm]
@@ -520,10 +520,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gǖk|*gǖk]]_, from _[[Proto-Öbic dictionary#\*gaw|*gaw]]_ ("north-easterly wind") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ North-easterly wind
-### gwacua
-[ɣwɑtɕʊɑ]
+### gwacwa
+[ɣwɑtɕwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gwacua|*gwacua]]_, from _[[Proto-Öbic dictionary#\*gwac|*gwac]]_ ("far away") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gwacwa|*gwacwa]]_, from _[[Proto-Öbic dictionary#\*gwac|*gwac]]_ ("far away") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Far away
 # h
 ### hamug
@@ -626,16 +626,16 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hǖk|*hǖk]]_, from _[[Proto-Öbic dictionary#\*hiw|*hiw]]_ ("inhale, breathe") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Wind
-### hǖmua
-[xyːmʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hǖmua|*hǖmua]]_, from _[[Proto-Öbic dictionary#\*hǖm|*hǖm]]_ ("upstream of, before") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Upstream; ² Earlier
 ### hǖmum
 [xyːmʊm]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hǖmum|*hǖmum]]_, from _[[Proto-Öbic dictionary#\*hǖm|*hǖm]]_ ("upstream of, before") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Earlier point; ² Predecessor
+### hǖmwa
+[xyːmwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hǖmwa|*hǖmwa]]_, from _[[Proto-Öbic dictionary#\*hǖm|*hǖm]]_ ("upstream of, before") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Upstream; ² Earlier
 ### hūsu
 [xuːsʊ]
 
@@ -697,16 +697,16 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔictaw|*ʔictaw]]_, from _[[Proto-Öbic dictionary#\*ʔic'-|*ʔic'-]]_ ("upwards") + _[[Proto-Öbic dictionary#\*taw|*taw]]_ ("carry").
 > ¹ To pick up; ² To carry
-### icua
-[ɪtɕʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*icua|*icua]]_, from _[[Proto-Öbic dictionary#\*ic|*ic]]_ ("hunger") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Hungry
 ### icuw
 [ɪtɕʊw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ecuw|*ecuw]]_.
 > ¹ Arm
+### icwa
+[ɪtɕwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*icwa|*icwa]]_, from _[[Proto-Öbic dictionary#\*ic|*ic]]_ ("hunger") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Hungry
 ### ic'yik'
 [ɪtɕʼjɪkʼ]
 
@@ -722,6 +722,11 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ikpan|*ikpan]]_.
 > ¹ [[Ikban]], a small [[Wug]], similar to antelopes
+### ilama
+[ɪlɑmɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔilama|*ʔilama]]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*ʔam|*ʔam]]_ ("more").
+> ¹ Most, many
 ### imim
 [ɪmɪm]
 
@@ -786,6 +791,11 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*inʔǖr|*inʔǖr]]_, from _[[Proto-Öbic dictionary#\*in-|*in-]]_ ("characteristic agent") + _[[Proto-Öbic dictionary#\*ʔǖr|*ʔǖr]]_ ("night").
 > ¹ Either or both of the two moons of Winter
+### inwit'
+[ɪnwɪtʼ]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*inwit'|*inwit']]_, from _[[Proto-Öbic dictionary#\*in-|*in-]]_ ("characteristic agent") + _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other").
+> ¹ Addressee
 ### -ip
 
 *suff.*
@@ -972,16 +982,16 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kileq|*kileq]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*leq|*leq]]_ ("sting, bite").
 > ¹ To sting or bite, as of an insect
-### kilua
-[kɪlʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kilua|*kilua]]_, from _[[Proto-Öbic dictionary#\*kil|*kil]]_ ("tired, bored") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Tired; ² Bored
 ### kilüp
 [kɪlʏp]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kilüp|*kilüp]]_, from _[[Proto-Öbic dictionary#\*lüp|*lüp]]_ ("frog").
 > ¹ Any small tree frog
+### kilwa
+[kɪlwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kilwa|*kilwa]]_, from _[[Proto-Öbic dictionary#\*kil|*kil]]_ ("tired, bored") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Tired; ² Bored
 ### kimug
 [kɪmʊɣ]
 
@@ -1032,20 +1042,20 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kit'ik|*kit'ik]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*t'ik|*t'ik]]_ ("cut").
 > ¹ To cut
-### kit'ua
-[kɪtʼʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kit'ua|*kit'ua]]_, from _[[Proto-Öbic dictionary#\*kit'|*kit']]_ ("erect, upright") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Upright
 ### kit'um
 [kɪtʼʊm]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kit'um|*kit'um]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*t'um|*t'um]]_ ("pull off").
 > ¹ To pull off
-### kücua
-[kʏtɕʊɑ]
+### kit'wa
+[kɪtʼwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kücua|*kücua]]_, from _[[Proto-Öbic dictionary#\*küc|*küc]]_ ("stand") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kit'wa|*kit'wa]]_, from _[[Proto-Öbic dictionary#\*kit'|*kit']]_ ("erect, upright") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Upright
+### kücwa
+[kʏtɕwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kücwa|*kücwa]]_, from _[[Proto-Öbic dictionary#\*küc|*küc]]_ ("stand") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Standing
 ### kümküm
 [kʏmkʏm]
@@ -1107,10 +1117,10 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyalap'|*kyalap']]_, from _[[Proto-Öbic dictionary#\*kya-|*kya-]]_ ("suddenly or accidentally") + _[[Proto-Öbic dictionary#\*lap'|*lap']]_ ("grab, snatch").
 > ¹ To snatch
-### kyalua
-[kjɑlʊɑ]
+### kyalwa
+[kjɑlwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyalua|*kyalua]]_, from _[[Proto-Öbic dictionary#\*kyal|*kyal]]_ ("lay") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyalwa|*kyalwa]]_, from _[[Proto-Öbic dictionary#\*kyal|*kyal]]_ ("lay") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Laying flat on the ground
 ### kyanīt
 [kjɑniːt]
@@ -1142,10 +1152,10 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyawkyaw|*kyawkyaw]]_, from _[[Proto-Öbic dictionary#\*kyaw|*kyaw]]_ ("scream") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To caw, howl
-### kyückyüc'
-[kjʏtɕkjʏtɕʼ]
+### kyücyüc'
+[kjʏtɕjʏtɕʼ]
 
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyückyüc'|*kyückyüc']]_, from _[[Proto-Öbic dictionary#\*kyüc'|*kyüc']]_ ("rise") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyücyüc'|*kyücyüc']]_, from _[[Proto-Öbic dictionary#\*kyüc'|*kyüc']]_ ("rise") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To climb
 # k'
 ### k'ia
@@ -1198,10 +1208,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'ixam|*k'ixam]]_, from _[[Proto-Öbic dictionary#\*xam|*xam]]_ ("throw").
 > ¹ Spear
-### k'laptlix
-[kʼlɑptlɪɕ]
+### k'laplix
+[kʼlɑplɪɕ]
 
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'laptlix|*k'laptlix]]_, from _[[Proto-Öbic dictionary#\*q'lap'|*q'lap']]_ ("lightning, thunder") + _[[Proto-Öbic dictionary#\*p'atlix|*p'atlix]]_ ("bright flash of light").
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'laplix|*k'laplix]]_, from _[[Proto-Öbic dictionary#\*q'lap'|*q'lap']]_ ("lightning, thunder") + _[[Proto-Öbic dictionary#\*p'atlix|*p'atlix]]_ ("bright flash of light").
 > ¹ Electrical storm; ² Lightning strike
 ### k'ǖpi
 [kʼyːpɪ]
@@ -1259,6 +1269,21 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lisem|*lisem]]_, from _[[Proto-Öbic dictionary#\*lis|*lis]]_ ("light") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Point of light
+### līk
+[liːk]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*līk|*līk]]_, from _[[Proto-Öbic dictionary#\*lay|*lay]]_ ("all, every") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
+> ¹ All animals
+### līm
+[liːm]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*līm|*līm]]_, from _[[Proto-Öbic dictionary#\*lay|*lay]]_ ("all, every") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Everything
+### līp
+[liːp]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*līp|*līp]]_, from _[[Proto-Öbic dictionary#\*lay|*lay]]_ ("all, every") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
+> ¹ Everyone
 ### lükic
 [lʏkɪtɕ]
 
@@ -1269,6 +1294,16 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lükteq'|*lükteq']]_, from _[[Proto-Öbic dictionary#\*lük|*lük]]_ ("poke") + _[[Proto-Öbic dictionary#\*teq'|*teq']]_ ("claw").
 > ¹ The claw of a [[Ciblökog]]
+### lüta
+[lʏtɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lüta|*lüta]]_, from _[[Proto-Öbic dictionary#\*lüt|*lüt]]_ ("each, every").
+> ¹ Each, every
+### lütrusa
+[lʏtʁʊsɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lütrusa|*lütrusa]]_, from _[[Proto-Öbic dictionary#\*lüt|*lüt]]_ ("each, every") + _[[Proto-Öbic dictionary#\*qrus|*qrus]]_ ("day").
+> ¹ Daily
 ### lüxük'
 [lʏɕʏkʼ]
 
@@ -1300,10 +1335,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*macku|*macku]]_, from _[[Proto-Öbic dictionary#\*mac|*mac]]_ ("individual, singular") + _[[Proto-Öbic dictionary#\*-ku|*-ku]]_ ("-ness").
 > ¹ Loneliness; ² Individuality, uniqueness
-### macua
-[mɑtɕʊɑ]
+### macwa
+[mɑtɕwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*macua|*macua]]_, from _[[Proto-Öbic dictionary#\*mac|*mac]]_ ("individual, singular") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*macwa|*macwa]]_, from _[[Proto-Öbic dictionary#\*mac|*mac]]_ ("individual, singular") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Alone; ² Unique
 ### maīg
 [mɑiːɣ]
@@ -1400,15 +1435,20 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mayüxem|*mayüxem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*müx|*müx]]_ ("familiar, tame") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Home, one's own village
+### maywit'im
+[mɑjwɪtʼɪm]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maywit'em|*maywit'em]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*mwit'|*mwit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Otherness, difference
 ### māg
 [mɑːɣ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maʔag|*maʔag]]_, from _[[Proto-Öbic dictionary#\*ag|*ag]]_ ("open").
 > ¹ Mouth
-### migua
-[mɪɣʊɑ]
+### migwa
+[mɪɣwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mihua|*mihua]]_, from _[[Proto-Öbic dictionary#\*mih|*mih]]_ ("live") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mihwa|*mihwa]]_, from _[[Proto-Öbic dictionary#\*mih|*mih]]_ ("live") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Alive, as of a person; ² Free
 ### mikip
 [mɪkɪp]
@@ -1435,10 +1475,10 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mekam|*mekam]]_, from _[[Proto-Öbic dictionary#\*me-|*me-]]_ ("body") + _[[Proto-Öbic dictionary#\*kam|*kam]]_ ("wash").
 > ¹ To bathe
-### misua
-[mɪsʊɑ]
+### miswa
+[mɪswɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*misua|*misua]]_, from _[[Proto-Öbic dictionary#\*mis|*mis]]_ ("clear") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wis|*wis]]_ ("transparent").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miswa|*miswa]]_, from _[[Proto-Öbic dictionary#\*mis|*mis]]_ ("clear") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wis|*wis]]_ ("transparent").
 > ¹ Clear, as of water or an area of land
 ### mitaw
 [mɪtɑw]
@@ -1450,6 +1490,16 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mitüs|*mitüs]]_, from _[[Proto-Öbic dictionary#\*tüs|*tüs]]_ ("smoke").
 > ¹ To smoke
+### miwum
+[mɪwʊm]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miwum|*miwum]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Something similar to something else
+### miwwa
+[mɪwwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miwwa|*miwwa]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Similar to; ² Nearby
 ### miyam
 [mɪjɑm]
 
@@ -1490,10 +1540,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*müru|*müru]]_, from _[[Proto-Öbic dictionary#\*mü|*mü]]_ ("cycle") + _[[Proto-Öbic dictionary#\*-ru|*-ru]]_ ("self").
 > ¹ Generational name
-### mütua
-[mʏtʊɑ]
+### mütwa
+[mʏtwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mütua|*mütua]]_, from _[[Proto-Öbic dictionary#\*müt|*müt]]_ ("aware") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mütwa|*mütwa]]_, from _[[Proto-Öbic dictionary#\*müt|*müt]]_ ("aware") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Aware; ² Awake
 ### müxik
 [mʏɕɪk]
@@ -1520,21 +1570,16 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖʔem|*mǖʔem]]_, from _[[Proto-Öbic dictionary#\*mǖʔ|*mǖʔ]]_ ("sweet") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Fruit in general
-### mwip
-[mwɪp]
+### mǖpmǖp
+[myːpmyːp]
 
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mwip|*mwip]]_, from _[[Proto-Öbic dictionary#\*mwi|*mwi]]_ ("similar") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖpmǖp|*mǖpmǖp]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ A person with the same parents as another (not necessarily genetic siblings)
-### mwiwa
-[mwɪwɑ]
+### mwit'wa
+[mwɪtʼwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mwiwa|*mwiwa]]_, from _[[Proto-Öbic dictionary#\*mwi|*mwi]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Similar to; ² Nearby
-### mwiwm
-[]
-
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mwiwm|*mwiwm]]_, from _[[Proto-Öbic dictionary#\*mwi|*mwi]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
-> ¹ Something similar to something else
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mwit'wa|*mwit'wa]]_, from _[[Proto-Öbic dictionary#\*mwit'|*mwit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Other, different
 ### myawmmü
 []
 
@@ -1545,10 +1590,10 @@ tags:
 
 *num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*myawmü|*myawmü]]_, from _[[Proto-Öbic dictionary#\*umü|*umü]]_ ("five"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maq|*maq]]_ ("repeat").
 > ¹ Twenty five (five squared)
-### myawua
-[mjɑwʊɑ]
+### myawwa
+[mjɑwwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*myawua|*myawua]]_, from _[[Proto-Öbic dictionary#\*me-|*me-]]_ ("body") + _[[Proto-Öbic dictionary#\*yaw|*yaw]]_ ("bend") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*myawwa|*myawwa]]_, from _[[Proto-Öbic dictionary#\*me-|*me-]]_ ("body") + _[[Proto-Öbic dictionary#\*yaw|*yaw]]_ ("bend") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Hunched
 ### myünim
 [mjʏnɪm]
@@ -1561,10 +1606,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naʔcum|*naʔcum]]_, from _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time") + _[[Proto-Öbic dictionary#\*cal|*cal]]_ ("boundary") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ A transitionary period
-### naniqua
-[nɑnɪqʊɑ]
+### naniqwa
+[nɑnɪqwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naʔnequa|*naʔnequa]]_, from _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time") + _[[Proto-Öbic dictionary#\*neq|*neq]]_ ("old") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naʔneqwa|*naʔneqwa]]_, from _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time") + _[[Proto-Öbic dictionary#\*neq|*neq]]_ ("old") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Ancient
 ### nanyiw
 [nɑnjɪw]
@@ -1671,16 +1716,16 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nimnim|*nimnim]]_, from _[[Proto-Öbic dictionary#\*nim|*nim]]_ ("build") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To build up, develop; ² To make progress
-### niqua
-[nɪqʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nequa|*nequa]]_, from _[[Proto-Öbic dictionary#\*neq|*neq]]_ ("old") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Old, as of objects
 ### niqum
 [nɪqʊm]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nequm|*nequm]]_, from _[[Proto-Öbic dictionary#\*neq|*neq]]_ ("old") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Antique, old artifact
+### niqwa
+[nɪqwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*neqwa|*neqwa]]_, from _[[Proto-Öbic dictionary#\*neq|*neq]]_ ("old") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Old, as of objects
 ### nita
 [nɪtɑ]
 
@@ -1736,20 +1781,20 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nüt'ü|*nüt'ü]]_, from _[[Proto-Öbic dictionary#\*t'ü|*t'ü]]_ ("meat").
 > ¹ Meat
-### nǖgumiü
-[nyːɣʊmɪʏ]
+### nǖgumyü
+[nyːɣʊmjʏ]
 
-*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖhumiü|*nǖhumiü]]_, from _[[Proto-Öbic dictionary#\*nǖhü|*nǖhü]]_ ("three") + _[[Proto-Öbic dictionary#\*umü|*umü]]_ ("five") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖhumyü|*nǖhumyü]]_, from _[[Proto-Öbic dictionary#\*nǖhü|*nǖhü]]_ ("three") + _[[Proto-Öbic dictionary#\*umü|*umü]]_ ("five") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
 > ¹ Fifteen
 ### nǖgü
 [nyːɣʏ]
 
 *num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖhü|*nǖhü]]_, from _[[Proto-Öbic dictionary#\*nǖh|*nǖh]]_ ("three").
 > ¹ Three
-### nǖgǖsiü
-[nyːɣyːsɪʏ]
+### nǖgǖsyü
+[nyːɣyːsjʏ]
 
-*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖhʔǖsiü|*nǖhʔǖsiü]]_, from _[[Proto-Öbic dictionary#\*nǖhü|*nǖhü]]_ ("three") + _[[Proto-Öbic dictionary#\*ʔǖsü|*ʔǖsü]]_ ("ten") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖhʔǖsyü|*nǖhʔǖsyü]]_, from _[[Proto-Öbic dictionary#\*nǖhü|*nǖhü]]_ ("three") + _[[Proto-Öbic dictionary#\*ʔǖsü|*ʔǖsü]]_ ("ten") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
 > ¹ Thirty
 ### nǖpim
 [nyːpɪm]
@@ -1932,6 +1977,11 @@ tags:
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pixa|*pixa]]_, from _[[Proto-Öbic dictionary#\*pix|*pix]]_ ("reflective").
 > ¹ Reflective
+### piyüt
+[pɪjʏt]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*piyüt|*piyüt]]_, from _[[Proto-Öbic dictionary#\*pi-|*pi-]]_ ("state causative") + _[[Proto-Öbic dictionary#\*yüt|*yüt]]_ ("equal").
+> ¹ To make equal, bring into alignment; ² To settle a debt
 ### piyüx
 [pɪjʏɕ]
 
@@ -1942,10 +1992,10 @@ tags:
 
 *num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pīxü|*pīxü]]_, from _[[Proto-Öbic dictionary#\*pīx|*pīx]]_ ("four").
 > ¹ Four
-### pīxǖsiü
-[piːɕyːsɪʏ]
+### pīxǖsyü
+[piːɕyːsjʏ]
 
-*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pīxʔǖsiü|*pīxʔǖsiü]]_, from _[[Proto-Öbic dictionary#\*pīxü|*pīxü]]_ ("four") + _[[Proto-Öbic dictionary#\*ʔǖsü|*ʔǖsü]]_ ("ten") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pīxʔǖsyü|*pīxʔǖsyü]]_, from _[[Proto-Öbic dictionary#\*pīxü|*pīxü]]_ ("four") + _[[Proto-Öbic dictionary#\*ʔǖsü|*ʔǖsü]]_ ("ten") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
 > ¹ Forty
 ### plīxma
 [pliːɕmɑ]
@@ -1957,10 +2007,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*puc'ī|*puc'ī]]_, from _[[Proto-Öbic dictionary#\*c'īʔ|*c'īʔ]]_ ("earth, clay").
 > ¹ Earth, clay
-### pumua
-[pʊmʊɑ]
+### pumwa
+[pʊmwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pumua|*pumua]]_, from _[[Proto-Öbic dictionary#\*pum|*pum]]_ ("ripe") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pumwa|*pumwa]]_, from _[[Proto-Öbic dictionary#\*pum|*pum]]_ ("ripe") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Ripe
 ### purǖt
 [pʊʁyːt]
@@ -2037,10 +2087,10 @@ tags:
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pwic'a|*pwic'a]]_, from _[[Proto-Öbic dictionary#\*pwic'|*pwic']]_ ("vivid").
 > ¹ Rich, saturated colour; ² Multi-coloured
-### pyagua
-[pjɑɣʊɑ]
+### pyagwa
+[pjɑɣwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pyagua|*pyagua]]_, from _[[Proto-Öbic dictionary#\*pyag|*pyag]]_ ("chance") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pyagwa|*pyagwa]]_, from _[[Proto-Öbic dictionary#\*pyag|*pyag]]_ ("chance") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Probable; ² Hypothetical
 ### pyaku
 [pjɑkʊ]
@@ -2217,10 +2267,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qrusmü|*qrusmü]]_, from _[[Proto-Öbic dictionary#\*qrus|*qrus]]_ ("day") + _[[Proto-Öbic dictionary#\*mü|*mü]]_ ("cycle").
 > ¹ One day, equal to 24 hours
-### qǖtua
-[qyːtʊɑ]
+### qǖtwa
+[qyːtwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qǖtua|*qǖtua]]_, from _[[Proto-Öbic dictionary#\*qǖt|*qǖt]]_ ("empty, hollow") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qǖtwa|*qǖtwa]]_, from _[[Proto-Öbic dictionary#\*qǖt|*qǖt]]_ ("empty, hollow") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Empty, hollow
 ### qwǖk
 [qwyːk]
@@ -2318,10 +2368,10 @@ tags:
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'winta|*q'winta]]_, from _[[Proto-Öbic dictionary#\*q'win|*q'win]]_ ("dark") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Dark; ² Dull, blunt
-### q'winua
-[qʼwɪnʊɑ]
+### q'winwa
+[qʼwɪnwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'winua|*q'winua]]_, from _[[Proto-Öbic dictionary#\*q'win|*q'win]]_ ("dark") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'winwa|*q'winwa]]_, from _[[Proto-Öbic dictionary#\*q'win|*q'win]]_ ("dark") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Dark
 # r
 ### rac'ūk'
@@ -2449,10 +2499,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rilaw|*rilaw]]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*raw|*raw]]_ ("sew, weave").
 > ¹ Linen cloth
-### rütua
-[ʁʏtʊɑ]
+### rütwa
+[ʁʏtwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rütua|*rütua]]_, from _[[Proto-Öbic dictionary#\*rüt|*rüt]]_ ("new") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rütwa|*rütwa]]_, from _[[Proto-Öbic dictionary#\*rüt|*rüt]]_ ("new") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ New, as of objects
 ### rǖcrǖc
 [ʁyːtɕʁyːtɕ]
@@ -2851,11 +2901,6 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*twīmap|*twīmap]]_.
 > ¹ A poisonous pink berry
-### twükia
-[twʏkɪɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*twükia|*twükia]]_, from _[[Proto-Öbic dictionary#\*twük|*twük]]_ ("hook") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar").
-> ¹ Hook shaped; ² Bent
 ### twükim
 [twʏkɪm]
 
@@ -2864,6 +2909,11 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*twükim|*twükim]]_, from _[[Proto-Öbic dictionary#\*twük|*twük]]_ ("hook") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Hook
+### twükya
+[twʏkjɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*twükya|*twükya]]_, from _[[Proto-Öbic dictionary#\*twük|*twük]]_ ("hook") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar").
+> ¹ Hook shaped; ² Bent
 ### tyumik
 [tjʊmɪk]
 
@@ -2930,11 +2980,6 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'imuk|*t'imuk]]_, from _[[Proto-Öbic dictionary#\*t'i|*t'i]]_ ("small") + _[[Proto-Öbic dictionary#\*muk|*muk]]_ ("bug").
 > ¹ Ant, fly
-### t'iqia
-[tʼɪqɪɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'eqia|*t'eqia]]_, from _[[Proto-Öbic dictionary#\*t'eq|*t'eq]]_ ("egg") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar").
-> ¹ Spherical, egg-shaped
 ### t'iqim
 [tʼɪqɪm]
 
@@ -2945,6 +2990,11 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'eqt'eq|*t'eqt'eq]]_, from _[[Proto-Öbic dictionary#\*t'eq|*t'eq]]_ ("egg") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To lay (eggs)
+### t'iqya
+[tʼɪqjɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'eqya|*t'eqya]]_, from _[[Proto-Öbic dictionary#\*t'eq|*t'eq]]_ ("egg") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar").
+> ¹ Spherical, egg-shaped
 ### t'iwra
 [tʼɪwʁɑ]
 
@@ -3134,22 +3184,17 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ut'ar|*ut'ar]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*t'ar|*t'ar]]_ ("die").
 > ¹ To kill
+### uwa
+[ʊwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*uwa|*uwa]]_.
+> ¹ Big
 ### uwik'
 [ʊwɪkʼ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*uwik'|*uwik']]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change").
 > ¹ To change, alter
 # ü
-### ücgwin
-[ʏtɕɣwɪn]
-
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ücgwin|*ücgwin]]_, from _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*gwin|*gwin]]_ ("eclipse").
-> ¹ The periodic eclipse of Bigmoon by Smallmoon
-### ückyüc'
-[ʏtɕkjʏtɕʼ]
-
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ückyüc'|*ückyüc']]_, from _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*kyüc'|*kyüc']]_ ("rise").
-> ¹ To rise each day, as of the sun or stars
 ### ücnain
 [ʏtɕnɑɪn]
 
@@ -3173,8 +3218,16 @@ tags:
 ### ücwin
 [ʏtɕwɪn]
 
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ücwin|*ücwin]]_, from _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*gwin|*gwin]]_ ("eclipse").
+> ¹ The periodic eclipse of Bigmoon by Smallmoon
+
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ücwin|*ücwin]]_, from _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*win|*win]]_ ("count, hold value").
 > ¹ To count days, measure the passing of time
+### ücyüc'
+[ʏtɕjʏtɕʼ]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ücyüc'|*ücyüc']]_, from _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*kyüc'|*kyüc']]_ ("rise").
+> ¹ To rise each day, as of the sun or stars
 ### üc'ap
 [ʏtɕʼɑp]
 
@@ -3200,20 +3253,20 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üʔem|*üʔem]]_, from _[[Proto-Öbic dictionary#\*üʔ|*üʔ]]_ ("take orally") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Oral medicine
-### ükia
-[ʏkɪɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ükia|*ükia]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar").
-> ¹ Having a tree-like, branching structure
 ### ükit
 [ʏkɪt]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üket|*üket]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Split bamboo used for flooring
-### üktyar
-[ʏktjɑʁ]
+### ükya
+[ʏkjɑ]
 
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üktyag|*üktyag]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ükya|*ükya]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("physically similar").
+> ¹ Having a tree-like, branching structure
+### ükyar
+[ʏkjɑʁ]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ükyag|*ükyag]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").
 > ¹ Antler
 ### ük'üp
 [ʏkʼʏp]
@@ -3327,6 +3380,11 @@ tags:
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖm|*ǖm]]_, from _[[Proto-Öbic dictionary#\*ǖ|*ǖ]]_ ("wood, wooden") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ A complex construction made from several pieces of wood
 > **Derivatives:** _[[High Alöbi dictionary#q'aq'ugǖmi|q'aq'ugǖmi]]_ ("wagon house")
+### ǖmwit'
+[yːmwɪtʼ]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖmwit'|*ǖmwit']]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*mwit'|*mwit']]_ ("different, other").
+> ¹ To be or go somewhere else
 ### ǖncaw
 [yːntɕɑw]
 
@@ -3478,11 +3536,6 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūpkay|*ūpkay]]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*kay|*kay]]_ ("support").
 > ¹ To support; ² To rest against
-### ūpqyan
-[uːpqjɑn]
-
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūpqyan|*ūpqyan]]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*qyan|*qyan]]_ ("cover").
-> ¹ To cover over, as with a sheet
 ### ūpriw
 [uːpʁɪw]
 
@@ -3513,6 +3566,11 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūpxak'|*ūpxak']]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*xak'|*xak']]_ ("pound").
 > ¹ To pound flat
+### ūpyan
+[uːpjɑn]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūpyan|*ūpyan]]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*qyan|*qyan]]_ ("cover").
+> ¹ To cover over, as with a sheet
 ### ūtuk
 [uːtʊk]
 
@@ -3564,31 +3622,31 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wayüʔ|*wayüʔ]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*wüʔ|*wüʔ]]_ ("omen, luck").
 > ¹ Luck; ² Fate
-### wigua
-[wɪɣʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wihua|*wihua]]_, from _[[Proto-Öbic dictionary#\*wih|*wih]]_ ("alive") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Alive
 ### wiguk
 [wɪɣʊk]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wihuk|*wihuk]]_, from _[[Proto-Öbic dictionary#\*wih|*wih]]_ ("alive") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Living being
+### wigwa
+[wɪɣwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wihwa|*wihwa]]_, from _[[Proto-Öbic dictionary#\*wih|*wih]]_ ("alive") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Alive
 ### wik'ru
 [wɪkʼʁʊ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wik'ru|*wik'ru]]_, from _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change") + _[[Proto-Öbic dictionary#\*-ru|*-ru]]_ ("self").
 > ¹ To change (as a person)
-### wik'ua
-[wɪkʼʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wik'ua|*wik'ua]]_, from _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Different, other
 ### wik'up
 [wɪkʼʊp]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wik'up|*wik'up]]_, from _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
 > ¹ Foreigner
+### wik'wa
+[wɪkʼwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wik'wa|*wik'wa]]_, from _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Changed, different
 ### wilig
 [wɪlɪɣ]
 
@@ -3619,20 +3677,35 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wisǖm|*wisǖm]]_, from _[[Proto-Öbic dictionary#\*sǖm|*sǖm]]_ ("sap, tree oil").
 > ¹ Tree oil
-### wīpmyawmiü
-[wiːpmjɑwmɪʏ]
+### wit'ik
+[wɪtʼɪk]
 
-*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīpmyawmiü|*wīpmyawmiü]]_, from _[[Proto-Öbic dictionary#\*wīpü|*wīpü]]_ ("two") + _[[Proto-Öbic dictionary#\*myawmü|*myawmü]]_ ("twenty five (five squared)") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
-> ¹ Fifty
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'ek|*wit'ek]]_, from _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
+> ¹ Other animal
+### wit'im
+[wɪtʼɪm]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'em|*wit'em]]_, from _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Other thing
+### wit'ip
+[wɪtʼɪp]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'ep|*wit'ep]]_, from _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
+> ¹ Other person
 ### wīpü
 [wiːpʏ]
 
 *num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīpü|*wīpü]]_, from _[[Proto-Öbic dictionary#\*wīp|*wīp]]_ ("two").
 > ¹ Two
-### wīp'ǖsiü
-[wiːpʼyːsɪʏ]
+### wīpyawmiü
+[wiːpjɑwmɪʏ]
 
-*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīpʔǖsiü|*wīpʔǖsiü]]_, from _[[Proto-Öbic dictionary#\*wīpü|*wīpü]]_ ("two") + _[[Proto-Öbic dictionary#\*ʔǖsü|*ʔǖsü]]_ ("ten") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīpyawmiü|*wīpyawmiü]]_, from _[[Proto-Öbic dictionary#\*wīpü|*wīpü]]_ ("two") + _[[Proto-Öbic dictionary#\*myawmü|*myawmü]]_ ("twenty five (five squared)") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
+> ¹ Fifty
+### wīp'ǖsyü
+[wiːpʼyːsjʏ]
+
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīpʔǖsyü|*wīpʔǖsyü]]_, from _[[Proto-Öbic dictionary#\*wīpü|*wīpü]]_ ("two") + _[[Proto-Öbic dictionary#\*ʔǖsü|*ʔǖsü]]_ ("ten") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
 > ¹ Twenty
 ### wīxa
 [wiːɕɑ]
@@ -3755,21 +3828,21 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xayxay|*xayxay]]_, from _[[Proto-Öbic dictionary#\*xay|*xay]]_ ("flow") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To flow
-### xigua
-[ɕɪɣʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xigua|*xigua]]_, from _[[Proto-Öbic dictionary#\*xig|*xig]]_ ("sickness, ailment") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Sick
 ### xigup
 [ɕɪɣʊp]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xigup|*xigup]]_, from _[[Proto-Öbic dictionary#\*xig|*xig]]_ ("sickness, ailment") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
 > ¹ Sick person
+### xigwa
+[ɕɪɣwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xigwa|*xigwa]]_, from _[[Proto-Öbic dictionary#\*xig|*xig]]_ ("sickness, ailment") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Sick
 ### xilaq'
 [ɕɪlɑqʼ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xilak'|*xilak']]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*xak'|*xak']]_ ("pound").
-> ¹ Pâté
+> ¹ Forcemeat
 ### xilpü
 [ɕɪlpʏ]
 
@@ -3785,10 +3858,10 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xlicek|*xlicek]]_, from _[[Proto-Öbic dictionary#\*xlic|*xlic]]_ ("writhe") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Eel; ² Worm
-### xunua
-[ɕʊnʊɑ]
+### xunwa
+[ɕʊnwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xunua|*xunua]]_, from _[[Proto-Öbic dictionary#\*xun|*xun]]_ ("obscure") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xunwa|*xunwa]]_, from _[[Proto-Öbic dictionary#\*xun|*xun]]_ ("obscure") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Obscured; ² Not visible; ³ Hard to understand
 ### xuqa
 [ɕʊqɑ]
@@ -3815,14 +3888,6 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xuyxuy|*xuyxuy]]_, Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*si|*si]]_ ("water"), [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'ay|*q'ay]]_ ("deep").
 > ¹ Deep water
-### xümua
-[ɕʏmʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xümua|*xümua]]_, from _[[Proto-Öbic dictionary#\*xüm|*xüm]]_ ("downstream of, before") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Downstream; ² Later
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xümua|*xümua]]_, from _[[Proto-Öbic dictionary#\*xüm|*xüm]]_ ("hide") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Hidden; ² Unknown
 ### xümum
 [ɕʏmʊm]
 
@@ -3831,6 +3896,14 @@ tags:
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xümum|*xümum]]_, from _[[Proto-Öbic dictionary#\*xüm|*xüm]]_ ("hide") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Something unknown
+### xümwa
+[ɕʏmwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xümwa|*xümwa]]_, from _[[Proto-Öbic dictionary#\*xüm|*xüm]]_ ("downstream of, before") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Downstream; ² Later
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xümwa|*xümwa]]_, from _[[Proto-Öbic dictionary#\*xüm|*xüm]]_ ("hide") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Hidden; ² Unknown
 ### xümxüm
 [ɕʏmɕʏm]
 
@@ -3897,15 +3970,15 @@ tags:
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xwita|*xwita]]_.
 > ¹ Drunk
 # y
-### yacua
-[jɑtɕʊɑ]
+### yacwa
+[jɑtɕwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yacua|*yacua]]_, from _[[Proto-Öbic dictionary#\*yac|*yac]]_ ("joy") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yacwa|*yacwa]]_, from _[[Proto-Öbic dictionary#\*yac|*yac]]_ ("joy") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Happy
-### yac'ua
-[jɑtɕʼʊɑ]
+### yac'wa
+[jɑtɕʼwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yac'ua|*yac'ua]]_, from _[[Proto-Öbic dictionary#\*yac'|*yac']]_ ("anger") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yac'wa|*yac'wa]]_, from _[[Proto-Öbic dictionary#\*yac'|*yac']]_ ("anger") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Angry
 ### yam
 [jɑm]
@@ -3942,16 +4015,16 @@ tags:
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yaq|*yaq]]_, from _[[Proto-Öbic dictionary#\*<ur>|*<ur>]]_ ("quick and repetitive for a short time") + _[[Proto-Öbic dictionary#\*yeq|*yeq]]_ ("scratch, gnaw").
 > ¹ To scratch; ² To gnaw at
-### yarua
-[jɑʁʊɑ]
-
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yarua|*yarua]]_, from _[[Proto-Öbic dictionary#\*yar|*yar]]_ ("central, in the middle") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
-> ¹ Central
 ### yaruc
 [jɑʁʊtɕ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yaruc|*yaruc]]_, from _[[Proto-Öbic dictionary#\*ruc|*ruc]]_ ("loc").
 > ¹ A non-physical part of the self, similar to the soul
+### yarwa
+[jɑʁwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yarwa|*yarwa]]_, from _[[Proto-Öbic dictionary#\*yar|*yar]]_ ("central, in the middle") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Central
 ### yata
 [jɑtɑ]
 
@@ -3962,10 +4035,10 @@ tags:
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yaten|*yaten]]_, from _[[Proto-Öbic dictionary#\*i-|*i-]]_ ("singular") + _[[Proto-Öbic dictionary#\*ten|*ten]]_ ("first person").
 > ¹ First person singular
-### yat'ua
-[jɑtʼʊɑ]
+### yat'wa
+[jɑtʼwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yat'ua|*yat'ua]]_, from _[[Proto-Öbic dictionary#\*yat'|*yat']]_ ("fear") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yat'wa|*yat'wa]]_, from _[[Proto-Öbic dictionary#\*yat'|*yat']]_ ("fear") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Scared
 ### yawcal
 [jɑwtɕɑl]
@@ -4112,10 +4185,15 @@ tags:
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yüsta|*yüsta]]_, from _[[Proto-Öbic dictionary#\*yüs|*yüs]]_ ("fire") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Burnt
-### yüxua
-[jʏɕʊɑ]
+### yütwa
+[jʏtwɑ]
 
-*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yüxua|*yüxua]]_, from _[[Proto-Öbic dictionary#\*yüx|*yüx]]_ ("heat") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yütwa|*yütwa]]_, from _[[Proto-Öbic dictionary#\*yüt|*yüt]]_ ("equal") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+> ¹ Equal, same; ² Similar
+### yüxwa
+[jʏɕwɑ]
+
+*stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yüxwa|*yüxwa]]_, from _[[Proto-Öbic dictionary#\*yüx|*yüx]]_ ("heat") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Hot
 ### yǖmyǖm
 [jyːmjyːm]

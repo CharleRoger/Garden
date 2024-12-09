@@ -414,7 +414,7 @@ tags:
 ### caswa
 ʟᴀᴛᴇ [tʃaswə]
 
-*adj.* From [[Low Alöbi]] _[[Low Alöbi dictionary#casoa|casoa]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*casua|*casua]]_, from _[[Proto-Öbic dictionary#\*cas|*cas]]_ ("raw") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
+*adj.* From [[Low Alöbi]] _[[Low Alöbi dictionary#caswa|caswa]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*caswa|*caswa]]_, from _[[Proto-Öbic dictionary#\*cas|*cas]]_ ("raw") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ (of food) raw, unripe
 ### cava
 ᴇᴀʀʟʏ [tʃava]; ʟᴀᴛᴇ [tʃavə]
@@ -835,7 +835,7 @@ tags:
 
 *v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#ńa’āi|ńa’āi]]_ ("tattoo").
 > ¹ To stain; ² To tattoo; ³ To mark
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#hogayaq|hogayaq]]_, [[Möxali]] _[[Möxali dictionary#neqe|neqe]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#hogaq|hogaq]]_, [[Möxali]] _[[Möxali dictionary#neqe|neqe]]_
 ### fańū
 ᴇᴀʀʟʏ [faŋuː]; ʟᴀᴛᴇ [faŋu]
 
@@ -1668,7 +1668,7 @@ tags:
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ńa’ahi|*ńa’ahi]]_.
 > ¹ Tattoo, marking; ² Stain
 > **Derivatives:** _[[Xiri dictionary#ńa’āiwa|ńa’āiwa]]_ ("tattoo correction"), _[[Xiri dictionary#ńa’āińuru|ńa’āińuru]]_ ("tattooed person"), _[[Xiri dictionary#ńa’āivozi|ńa’āivozi]]_ ("tattoo knowledge"), _[[Xiri dictionary#ńa’āiza|ńa’āiza]]_ ("non-tattoeed"), _[[Xiri dictionary#ńa’āiži’i|ńa’āiži’i]]_ ("tattoo needle"), _[[Xiri dictionary#ńa’āira’a|ńa’āira’a]]_ ("growing up"), _[[Xiri dictionary#fańa’āi|fańa’āi]]_ ("to tattoo")
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geq|geq]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geyaq|geyaq]]_
 ### ńa’āińuru
 ᴇᴀʀʟʏ [ŋaʔaːiŋuɾu]; ʟᴀᴛᴇ [ŋəʔaɪŋuɾʊ]
 
@@ -2590,7 +2590,7 @@ tags:
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*walańe|*walańe]]_.
 > ¹ Alcohol; ² Yam wine
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valon|valon]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valan|valan]]_
 ### wā’ē
 ᴇᴀʀʟʏ [waːʔeː]; ʟᴀᴛᴇ [waʔe]
 

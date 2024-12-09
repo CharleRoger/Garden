@@ -472,6 +472,11 @@ tags:
 *root*
 > ¹ Affix, join; ² Fasten
 > **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lǖm|*lǖm]]_
+### \*lay
+
+*root*
+> ¹ All, every
+> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lay|*lay]]_
 ### \*lip
 
 *root*
@@ -507,6 +512,11 @@ tags:
 *root*
 > ¹ Frog
 > **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lüp|*lüp]]_
+### \*lyt
+
+*root*
+> ¹ Each, every
+> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lüt|*lüt]]_
 # m
 ### \*malħ
 
@@ -558,6 +568,11 @@ tags:
 *root* Perhaps related to [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*wis|*wis]]_ ("transparent").
 > ¹ Clean; ² Free of stuff, as of water or an area of land
 > **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mis|*mis]]_
+### \*miw
+
+*root*
+> ¹ Similar; ² Nearby
+> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miw|*miw]]_
 ### \*mu
 
 *root*
@@ -588,11 +603,11 @@ tags:
 *root*
 > ¹ Familiar; ² Tame
 > **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*müx|*müx]]_
-### \*mwi
+### \*mwit'
 
-*root*
-> ¹ Similar; ² Nearby
-> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mwi|*mwi]]_
+*root* Perhaps related to [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*wik'|*wik']]_ ("different, change"). See also _[[Proto-Upic dictionary#\*wit'|*wit']]_.
+> ¹ Different, other
+> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mwit'|*mwit']]_
 ### \*myun
 
 *root*
@@ -1290,6 +1305,11 @@ tags:
 *root* Perhaps related to [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*mis|*mis]]_ ("clear").
 > ¹ Completely transparent, as of clean water or glass
 > **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wis|*wis]]_
+### \*wit'
+
+*root* Perhaps related to [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*wik'|*wik']]_ ("different, change"). Variant of _[[Proto-Upic dictionary#\*mwit'|*mwit']]_.
+> ¹ Different, other
+> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'|*wit']]_
 ### \*wuʔ
 
 *root*
