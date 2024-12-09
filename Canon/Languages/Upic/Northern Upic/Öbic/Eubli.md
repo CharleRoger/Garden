@@ -22,7 +22,7 @@ The sounds changes which occurred during the development of Eubli from [[Low Al�
 - i y u e ø o ɑ → ɪ ʏ ʊ ɛ œ ɔ a
 - ɪ̃ ʊ̃ ɛ̃ ɔ̃ → ɪ ʊ ɛ ɔ
 - dʒ tʃ tʃʼ→ dz̺ ts̺ ts̺ʼ
-- n d t tʼ z s l → d̪ t̪ t̪ʼ z̪ s̪
+- d t tʼ z s → d̪ t̪ t̪ʼ z̪ s̪
 - pʼ → p
 - ʔ → ∅ (optionally retained between vowels)
 
@@ -32,11 +32,11 @@ From around the [[13th century|13th]] to [[16th century|16th]] centuries, furthe
 - ɛ œ ɔ → ɪ ʏ ʊ
 - ei̯ aɛ̯ øy̯ aɔ̯ ou̯ → i ɛ y ɔ u
 # Phonology
-Compared to [[Low Alöbi|Low Alöbi's]] 18 consonants and 7 vowels, Eubli features a greatly expanded inventory of 27j consonants and 12 (later 9) vowels, along with some slight phonetic shifts like dentalisation of the alveolars and *x h* [ʃ x] > [x h]. In conjunction with the 
+Compared to [[Low Alöbi|Low Alöbi's]] 18 consonants and 7 vowels, Eubli features a greatly expanded inventory of 26 consonants and 12 (later 9) vowels, along with some slight phonetic shifts like dentalisation of the alveolars and *x h* [ʃ x] > [x h]. In conjunction with the 
 ## Consonants
 |                     | -   | Labial | Dental      | Alveolar      | Palatal    | Velar     | Glottal   |
 | ------------------- | --- | ------ | ----------- | ------------- | ---------- | --------- | --------- |
-| Nasal               | -   | *m*    | *n* [n̪\~n] | <             | *ň* [ɲ~ŋ]  | <         |           |
+| Nasal               | -   | *m*    | *n* [n̪\~n] | <             | *ň* [ɲ\~ŋ] | <         |           |
 | Voiced obstruent    | -   | *b*    | *d* [d̪]    | *j* [dz̺\~z̺] | *ǰ* [dʑ]   |           |           |
 | ^                   | -   |        | *z* [z̪\~ð] | ^             | *ž* [ʑ]    |           |           |
 | Voiceless obstruent | -   | *p*    | *t* [t̪]    | *c* [ts̺\~s̺] | *č* [tɕ]   | *k*       | (*'* [ʔ]) |
