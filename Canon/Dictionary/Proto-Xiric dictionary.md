@@ -1751,7 +1751,7 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 
 *n.*
 > ¹ Alcohol; ² Yam wine
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#wə̆lə̆ńə̆|wə̆lə̆ńə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#weleńă|weleńă]]_; [[Xiri]] _[[Xiri dictionary#warań|warań]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valan|valan]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#wə̆lə̆ńə̆|wə̆lə̆ńə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#weleńă|weleńă]]_; [[Xiri]] _[[Xiri dictionary#warań|warań]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valon|valon]]_
 ### \*wau’acū
 
 *n.*

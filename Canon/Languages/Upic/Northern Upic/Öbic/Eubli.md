@@ -4,35 +4,44 @@ tags:
 ---
 **Eubli** ([ˈøy̯bl̪ɪ], later [ˈybl̪ɪ]) is an [[Öbic languages|Öbic language]] and the primary language spoken by the [[Öb]] throughout most of [[T'ugü]] in the second millennium AGS.
 # Name
-The name *Eubli* simply means "[[Öb]]-language", which is essentially a remodelling of the world *[[Low Alöbi#Name|Alöbi]]*, which was a more archaic equivalent construction. Note that the Eubli word for "[[Öb]]" was *öb*, identical to the older [[Low Alöbi]] form, while *eub-* is an alternate form with vowel breaking triggered by the following close vowel *-i*, also seen in the ergative *eubi*.
+The name *Eubli* simply means "[[Öb]]-language", which is essentially a remodelling of the word *[[Low Alöbi#Name|Alöbi]]*, which was a more archaic equivalent construction. Note that the Eubli word for "[[Öb]]" was *öb*, identical to the older [[Low Alöbi]] form, while *eub-* is an alternate form with vowel breaking triggered by the following close vowel *-i*, also seen in the ergative *eubi*.
 # Development
 Eubli represents the historical continuation of the [[Low Alöbi]] dialect cluster after centuries of contact and exchange, and often bilingualism, with [[Möxali]], while migrations carried [[High Alöbi]] from [[T'ugü]] out onto the [[Red Steppe]].
 
-The sounds changes which occurred during the development of Eubli from [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]] are as follows:
-- wɑ we wi → o ø y
-- ŋ → ɲ / \_{i, e, y, ø}
-- ŋ → n / \_{ɑ}
-- nj dj tj tʼj sj → ɲ dʑ tɕ tɕʼ ɕ
-- dʒ tʃ tʃʼ ʃ → dʑ tɕ tɕʼ ɕ / \_{i, e, y, ø}
-- x → h
-- ʃ → x
-- ej ɑj oj ew ɑw ow → ei̯ aɛ̯ ei̯ øy̯ aɔ̯ ou̯
-- f s ɕ → v z ʑ / V_V
-- e ø o → ei̯ øy̯ ou̯ / \_...{i, y, u}
-- i y u e ø o ɑ → ɪ ʏ ʊ ɛ œ ɔ a
+The sounds change which occurred during the development of Eubli from [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]] are as follows:
+- dʒ tʃ tʃʼ ʃ → dʑ tɕ tɕʼ ɕ / \_{i~ɪ, e~ɛ, y~ʏ, ø~œ}
+- ɟ c cʼ ç → dʑ tɕ tɕʼ ɕ
+	- Originally /dj tj tʼj xj/, introduced a phonemic distinction between palatal and post-alveolar consonants. Note that a few instances of [ɕ] already existed, originating from /sj/, with which /xj/ then merged.
+- ej ew aj aw oj ow → ei̯ øy̯ aɛ̯ aɔ̯ ei̯ ou̯
 - ɪ̃ ʊ̃ ɛ̃ ɔ̃ → ɪ ʊ ɛ ɔ
+- ɪ ʏ ʊ → i y u / \_$
+	- There was no phonemic distinction between [i y u] and [ɪ ʏ ʊ], found in open and closed syllables respectively, but this change is important in triggering the change below.
+- e ø o → ei̯ øy̯ ou̯ / \_...{i, y, u}
+- i y u → ɪ ʏ ʊ
+	- This change is hard to position since it represents no structural change, but had completed before the 12th century, leaving /ɪ ʏ ʊ/ with little to no allophonic variation.
+- e ø o → ɪ ʏ ʊ
+	- This change, however, is a structural merger of /e ø o/ into /ɪ ʏ ʊ/ in open stressed syllables, leaving /ɛ œ ɔ/ in other syllables.
+- wɪ wɛ wa → ʏ œ ɔ
+	- Resulted in the loss of /w/ until it later re-emerged.
+- a → ∅ / V(N)C\_#
+- ŋ → ɲ / \_{ɪ, ɛ, ei̯, ʏ, œ, øy̯}
+- ŋ → n / \_{a}
+- x ʃ → h x
+- ɸ s ɕ → β z ʑ / V_V
+- ɸ β → h w
 - dʒ tʃ tʃʼ→ dz̺ ts̺ ts̺ʼ
 - d t tʼ z s → d̪ t̪ t̪ʼ z̪ s̪
 - pʼ → p
-- ʔ → ∅ (optionally retained between vowels)
 
-From around the [[13th century|13th]] to [[16th century|16th]] centuries, further sound changes took place:
+From around the [[13th century|13th]] to [[15th century|15th]] centuries, further sound changes took place:
+- ʔ → ∅ (optionally retained between vowels)
 - z̪ s̪ → ð θ
 - dz̺ ts̺ → z̺ s̺
-- ɛ œ ɔ → ɪ ʏ ʊ
-- ei̯ aɛ̯ øy̯ aɔ̯ ou̯ → i ɛ y ɔ u
+- aɛ̯ aɔ̯ ei̯ øy̯ ou̯ → ɛ ɔ i y u
+	- Note the merger of /aɛ̯ aɔ̯/ with /ɛ ɔ/ respectively.
+
 # Phonology
-Compared to [[Low Alöbi|Low Alöbi's]] 18 consonants and 7 vowels, Eubli features a greatly expanded inventory of 26 consonants and 12 (later 9) vowels, along with some slight phonetic shifts like dentalisation of the alveolars and *x h* [ʃ x] > [x h]. In conjunction with the 
+Compared to [[Low Alöbi|Low Alöbi's]] 18 consonants and 7 vowels, Eubli features a greatly expanded inventory of 26 consonants and 12 (later 9) vowels, along with some slight phonetic shifts like dentalisation of the alveolars and *x h* [ʃ x] > [x h]. 
 ## Consonants
 |                     | -   | Labial | Dental      | Alveolar      | Palatal    | Velar     | Glottal   |
 | ------------------- | --- | ------ | ----------- | ------------- | ---------- | --------- | --------- |
@@ -40,11 +49,11 @@ Compared to [[Low Alöbi|Low Alöbi's]] 18 consonants and 7 vowels, Eubli featur
 | Voiced obstruent    | -   | *b*    | *d* [d̪]    | *j* [dz̺\~z̺] | *ǰ* [dʑ]   |           |           |
 | ^                   | -   |        | *z* [z̪\~ð] | ^             | *ž* [ʑ]    |           |           |
 | Voiceless obstruent | -   | *p*    | *t* [t̪]    | *c* [ts̺\~s̺] | *č* [tɕ]   | *k*       | (*'* [ʔ]) |
-| ^                   | -   | *f*    | *s* [s̪\~θ] | ^             | *š* [ɕ]    | *x*       | *h*       |
+| ^                   | -   |        | *s* [s̪\~θ] | ^             | *š* [ɕ]    | *x*       | *h*       |
 | Ejective            | -   |        | *t'* [t̪ʼ]  | *c'* [ts̺ʼ]   | *č'* [tɕʼ] | *k'* [kʼ] |           |
 | Approximant         | -   | *w*    | *l* [l̪\~l] | <             | *y* [j]    |           |           |
 ### Dorsal nasal
-The dorsal nasal *ň* is normally palatal [ɲ], but is typically pronounced velar [ŋ] before the back rounded vowels *o u ou*.
+The dorsal nasal *ň* is normally palatal [ɲ], but is pronounced velar [ŋ] before the back rounded vowels *o u ou* and at the end of words.
 ### Sibilants
 Eubli initially contrasted three sibilant articulations:
 - Dentalised alveolar: *z s* /z̪ s̪/
@@ -55,16 +64,14 @@ In later stages of the language, the dentalised alveolar fricatives *z s* came
 ### Glottal stop
 The glottal stop [ʔ] was originally a phonemically contrastive consonant in [[Low Alöbi]], but lost this status in Eubli. Though no longer pronounced, the glottal stop was retained in the native orthography as the letters ⟨QA QE⟩ in syllable-initial position, but not in coda position, as shown in the examples below:
 - [[Low Alöbi]] *qayxil* [ʔɑjʃil → ʔajʃew] → Eubli *aežeu* ⟨QA-E-ŽE-U⟩ [aɛ̯ʑøy̯ → ɛʑy] "closed (as of eyes)"
-- [[Low Alöbi]] *gayaq* [ɴɑjɑʔ → ɴajʔ] → Eubli *nae* ⟨NA-E⟩ [naɛ̯ → nɛ] "tattoo"
+- [[Low Alöbi]] *gayaq* [ɴɑˑjɑʔ → ɴajʔ] → Eubli *nae* ⟨NA-E⟩ [naɛ̯ → nɛ] "tattoo"
 
 In some cases, ⟨QA QE⟩ served to separate vowels in hiatus, which before the [[15th century]] could still optionally be pronounced with an epenthetic glottal stop:
-- [[Low Alöbi]] *naqem* [nɑʔem → nɑʔɛ̃ː] → Eubli *na'e* ⟨NA-QE⟩ [na(ʔ)ɛ → naɛ] "food" (c.f. *nae* ⟨NA-E⟩ [naɛ̯ → nɛ] "tattoo")
-- [[Low Alöbi]] *leqic* [leʔitʃ → leʔɪtʃ] → Eubli *lei'ic* ⟨LE-I-QE.i-CA⟩ [lɛi̯(ʔ)ɪts̺ → lɛi̯s̺] "to want" (c.f. *eic* ⟨E-I-CA⟩ [ei̯ts̺ → is̺] "waterfowl")
+- [[Low Alöbi]] *naqem* [nɑˑʔem → nɑʔɛ̃ː] → Eubli *na'e* ⟨NA-QE⟩ [na(ʔ)ɛ → naɛ] "food" (c.f. *nae* ⟨NA-E⟩ [naɛ̯ → nɛ] "tattoo")
+- [[Low Alöbi]] *leqic* [leˑʔitʃ → leʔɪtʃ] → Eubli *lei'ic* ⟨LE-I-QE.i-CA⟩ [lɛi̯(ʔ)ɪts̺ → lɛi̯s̺] "to want" (c.f. *eic* ⟨E-I-CA⟩ [ei̯ts̺ → is̺] "waterfowl")
 ## Vowels
 ### Early inventory
-The late stage of [[Low Alöbi]] from which Eubli is descended, known as [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]], contrasted three types of vowels: plain monophthongs, nasalised monophthongs and diphthongs. The nasalised vowels /ɪ̃ ʊ̃ ɛ̃ ɔ̃/ were not recorded in the majority of Eubli's literary history and merged with their unnasalised equivalents in the [[11th century|11th]] or [[12th century]], so are typically not canonically considered a feature of Eubli.
-
-This leaves Eubli with seven phonemic monophthongs, shown in the table below.
+The late stage of [[Low Alöbi]] from which Eubli is descended, known as [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]], contrasted three types of vowels: seven plain monophthongs each with a pair of tense and lax allophones, four nasalised monophthongs, and six diphthongs. The nasalised vowels /ɪ̃ ʊ̃ ɛ̃ ɔ̃/ merged with their unnasalised equivalents before the [[11th century|11th]] and thus are not recorded in the literary history of Eubli, resulting in seven phonemic monophthongs, shown in the table below.
 
 |            | -   | Front unrounded | Front rounded | Central | Back    |
 | ---------- | --- | --------------- | ------------- | ------- | ------- |

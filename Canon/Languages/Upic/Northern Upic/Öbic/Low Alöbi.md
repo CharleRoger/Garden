@@ -20,27 +20,36 @@ The corpus of Alöbi literature is primarily from the latter centuries of this p
 The Low [[Öbic languages|Öbic language]] of the second millennium AGS had diverged enough from Low Alöbi to be considered a historically distinct language, called [[Eubli]]. By convention, [[Eubli]] is taken to be historically separated from Low Alöbi via a transitional stage defined as the common spoken language of the [[Öb]] populace c. 800-1200 AGS. This language stage, called Transitional Alöbi, also developed into various other minor languages and notably contributed to the Alöbi-[[Xiri]] mixed language [[Möxali]].
 
 The precise form of Transitional Alöbi is uncertain since its deviation from the standard language was not recorded in writing until [[Eubli]] spelling reforms in the [[12th century|12th]] and [[13th century|13th]] centuries. Certain changes to the phonology, particularly of the vowel inventory, have been reconstructed, some examples of which are shown below (*Low Alöbi (mature stage)* → **Transitional Alöbi** → *Eubli*):
-- Merger of word-final /ɑ e/ to \*ə:
-	- *bit'e* [bitʼɛ] → **\*bit'ə** → *bit* [bitʼ] "egg"
-	- *blixma* [bliʃmɑ] → **\*blixmə** → *blišma* [bliɕmə] "iridescent"
-- Unstressed vowel loss between an approximant /w l j/ and an obstruent, likely first by shifting to \*ə:
-	- *qayox* [ʔɑj(ɔ)ʃ] → **\*qayx** → *aex* [äɛ̯x] "clear weather"
-	- *owik*' [ow(ɪ)kʼ] → **\*owk'** → *ouk* [ou̯kʼ] "change"
+- Merger of word-final /e/ and /o/ with /a/ :
+	- *bit'e* [bitʼɛ] → **\*bitʼa [bitʼə]** → *bit* [bɪt̪ʼ] "egg"
+	- *blixma* [blɪʃmɑ] → **\*blixma [blɪɕmə] ** → *blišma* [blɪɕma] "iridescent"
+	- *byako* [bjɑkɔ] → **\*byaka [bjakə]** → *byak* [bjak] "chaos"
+- Unstressed vowel loss between an approximant /w l j/ and an obstruent:
+	- *qayox* [ʔɑj(ɔ)ʃ] → **\*qayx [ʔajɕ]** → *aeš* [aɛ̯ɕ] "clear weather"
+	- *owik*' [ow(ɪ)kʼ] → **\*owk' [owkʼ] ** → *ouk* [ou̯kʼ] "change"
 - Vocalisation of coda /l/ to \*w:
-	- *ibyal* [ibjɑɫ] → **\*ibyaw** → *ibyao* [ibjäɔ̯] "cross over, travel through"
-	- *celcel* [tʃeɫdʒɛɫ] → **\*cewjew** → *čeuǰeu* [tɕøy̯dʑøy̯] "arrive"
+	- *ibyal* [ibjɑɫ] → **\*ibyaw [ibjaw]** → *ibyao* [ɪbjaɔ̯] "cross over, travel through"
+	- *celcel* [tʃɛɫdʒɛɫ] → **\*cewjew [tɕewdʑew]** → *čeuǰeu* [tɕøy̯dʑøy̯] "arrive"
 - Loss of coda nasals, forming four nasalised vowels \*in (← iN), \*un (← uN, üN) , \*en (← eN), \*on (← aN, oN, öN):
-	- *wilig* [wilɪ̃(ŋ)] → **\*wilin** → *wili* [wil̪ɪ] "rod"
-	- *gosum* [ŋosʊ̃(m)] → **\*gosun** → *gosu* [ŋosʊ] "remove, filter out, sieve"
-	- *höten* [ɸødɛ̃(n)] → **\*föden** → *föde* [ɸødɛ] "1PL"
-	- *agta* [ɑ̃(n)dɑ] → **\*ondə** → *od* [ɔd] "open (as of a flower)"
+	- *wilig* [wilɪ̃(ŋ)] → **\*wilin [wilɪ̃ː]** → *wili* [wɪl̪ɪ] "rod"
+	- *gosum* [ŋosʊ̃(m)] → **\*gosun [ŋosʊ̃ː]** → *gosu* [ŋɔs̪ʊ] "remove, filter out, sieve"
+	- *höten* [ɸødɛ̃(n)] → **\*föden [ɸødɛ̃ː]** → *höde* [hœd̪ɛ] "1PL"
+	- *agta* [ɑ̃(n)dɑ] → **\*onda [ɔ̃də]** → *od* [ɔd̪] "open (as of a flower)"
 - Formation of six diphthongs (\*ey \*ay \*oy \*ew \*aw \*ow) from vowel + glide and vowel + vowel sequences (note that nasalised vowels were also subject to this merger):
-	- *üyet*' [yj(ɛ)tʼ] → **\*eyt'** → *eit* [ei̯tʼ] "fear"
-	- *aib* [ɑɪb] → **\*ayb** → *aeb* [äɛ̯b] "narrow gap"
-	- *yuek* [juɛk] → **\*yoyk** → *yeik* [jei̯k] "scaly fish"
-	- kihiw [kixɪw] → **\*kihew** → *kiheu* [kixøy̯] "inhale"
-	- *laüm* [lɑʏ̃(m)] → (\*laun → ) **\*law** → *lao* [l̪äɔ̯] "corner"
-	- *xulab* [ʃulɑb~ʃuɫb] → **\*xowb** → *xoub* [xou̯b] "wrap up"
+	- *üyet*' [yj(ɛ)tʼ] → **\*eyt' [ejtʼ]** → *eit* [ei̯t̪ʼ] "fear"
+	- *aib* [ɑɪb] → **\*ayb [ajb]** → *aeb* [aɛ̯b] "narrow gap"
+	- *yuek* [juɛk] → **\*yoyk [jojk]** → *yeik* [jei̯k] "scaly fish"
+	- kihiw [kixɪw] → **\*kihew [kixew]** → *kiheu* [kɪhøy̯] "inhale"
+	- *laüm* [lɑʏ̃(m)] → (\*laun [laʊ̃ː] → ) **\*law [law]** → *lao* [l̪aɔ̯] "corner"
+	- *kulis* [kulɪs~kʊɫs] → **\*kows [kows]** → *kous* [kou̯s̪] "wrap up"
+
+Transitional Alöbi featured a pair of allophones for each vowel phoneme, shown in the table below.
+
+|       | -   | i   | ü   | u   | e   | ö   | o   | a   |
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tense | -   | [i] | [y] | [u] | [e] | [ø] | [o] | [a] |
+| Lax   | -   | [ɪ] | [ʏ] | [ʊ] | [ɛ] | [œ] | [ɔ] | [ə] |
+The tense vowel forms appeared in open initial syllables and in the six diphthongs \*ay \*aw \*ey \*ew \*oy \*ow, while the lax forms appeared when nasalised and all other environments.
 # Phonology
 ## Consonants
 |                  | -   |   Labial   |  Alveolar  | Post-alveolar |    Dorsal     | Glottal |
@@ -57,19 +66,22 @@ Some time in the 4th century, the consonants *t c* were voiced to [d dʒ] betw
 ### Dorsal consonants
 The dorsal series *g k k' h* are uvularised to [ɴ q qʼ χ] next to *a* [ɑ] within the same syllable.
 ### Labial fricative
-The labial fricative *f* did not exist natively in Alöbi, being introduced via Xiri loans during the [[2nd century|2nd]] and [[3rd century|3rd]] centuries. By 400 AGS, older instances of *hw* and *h* next to *u* and *ü* had merged into *f*, which at this time was bilabial [ɸ].
-## Vowels
-|  | - | Front unrounded | Front rounded | Back |
-| ---- | ---- | :--: | :--: | :--: |
-| Close | - | *i* | *ü* | *u* |
-| Mid | - | *e* | *ö* | *o* |
-| Open | - |  |  | *a* |
-Stressed vowels are slightly lengthened and unstressed vowels, with the exception of *a*, are more open than when stressed. A table of typical vowel qualities is shown below:
+Alöbi had no native labial fricative, but the velar fricative *h* had a labialised allophone [xʷ] before /w/ and rounded vowels, which later shifted to [ɸ]. Many more instances of [ɸ] appeared in vocabulary loaned from the [[Xiri]] language, which features /f/ extensively, properly phonemicising the consonant /ɸ/ by 400 AGS.
 
-|            | -   | a   | e    | ö   | o   | i   | ü   | u   |
-| ---------- | --- | --- | ---- | --- | --- | --- | --- | --- |
-| Stressed   | -   | ɑˑ  | eˑ   | øˑ  | oˑ  | iˑ  | yˑ  | uˑ  |
-| Unstressed | -   | ɑ   | ɛ\~ə | œ   | ɔ   | ɪ   | ʏ   | ʊ   |
+The bilabial fricative became labiodental /f/ in the Alöbi-[[Xiri]] mixed language [[Möxali]], characterising the continued influence of [[Xiri]] on its development, while in the true direct successor of the Low Alöbi language, [[Eubli]], /ɸ/ was debuccalised to /h/.
+## Vowels
+|       | -   | Front unrounded | Front rounded | Back |
+| ----- | --- | :-------------: | :-----------: | :--: |
+| Close | -   |       *i*       |      *ü*      | *u*  |
+| Mid   | -   |       *e*       |      *ö*      | *o*  |
+| Open  | -   |                 |               | *a*  |
+Stressed vowels are slightly lengthened in open syllables, while in all other environments the close and mid vowels had acquired lax allophones by 400 AGS. A table of typical vowel qualities in the [[6th century|6th]]–[[8th century|8th]] centuries is shown below:
+
+|                        | -   | a   | e    | ö   | o   | i   | ü   | u   |
+| ---------------------- | --- | --- | ---- | --- | --- | --- | --- | --- |
+| Open stressed syllable | -   | ɑˑ  | eˑ   | øˑ  | oˑ  | iˑ  | yˑ  | uˑ  |
+| Elsewhere              | -   | ɑ   | ɛ\~ə | œ   | ɔ   | ɪ   | ʏ   | ʊ   |
+
 ### Diphthongs
 In the [[8th century]], sequences of vowels and coda glides began to collapse into a system of six diphthongs, shown in the table below, laying the foundation for what would become the vowel system of the later [[Eubli]] language. This late stage of Low Alöbi is known as [[Low Alöbi#Transitional Alöbi|Transitional Alöbi]].
 

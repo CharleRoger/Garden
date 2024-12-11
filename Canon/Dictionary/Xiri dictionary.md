@@ -2591,7 +2591,7 @@ A dictionary of terms in the [[Xiri]] language.
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*walańe|*walańe]]_.
 > ¹ Alcohol; ² Yam wine
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valan|valan]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valon|valon]]_
 ### wā’ē
 ᴇᴀʀʟʏ [waːʔeː]; ʟᴀᴛᴇ [waʔe]
 
