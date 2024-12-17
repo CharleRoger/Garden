@@ -66,7 +66,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Narrow gap
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#eb|eb]]_
 ### aigem
-ᴇᴀʀʟʏ [ɑˑiŋem]; ᴍᴀᴛᴜʀᴇ [ɑjŋɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ajŋɛ̃ː]
+ᴇᴀʀʟʏ [ɑˑiŋəm]; ᴍᴀᴛᴜʀᴇ [ɑjŋə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ajŋɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ayīgem|*ayīgem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*īg|*īg]]_ ("enter") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Entrance; ² Door
@@ -78,7 +78,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Sunlight
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#enklos|enklos]]_
 ### akyaw
-ᴇᴀʀʟʏ [ɑˑkjɑw]; ᴍᴀᴛᴜʀᴇ [ɑkjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [akjəw]
+ᴇᴀʀʟʏ [ɑˑkjɑw]; ᴍᴀᴛᴜʀᴇ [ɑkjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [akjaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*akyaw|*akyaw]]_, from _[[Proto-Öbic dictionary#\*kyaw|*kyaw]]_ ("scream").
 > ¹ To screech, caw; ² To scream, call out
@@ -106,7 +106,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Hut
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#amon|amon]]_
 ### amel
-ᴇᴀʀʟʏ [ɑˑmel]; ᴍᴀᴛᴜʀᴇ [ɑmɛɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [amew]
+ᴇᴀʀʟʏ [ɑˑməl]; ᴍᴀᴛᴜʀᴇ [ɑməɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [amaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*amwer|*amwer]]_, from _[[Proto-Öbic dictionary#\*am-|*am-]]_ ("comparative") + _[[Proto-Öbic dictionary#\*wer|*wer]]_ ("measure").
 > ¹ To compare to; ² To weigh
@@ -187,7 +187,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔayǖr|*ʔayǖr]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔǖr|*ʔǖr]]_ ("night").
 > ¹ Nighttime
 > **Derivatives:** _[[Low Alöbi dictionary#aülinklos|aülinklos]]_ ("nighttime sun")
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#ö|ö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#o|o]]_
 ### aülinklos
 ᴇᴀʀʟʏ [ɑˑylinklos]; ᴍᴀᴛᴜʀᴇ [ɑʏlɪ̃ŋklɔs]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [aʏlɪ̃ŋklɔs]
 
@@ -218,7 +218,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Opening; ² Orifice
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#eyon|eyon]]_
 ### ayamem
-ᴇᴀʀʟʏ [ɑˑjɑmem]; ᴍᴀᴛᴜʀᴇ [ɑjɑmɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ajəmɛ̃ː]
+ᴇᴀʀʟʏ [ɑˑjɑməm]; ᴍᴀᴛᴜʀᴇ [ɑjɑmə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ajəmɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ayamem|*ayamem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*am|*am]]_ ("house") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Village
@@ -243,7 +243,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#evon|evon]]_
 # b
 ### babay
-ᴇᴀʀʟʏ [bɑˑbɑj]; ᴍᴀᴛᴜʀᴇ [bɑbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [babəj]
+ᴇᴀʀʟʏ [bɑˑbɑj]; ᴍᴀᴛᴜʀᴇ [bɑbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [babaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*papay|*papay]]_.
 > ¹ Layer; ² Coating
@@ -254,7 +254,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pac'ǖk|*pac'ǖk]]_.
 > ¹ To break
 ### bamay
-ᴇᴀʀʟʏ [bɑˑmɑj]; ᴍᴀᴛᴜʀᴇ [bɑmɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [baməj]
+ᴇᴀʀʟʏ [bɑˑmɑj]; ᴍᴀᴛᴜʀᴇ [bɑmɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bamaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pamay|*pamay]]_, from _[[Proto-Öbic dictionary#\*pa-|*pa-]]_ ("gather or obtain") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
 > ¹ To research, gather knowledge; ² To develop an understanding
@@ -304,11 +304,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*panya|*panya]]_, from _[[Proto-Öbic dictionary#\*pa-|*pa-]]_ ("gather or obtain") + _[[Proto-Öbic dictionary#\*nya|*nya]]_ ("sound").
 > ¹ To hear
 ### batko
-ᴇᴀʀʟʏ [bɑtko]; ᴍᴀᴛᴜʀᴇ [bɑtkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [batkə]
+ᴇᴀʀʟʏ [bɑtko]; ᴍᴀᴛᴜʀᴇ [bɑtkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [batkɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*patku|*patku]]_, from _[[Proto-Öbic dictionary#\*pat'|*pat']]_ ("colour") + _[[Proto-Öbic dictionary#\*-ku|*-ku]]_ ("-ness").
 > ¹ Colour, hue
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#batka|batka]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#batko|batko]]_
 ### baü
 ᴇᴀʀʟʏ [bɑˑy]; ᴍᴀᴛᴜʀᴇ [bɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [baj]
 
@@ -328,7 +328,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Random or unexpected event; ² Anomaly
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#beya|beya]]_
 ### bayal
-ᴇᴀʀʟʏ [bɑˑjɑl]; ᴍᴀᴛᴜʀᴇ [bɑjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bajəw]
+ᴇᴀʀʟʏ [bɑˑjɑl]; ᴍᴀᴛᴜʀᴇ [bɑjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bajaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*payal|*payal]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*pal|*pal]]_ ("wax, flow, accumulate").
 > ¹ The first half of a _[[Low Alöbi dictionary#omö|omö]]_
@@ -387,24 +387,24 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pinpin|*pinpin]]_, from _[[Proto-Öbic dictionary#\*pin|*pin]]_ ("accumulate") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To accumulate
 ### binem
-ᴇᴀʀʟʏ [biˑnem]; ᴍᴀᴛᴜʀᴇ [binɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [binɛ̃ː]
+ᴇᴀʀʟʏ [biˑnəm]; ᴍᴀᴛᴜʀᴇ [binə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [binɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pinem|*pinem]]_, from _[[Proto-Öbic dictionary#\*pin|*pin]]_ ("bitter") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ A bitter fish sauce
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#bínen|bínen]]_, [[Xiri]] _[[Xiri dictionary#pinem|pinem]]_ ("condiment")
 ### bisek
-ᴇᴀʀʟʏ [biˑsek]; ᴍᴀᴛᴜʀᴇ [bisɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bisɛk]
+ᴇᴀʀʟʏ [biˑsək]; ᴍᴀᴛᴜʀᴇ [bisək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bisək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pisek|*pisek]]_.
 > ¹ Any small fish
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#bísek|bísek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#bísak|bísak]]_
 ### bitbit'
 ᴇᴀʀʟʏ [bitbitʼ]; ᴍᴀᴛᴜʀᴇ [bɪdbɪtʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bɪdbɪtʼ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pitpit'|*pitpit']]_, from _[[Proto-Öbic dictionary#\*pit'|*pit']]_ ("spot, mark") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To speckle, spray, scatter
 ### bit'e
-ᴇᴀʀʟʏ [biˑtʼe]; ᴍᴀᴛᴜʀᴇ [bitʼɛ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bitʼə]
+ᴇᴀʀʟʏ [biˑtʼə]; ᴍᴀᴛᴜʀᴇ [bitʼə]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bitʼə]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pit'eʔ|*pit'eʔ]]_, from _[[Proto-Öbic dictionary#\*t'eq|*t'eq]]_ ("egg").
 > ¹ Egg of a bird
@@ -560,13 +560,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pyaʔpyaʔ|*pyaʔpyaʔ]]_, from _[[Proto-Öbic dictionary#\*pyaʔ|*pyaʔ]]_ ("random, erratic") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To happen randomly
 ### byako
-ᴇᴀʀʟʏ [bjɑˑko]; ᴍᴀᴛᴜʀᴇ [bjɑkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bjakə]
+ᴇᴀʀʟʏ [bjɑˑko]; ᴍᴀᴛᴜʀᴇ [bjɑkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bjakɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pyaʔku|*pyaʔku]]_, from _[[Proto-Öbic dictionary#\*pyaʔ|*pyaʔ]]_ ("random, erratic") + _[[Proto-Öbic dictionary#\*-ku|*-ku]]_ ("-ness").
 > ¹ Chaos
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#byaka|byaka]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#byako|byako]]_
 ### byatay
-ᴇᴀʀʟʏ [bjɑˑtɑj]; ᴍᴀᴛᴜʀᴇ [bjɑdɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bjadəj]
+ᴇᴀʀʟʏ [bjɑˑtɑj]; ᴍᴀᴛᴜʀᴇ [bjɑdɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [bjadaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pyatay|*pyatay]]_, from _[[Proto-Öbic dictionary#\*pya-|*pya-]]_ ("randomly") + _[[Proto-Öbic dictionary#\*tay|*tay]]_ ("move").
 > ¹ To stumble; ² To stagger about, as if drunk
@@ -606,11 +606,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Flying squirrel
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jonjon|jonjon]]_
 ### canek
-ᴇᴀʀʟʏ [tʃɑˑnek]; ᴍᴀᴛᴜʀᴇ [tʃɑnɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃanɛk]
+ᴇᴀʀʟʏ [tʃɑˑnək]; ᴍᴀᴛᴜʀᴇ [tʃɑnək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃanək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*canek|*canek]]_, from _[[Proto-Öbic dictionary#\*can|*can]]_ ("fly, floating") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Any flying bird
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#janek|janek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#janak|janak]]_
 ### canib
 ᴇᴀʀʟʏ [tʃɑˑnib]; ᴍᴀᴛᴜʀᴇ [tʃɑnɪb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃanɪb]
 
@@ -618,7 +618,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Grindstone
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#janib|janib]]_
 ### casem
-ᴇᴀʀʟʏ [tʃɑˑsem]; ᴍᴀᴛᴜʀᴇ [tʃɑsɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃasɛ̃ː]
+ᴇᴀʀʟʏ [tʃɑˑsəm]; ᴍᴀᴛᴜʀᴇ [tʃɑsə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃasɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*casem|*casem]]_, from _[[Proto-Öbic dictionary#\*cas|*cas]]_ ("raw") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Raw meat
@@ -636,7 +636,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Raw; ² Unripe
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jasva|jasva]]_, [[Xiri]] _[[Xiri dictionary#caswa|caswa]]_
 ### cayal
-ᴇᴀʀʟʏ [tʃɑˑjɑl]; ᴍᴀᴛᴜʀᴇ [tʃɑjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃajəw]
+ᴇᴀʀʟʏ [tʃɑˑjɑl]; ᴍᴀᴛᴜʀᴇ [tʃɑjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃajaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cayal|*cayal]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*cal|*cal]]_ ("boundary").
 > ¹ Edge, boundary
@@ -648,7 +648,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ End, edge
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jeyon|jeyon]]_
 ### cayay
-ᴇᴀʀʟʏ [tʃɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [tʃɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃajəj]
+ᴇᴀʀʟʏ [tʃɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [tʃɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃajaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cayay|*cayay]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*cay|*cay]]_ ("pass by").
 > ¹ The passing of something; ² Death
@@ -666,7 +666,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Beach, shore
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jeyon|jeyon]]_
 ### celcel
-ᴇᴀʀʟʏ [tʃeltʃel]; ᴍᴀᴛᴜʀᴇ [tʃɛɫdʒɛɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃewdʒew]
+ᴇᴀʀʟʏ [tʃeltʃəl]; ᴍᴀᴛᴜʀᴇ [tʃɛɫdʒəɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃewdʒaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cercer|*cercer]]_, from _[[Proto-Öbic dictionary#\*cer|*cer]]_ ("end") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To arrive; ² To end
@@ -724,7 +724,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Red potato
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jíkö|jíkö]]_
 ### cik'em
-ᴇᴀʀʟʏ [tʃiˑkʼem]; ᴍᴀᴛᴜʀᴇ [tʃikʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃikʼɛ̃ː]
+ᴇᴀʀʟʏ [tʃiˑkʼəm]; ᴍᴀᴛᴜʀᴇ [tʃikʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃikʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cīk'em|*cīk'em]]_, from _[[Proto-Öbic dictionary#\*cīk'|*cīk']]_ ("tip") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Tail; ² Back end
@@ -776,7 +776,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Flat
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jöba|jöba]]_
 ### cöbem
-ᴇᴀʀʟʏ [tʃøˑbem]; ᴍᴀᴛᴜʀᴇ [tʃøbɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃøbɛ̃ː]
+ᴇᴀʀʟʏ [tʃøˑbəm]; ᴍᴀᴛᴜʀᴇ [tʃøbə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃøbɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cüpem|*cüpem]]_, from _[[Proto-Öbic dictionary#\*cüp|*cüp]]_ ("flatten, flat") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ [[Cimcim]] flatbread
@@ -793,7 +793,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cücak|*cücak]]_, from _[[Proto-Öbic dictionary#\*cü-|*cü-]]_ ("adjacently, in a straight line") + _[[Proto-Öbic dictionary#\*cak|*cak]]_ ("tear").
 > ¹ To tear off
 ### cöcay
-ᴇᴀʀʟʏ [tʃøˑtʃɑj]; ᴍᴀᴛᴜʀᴇ [tʃødʒɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃødʒəj]
+ᴇᴀʀʟʏ [tʃøˑtʃɑj]; ᴍᴀᴛᴜʀᴇ [tʃødʒɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃødʒaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cücay|*cücay]]_, from _[[Proto-Öbic dictionary#\*cü-|*cü-]]_ ("adjacently, in a straight line") + _[[Proto-Öbic dictionary#\*cay|*cay]]_ ("pass by").
 > ¹ To pass by
@@ -802,9 +802,9 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cülcül|*cülcül]]_, from _[[Proto-Öbic dictionary#\*cül|*cül]]_ ("grass") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ A type of grass which acts as a mild hallucinogen when smoked
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#jöjö|jöjö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#jöjo|jöjo]]_
 ### cölem
-ᴇᴀʀʟʏ [tʃøˑlem]; ᴍᴀᴛᴜʀᴇ [tʃølɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃølɛ̃ː]
+ᴇᴀʀʟʏ [tʃøˑləm]; ᴍᴀᴛᴜʀᴇ [tʃølə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃølɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cülem|*cülem]]_, from _[[Proto-Öbic dictionary#\*cül|*cül]]_ ("grass") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Grass
@@ -820,7 +820,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cüyüs|*cüyüs]]_, from _[[Proto-Öbic dictionary#\*cü-|*cü-]]_ ("adjacently, in a straight line") + _[[Proto-Öbic dictionary#\*yüs|*yüs]]_ ("fire").
 > ¹ To dry out by a fire
 ### cötay
-ᴇᴀʀʟʏ [tʃøˑtɑj]; ᴍᴀᴛᴜʀᴇ [tʃødɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃødəj]
+ᴇᴀʀʟʏ [tʃøˑtɑj]; ᴍᴀᴛᴜʀᴇ [tʃødɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃødaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*cütay|*cütay]]_, from _[[Proto-Öbic dictionary#\*cü-|*cü-]]_ ("adjacently, in a straight line") + _[[Proto-Öbic dictionary#\*tay|*tay]]_ ("move").
 > ¹ To walk
@@ -856,11 +856,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jö|jö]]_
 # c'
 ### c'abet
-ᴇᴀʀʟʏ [tʃʼɑˑbet]; ᴍᴀᴛᴜʀᴇ [tʃʼɑbɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼabɛt]
+ᴇᴀʀʟʏ [tʃʼɑˑbət]; ᴍᴀᴛᴜʀᴇ [tʃʼɑbət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼabət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*c'apet|*c'apet]]_, from _[[Proto-Öbic dictionary#\*c'ap|*c'ap]]_ ("skin, bark") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Animal skin
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#cabet|cabet]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#cabat|cabat]]_
 ### c'abü
 ᴇᴀʀʟʏ [tʃʼɑˑby]; ᴍᴀᴛᴜʀᴇ [tʃʼɑbʏ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼabʏ]
 
@@ -886,7 +886,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Drain
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#co|co]]_
 ### c'aywem
-ᴇᴀʀʟʏ [tʃʼɑjwem]; ᴍᴀᴛᴜʀᴇ [tʃʼɑjwɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼajwɛ̃ː]
+ᴇᴀʀʟʏ [tʃʼɑjwəm]; ᴍᴀᴛᴜʀᴇ [tʃʼɑjwə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼajwɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*c'aywem|*c'aywem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*c'iw|*c'iw]]_ ("drain, draw out") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Drain, channel
@@ -910,7 +910,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Sharp
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#cípa|cípa]]_
 ### c'ip'em
-ᴇᴀʀʟʏ [tʃʼiˑpʼem]; ᴍᴀᴛᴜʀᴇ [tʃʼipʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼipʼɛ̃ː]
+ᴇᴀʀʟʏ [tʃʼiˑpʼəm]; ᴍᴀᴛᴜʀᴇ [tʃʼipʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼipʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*c'ip'em|*c'ip'em]]_, from _[[Proto-Öbic dictionary#\*c'ip'|*c'ip']]_ ("sharp") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Needle
@@ -927,13 +927,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Hard
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#cúka|cúka]]_
 ### c'uk'em
-ᴇᴀʀʟʏ [tʃʼuˑkʼem]; ᴍᴀᴛᴜʀᴇ [tʃʼukʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼukʼɛ̃ː]
+ᴇᴀʀʟʏ [tʃʼuˑkʼəm]; ᴍᴀᴛᴜʀᴇ [tʃʼukʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼukʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*c'ūk'em|*c'ūk'em]]_, from _[[Proto-Öbic dictionary#\*c'ūk'|*c'ūk']]_ ("hit") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Drum
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#cúken|cúken]]_
 ### c'übem
-ᴇᴀʀʟʏ [tʃʼyˑbem]; ᴍᴀᴛᴜʀᴇ [tʃʼybɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼybɛ̃ː]
+ᴇᴀʀʟʏ [tʃʼyˑbəm]; ᴍᴀᴛᴜʀᴇ [tʃʼybə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʃʼybɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*c'ǖpem|*c'ǖpem]]_, from _[[Proto-Öbic dictionary#\*c'ǖp|*c'ǖp]]_ ("peel") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Peelings, of tubers or certain fruit
@@ -944,7 +944,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *procl.*
 > ¹ Human singular
 ### eal
-ᴇᴀʀʟʏ [eˑɑl]; ᴍᴀᴛᴜʀᴇ [eɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [eəw]
+ᴇᴀʀʟʏ [eˑɑl]; ᴍᴀᴛᴜʀᴇ [eɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [eaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔal|*eʔal]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("indicative intransitive") + _[[Proto-Öbic dictionary#\*al|*al]]_ ("exist").
 > ¹ To exist
@@ -978,22 +978,22 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-ek|*-ek]]_.
 > ¹ Animate object nominaliser
 ### ek'iben
-ᴇᴀʀʟʏ [eˑkʼiben]; ᴍᴀᴛᴜʀᴇ [ekʼɪbɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼɪbɛ̃ː]
+ᴇᴀʀʟʏ [eˑkʼibən]; ᴍᴀᴛᴜʀᴇ [ekʼɪbə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼɪbɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eq'ipen|*eq'ipen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*q'ip|*q'ip]]_ ("rain").
 > ¹ To be raining
 ### ek'lap'en
-ᴇᴀʀʟʏ [eˑkʼlɑpʼen]; ᴍᴀᴛᴜʀᴇ [ekʼlɑpʼɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼləpʼɛ̃ː]
+ᴇᴀʀʟʏ [eˑkʼlɑpʼən]; ᴍᴀᴛᴜʀᴇ [ekʼlɑpʼə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼləpʼɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eq'lap'en|*eq'lap'en]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*q'lap'|*q'lap']]_ ("lightning, thunder").
 > ¹ To be thundering
 ### ek'omen
-ᴇᴀʀʟʏ [eˑkʼomen]; ᴍᴀᴛᴜʀᴇ [ekʼɔmɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼɔmɛ̃ː]
+ᴇᴀʀʟʏ [eˑkʼomən]; ᴍᴀᴛᴜʀᴇ [ekʼɔmə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼɔmɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eq'umen|*eq'umen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*q'um|*q'um]]_ ("overcast").
 > ¹ To be overcast
 ### ek'onen
-ᴇᴀʀʟʏ [eˑkʼonen]; ᴍᴀᴛᴜʀᴇ [ekʼɔnɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼɔnɛ̃ː]
+ᴇᴀʀʟʏ [eˑkʼonən]; ᴍᴀᴛᴜʀᴇ [ekʼɔnə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ekʼɔnɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eq'winen|*eq'winen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*q'win|*q'win]]_ ("dark").
 > ¹ To be dark, as at night, in a cave or during a solar eclipse
@@ -1020,12 +1020,12 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Numeral classifier used to count roundish lumps that fit in the hand such as round fruit and vegetables, pieces of meat and large eggs
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#-en|-en]]_
 ### enay
-ᴇᴀʀʟʏ [eˑnɑj]; ᴍᴀᴛᴜʀᴇ [enɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [enəj]
+ᴇᴀʀʟʏ [eˑnɑj]; ᴍᴀᴛᴜʀᴇ [enɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [enaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔnay|*eʔnay]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("directed") + _[[Proto-Öbic dictionary#\*nay|*nay]]_ ("think").
 > ¹ To think about
 ### ene
-ᴍᴀᴛᴜʀᴇ [enɛ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [enə]
+ᴍᴀᴛᴜʀᴇ [enə]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [enə]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#ēnē|ēnē]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ēnē|*ēnē]]_.
 > ¹ Rice
@@ -1042,12 +1042,12 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Nose
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#inon|inon]]_
 ### eöxen
-ᴇᴀʀʟʏ [eˑøʃen]; ᴍᴀᴛᴜʀᴇ [ewʃɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ewʃɛ̃ː]
+ᴇᴀʀʟʏ [eˑøʃən]; ᴍᴀᴛᴜʀᴇ [ewʃə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ewʃɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eyüxen|*eyüxen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*yüx|*yüx]]_ ("heat").
 > ¹ To be hot, as of the weather
 ### eqoxen
-ᴇᴀʀʟʏ [eˑʔoʃen]; ᴍᴀᴛᴜʀᴇ [eʔɔʃɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [eʔɔʃɛ̃ː]
+ᴇᴀʀʟʏ [eˑʔoʃən]; ᴍᴀᴛᴜʀᴇ [eʔɔʃə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [eʔɔʃɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*equxen|*equxen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*qux|*qux]]_ ("sunny").
 > ¹ To be sunny
@@ -1057,7 +1057,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Resultative, perfective
 > **Derivatives:** _[[Low Alöbi dictionary#höeta|höeta]]_ ("yellow"), _[[Low Alöbi dictionary#qawet|qawet]]_ ("mixture"), _[[Low Alöbi dictionary#laqtaqa|laqtaqa]]_ ("cooked"), _[[Low Alöbi dictionary#honuta|honuta]]_ ("artificial")
 ### etasen
-ᴇᴀʀʟʏ [eˑtɑsen]; ᴍᴀᴛᴜʀᴇ [edɑsɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [edəsɛ̃ː]
+ᴇᴀʀʟʏ [eˑtɑsən]; ᴍᴀᴛᴜʀᴇ [edɑsə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [edəsɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*etasen|*etasen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*tas|*tas]]_ ("dry").
 > ¹ To be dry, as of the weather
@@ -1067,17 +1067,17 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔtül|*eʔtül]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("directed") + _[[Proto-Öbic dictionary#\*tül|*tül]]_ ("lead, front").
 > ¹ To lead, follow
 ### et'al
-ᴇᴀʀʟʏ [eˑtʼɑl]; ᴍᴀᴛᴜʀᴇ [etʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [etʼəw]
+ᴇᴀʀʟʏ [eˑtʼɑl]; ᴍᴀᴛᴜʀᴇ [etʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [etʼaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔt'ar|*eʔt'ar]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("directed") + _[[Proto-Öbic dictionary#\*t'ar|*t'ar]]_ ("die").
 > ¹ To hunt an animal
 ### et'alt'al
-ᴇᴀʀʟʏ [eˑtʼɑltʼɑl]; ᴍᴀᴛᴜʀᴇ [etʼɑɫtʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [etʼəwtʼəw]
+ᴇᴀʀʟʏ [eˑtʼɑltʼɑl]; ᴍᴀᴛᴜʀᴇ [etʼɑɫtʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [etʼawtʼaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔt'art'ar|*eʔt'art'ar]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("directed") + _[[Proto-Öbic dictionary#\*t'ar|*t'ar]]_ ("die") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To go on a hunt
 ### exayonen
-ᴇᴀʀʟʏ [eˑʃɑjonen]; ᴍᴀᴛᴜʀᴇ [eʃɑjnɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [eʃəjnɛ̃ː]
+ᴇᴀʀʟʏ [eˑʃɑjonən]; ᴍᴀᴛᴜʀᴇ [eʃɑjnə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [eʃajnɛ̃ː]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*exayunen|*exayunen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*xayun|*xayun]]_ ("fog, smoke").
 > ¹ To be foggy
@@ -1096,7 +1096,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔyat|*eʔyat]]_, from _[[Proto-Öbic dictionary#\*eʔya|*eʔya]]_ ("to announce") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Announcement; ² Statement; ³ Instruction
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#íyat|íyat]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#ít|ít]]_
 # g
 ### gac'uk'
 ᴇᴀʀʟʏ [ɴɑˑtʃʼukʼ]; ᴍᴀᴛᴜʀᴇ [ɴɑtʃʼʊkʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɴatʃʼʊkʼ]
@@ -1126,9 +1126,9 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gap'ǖr|*gap'ǖr]]_, from _[[Proto-Öbic dictionary#\*ga-|*ga-]]_ ("illness") + _[[Proto-Öbic dictionary#\*p'ǖr|*p'ǖr]]_ ("mucus").
 > ¹ Pus
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#gapö|gapö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#gapo|gapo]]_
 ### gaqal
-ᴇᴀʀʟʏ [ɴɑˑʔɑl]; ᴍᴀᴛᴜʀᴇ [ɴɑʔɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɴaʔəw]
+ᴇᴀʀʟʏ [ɴɑˑʔɑl]; ᴍᴀᴛᴜʀᴇ [ɴɑʔɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɴaʔaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gaʔar|*gaʔar]]_, from _[[Proto-Öbic dictionary#\*ʔar|*ʔar]]_ ("tongue, speaking, language").
 > ¹ To lick
@@ -1155,9 +1155,9 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Xiri]] _[[Xiri dictionary#ńa’āi|ńa’āi]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ńa’ahi|*ńa’ahi]]_.
 > ¹ Tattoo
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#geyaq|geyaq]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#geq|geq]]_
 ### gayaw
-ᴇᴀʀʟʏ [ɴɑˑjɑw]; ᴍᴀᴛᴜʀᴇ [ɴɑjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɴajəw]
+ᴇᴀʀʟʏ [ɴɑˑjɑw]; ᴍᴀᴛᴜʀᴇ [ɴɑjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɴajaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gayaw|*gayaw]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*gaw|*gaw]]_ ("north-easterly wind").
 > ¹ Dry season
@@ -1169,7 +1169,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Infinite
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#gevajma|gevajma]]_
 ### gic'em
-ᴇᴀʀʟʏ [ŋiˑtʃʼem]; ᴍᴀᴛᴜʀᴇ [ŋitʃʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ŋitʃʼɛ̃ː]
+ᴇᴀʀʟʏ [ŋiˑtʃʼəm]; ᴍᴀᴛᴜʀᴇ [ŋitʃʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ŋitʃʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gic'em|*gic'em]]_, from _[[Proto-Öbic dictionary#\*gic'|*gic']]_ ("immovable") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Immovable object
@@ -1226,11 +1226,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hamük'|*hamük']]_, from _[[Proto-Öbic dictionary#\*ha-|*ha-]]_ ("progressive") + _[[Proto-Öbic dictionary#\*mük'|*mük']]_ ("age").
 > ¹ To grow old
 ### hamök'et
-ᴇᴀʀʟʏ [χɑˑmøkʼet]; ᴍᴀᴛᴜʀᴇ [χɑmœkʼɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [χamœkʼɛt]
+ᴇᴀʀʟʏ [χɑˑmøkʼət]; ᴍᴀᴛᴜʀᴇ [χɑmœkʼət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [χamœkʼət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hamük'et|*hamük'et]]_, from _[[Proto-Öbic dictionary#\*hamük'|*hamük']]_ ("to grow old") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Old person
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#hanket|hanket]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#hankat|hankat]]_
 ### hamöl
 ᴇᴀʀʟʏ [χɑˑmøl]; ᴍᴀᴛᴜʀᴇ [χɑmœɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [χamew]
 
@@ -1262,7 +1262,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hayül|*hayül]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*hül|*hül]]_ ("sleep").
 > ¹ Sleep
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#hö|hö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#ho|ho]]_
 ### hasih
 ᴇᴀʀʟʏ [χɑˑsix]; ᴍᴀᴛᴜʀᴇ [χɑsɪx]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [χasɪx]
 
@@ -1284,7 +1284,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hilap'|*hilap']]_, from _[[Proto-Öbic dictionary#\*lap'|*lap']]_ ("grab, snatch").
 > ¹ [[Hilap']], a particular species of [[Sibig]] which stands on two legs and has opposable thumbs
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#hílap|hílap]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#höp|höp]]_
 ### hiwhiw
 ᴇᴀʀʟʏ [xiwxiw]; ᴍᴀᴛᴜʀᴇ [xɪwxɪw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [xewxew]
 
@@ -1330,31 +1330,31 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Artificial
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#funda|funda]]_
 ### hoqaw
-ᴍᴀᴛᴜʀᴇ [ɸoʔɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸoʔəw]
+ᴍᴀᴛᴜʀᴇ [ɸoʔɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸoʔaw]
 
 *v.* From [[Xiri]] _[[Xiri dictionary#fa’awa|fa’awa]]_ ("to stir, mix, jostle"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#’awa|’awa]]_ ("mixture").
 > ¹ To stir; ² To mix; ³ To jostle
 > **Derivatives:** _[[Low Alöbi dictionary#qawet|qawet]]_ ("mixture")
 ### höe
-ᴇᴀʀʟʏ [xʷøˑe]; ᴍᴀᴛᴜʀᴇ [ɸøɛ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸøə]
+ᴇᴀʀʟʏ [xʷøˑə]; ᴍᴀᴛᴜʀᴇ [ɸø]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸø]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hyüʔe|*hyüʔe]]_.
 > ¹ A yellow flower which grows on the branches of a certain tree species
 > **Derivatives:** _[[Low Alöbi dictionary#höeta|höeta]]_ ("yellow")
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#föya|föya]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#fö|fö]]_
 ### höeta
-ᴇᴀʀʟʏ [xʷøˑetɑ]; ᴍᴀᴛᴜʀᴇ [ɸøɛdɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸøɛdə]
+ᴇᴀʀʟʏ [xʷøˑətɑ]; ᴍᴀᴛᴜʀᴇ [ɸødɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸødə]
 
 *stat.* From _[[Low Alöbi dictionary#höe|höe]]_ ("hyoe flower") + _[[Low Alöbi dictionary#-et|-et]]_ ("resultative, perfective").
 > ¹ Yellow
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#fída|fída]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#föda|föda]]_
 ### höyhöy
 ᴇᴀʀʟʏ [xʷøjxʷøj]; ᴍᴀᴛᴜʀᴇ [ɸœjɸœj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸejɸej]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hüyhüy|*hüyhüy]]_, from _[[Proto-Öbic dictionary#\*hüy|*hüy]]_ ("rest") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To rest
 ### huso
-ᴇᴀʀʟʏ [xʷuˑso]; ᴍᴀᴛᴜʀᴇ [ɸusɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸusə]
+ᴇᴀʀʟʏ [xʷuˑso]; ᴍᴀᴛᴜʀᴇ [ɸusɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸusɔ]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hūsu|*hūsu]]_, from _[[Proto-Öbic dictionary#\*hü-|*hü-]]_ ("singular") + _[[Proto-Öbic dictionary#\*usu|*usu]]_ ("second person").
 > ¹ Second person plural
@@ -1377,16 +1377,16 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Earlier point; ² Predecessor
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#fímon|fímon]]_
 ### hwaten
-ᴇᴀʀʟʏ [xʷɑˑten]; ᴍᴀᴛᴜʀᴇ [ɸɑdɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸadɛ̃ː]
+ᴇᴀʀʟʏ [xʷɑˑtən]; ᴍᴀᴛᴜʀᴇ [ɸɑdə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸadɛ̃ː]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hwaten|*hwaten]]_, from _[[Proto-Öbic dictionary#\*hü-|*hü-]]_ ("singular") + _[[Proto-Öbic dictionary#\*ten|*ten]]_ ("first person").
 > ¹ First person plural
 ### hyac'ek
-ᴇᴀʀʟʏ [çɑˑtʃʼek]; ᴍᴀᴛᴜʀᴇ [ɕɑtʃʼɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɕatʃʼɛk]
+ᴇᴀʀʟʏ [çɑˑtʃʼək]; ᴍᴀᴛᴜʀᴇ [ɕɑtʃʼək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɕatʃʼək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*hyac'ek|*hyac'ek]]_, from _[[Proto-Öbic dictionary#\*hyac'|*hyac']]_ ("jump") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Grasshopper, cricket
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#xecek|xecek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#xecak|xecak]]_
 # i
 ### -i
 
@@ -1406,7 +1406,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Fur of an animal
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#íbib|íbib]]_
 ### ibyal
-ᴇᴀʀʟʏ [iˑbjɑl]; ᴍᴀᴛᴜʀᴇ [ibjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ibjəw]
+ᴇᴀʀʟʏ [iˑbjɑl]; ᴍᴀᴛᴜʀᴇ [ibjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ibjaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ipyar|*ipyar]]_.
 > ¹ To cross over; ² To travel through
@@ -1445,7 +1445,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔicküc|*ʔicküc]]_, from _[[Proto-Öbic dictionary#\*ʔic'-|*ʔic'-]]_ ("upwards") + _[[Proto-Öbic dictionary#\*küc|*küc]]_ ("stand").
 > ¹ To stand up
 ### ictaw
-ᴇᴀʀʟʏ [itʃtɑw]; ᴍᴀᴛᴜʀᴇ [ɪtʃtɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɪtʃtəw]
+ᴇᴀʀʟʏ [itʃtɑw]; ᴍᴀᴛᴜʀᴇ [ɪtʃtɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɪtʃtaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔictaw|*ʔictaw]]_, from _[[Proto-Öbic dictionary#\*ʔic'-|*ʔic'-]]_ ("upwards") + _[[Proto-Öbic dictionary#\*taw|*taw]]_ ("carry").
 > ¹ To pick up; ² To carry
@@ -1461,11 +1461,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔic'yik'|*ʔic'yik']]_, from _[[Proto-Öbic dictionary#\*ʔic'-|*ʔic'-]]_ ("upwards") + _[[Proto-Öbic dictionary#\*yik'|*yik']]_ ("pluck, uproot").
 > ¹ To uproot vegetables
 ### iget
-ᴇᴀʀʟʏ [iˑŋet]; ᴍᴀᴛᴜʀᴇ [iŋɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [iŋɛt]
+ᴇᴀʀʟʏ [iˑŋət]; ᴍᴀᴛᴜʀᴇ [iŋət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [iŋət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*īget|*īget]]_, from _[[Proto-Öbic dictionary#\*īg|*īg]]_ ("enter") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Door
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#íget|íget]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#ígat|ígat]]_
 ### igi
 ᴍᴀᴛᴜʀᴇ [iŋɪ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [iŋɪ]
 
@@ -1479,7 +1479,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Feathered; ² Ornately decorated
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#íha|íha]]_
 ### ihbaü
-ᴇᴀʀʟʏ [ixbɑy]; ᴍᴀᴛᴜʀᴇ [ɪxbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɪxbəj]
+ᴇᴀʀʟʏ [ixbɑy]; ᴍᴀᴛᴜʀᴇ [ɪxbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɪxbaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yihpaǖ|*yihpaǖ]]_, from _[[Proto-Öbic dictionary#\*yih|*yih]]_ ("feather") + _[[Proto-Öbic dictionary#\*paǖ|*paǖ]]_ ("tree") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
 > ¹ Leaf, leaves
@@ -1506,7 +1506,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔilama|*ʔilama]]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*ʔam|*ʔam]]_ ("more").
 > ¹ Most, many
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#íma|íma]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#öma|öma]]_
 ### imim
 ᴇᴀʀʟʏ [iˑmim]; ᴍᴀᴛᴜʀᴇ [imɪ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [imɪ̃ː]
 
@@ -1560,7 +1560,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*inʔǖr|*inʔǖr]]_, from _[[Proto-Öbic dictionary#\*in-|*in-]]_ ("characteristic agent") + _[[Proto-Öbic dictionary#\*ʔǖr|*ʔǖr]]_ ("night").
 > ¹ Either or both of the two moons of Winter
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#ínö|ínö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#íno|íno]]_
 ### inwit'
 ᴇᴀʀʟʏ [iˑnwitʼ]; ᴍᴀᴛᴜʀᴇ [imɪtʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [imɪtʼ]
 
@@ -1574,7 +1574,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Ear
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#íña|íña]]_
 ### ititen
-ᴇᴀʀʟʏ [iˑtiten]; ᴍᴀᴛᴜʀᴇ [idɪdɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [idɪdɛ̃ː]
+ᴇᴀʀʟʏ [iˑtitən]; ᴍᴀᴛᴜʀᴇ [idɪdə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [idɪdɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ititen|*ititen]]_, from _[[Proto-Öbic dictionary#\*it|*it]]_ ("foot, hoof") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier") + _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("possessed").
 > ¹ Centipede
@@ -1633,7 +1633,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*iwtup|*iwtup]]_, from _[[Proto-Öbic dictionary#\*iw-|*iw-]]_ ("distributed") + _[[Proto-Öbic dictionary#\*tup|*tup]]_ ("press").
 > ¹ To press out flat
 ### iyaw
-ᴇᴀʀʟʏ [iˑjɑw]; ᴍᴀᴛᴜʀᴇ [ijɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ijəw]
+ᴇᴀʀʟʏ [iˑjɑw]; ᴍᴀᴛᴜʀᴇ [ijɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ijaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*iyaw|*iyaw]]_, from _[[Proto-Öbic dictionary#\*yaw|*yaw]]_ ("enclose").
 > ¹ Cave
@@ -1651,11 +1651,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Numeral classifier used to count humans
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#-ka|-ka]]_
 ### kaget
-ᴇᴀʀʟʏ [qɑˑŋet]; ᴍᴀᴛᴜʀᴇ [qɑŋɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qaŋɛt]
+ᴇᴀʀʟʏ [qɑˑŋət]; ᴍᴀᴛᴜʀᴇ [qɑŋət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qaŋət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kaŋet|*kaŋet]]_, from _[[Proto-Öbic dictionary#\*kaŋ|*kaŋ]]_ ("boil, brew") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Alcohol
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#kaget|kaget]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#kagat|kagat]]_
 ### kagkag
 ᴇᴀʀʟʏ [qɑɴqɑɴ]; ᴍᴀᴛᴜʀᴇ [qɑ̃ɴqɑ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qɔ̃ɴqɔ̃ː]
 
@@ -1669,7 +1669,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Intestines
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ke|ke]]_
 ### kale
-ᴍᴀᴛᴜʀᴇ [qɑlɛ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qalə]
+ᴍᴀᴛᴜʀᴇ [qɑlə]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qalə]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#kare|kare]]_ ("demon"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*kale|*kale]]_.
 > ¹ Demon, evil spirit
@@ -1693,7 +1693,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Head of a tool
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kadon|kadon]]_
 ### katen
-ᴇᴀʀʟʏ [qɑˑten]; ᴍᴀᴛᴜʀᴇ [qɑdɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qadɛ̃ː]
+ᴇᴀʀʟʏ [qɑˑtən]; ᴍᴀᴛᴜʀᴇ [qɑdə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qadɛ̃ː]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*katen|*katen]]_, from _[[Proto-Öbic dictionary#\*ke-|*ke-]]_ ("dual") + _[[Proto-Öbic dictionary#\*ten|*ten]]_ ("first person").
 > ¹ First person dual
@@ -1703,7 +1703,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kat'ūn|*kat'ūn]]_, from _[[Proto-Öbic dictionary#\*ka|*ka]]_ ("head, top part") + _[[Proto-Öbic dictionary#\*t'ūn|*t'ūn]]_ ("amputate").
 > ¹ To decapitate
 ### kaüc'em
-ᴇᴀʀʟʏ [qɑˑytʃʼem]; ᴍᴀᴛᴜʀᴇ [qɑjtʃʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qajtʃʼɛ̃ː]
+ᴇᴀʀʟʏ [qɑˑytʃʼəm]; ᴍᴀᴛᴜʀᴇ [qɑjtʃʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qajtʃʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kayǖc'em|*kayǖc'em]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*kǖc'|*kǖc']]_ ("high") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ High ground; ² Dry land
@@ -1744,7 +1744,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kihiw|*kihiw]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*hiw|*hiw]]_ ("inhale, breathe").
 > ¹ To inhale
 ### kileq
-ᴇᴀʀʟʏ [kiˑleʔ]; ᴍᴀᴛᴜʀᴇ [kiɫʔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kewʔ]
+ᴇᴀʀʟʏ [kiˑləʔ]; ᴍᴀᴛᴜʀᴇ [kiɫʔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kewʔ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kileq|*kileq]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*leq|*leq]]_ ("sting, bite").
 > ¹ To sting or bite, as of an insect
@@ -1782,7 +1782,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kinǖp|*kinǖp]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*nǖp|*nǖp]]_ ("wrap").
 > ¹ To fold
 ### kiqel
-ᴇᴀʀʟʏ [kiˑʔel]; ᴍᴀᴛᴜʀᴇ [kiʔɛɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kiʔew]
+ᴇᴀʀʟʏ [kiˑʔəl]; ᴍᴀᴛᴜʀᴇ [kiʔəɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kiʔaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kiqer|*kiqer]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*qer|*qer]]_ ("close eyes").
 > ¹ To blink
@@ -1793,13 +1793,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Stable, sturdy; ² Strong (of a material)
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kída|kída]]_
 ### kiteb
-ᴇᴀʀʟʏ [kiˑteb]; ᴍᴀᴛᴜʀᴇ [kidɛb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kidɛb]
+ᴇᴀʀʟʏ [kiˑtəb]; ᴍᴀᴛᴜʀᴇ [kidəb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kidəb]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kitep|*kitep]]_, from _[[Proto-Öbic dictionary#\*kit|*kit]]_ ("stable") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
 > ¹ Strong person
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#kídeb|kídeb]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#kídab|kídab]]_
 ### kit'al
-ᴇᴀʀʟʏ [kiˑtʼɑl]; ᴍᴀᴛᴜʀᴇ [kitʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kitʼəw]
+ᴇᴀʀʟʏ [kiˑtʼɑl]; ᴍᴀᴛᴜʀᴇ [kitʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kitʼaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kit'ar|*kit'ar]]_, from _[[Proto-Öbic dictionary#\*ki-|*ki-]]_ ("a single, quick instance") + _[[Proto-Öbic dictionary#\*t'ar|*t'ar]]_ ("die").
 > ¹ To die
@@ -1882,7 +1882,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kwūlis|*kwūlis]]_, from _[[Proto-Öbic dictionary#\*kwū-|*kwū-]]_ ("radially outwards") + _[[Proto-Öbic dictionary#\*lis|*lis]]_ ("light").
 > ¹ To radiate light
 ### kuso
-ᴇᴀʀʟʏ [kuˑso]; ᴍᴀᴛᴜʀᴇ [kusɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kusə]
+ᴇᴀʀʟʏ [kuˑso]; ᴍᴀᴛᴜʀᴇ [kusɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kusɔ]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kūsu|*kūsu]]_, from _[[Proto-Öbic dictionary#\*ke-|*ke-]]_ ("dual") + _[[Proto-Öbic dictionary#\*usu|*usu]]_ ("second person").
 > ¹ Second person dual
@@ -1922,7 +1922,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyakup'|*kyakup']]_, from _[[Proto-Öbic dictionary#\*kya-|*kya-]]_ ("suddenly or accidentally") + _[[Proto-Öbic dictionary#\*kup'|*kup']]_ ("burst, pop").
 > ¹ To burst
 ### kyak'ay
-ᴇᴀʀʟʏ [kjɑˑqʼɑj]; ᴍᴀᴛᴜʀᴇ [kjɑqʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjaqʼəj]
+ᴇᴀʀʟʏ [kjɑˑqʼɑj]; ᴍᴀᴛᴜʀᴇ [kjɑqʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjaqʼaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyaq'ay|*kyaq'ay]]_, from _[[Proto-Öbic dictionary#\*kya-|*kya-]]_ ("suddenly or accidentally") + _[[Proto-Öbic dictionary#\*q'ay|*q'ay]]_ ("fall").
 > ¹ To fall off; ² To fall over; ³ To collapse
@@ -1943,7 +1943,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Laying flat on the ground
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kyova|kyova]]_
 ### kyanem
-ᴇᴀʀʟʏ [kjɑˑnem]; ᴍᴀᴛᴜʀᴇ [kjɑnɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjanɛ̃ː]
+ᴇᴀʀʟʏ [kjɑˑnəm]; ᴍᴀᴛᴜʀᴇ [kjɑnə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjanɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qyanem|*qyanem]]_, from _[[Proto-Öbic dictionary#\*qyan|*qyan]]_ ("cover") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Hat
@@ -1961,7 +1961,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Covered; ² Sheltered; ³ Hidden
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kyonda|kyonda]]_
 ### kyat'ay
-ᴇᴀʀʟʏ [kjɑˑtʼɑj]; ᴍᴀᴛᴜʀᴇ [kjɑtʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjatʼəj]
+ᴇᴀʀʟʏ [kjɑˑtʼɑj]; ᴍᴀᴛᴜʀᴇ [kjɑtʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjatʼaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyat'ay|*kyat'ay]]_, from _[[Proto-Öbic dictionary#\*kya-|*kya-]]_ ("suddenly or accidentally") + _[[Proto-Öbic dictionary#\*t'ay|*t'ay]]_ ("be gone").
 > ¹ To disappear
@@ -1976,7 +1976,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyawik'|*kyawik']]_, from _[[Proto-Öbic dictionary#\*kya-|*kya-]]_ ("suddenly or accidentally") + _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change").
 > ¹ To change (suddenly or unexpectedly)
 ### kyawkyaw
-ᴇᴀʀʟʏ [kjɑwkjɑw]; ᴍᴀᴛᴜʀᴇ [kjɑwkjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjawkjəw]
+ᴇᴀʀʟʏ [kjɑwkjɑw]; ᴍᴀᴛᴜʀᴇ [kjɑwkjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kjawkjaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kyawkyaw|*kyawkyaw]]_, from _[[Proto-Öbic dictionary#\*kyaw|*kyaw]]_ ("scream") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To caw, howl
@@ -1993,7 +1993,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From _[[Low Alöbi dictionary#k'abah|k'abah]]_ ("mountains") + _[[Low Alöbi dictionary#cüw|cüw]]_ ("cüo").
 > ¹ A large wug, similar to terrestrial takin
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#kabahcö|kabahcö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#kabahco|kabahco]]_
 ### k'abk'ab
 ᴇᴀʀʟʏ [qʼɑbqʼɑb]; ᴍᴀᴛᴜʀᴇ [qʼɑbqʼɑb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼabqʼəb]
 
@@ -2010,13 +2010,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ A large wagon which can be inverted to form a temporary home, used in [[Öb#Seasonal migration|Öb seasonal migrations]]
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kakofmi|kakofmi]]_
 ### k'atbaü
-ᴇᴀʀʟʏ [qʼɑtbɑy]; ᴍᴀᴛᴜʀᴇ [qʼɑdbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼadbəj]
+ᴇᴀʀʟʏ [qʼɑtbɑy]; ᴍᴀᴛᴜʀᴇ [qʼɑdbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼadbaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'atpaǖ|*k'atpaǖ]]_, from _[[Proto-Öbic dictionary#\*k'at|*k'at]]_ ("base, bottom part") + _[[Proto-Öbic dictionary#\*paǖ|*paǖ]]_ ("tree").
 > ¹ Tree trunk, stump
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kadbe|kadbe]]_
 ### k'atem
-ᴇᴀʀʟʏ [qʼɑˑtem]; ᴍᴀᴛᴜʀᴇ [qʼɑdɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼadɛ̃ː]
+ᴇᴀʀʟʏ [qʼɑˑtəm]; ᴍᴀᴛᴜʀᴇ [qʼɑdə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼadɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'atem|*k'atem]]_, from _[[Proto-Öbic dictionary#\*k'at|*k'at]]_ ("base, bottom part") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Feet; ² Bottom part
@@ -2034,11 +2034,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Tall, as of a person
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kata|kata]]_
 ### k'at'ek
-ᴇᴀʀʟʏ [qʼɑˑtʼek]; ᴍᴀᴛᴜʀᴇ [qʼɑtʼɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼatʼɛk]
+ᴇᴀʀʟʏ [qʼɑˑtʼək]; ᴍᴀᴛᴜʀᴇ [qʼɑtʼək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼatʼək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'at'ek|*q'at'ek]]_, from _[[Proto-Öbic dictionary#\*q'at'|*q'at']]_ ("tall") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Giant (mythological creature)
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#katek|katek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#katak|katak]]_
 ### k'aya
 ᴇᴀʀʟʏ [qʼɑˑjɑ]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajə]
 
@@ -2052,19 +2052,19 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ The peak of a mountain
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#keyon|keyon]]_
 ### k'ayatem
-ᴇᴀʀʟʏ [qʼɑˑjɑtem]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑdɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajədɛ̃ː]
+ᴇᴀʀʟʏ [qʼɑˑjɑtəm]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑdə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajədɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'ayatem|*k'ayatem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*k'at|*k'at]]_ ("base, bottom part") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Base, bottom part
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#keden|keden]]_
 ### k'ayaw
-ᴇᴀʀʟʏ [qʼɑˑjɑw]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajəw]
+ᴇᴀʀʟʏ [qʼɑˑjɑw]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'ayaw|*q'ayaw]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*q'aw|*q'aw]]_ ("storm").
 > ¹ Storm
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#keyo|keyo]]_, [[Xiri]] _[[Xiri dictionary#kayeu|kayeu]]_
 ### k'ayay
-ᴇᴀʀʟʏ [qʼɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajəj]
+ᴇᴀʀʟʏ [qʼɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [qʼɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [qʼajaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*q'ayay|*q'ayay]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*q'ay|*q'ay]]_ ("deep").
 > ¹ A deep hole
@@ -2105,7 +2105,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'imaq|*k'imaq]]_, from _[[Proto-Öbic dictionary#\*k'i-|*k'i-]]_ ("again") + _[[Proto-Öbic dictionary#\*maq|*maq]]_ ("repeat").
 > ¹ To repeat; ² To try again
 ### k'imay
-ᴇᴀʀʟʏ [kʼiˑmɑj]; ᴍᴀᴛᴜʀᴇ [kʼimɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kʼiməj]
+ᴇᴀʀʟʏ [kʼiˑmɑj]; ᴍᴀᴛᴜʀᴇ [kʼimɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kʼimaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*k'imay|*k'imay]]_, from _[[Proto-Öbic dictionary#\*k'i-|*k'i-]]_ ("again") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
 > ¹ To remember
@@ -2158,11 +2158,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#kvíma|kvíma]]_
 # l
 ### labet
-ᴇᴀʀʟʏ [lɑˑbet]; ᴍᴀᴛᴜʀᴇ [lɑbɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [labɛt]
+ᴇᴀʀʟʏ [lɑˑbət]; ᴍᴀᴛᴜʀᴇ [lɑbət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [labət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rapet|*rapet]]_, from _[[Proto-Öbic dictionary#\*rap|*rap]]_ ("bind, restrain") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Bundle (of sticks); ² Clump of bamboo
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#labet|labet]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#labat|labat]]_
 ### labina
 ᴇᴀʀʟʏ [lɑˑbinɑ]; ᴍᴀᴛᴜʀᴇ [lɑbɪnɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [labɪnə]
 
@@ -2176,7 +2176,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ The dense cluster of stars at the core of the globular cluster
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#lablah|lablah]]_
 ### laibem
-ᴇᴀʀʟʏ [lɑˑibem]; ᴍᴀᴛᴜʀᴇ [lɑjbɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lajbɛ̃ː]
+ᴇᴀʀʟʏ [lɑˑibəm]; ᴍᴀᴛᴜʀᴇ [lɑjbə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lajbɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*layipem|*layipem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*lip|*lip]]_ ("trap") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Pitfall trap
@@ -2200,7 +2200,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Foul-smelling
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#lakva|lakva]]_
 ### lak'em
-ᴇᴀʀʟʏ [lɑˑkʼem]; ᴍᴀᴛᴜʀᴇ [lɑkʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lakʼɛ̃ː]
+ᴇᴀʀʟʏ [lɑˑkʼəm]; ᴍᴀᴛᴜʀᴇ [lɑkʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lakʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lak'em|*lak'em]]_, from _[[Proto-Öbic dictionary#\*lak'|*lak']]_ ("insert") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Plug, cork
@@ -2233,7 +2233,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Putrid
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#laka|laka]]_, [[Xiri]] _[[Xiri dictionary#rha’aga|rha’aga]]_
 ### laqem
-ᴍᴀᴛᴜʀᴇ [lɑʔɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [laʔɛ̃ː]
+ᴍᴀᴛᴜʀᴇ [lɑʔə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [laʔɛ̃ː]
 
 *n.* From _[[Low Alöbi dictionary#holaq|holaq]]_ ("to cook") + _[[Low Alöbi dictionary#-em|-em]]_ ("inanimate object nominaliser").
 > ¹ Cooked food
@@ -2321,7 +2321,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Arrow
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#líhas|líhas]]_
 ### lihwel
-ᴇᴀʀʟʏ [liˑxʷel]; ᴍᴀᴛᴜʀᴇ [liɸɛɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [liɸew]
+ᴇᴀʀʟʏ [liˑxʷəl]; ᴍᴀᴛᴜʀᴇ [liɸəɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [liɸaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rihwer|*rihwer]]_, from _[[Proto-Öbic dictionary#\*rih|*rih]]_ ("point") + _[[Proto-Öbic dictionary#\*wer|*wer]]_ ("measure").
 > ¹ To measure a length
@@ -2332,7 +2332,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ All animals
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#lik|lik]]_
 ### lilaw
-ᴇᴀʀʟʏ [liˑlɑw]; ᴍᴀᴛᴜʀᴇ [lilɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [liləw]
+ᴇᴀʀʟʏ [liˑlɑw]; ᴍᴀᴛᴜʀᴇ [lilɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lilaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rilaw|*rilaw]]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*raw|*raw]]_ ("sew, weave").
 > ¹ Linen cloth
@@ -2344,7 +2344,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Everything
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#lin|lin]]_
 ### lisem
-ᴇᴀʀʟʏ [liˑsem]; ᴍᴀᴛᴜʀᴇ [lisɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lisɛ̃ː]
+ᴇᴀʀʟʏ [liˑsəm]; ᴍᴀᴛᴜʀᴇ [lisə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lisɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lisem|*lisem]]_, from _[[Proto-Öbic dictionary#\*lis|*lis]]_ ("light") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Point of light
@@ -2368,11 +2368,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Daily
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#löklosa|löklosa]]_
 ### löktek'
-ᴇᴀʀʟʏ [løktekʼ]; ᴍᴀᴛᴜʀᴇ [lœktɛkʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lœktɛkʼ]
+ᴇᴀʀʟʏ [løktəkʼ]; ᴍᴀᴛᴜʀᴇ [lœktəkʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lœktəkʼ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lükteq'|*lükteq']]_, from _[[Proto-Öbic dictionary#\*lük|*lük]]_ ("poke") + _[[Proto-Öbic dictionary#\*teq'|*teq']]_ ("claw").
 > ¹ The claw of a [[Ciblökog]]
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#löktek|löktek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#löktak|löktak]]_
 ### löta
 ᴇᴀʀʟʏ [løˑtɑ]; ᴍᴀᴛᴜʀᴇ [lødɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lødə]
 
@@ -2402,13 +2402,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rūprūp|*rūprūp]]_, from _[[Proto-Öbic dictionary#\*rūp|*rūp]]_ ("brood, lay") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To brood; ² To lay (eggs)
 ### lübek
-ᴇᴀʀʟʏ [lyˑbek]; ᴍᴀᴛᴜʀᴇ [lybɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lybɛk]
+ᴇᴀʀʟʏ [lyˑbək]; ᴍᴀᴛᴜʀᴇ [lybək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lybək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rǖpek|*rǖpek]]_, from _[[Proto-Öbic dictionary#\*rǖp|*rǖp]]_ ("net") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Spider
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#líbek|líbek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#líbak|líbak]]_
 ### lübem
-ᴇᴀʀʟʏ [lyˑbem]; ᴍᴀᴛᴜʀᴇ [lybɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lybɛ̃ː]
+ᴇᴀʀʟʏ [lyˑbəm]; ᴍᴀᴛᴜʀᴇ [lybə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lybɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rǖpem|*rǖpem]]_, from _[[Proto-Öbic dictionary#\*rǖp|*rǖp]]_ ("net") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Net
@@ -2426,7 +2426,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Knots
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#líklöt|líklöt]]_
 ### lümem
-ᴇᴀʀʟʏ [lyˑmem]; ᴍᴀᴛᴜʀᴇ [lymɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lymɛ̃ː]
+ᴇᴀʀʟʏ [lyˑməm]; ᴍᴀᴛᴜʀᴇ [lymə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [lymɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*lǖmem|*lǖmem]]_, from _[[Proto-Öbic dictionary#\*lǖm|*lǖm]]_ ("affix, fasten") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Yoke; ² Harness
@@ -2449,29 +2449,29 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *procl.*
 > ¹ Human paucal
 ### mabek
-ᴇᴀʀʟʏ [mɑˑbek]; ᴍᴀᴛᴜʀᴇ [mɑbɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mabɛk]
+ᴇᴀʀʟʏ [mɑˑbək]; ᴍᴀᴛᴜʀᴇ [mɑbək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mabək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mapek|*mapek]]_, from _[[Proto-Öbic dictionary#\*map|*map]]_ ("roll up") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ [[Mabek]], an animal similar to the pangolin
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#mabek|mabek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#mabak|mabak]]_
 ### macal
-ᴇᴀʀʟʏ [mɑˑtʃɑl]; ᴍᴀᴛᴜʀᴇ [mɑdʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madʒəw]
+ᴇᴀʀʟʏ [mɑˑtʃɑl]; ᴍᴀᴛᴜʀᴇ [mɑdʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madʒaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*macal|*macal]]_, from _[[Proto-Öbic dictionary#\*ma-|*ma-]]_ ("inside, inner") + _[[Proto-Öbic dictionary#\*cal|*cal]]_ ("boundary").
 > ¹ Pen, enclosure
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#majo|majo]]_
 ### maceb
-ᴇᴀʀʟʏ [mɑˑtʃeb]; ᴍᴀᴛᴜʀᴇ [mɑdʒɛb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madʒɛb]
+ᴇᴀʀʟʏ [mɑˑtʃəb]; ᴍᴀᴛᴜʀᴇ [mɑdʒəb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madʒəb]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*macep|*macep]]_, from _[[Proto-Öbic dictionary#\*mac|*mac]]_ ("individual, singular") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
 > ¹ A single person
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#majeb|majeb]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#majab|majab]]_
 ### macko
-ᴇᴀʀʟʏ [mɑtʃko]; ᴍᴀᴛᴜʀᴇ [mɑtʃkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [matʃkə]
+ᴇᴀʀʟʏ [mɑtʃko]; ᴍᴀᴛᴜʀᴇ [mɑtʃkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [matʃkɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*macku|*macku]]_, from _[[Proto-Öbic dictionary#\*mac|*mac]]_ ("individual, singular") + _[[Proto-Öbic dictionary#\*-ku|*-ku]]_ ("-ness").
 > ¹ Loneliness; ² Individuality, uniqueness
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#macka|macka]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#macko|macko]]_
 ### macwa
 ᴇᴀʀʟʏ [mɑˑtʃwɑ]; ᴍᴀᴛᴜʀᴇ [mɑdʒwɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madʒwə]
 
@@ -2530,7 +2530,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mayüm|*mayüm]]_, from _[[Proto-Öbic dictionary#\*ma-|*ma-]]_ ("inside, inner") + _[[Proto-Öbic dictionary#\*yüm|*yüm]]_ ("hold, secure").
 > ¹ To hold in the mouth
 ### maöxem
-ᴇᴀʀʟʏ [mɑˑøʃem]; ᴍᴀᴛᴜʀᴇ [mɑjʃɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [majʃɛ̃ː]
+ᴇᴀʀʟʏ [mɑˑøʃəm]; ᴍᴀᴛᴜʀᴇ [mɑjʃə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [majʃɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mayüxem|*mayüxem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*müx|*müx]]_ ("familiar, tame") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Home, one's own village
@@ -2541,40 +2541,40 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maqmaq|*maqmaq]]_, from _[[Proto-Öbic dictionary#\*maq|*maq]]_ ("repeat") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To do the same thing over and over
 ### masaw
-ᴇᴀʀʟʏ [mɑˑsɑw]; ᴍᴀᴛᴜʀᴇ [mɑsɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [masəw]
+ᴇᴀʀʟʏ [mɑˑsɑw]; ᴍᴀᴛᴜʀᴇ [mɑsɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [masaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*masaw|*masaw]]_, from _[[Proto-Öbic dictionary#\*ma-|*ma-]]_ ("inside, inner") + _[[Proto-Öbic dictionary#\*saw|*saw]]_ ("internal cavity").
 > ¹ Internal cavity
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#maso|maso]]_
 ### maten
-ᴇᴀʀʟʏ [mɑˑten]; ᴍᴀᴛᴜʀᴇ [mɑdɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madɛ̃ː]
+ᴇᴀʀʟʏ [mɑˑtən]; ᴍᴀᴛᴜʀᴇ [mɑdə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madɛ̃ː]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maten|*maten]]_, from _[[Proto-Öbic dictionary#\*ma-|*ma-]]_ ("human paucal") + _[[Proto-Öbic dictionary#\*ten|*ten]]_ ("first person").
 > ¹ First person paucal
 ### matwek
-ᴇᴀʀʟʏ [mɑˑtwek]; ᴍᴀᴛᴜʀᴇ [mɑdwɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madwɛk]
+ᴇᴀʀʟʏ [mɑˑtwək]; ᴍᴀᴛᴜʀᴇ [mɑdwək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [madwək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*matwek|*matwek]]_, from _[[Proto-Öbic dictionary#\*taw|*taw]]_ ("carry") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Female animal
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#madvek|madvek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#madvak|madvak]]_
 ### mawmaw
-ᴇᴀʀʟʏ [mɑwmɑw]; ᴍᴀᴛᴜʀᴇ [mɑwmɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mawməw]
+ᴇᴀʀʟʏ [mɑwmɑw]; ᴍᴀᴛᴜʀᴇ [mɑwmɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mawmaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mawmaw|*mawmaw]]_, from _[[Proto-Öbic dictionary#\*maw|*maw]]_ ("rug, mat") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ Rug
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#momo|momo]]_
 ### mawso
-ᴇᴀʀʟʏ [mɑwso]; ᴍᴀᴛᴜʀᴇ [mɑwsɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mawsə]
+ᴇᴀʀʟʏ [mɑwso]; ᴍᴀᴛᴜʀᴇ [mɑwsɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mawsɔ]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mawsu|*mawsu]]_, from _[[Proto-Öbic dictionary#\*ma-|*ma-]]_ ("human paucal") + _[[Proto-Öbic dictionary#\*usu|*usu]]_ ("second person").
 > ¹ Second person paucal
 ### mayaw
-ᴇᴀʀʟʏ [mɑˑjɑw]; ᴍᴀᴛᴜʀᴇ [mɑjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [majəw]
+ᴇᴀʀʟʏ [mɑˑjɑw]; ᴍᴀᴛᴜʀᴇ [mɑjɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [majaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mayaw|*mayaw]]_, from _[[Proto-Öbic dictionary#\*ma-|*ma-]]_ ("inside, inner") + _[[Proto-Öbic dictionary#\*yaw|*yaw]]_ ("enclose").
 > ¹ To enclose
 ### mayot'em
-ᴇᴀʀʟʏ [mɑˑjotʼem]; ᴍᴀᴛᴜʀᴇ [mɑjtʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [majtʼɛ̃ː]
+ᴇᴀʀʟʏ [mɑˑjotʼəm]; ᴍᴀᴛᴜʀᴇ [mɑjtʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [majtʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maywit'em|*maywit'em]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*mwit'|*mwit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Otherness, difference
@@ -2590,7 +2590,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mekip|*mekip]]_, from _[[Proto-Öbic dictionary#\*me-|*me-]]_ ("body") + _[[Proto-Öbic dictionary#\*kip|*kip]]_ ("squirt").
 > ¹ To urinate
 ### menaw
-ᴇᴀʀʟʏ [meˑnɑw]; ᴍᴀᴛᴜʀᴇ [menɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [menəw]
+ᴇᴀʀʟʏ [meˑnɑw]; ᴍᴀᴛᴜʀᴇ [menɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [menaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*menaw|*menaw]]_, from _[[Proto-Öbic dictionary#\*me-|*me-]]_ ("body") + _[[Proto-Öbic dictionary#\*naw|*naw]]_ ("clothes").
 > ¹ To wear
@@ -2601,7 +2601,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Belt
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#minöb|minöb]]_
 ### metaw
-ᴇᴀʀʟʏ [meˑtɑw]; ᴍᴀᴛᴜʀᴇ [medɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [medəw]
+ᴇᴀʀʟʏ [meˑtɑw]; ᴍᴀᴛᴜʀᴇ [medɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [medaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*metaw|*metaw]]_, from _[[Proto-Öbic dictionary#\*me-|*me-]]_ ("body") + _[[Proto-Öbic dictionary#\*taw|*taw]]_ ("carry").
 > ¹ To carry on the back
@@ -2641,7 +2641,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Navel
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#míyon|míyon]]_
 ### miyek
-ᴇᴀʀʟʏ [miˑjek]; ᴍᴀᴛᴜʀᴇ [mijk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mejk]
+ᴇᴀʀʟʏ [miˑjək]; ᴍᴀᴛᴜʀᴇ [mijk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mejk]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miyek|*miyek]]_.
 > ¹ Chicken
@@ -2653,11 +2653,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Brain
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#naji|naji]]_
 ### mlomlo
-ᴇᴀʀʟʏ [mloˑmlo]; ᴍᴀᴛᴜʀᴇ [nonɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nonə]
+ᴇᴀʀʟʏ [mloˑmlo]; ᴍᴀᴛᴜʀᴇ [nonɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nonɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mlumlu|*mlumlu]]_.
 > ¹ [[Mlomlo]], a large ungulate, similar to bison
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nuna|nuna]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nuno|nuno]]_
 ### mokmok
 ᴇᴀʀʟʏ [mokmok]; ᴍᴀᴛᴜʀᴇ [mɔkmɔk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mɔkmɔk]
 
@@ -2677,13 +2677,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Teacher
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#möc|möc]]_
 ### mölo
-ᴇᴀʀʟʏ [møˑlo]; ᴍᴀᴛᴜʀᴇ [mølɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mølə]
+ᴇᴀʀʟʏ [møˑlo]; ᴍᴀᴛᴜʀᴇ [mølɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mølɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*müru|*müru]]_, from _[[Proto-Öbic dictionary#\*mü|*mü]]_ ("cycle") + _[[Proto-Öbic dictionary#\*-ru|*-ru]]_ ("self").
 > ¹ Generational name
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#möla|möla]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#mölo|mölo]]_
 ### mönem
-ᴇᴀʀʟʏ [møˑnem]; ᴍᴀᴛᴜʀᴇ [mønɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mønɛ̃ː]
+ᴇᴀʀʟʏ [møˑnəm]; ᴍᴀᴛᴜʀᴇ [mønə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mønɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*myünem|*myünem]]_, from _[[Proto-Öbic dictionary#\*myün|*myün]]_ ("grow, increase") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Plant, vegetable
@@ -2706,17 +2706,17 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Other, different
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#mötva|mötva]]_
 ### möxeb
-ᴇᴀʀʟʏ [møˑʃeb]; ᴍᴀᴛᴜʀᴇ [møʃɛb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [møʃɛb]
+ᴇᴀʀʟʏ [møˑʃəb]; ᴍᴀᴛᴜʀᴇ [møʃəb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [møʃəb]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*müxep|*müxep]]_, from _[[Proto-Öbic dictionary#\*müx|*müx]]_ ("familiar, tame") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
 > ¹ Friend, acquaintance
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#möxeb|möxeb]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#möxab|möxab]]_
 ### möxek
-ᴇᴀʀʟʏ [møˑʃek]; ᴍᴀᴛᴜʀᴇ [møʃɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [møʃɛk]
+ᴇᴀʀʟʏ [møˑʃək]; ᴍᴀᴛᴜʀᴇ [møʃək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [møʃək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*müxek|*müxek]]_, from _[[Proto-Öbic dictionary#\*müx|*müx]]_ ("familiar, tame") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Tamed animal
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#möxek|möxek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#möxak|möxak]]_
 ### möxta
 ᴇᴀʀʟʏ [møʃtɑ]; ᴍᴀᴛᴜʀᴇ [mœʃtɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mœʃtə]
 
@@ -2724,7 +2724,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Familiar; ² Tame
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#möxta|möxta]]_
 ### müem
-ᴇᴀʀʟʏ [myˑem]; ᴍᴀᴛᴜʀᴇ [myɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mej]
+ᴇᴀʀʟʏ [myˑəm]; ᴍᴀᴛᴜʀᴇ [myə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mej]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖʔem|*mǖʔem]]_, from _[[Proto-Öbic dictionary#\*mǖʔ|*mǖʔ]]_ ("sweet") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Fruit in general
@@ -2776,7 +2776,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Penis
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nok|nok]]_
 ### naliken
-ᴇᴀʀʟʏ [nɑˑliken]; ᴍᴀᴛᴜʀᴇ [nɑɫkɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nawkɛ̃ː]
+ᴇᴀʀʟʏ [nɑˑlikən]; ᴍᴀᴛᴜʀᴇ [nɑɫkə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nawkɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*narīken|*narīken]]_, from _[[Proto-Öbic dictionary#\*narīk|*narīk]]_ ("penis") + _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("possessed").
 > ¹ Male animal
@@ -2788,7 +2788,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Male, of animals
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nokna|nokna]]_
 ### nanekwa
-ᴇᴀʀʟʏ [nɑˑnekwɑ]; ᴍᴀᴛᴜʀᴇ [nɑnɛkwɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nanɛkwə]
+ᴇᴀʀʟʏ [nɑˑnəkwɑ]; ᴍᴀᴛᴜʀᴇ [nɑnəkwɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nanəkwə]
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naʔneqwa|*naʔneqwa]]_, from _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time") + _[[Proto-Öbic dictionary#\*neq|*neq]]_ ("old") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Ancient
@@ -2798,9 +2798,9 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nanyiw|*nanyiw]]_, from _[[Proto-Öbic dictionary#\*<an>|*<an>]]_ ("instrument") + _[[Proto-Öbic dictionary#\*nyiw|*nyiw]]_ ("twist, twine").
 > ¹ Comb
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nanö|nanö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nano|nano]]_
 ### naqem
-ᴇᴀʀʟʏ [nɑˑʔem]; ᴍᴀᴛᴜʀᴇ [nɑʔɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [naʔɛ̃ː]
+ᴇᴀʀʟʏ [nɑˑʔəm]; ᴍᴀᴛᴜʀᴇ [nɑʔə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [naʔɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naqem|*naqem]]_, from _[[Proto-Öbic dictionary#\*naq|*naq]]_ ("eat") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Food
@@ -2818,19 +2818,19 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Vulva, vagina
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#najon|najon]]_
 ### nawnaw
-ᴇᴀʀʟʏ [nɑwnɑw]; ᴍᴀᴛᴜʀᴇ [nɑwnɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nawnəw]
+ᴇᴀʀʟʏ [nɑwnɑw]; ᴍᴀᴛᴜʀᴇ [nɑwnɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nawnaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nawnaw|*nawnaw]]_, from _[[Proto-Öbic dictionary#\*naw|*naw]]_ ("clothes") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ Clothes
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nono|nono]]_
 ### nayacay
-ᴇᴀʀʟʏ [nɑˑjɑtʃɑj]; ᴍᴀᴛᴜʀᴇ [nɑjɑdʒɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najədʒəj]
+ᴇᴀʀʟʏ [nɑˑjɑtʃɑj]; ᴍᴀᴛᴜʀᴇ [nɑjɑdʒɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najədʒaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nayaʔcay|*nayaʔcay]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time") + _[[Proto-Öbic dictionary#\*cay|*cay]]_ ("pass by").
 > ¹ The passing of time
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#neje|neje]]_
 ### nayaem
-ᴇᴀʀʟʏ [nɑˑjɑem]; ᴍᴀᴛᴜʀᴇ [nɑjɑɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najəj]
+ᴇᴀʀʟʏ [nɑˑjɑəm]; ᴍᴀᴛᴜʀᴇ [nɑjɑə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nayaʔem|*nayaʔem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ A period of time
@@ -2842,13 +2842,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Dream world, another reality where dreams take place; ² Sleep
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#neyon|neyon]]_
 ### nayaqem
-ᴇᴀʀʟʏ [nɑˑjɑʔem]; ᴍᴀᴛᴜʀᴇ [nɑjɑʔɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najəʔɛ̃ː]
+ᴇᴀʀʟʏ [nɑˑjɑʔəm]; ᴍᴀᴛᴜʀᴇ [nɑjɑʔə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najəʔɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nayaqem|*nayaqem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*naq|*naq]]_ ("eat") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Feast hall
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#neqen|neqen]]_
 ### naynay
-ᴇᴀʀʟʏ [nɑjnɑj]; ᴍᴀᴛᴜʀᴇ [nɑjnɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najnəj]
+ᴇᴀʀʟʏ [nɑjnɑj]; ᴍᴀᴛᴜʀᴇ [nɑjnɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [najnaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naynay|*naynay]]_, from _[[Proto-Öbic dictionary#\*nay|*nay]]_ ("think") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To think
@@ -2865,7 +2865,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ [[Necwi]], small feathered dinosaur
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nijvi|nijvi]]_
 ### neheb
-ᴇᴀʀʟʏ [neˑxeb]; ᴍᴀᴛᴜʀᴇ [nexɛb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nexɛb]
+ᴇᴀʀʟʏ [neˑxəb]; ᴍᴀᴛᴜʀᴇ [nexəb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nexəb]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nehep|*nehep]]_, from _[[Proto-Öbic dictionary#\*hap|*hap]]_ ("sip").
 > ¹ To drink
@@ -2885,11 +2885,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *procl.*
 > ¹ Human plural
 ### nicet
-ᴇᴀʀʟʏ [niˑtʃet]; ᴍᴀᴛᴜʀᴇ [nidʒɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nidʒɛt]
+ᴇᴀʀʟʏ [niˑtʃət]; ᴍᴀᴛᴜʀᴇ [nidʒət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nidʒət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nicet|*nicet]]_, from _[[Proto-Öbic dictionary#\*nic|*nic]]_ ("feel") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Feeling, instinct
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#níjet|níjet]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#níjat|níjat]]_
 ### nilim
 ᴇᴀʀʟʏ [niˑlim]; ᴍᴀᴛᴜʀᴇ [nilɪ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nilɪ̃ː]
 
@@ -2901,13 +2901,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nilyiw|*nilyiw]]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*nyiw|*nyiw]]_ ("twist, twine").
 > ¹ Twine; ² Rope
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nílö|nílö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nílo|nílo]]_
 ### nimek
-ᴇᴀʀʟʏ [niˑmek]; ᴍᴀᴛᴜʀᴇ [nimɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nimɛk]
+ᴇᴀʀʟʏ [niˑmək]; ᴍᴀᴛᴜʀᴇ [nimək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nimək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nimek|*nimek]]_, from _[[Proto-Öbic dictionary#\*nim|*nim]]_ ("build") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Spider
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nímek|nímek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nímak|nímak]]_
 ### nimnim
 ᴇᴀʀʟʏ [nimnim]; ᴍᴀᴛᴜʀᴇ [nɪnɪ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nɪnɪ̃ː]
 
@@ -2926,17 +2926,17 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Real, authentic
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nída|nída]]_
 ### nocko
-ᴇᴀʀʟʏ [notʃko]; ᴍᴀᴛᴜʀᴇ [nɔtʃkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nɔtʃkə]
+ᴇᴀʀʟʏ [notʃko]; ᴍᴀᴛᴜʀᴇ [nɔtʃkɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nɔtʃkɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nucku|*nucku]]_, from _[[Proto-Öbic dictionary#\*nuc|*nuc]]_ ("self") + _[[Proto-Öbic dictionary#\*-ku|*-ku]]_ ("-ness").
 > ¹ Personal identity
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nocka|nocka]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nocko|nocko]]_
 ### noclo
-ᴇᴀʀʟʏ [noˑtʃlo]; ᴍᴀᴛᴜʀᴇ [nodʒlɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nodʒlə]
+ᴇᴀʀʟʏ [noˑtʃlo]; ᴍᴀᴛᴜʀᴇ [nodʒlɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nodʒlɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nucru|*nucru]]_, from _[[Proto-Öbic dictionary#\*nuc|*nuc]]_ ("self") + _[[Proto-Öbic dictionary#\*-ru|*-ru]]_ ("self").
 > ¹ Personal name
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nujla|nujla]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nujlo|nujlo]]_
 ### nocu
 ᴇᴀʀʟʏ [noˑtʃu]; ᴍᴀᴛᴜʀᴇ [nodʒʊ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nodʒʊ]
 
@@ -2944,7 +2944,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ One's self
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nuju|nuju]]_
 ### nogem
-ᴇᴀʀʟʏ [noˑŋem]; ᴍᴀᴛᴜʀᴇ [noŋɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [noŋɛ̃ː]
+ᴇᴀʀʟʏ [noˑŋəm]; ᴍᴀᴛᴜʀᴇ [noŋə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [noŋɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nugem|*nugem]]_, from _[[Proto-Öbic dictionary#\*nug|*nug]]_ ("taste, try") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Spice
@@ -2970,7 +2970,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nüp'ǖr|*nüp'ǖr]]_, from _[[Proto-Öbic dictionary#\*nü|*nü]]_ ("nose") + _[[Proto-Öbic dictionary#\*p'ǖr|*p'ǖr]]_ ("mucus").
 > ¹ Nasal mucus
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#nöpö|nöpö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#nöpo|nöpo]]_
 ### nöt'ö
 ᴇᴀʀʟʏ [nøˑtʼø]; ᴍᴀᴛᴜʀᴇ [nøtʼœ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nøtʼœ]
 
@@ -2978,7 +2978,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Meat
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#nötö|nötö]]_
 ### nübem
-ᴇᴀʀʟʏ [nyˑbem]; ᴍᴀᴛᴜʀᴇ [nybɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nybɛ̃ː]
+ᴇᴀʀʟʏ [nyˑbəm]; ᴍᴀᴛᴜʀᴇ [nybə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [nybɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖpem|*nǖpem]]_, from _[[Proto-Öbic dictionary#\*nǖp|*nǖp]]_ ("wrap") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ A large leaf used to wrap things
@@ -3032,13 +3032,18 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Thunder
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ñaklap|ñaklap]]_
 # o
+### -o
+
+*suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-wu|*-wu]]_.
+> ¹ Numeral classifier used to count hollow objects such as baskets, barrels, bags, houses, caves, and some shells
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#-o|-o]]_
 ### oban
 ᴇᴀʀʟʏ [oˑbɑn]; ᴍᴀᴛᴜʀᴇ [obɑ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [obɔ̃ː]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*upwan|*upwan]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*pwan|*pwan]]_ ("fill").
 > ¹ To fill up; ² To pour
 ### obay
-ᴇᴀʀʟʏ [oˑbɑj]; ᴍᴀᴛᴜʀᴇ [obɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [obəj]
+ᴇᴀʀʟʏ [oˑbɑj]; ᴍᴀᴛᴜʀᴇ [obɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [obaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wupay|*wupay]]_, from _[[Proto-Öbic dictionary#\*wu-|*wu-]]_ ("back and forth") + _[[Proto-Öbic dictionary#\*pay|*pay]]_ ("layer").
 > ¹ To coat in paint
@@ -3058,7 +3063,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ukup'|*ukup']]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*kup'|*kup']]_ ("burst, pop").
 > ¹ To pop, burst
 ### ok'ay
-ᴇᴀʀʟʏ [oˑqʼɑj]; ᴍᴀᴛᴜʀᴇ [oqʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [oqʼəj]
+ᴇᴀʀʟʏ [oˑqʼɑj]; ᴍᴀᴛᴜʀᴇ [oqʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [oqʼaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*uq'ay|*uq'ay]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*q'ay|*q'ay]]_ ("fall").
 > ¹ To knock down
@@ -3073,13 +3078,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urlak'|*urlak']]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*lak'|*lak']]_ ("insert").
 > ¹ To insert; ² To drive in, as of a wooden dowel
 ### olaw
-ᴇᴀʀʟʏ [oˑlɑw]; ᴍᴀᴛᴜʀᴇ [olɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [oləw]
+ᴇᴀʀʟʏ [oˑlɑw]; ᴍᴀᴛᴜʀᴇ [olɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [olaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wuraw|*wuraw]]_, from _[[Proto-Öbic dictionary#\*wu-|*wu-]]_ ("back and forth") + _[[Proto-Öbic dictionary#\*raw|*raw]]_ ("sew, weave").
 > ¹ To weave
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#uro|uro]]_
 ### olay
-ᴇᴀʀʟʏ [oˑlɑj]; ᴍᴀᴛᴜʀᴇ [olɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [oləj]
+ᴇᴀʀʟʏ [oˑlɑj]; ᴍᴀᴛᴜʀᴇ [olɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [olaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wray|*wray]]_, from _[[Proto-Öbic dictionary#\*we-|*we-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
 > ¹ To be absent
@@ -3087,7 +3092,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*uray|*uray]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
 > ¹ To put in place
 ### olbal
-ᴇᴀʀʟʏ [olbɑl]; ᴍᴀᴛᴜʀᴇ [ɔɫbɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [owbəw]
+ᴇᴀʀʟʏ [olbɑl]; ᴍᴀᴛᴜʀᴇ [ɔɫbɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [owbaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urpal|*urpal]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*pal|*pal]]_ ("wax, flow, accumulate").
 > ¹ To wax, as of a moon
@@ -3107,7 +3112,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urk'üp|*urk'üp]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*k'üp|*k'üp]]_ ("spit, vomit").
 > ¹ To spit at
 ### olmay
-ᴇᴀʀʟʏ [olmɑj]; ᴍᴀᴛᴜʀᴇ [ɔɫmɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [owməj]
+ᴇᴀʀʟʏ [olmɑj]; ᴍᴀᴛᴜʀᴇ [ɔɫmɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [owmaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*urmay|*urmay]]_, from _[[Proto-Öbic dictionary#\*ur-|*ur-]]_ ("towards object") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
 > ¹ To teach; ² To explain
@@ -3170,12 +3175,12 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*umüx|*umüx]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*müx|*müx]]_ ("familiar, tame").
 > ¹ To tame
 ### omyawmü
-ᴇᴀʀʟʏ [oˑmjɑwmy]; ᴍᴀᴛᴜʀᴇ [omjɑwmʏ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [omjəwmʏ]
+ᴇᴀʀʟʏ [oˑmjɑwmy]; ᴍᴀᴛᴜʀᴇ [omjɑwmʏ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [omjawmʏ]
 
 *num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ummyawmiü|*ummyawmiü]]_, from _[[Proto-Öbic dictionary#\*umü|*umü]]_ ("five") + _[[Proto-Öbic dictionary#\*myawmü|*myawmü]]_ ("twenty five (five squared)") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
 > ¹ One hundred and twenty five (five cubed)
 ### onal
-ᴇᴀʀʟʏ [oˑnɑl]; ᴍᴀᴛᴜʀᴇ [onɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [onəw]
+ᴇᴀʀʟʏ [oˑnɑl]; ᴍᴀᴛᴜʀᴇ [onɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [onaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*unal|*unal]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*nal|*nal]]_ ("awake").
 > ¹ To wake up
@@ -3194,7 +3199,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*utas|*utas]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*tas|*tas]]_ ("dry").
 > ¹ To dry
 ### otaw
-ᴇᴀʀʟʏ [oˑtɑw]; ᴍᴀᴛᴜʀᴇ [odɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [odəw]
+ᴇᴀʀʟʏ [oˑtɑw]; ᴍᴀᴛᴜʀᴇ [odɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [odaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wutaw|*wutaw]]_, from _[[Proto-Öbic dictionary#\*wu-|*wu-]]_ ("back and forth") + _[[Proto-Öbic dictionary#\*taw|*taw]]_ ("carry").
 > ¹ To carry back and forth
@@ -3204,7 +3209,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ut'ag|*ut'ag]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*t'ag|*t'ag]]_ ("salt").
 > ¹ To salt, as of meat
 ### ot'al
-ᴇᴀʀʟʏ [oˑtʼɑl]; ᴍᴀᴛᴜʀᴇ [otʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [otʼəw]
+ᴇᴀʀʟʏ [oˑtʼɑl]; ᴍᴀᴛᴜʀᴇ [otʼɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [otʼaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ut'ar|*ut'ar]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*t'ar|*t'ar]]_ ("die").
 > ¹ To kill
@@ -3229,7 +3234,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wuxam|*wuxam]]_, from _[[Proto-Öbic dictionary#\*wu-|*wu-]]_ ("back and forth") + _[[Proto-Öbic dictionary#\*xam|*xam]]_ ("throw").
 > ¹ To throw back and forth
 ### oxay
-ᴇᴀʀʟʏ [oˑʃɑj]; ᴍᴀᴛᴜʀᴇ [oʃɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [oʃəj]
+ᴇᴀʀʟʏ [oˑʃɑj]; ᴍᴀᴛᴜʀᴇ [oʃɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [oʃaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wuxay|*wuxay]]_, from _[[Proto-Öbic dictionary#\*wu-|*wu-]]_ ("back and forth") + _[[Proto-Öbic dictionary#\*xay|*xay]]_ ("flow").
 > ¹ To swim
@@ -3250,18 +3255,18 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Person; ² The [[Öb]] people as a whole
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#öb|öb]]_
 ### öcem
-ᴇᴀʀʟʏ [øˑtʃem]; ᴍᴀᴛᴜʀᴇ [ødʒɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ødʒɛ̃ː]
+ᴇᴀʀʟʏ [øˑtʃəm]; ᴍᴀᴛᴜʀᴇ [ødʒə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ødʒɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yücem|*yücem]]_, from _[[Proto-Öbic dictionary#\*yüc|*yüc]]_ ("wish, desire") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Wish, desire
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#öjen|öjen]]_
 ### öck'ay
-ᴇᴀʀʟʏ [øtʃqʼɑj]; ᴍᴀᴛᴜʀᴇ [œtʃqʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [œtʃqʼəj]
+ᴇᴀʀʟʏ [øtʃqʼɑj]; ᴍᴀᴛᴜʀᴇ [œtʃqʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [œtʃqʼaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ücq'ay|*ücq'ay]]_, from _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*q'ay|*q'ay]]_ ("fall").
 > ¹ To set each day, as of the sun or stars
 ### öcnaen
-ᴇᴀʀʟʏ [øtʃnɑen]; ᴍᴀᴛᴜʀᴇ [œdʒnɑɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [œdʒnəj]
+ᴇᴀʀʟʏ [øtʃnɑən]; ᴍᴀᴛᴜʀᴇ [œdʒnɑə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [œdʒnaj]
 
 *v. imp.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ücnaʔen|*ücnaʔen]]_, from _[[Proto-Öbic dictionary#\*-en|*-en]]_ ("impersonal verb") + _[[Proto-Öbic dictionary#\*üc-|*üc-]]_ ("periodically over a long time") + _[[Proto-Öbic dictionary#\*naʔ|*naʔ]]_ ("time").
 > ¹ To have time pass
@@ -3301,7 +3306,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üc'ǖk|*üc'ǖk]]_, from _[[Proto-Öbic dictionary#\*ü-|*ü-]]_ ("away from object") + _[[Proto-Öbic dictionary#\*c'ǖk|*c'ǖk]]_ ("break").
 > ¹ To break off
 ### öem
-ᴇᴀʀʟʏ [øˑem]; ᴍᴀᴛᴜʀᴇ [øɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ej]
+ᴇᴀʀʟʏ [øˑəm]; ᴍᴀᴛᴜʀᴇ [øə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ej]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üʔem|*üʔem]]_, from _[[Proto-Öbic dictionary#\*üʔ|*üʔ]]_ ("take orally") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Oral medicine
@@ -3312,7 +3317,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ühnim|*ühnim]]_, from _[[Proto-Öbic dictionary#\*üh-|*üh-]]_ ("cessative") + _[[Proto-Öbic dictionary#\*nim|*nim]]_ ("build").
 > ¹ To complete a task
 ### öht'ay
-ᴇᴀʀʟʏ [øxʷtʼɑj]; ᴍᴀᴛᴜʀᴇ [œɸtʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [œɸtʼəj]
+ᴇᴀʀʟʏ [øxʷtʼɑj]; ᴍᴀᴛᴜʀᴇ [œɸtʼɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [œɸtʼaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üht'ay|*üht'ay]]_, from _[[Proto-Öbic dictionary#\*üh-|*üh-]]_ ("cessative") + _[[Proto-Öbic dictionary#\*t'ay|*t'ay]]_ ("be gone").
 > ¹ To extinguish a fire
@@ -3323,11 +3328,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Split head
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ökta|ökta]]_
 ### öket
-ᴇᴀʀʟʏ [øˑket]; ᴍᴀᴛᴜʀᴇ [økɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [økɛt]
+ᴇᴀʀʟʏ [øˑkət]; ᴍᴀᴛᴜʀᴇ [økət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [økət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üket|*üket]]_, from _[[Proto-Öbic dictionary#\*ük|*ük]]_ ("split") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Split bamboo used for flooring
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#öket|öket]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#ökat|ökat]]_
 ### ökya
 ᴇᴀʀʟʏ [øˑkjɑ]; ᴍᴀᴛᴜʀᴇ [økjɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [økjə]
 
@@ -3351,7 +3356,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ülak'|*ülak']]_, from _[[Proto-Öbic dictionary#\*ü-|*ü-]]_ ("away from object") + _[[Proto-Öbic dictionary#\*lak'|*lak']]_ ("insert").
 > ¹ To pull out; ² To detach
 ### ömem
-ᴇᴀʀʟʏ [øˑmem]; ᴍᴀᴛᴜʀᴇ [ømɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ømɛ̃ː]
+ᴇᴀʀʟʏ [øˑməm]; ᴍᴀᴛᴜʀᴇ [ømə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ømɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yümem|*yümem]]_, from _[[Proto-Öbic dictionary#\*yüm|*yüm]]_ ("hold, secure") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Handle of a tool
@@ -3373,7 +3378,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üsap|*üsap]]_, from _[[Proto-Öbic dictionary#\*ü-|*ü-]]_ ("away from object") + _[[Proto-Öbic dictionary#\*sap|*sap]]_ ("wane, ebb").
 > ¹ To wane, as of a moon
 ### ösem
-ᴇᴀʀʟʏ [øˑsem]; ᴍᴀᴛᴜʀᴇ [øsɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [øsɛ̃ː]
+ᴇᴀʀʟʏ [øˑsəm]; ᴍᴀᴛᴜʀᴇ [øsə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [øsɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yüsem|*yüsem]]_, from _[[Proto-Öbic dictionary#\*yüs|*yüs]]_ ("fire") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Firewood
@@ -3406,7 +3411,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Equal, same; ² Similar
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ödva|ödva]]_
 ### öwal
-ᴇᴀʀʟʏ [øˑwɑl]; ᴍᴀᴛᴜʀᴇ [øwɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [øwəw]
+ᴇᴀʀʟʏ [øˑwɑl]; ᴍᴀᴛᴜʀᴇ [øwɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [øwaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*üwal|*üwal]]_, from _[[Proto-Öbic dictionary#\*ü-|*ü-]]_ ("away from object") + _[[Proto-Öbic dictionary#\*wal|*wal]]_ ("obtain").
 > ¹ To obtain; ² To take
@@ -3445,13 +3450,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*p'ilp'il|*p'ilp'il]]_, from _[[Proto-Öbic dictionary#\*p'il|*p'il]]_ ("string") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ String, thread
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#pöpö|pöpö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#pöpo|pöpo]]_
 ### p'iwil
 ᴇᴀʀʟʏ [pʼiˑwil]; ᴍᴀᴛᴜʀᴇ [pʼiwɪɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼiwew]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*p'īwil|*p'īwil]]_, from _[[Proto-Öbic dictionary#\*<īw>|*<īw>]]_ ("internal organ") + _[[Proto-Öbic dictionary#\*p'il|*p'il]]_ ("string").
 > ¹ Tendon, sinew
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#pívö|pívö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#pívo|pívo]]_
 ### p'lasa
 ᴇᴀʀʟʏ [pʼlɑˑsɑ]; ᴍᴀᴛᴜʀᴇ [pʼlɑsɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlasə]
 
@@ -3459,19 +3464,19 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Sparkling
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#plasa|plasa]]_
 ### p'lasabet
-ᴇᴀʀʟʏ [pʼlɑˑsɑbet]; ᴍᴀᴛᴜʀᴇ [pʼlɑsɑbɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlasəbɛt]
+ᴇᴀʀʟʏ [pʼlɑˑsɑbət]; ᴍᴀᴛᴜʀᴇ [pʼlɑsɑbət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlasəbət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*p'lasapet|*p'lasapet]]_, from _[[Proto-Öbic dictionary#\*p'las|*p'las]]_ ("sparkle, shine, as of a star") + _[[Proto-Öbic dictionary#\*ap|*ap]]_ ("lay out, arrange") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Constellation
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#plaspet|plaspet]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#plaspat|plaspat]]_
 ### p'lasem
-ᴇᴀʀʟʏ [pʼlɑˑsem]; ᴍᴀᴛᴜʀᴇ [pʼlɑsɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlasɛ̃ː]
+ᴇᴀʀʟʏ [pʼlɑˑsəm]; ᴍᴀᴛᴜʀᴇ [pʼlɑsə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlasɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*p'lasem|*p'lasem]]_, from _[[Proto-Öbic dictionary#\*p'las|*p'las]]_ ("sparkle, shine, as of a star") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Star
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#plasen|plasen]]_
 ### p'löcem
-ᴇᴀʀʟʏ [pʼløˑtʃem]; ᴍᴀᴛᴜʀᴇ [pʼlødʒɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlødʒɛ̃ː]
+ᴇᴀʀʟʏ [pʼløˑtʃəm]; ᴍᴀᴛᴜʀᴇ [pʼlødʒə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [pʼlødʒɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*p'lücem|*p'lücem]]_, from _[[Proto-Öbic dictionary#\*p'lüc|*p'lüc]]_ ("scatter") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Seed, grain
@@ -3481,7 +3486,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*p'ǖrp'ǖr|*p'ǖrp'ǖr]]_, from _[[Proto-Öbic dictionary#\*p'ǖr|*p'ǖr]]_ ("mucus") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ Mucus
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#pöpö|pöpö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#pöpo|pöpo]]_
 # q
 ### qanyan
 ᴇᴀʀʟʏ [ʔɑˑɲɑn]; ᴍᴀᴛᴜʀᴇ [ʔɑɲɑ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔaɲɔ̃ː]
@@ -3545,14 +3550,14 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qaywiw|*qaywiw]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*qwiw|*qwiw]]_ ("south-easterly monsoon wind").
 > ¹ Monsoon season
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#qevö|qevö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#qevo|qevo]]_
 ### qayxil
 ᴇᴀʀʟʏ [ʔɑjʃil]; ᴍᴀᴛᴜʀᴇ [ʔɑjʃɪɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔajʃew]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qayxil|*qayxil]]_, from _[[Proto-Öbic dictionary#\*qay-|*qay-]]_ ("downwards") + _[[Proto-Öbic dictionary#\*xil|*xil]]_ ("bury").
 > ¹ To bury
 ### qelqel
-ᴇᴀʀʟʏ [ʔelʔel]; ᴍᴀᴛᴜʀᴇ [ʔɛɫʔɛɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔewʔew]
+ᴇᴀʀʟʏ [ʔelʔəl]; ᴍᴀᴛᴜʀᴇ [ʔɛɫʔəɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔewʔaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qerqer|*qerqer]]_, from _[[Proto-Öbic dictionary#\*qer|*qer]]_ ("close eyes") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To close the eyes
@@ -3606,7 +3611,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Sieve
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#sanun|sanun]]_
 ### saücem
-ᴇᴀʀʟʏ [sɑˑytʃem]; ᴍᴀᴛᴜʀᴇ [sɑjdʒɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sajdʒɛ̃ː]
+ᴇᴀʀʟʏ [sɑˑytʃəm]; ᴍᴀᴛᴜʀᴇ [sɑjdʒə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sajdʒɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*sayǖcem|*sayǖcem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*sǖc|*sǖc]]_ ("shallow") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Shallow water
@@ -3616,13 +3621,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*sayap|*sayap]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*sap|*sap]]_ ("wane, ebb").
 > ¹ The second half of a _[[Low Alöbi dictionary#omö|omö]]_
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#seyab|seyab]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#seb|seb]]_
 ### sek'o
-ᴇᴀʀʟʏ [seˑkʼo]; ᴍᴀᴛᴜʀᴇ [sekʼɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sekʼə]
+ᴇᴀʀʟʏ [seˑkʼo]; ᴍᴀᴛᴜʀᴇ [sekʼɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sekʼɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*sek'u|*sek'u]]_, Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*teq'|*teq']]_ ("claw").
 > ¹ Beak
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#sika|sika]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#siko|siko]]_
 ### sia
 ᴇᴀʀʟʏ [siˑɑ]; ᴍᴀᴛᴜʀᴇ [siɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [siə]
 
@@ -3648,11 +3653,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Rotten
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#sihta|sihta]]_
 ### siyo
-ᴇᴀʀʟʏ [siˑjo]; ᴍᴀᴛᴜʀᴇ [sijɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sijə]
+ᴇᴀʀʟʏ [siˑjo]; ᴍᴀᴛᴜʀᴇ [sijɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sijɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*siyu|*siyu]]_, from _[[Proto-Öbic dictionary#\*si|*si]]_ ("water").
 > ¹ Water
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#síya|síya]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#síyo|síyo]]_
 ### solig
 ᴇᴀʀʟʏ [soˑliŋ]; ᴍᴀᴛᴜʀᴇ [solɪ̃ŋ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [solɪ̃ː]
 
@@ -3674,7 +3679,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*suta|*suta]]_, from _[[Proto-Öbic dictionary#\*sut|*sut]]_ ("blue, green"). Perhaps related to [[Xiri]] _[[Xiri dictionary#sō|sō]]_ ("blue").
 > ¹ Blue, green
 ### sotcaic
-ᴇᴀʀʟʏ [sottʃɑitʃ]; ᴍᴀᴛᴜʀᴇ [sɔttʃɑjtʃ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sɔttʃəjtʃ]
+ᴇᴀʀʟʏ [sottʃɑitʃ]; ᴍᴀᴛᴜʀᴇ [sɔttʃɑjtʃ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [sɔttʃajtʃ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*sutcayic|*sutcayic]]_, from _[[Proto-Öbic dictionary#\*sut|*sut]]_ ("blue, green") + _[[Proto-Öbic dictionary#\*cay|*cay]]_ ("pass by") + _[[Proto-Öbic dictionary#\*-ic|*-ic]]_ ("agentive").
 > ¹ A green comet which appears in Winter's sky every few centuries
@@ -3714,7 +3719,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tanrak|*tanrak]]_.
 > ¹ Cockroach
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#dalak|dalak]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#dok|dok]]_
 ### tanwök
 ᴇᴀʀʟʏ [tɑˑnwøk]; ᴍᴀᴛᴜʀᴇ [tɑmœk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tamœk]
 
@@ -3728,11 +3733,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Bone
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#dañon|dañon]]_
 ### taset
-ᴇᴀʀʟʏ [tɑˑset]; ᴍᴀᴛᴜʀᴇ [tɑsɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tasɛt]
+ᴇᴀʀʟʏ [tɑˑsət]; ᴍᴀᴛᴜʀᴇ [tɑsət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tasət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*taset|*taset]]_, from _[[Proto-Öbic dictionary#\*tas|*tas]]_ ("dry") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Dried meat
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#daset|daset]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#dasat|dasat]]_
 ### tasta
 ᴇᴀʀʟʏ [tɑstɑ]; ᴍᴀᴛᴜʀᴇ [tɑstɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tastə]
 
@@ -3764,7 +3769,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Ribcage, chest
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#deyon|deyon]]_
 ### tayay
-ᴇᴀʀʟʏ [tɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [tɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tajəj]
+ᴇᴀʀʟʏ [tɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [tɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tajaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tayay|*tayay]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*tay|*tay]]_ ("move").
 > ¹ Journey; ² Path, road
@@ -3905,18 +3910,18 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tümap|*tümap]]_, from _[[Proto-Öbic dictionary#\*tü-|*tü-]]_ ("together") + _[[Proto-Öbic dictionary#\*map|*map]]_ ("roll up").
 > ¹ To roll up
 ### töminet
-ᴇᴀʀʟʏ [tøˑminet]; ᴍᴀᴛᴜʀᴇ [tømɪnɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tømɪnɛt]
+ᴇᴀʀʟʏ [tøˑminət]; ᴍᴀᴛᴜʀᴇ [tømɪnət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tømɪnət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tümyünet|*tümyünet]]_, from _[[Proto-Öbic dictionary#\*tümyün|*tümyün]]_ ("to sprout") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Sprout
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#dönnet|dönnet]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#dönnat|dönnat]]_
 ### tömön
 ᴇᴀʀʟʏ [tøˑmøn]; ᴍᴀᴛᴜʀᴇ [tømœ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tømɔ̃ː]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tümyün|*tümyün]]_, from _[[Proto-Öbic dictionary#\*tü-|*tü-]]_ ("inchoative") + _[[Proto-Öbic dictionary#\*myün|*myün]]_ ("grow, increase").
 > ¹ To sprout
 ### tönal
-ᴇᴀʀʟʏ [tøˑnɑl]; ᴍᴀᴛᴜʀᴇ [tønɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tønəw]
+ᴇᴀʀʟʏ [tøˑnɑl]; ᴍᴀᴛᴜʀᴇ [tønɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tønaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tünal|*tünal]]_, from _[[Proto-Öbic dictionary#\*tü-|*tü-]]_ ("inchoative") + _[[Proto-Öbic dictionary#\*nal|*nal]]_ ("awake").
 > ¹ To wake up
@@ -3992,7 +3997,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ A poisonous pink berry
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#dvímab|dvímab]]_
 ### twökem
-ᴇᴀʀʟʏ [twøˑkem]; ᴍᴀᴛᴜʀᴇ [twøkɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [twøkɛ̃ː]
+ᴇᴀʀʟʏ [twøˑkəm]; ᴍᴀᴛᴜʀᴇ [twøkə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [twøkɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*twükem|*twükem]]_, from _[[Proto-Öbic dictionary#\*twük|*twük]]_ ("hook") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Thorn
@@ -4010,11 +4015,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Hook shaped; ² Bent
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#dökya|dökya]]_
 ### tyomek
-ᴇᴀʀʟʏ [coˑmek]; ᴍᴀᴛᴜʀᴇ [comɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [comɛk]
+ᴇᴀʀʟʏ [coˑmək]; ᴍᴀᴛᴜʀᴇ [comək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [comək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tyumek|*tyumek]]_, from _[[Proto-Öbic dictionary#\*tyum|*tyum]]_ ("curl up") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Tail of a monkey; ² Climbing vine
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#jömek|jömek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#jömak|jömak]]_
 ### tyomta
 ᴇᴀʀʟʏ [comtɑ]; ᴍᴀᴛᴜʀᴇ [cɔ̃ndɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [cɔ̃ndə]
 
@@ -4054,23 +4059,23 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Machete
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#tanök|tanök]]_
 ### t'aök'em
-ᴇᴀʀʟʏ [tʼɑˑøkʼem]; ᴍᴀᴛᴜʀᴇ [tʼɑjkʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼajkʼɛ̃ː]
+ᴇᴀʀʟʏ [tʼɑˑøkʼəm]; ᴍᴀᴛᴜʀᴇ [tʼɑjkʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼajkʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'ayük'em|*t'ayük'em]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*t'ük'|*t'ük']]_ ("chop up") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Chopping board
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#teken|teken]]_
 ### t'ayal
-ᴇᴀʀʟʏ [tʼɑˑjɑl]; ᴍᴀᴛᴜʀᴇ [tʼɑjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼajəw]
+ᴇᴀʀʟʏ [tʼɑˑjɑl]; ᴍᴀᴛᴜʀᴇ [tʼɑjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼajaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'ayar|*t'ayar]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*t'ar|*t'ar]]_ ("die").
 > ¹ Death
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#teyo|teyo]]_
 ### t'egno
-ᴇᴀʀʟʏ [tʼeŋno]; ᴍᴀᴛᴜʀᴇ [tʼɛnɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼɛnə]
+ᴇᴀʀʟʏ [tʼeŋno]; ᴍᴀᴛᴜʀᴇ [tʼɛnɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼɛnɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'egnu|*t'egnu]]_.
 > ¹ Salt
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#tena|tena]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#teno|teno]]_
 ### t'ekya
 ᴇᴀʀʟʏ [tʼeˑkjɑ]; ᴍᴀᴛᴜʀᴇ [tʼekjɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼekjə]
 
@@ -4084,7 +4089,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Sphere
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#tiqin|tiqin]]_
 ### t'eqt'eq
-ᴇᴀʀʟʏ [tʼeʔtʼeʔ]; ᴍᴀᴛᴜʀᴇ [tʼɛʔtʼɛʔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼɛʔtʼɛʔ]
+ᴇᴀʀʟʏ [tʼeʔtʼəʔ]; ᴍᴀᴛᴜʀᴇ [tʼɛʔtʼəʔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼɛʔtʼəʔ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'eqt'eq|*t'eqt'eq]]_, from _[[Proto-Öbic dictionary#\*t'eq|*t'eq]]_ ("egg") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To lay (eggs)
@@ -4101,7 +4106,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Tortoise
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#tígö|tígö]]_
 ### t'ilem
-ᴇᴀʀʟʏ [tʼiˑlem]; ᴍᴀᴛᴜʀᴇ [tʼilɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼilɛ̃ː]
+ᴇᴀʀʟʏ [tʼiˑləm]; ᴍᴀᴛᴜʀᴇ [tʼilə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼilɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'ilem|*t'ilem]]_.
 > ¹ Wound
@@ -4113,7 +4118,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Ant, fly
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#tímok|tímok]]_
 ### t'iqem
-ᴇᴀʀʟʏ [tʼiˑʔem]; ᴍᴀᴛᴜʀᴇ [tʼiʔɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼiʔɛ̃ː]
+ᴇᴀʀʟʏ [tʼiˑʔəm]; ᴍᴀᴛᴜʀᴇ [tʼiʔə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼiʔɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'īqem|*t'īqem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*t'eq|*t'eq]]_ ("egg") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Nest of a bird
@@ -4146,7 +4151,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ The [[T'ugü]] river basin, the entire world known to the [[Öb]] before contact with other cultures
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#túgö|túgö]]_
 ### t'umay
-ᴇᴀʀʟʏ [tʼuˑmɑj]; ᴍᴀᴛᴜʀᴇ [tʼumɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼuməj]
+ᴇᴀʀʟʏ [tʼuˑmɑj]; ᴍᴀᴛᴜʀᴇ [tʼumɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [tʼumaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*t'ūmay|*t'ūmay]]_, from _[[Proto-Öbic dictionary#\*t'ū-|*t'ū-]]_ ("whole, entire") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
 > ¹ To understand; ² To realise
@@ -4190,7 +4195,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Any wild land animal
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#úbak|úbak]]_
 ### ubay
-ᴇᴀʀʟʏ [uˑbɑj]; ᴍᴀᴛᴜʀᴇ [ubɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ubəj]
+ᴇᴀʀʟʏ [uˑbɑj]; ᴍᴀᴛᴜʀᴇ [ubɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ubaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūppay|*ūppay]]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*pay|*pay]]_ ("layer").
 > ¹ To layer on, as of paint
@@ -4205,7 +4210,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ The ground
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ubgö|ubgö]]_
 ### ubkay
-ᴇᴀʀʟʏ [ubqɑj]; ᴍᴀᴛᴜʀᴇ [ʊbqɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʊbqəj]
+ᴇᴀʀʟʏ [ubqɑj]; ᴍᴀᴛᴜʀᴇ [ʊbqɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʊbqaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūpkay|*ūpkay]]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*kay|*kay]]_ ("support").
 > ¹ To support; ² To rest against
@@ -4250,11 +4255,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūpyan|*ūpyan]]_, from _[[Proto-Öbic dictionary#\*ūp-|*ūp-]]_ ("surface") + _[[Proto-Öbic dictionary#\*qyan|*qyan]]_ ("cover").
 > ¹ To cover over, as with a sheet
 ### ugo
-ᴇᴀʀʟʏ [uˑŋo]; ᴍᴀᴛᴜʀᴇ [uŋɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [uŋə]
+ᴇᴀʀʟʏ [uˑŋo]; ᴍᴀᴛᴜʀᴇ [uŋɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [uŋɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ūgu|*ūgu]]_.
 > ¹ [[Ugo]], a large domesticated ungulate used as a draft animal, similar to cattle
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#úga|úga]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#úgo|úgo]]_
 ### -uk
 
 *suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-ūk|*-ūk]]_.
@@ -4284,23 +4289,23 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Wooden
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#íya|íya]]_
 ### üal
-ᴇᴀʀʟʏ [yˑɑl]; ᴍᴀᴛᴜʀᴇ [yɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [yəw]
+ᴇᴀʀʟʏ [yˑɑl]; ᴍᴀᴛᴜʀᴇ [yɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [yaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖʔal|*ǖʔal]]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*ʔal|*ʔal]]_ ("outside").
 > ¹ To be outside of
 ### übaw
-ᴇᴀʀʟʏ [yˑbɑw]; ᴍᴀᴛᴜʀᴇ [ybɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ybəw]
+ᴇᴀʀʟʏ [yˑbɑw]; ᴍᴀᴛᴜʀᴇ [ybɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ybaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yǖpaw|*yǖpaw]]_.
 > ¹ Gourd
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#íbo|íbo]]_
 ### ücal
-ᴇᴀʀʟʏ [yˑtʃɑl]; ᴍᴀᴛᴜʀᴇ [ydʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ydʒəw]
+ᴇᴀʀʟʏ [yˑtʃɑl]; ᴍᴀᴛᴜʀᴇ [ydʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ydʒaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖcal|*ǖcal]]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*cal|*cal]]_ ("boundary").
 > ¹ To be enclosed within
 ### ücel
-ᴇᴀʀʟʏ [yˑtʃel]; ᴍᴀᴛᴜʀᴇ [ydʒɛɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ydʒew]
+ᴇᴀʀʟʏ [yˑtʃəl]; ᴍᴀᴛᴜʀᴇ [ydʒəɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ydʒaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖcer|*ǖcer]]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*cer|*cer]]_ ("end").
 > ¹ To be at the edge of
@@ -4340,7 +4345,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖnlap'|*ǖnlap']]_, from _[[Proto-Öbic dictionary#\*ǖn-|*ǖn-]]_ ("slowly and carefully") + _[[Proto-Öbic dictionary#\*lap'|*lap']]_ ("grab, snatch").
 > ¹ To take into the hand; ² To grab onto
 ### ülay
-ᴇᴀʀʟʏ [yˑlɑj]; ᴍᴀᴛᴜʀᴇ [ylɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [yləj]
+ᴇᴀʀʟʏ [yˑlɑj]; ᴍᴀᴛᴜʀᴇ [ylɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ylaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖray|*ǖray]]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
 > ¹ To be at a place
@@ -4363,7 +4368,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Container, pot
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ímun|ímun]]_
 ### üncaw
-ᴇᴀʀʟʏ [yntʃɑw]; ᴍᴀᴛᴜʀᴇ [ʏ̃ndʒɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʊ̃ndʒəw]
+ᴇᴀʀʟʏ [yntʃɑw]; ᴍᴀᴛᴜʀᴇ [ʏ̃ndʒɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʊ̃ndʒaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖncaw|*ǖncaw]]_, from _[[Proto-Öbic dictionary#\*ǖn-|*ǖn-]]_ ("slowly and carefully") + _[[Proto-Öbic dictionary#\*caw|*caw]]_ ("deform").
 > ¹ To physically deform
@@ -4374,7 +4379,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Finger
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ínih|ínih]]_
 ### ünkay
-ᴇᴀʀʟʏ [ynqɑj]; ᴍᴀᴛᴜʀᴇ [ʏ̃ɴqɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʊ̃ɴqəj]
+ᴇᴀʀʟʏ [ynqɑj]; ᴍᴀᴛᴜʀᴇ [ʏ̃ɴqɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʊ̃ɴqaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖnkay|*ǖnkay]]_, from _[[Proto-Öbic dictionary#\*ǖn-|*ǖn-]]_ ("slowly and carefully") + _[[Proto-Öbic dictionary#\*kay|*kay]]_ ("support").
 > ¹ To balance on
@@ -4455,7 +4460,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Snail shell
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#öxtak|öxtak]]_
 ### üyal
-ᴇᴀʀʟʏ [yˑjɑl]; ᴍᴀᴛᴜʀᴇ [yjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [yjəw]
+ᴇᴀʀʟʏ [yˑjɑl]; ᴍᴀᴛᴜʀᴇ [yjɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [yjaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖyar|*ǖyar]]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*yar|*yar]]_ ("central, in the middle").
 > ¹ To be in the middle of
@@ -4465,7 +4470,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖyan|*ǖyan]]_, from _[[Proto-Öbic dictionary#\*ǖ-|*ǖ-]]_ ("locative") + _[[Proto-Öbic dictionary#\*yan|*yan]]_ ("within, inside"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖran|*ǖran]]_ ("on"), [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖtyan|*ǖtyan]]_ ("near").
 > ¹ To be inside of
 ### üyet'
-ᴇᴀʀʟʏ [yˑjetʼ]; ᴍᴀᴛᴜʀᴇ [yjtʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ejtʼ]
+ᴇᴀʀʟʏ [yˑjətʼ]; ᴍᴀᴛᴜʀᴇ [yjtʼ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ejtʼ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ǖyet'|*ǖyet']]_, from _[[Proto-Öbic dictionary#\*yat'|*yat']]_ ("fear").
 > ¹ To fear
@@ -4528,7 +4533,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Yam wine
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#valon|valon]]_
 ### wamcal
-ᴇᴀʀʟʏ [wɑmtʃɑl]; ᴍᴀᴛᴜʀᴇ [wɑ̃ndʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wɔ̃ndʒəw]
+ᴇᴀʀʟʏ [wɑmtʃɑl]; ᴍᴀᴛᴜʀᴇ [wɑ̃ndʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wɔ̃ndʒaw]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔwamcal|*ʔwamcal]]_, from _[[Proto-Öbic dictionary#\*ʔwam|*ʔwam]]_ ("firmament") + _[[Proto-Öbic dictionary#\*cal|*cal]]_ ("boundary").
 > ¹ Horizon
@@ -4540,7 +4545,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Luck; ² Fate
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ve|ve]]_
 ### wemay
-ᴇᴀʀʟʏ [weˑmɑj]; ᴍᴀᴛᴜʀᴇ [wemɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [weməj]
+ᴇᴀʀʟʏ [weˑmɑj]; ᴍᴀᴛᴜʀᴇ [wemɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wemaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wemay|*wemay]]_, from _[[Proto-Öbic dictionary#\*we-|*we-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
 > ¹ To forget
@@ -4581,7 +4586,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Alive
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#vífa|vífa]]_
 ### wik'lo
-ᴇᴀʀʟʏ [wiˑkʼlo]; ᴍᴀᴛᴜʀᴇ [wikʼlɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wikʼlə]
+ᴇᴀʀʟʏ [wiˑkʼlo]; ᴍᴀᴛᴜʀᴇ [wikʼlɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wikʼlɔ]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wik'ru|*wik'ru]]_, from _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change") + _[[Proto-Öbic dictionary#\*-ru|*-ru]]_ ("self").
 > ¹ To change (as a person)
@@ -4604,11 +4609,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Rod, pole
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#vílin|vílin]]_
 ### winet
-ᴇᴀʀʟʏ [wiˑnet]; ᴍᴀᴛᴜʀᴇ [winɛt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [winɛt]
+ᴇᴀʀʟʏ [wiˑnət]; ᴍᴀᴛᴜʀᴇ [winət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [winət]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*winet|*winet]]_, from _[[Proto-Öbic dictionary#\*win|*win]]_ ("count, hold value") + _[[Proto-Öbic dictionary#\*-et|*-et]]_ ("resultative, perfective").
 > ¹ Number, count
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#vínet|vínet]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#vínat|vínat]]_
 ### winwin
 ᴇᴀʀʟʏ [wiˑnwin]; ᴍᴀᴛᴜʀᴇ [wimɪ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wimɪ̃ː]
 
@@ -4627,19 +4632,19 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Tree oil
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#vísun|vísun]]_
 ### wit'eb
-ᴇᴀʀʟʏ [wiˑtʼeb]; ᴍᴀᴛᴜʀᴇ [witʼɛb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [witʼɛb]
+ᴇᴀʀʟʏ [wiˑtʼəb]; ᴍᴀᴛᴜʀᴇ [witʼəb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [witʼəb]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'ep|*wit'ep]]_, from _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser").
 > ¹ Other person
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#víteb|víteb]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#vítab|vítab]]_
 ### wit'ek
-ᴇᴀʀʟʏ [wiˑtʼek]; ᴍᴀᴛᴜʀᴇ [witʼɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [witʼɛk]
+ᴇᴀʀʟʏ [wiˑtʼək]; ᴍᴀᴛᴜʀᴇ [witʼək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [witʼək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'ek|*wit'ek]]_, from _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Other animal
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#vítek|vítek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#vítak|vítak]]_
 ### wit'em
-ᴇᴀʀʟʏ [wiˑtʼem]; ᴍᴀᴛᴜʀᴇ [witʼɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [witʼɛ̃ː]
+ᴇᴀʀʟʏ [wiˑtʼəm]; ᴍᴀᴛᴜʀᴇ [witʼə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [witʼɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wit'em|*wit'em]]_, from _[[Proto-Öbic dictionary#\*wit'|*wit']]_ ("different, other") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Other thing
@@ -4650,11 +4655,6 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīxa|*wīxa]]_, from _[[Proto-Öbic dictionary#\*wīx|*wīx]]_ ("sacred, shining"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*plīxma|*plīxma]]_ ("shining").
 > ¹ Sacred; ² Relating to light in spiritual or theological contexts
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#víxa|víxa]]_
-### -wo
-
-*suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-wu|*-wu]]_.
-> ¹ Numeral classifier used to count hollow objects such as baskets, barrels, bags, houses, caves, and some shells
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#-vo|-vo]]_
 ### wöa
 ᴇᴀʀʟʏ [wøˑɑ]; ᴍᴀᴛᴜʀᴇ [wøɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wøə]
 
@@ -4685,7 +4685,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xayil|*xayil]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*xil|*xil]]_ ("bury").
 > ¹ Mud
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#xö|xö]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#xo|xo]]_
 ### xak'uc
 ᴇᴀʀʟʏ [ʃɑˑkʼutʃ]; ᴍᴀᴛᴜʀᴇ [ʃɑkʼʊtʃ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃakʼʊtʃ]
 
@@ -4705,7 +4705,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Tomorrow; ² The future
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#xo|xo]]_
 ### xayay
-ᴇᴀʀʟʏ [ʃɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [ʃɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃajəj]
+ᴇᴀʀʟʏ [ʃɑˑjɑj]; ᴍᴀᴛᴜʀᴇ [ʃɑjɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃajaj]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xayay|*xayay]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*xay|*xay]]_ ("flow").
 > ¹ Stream, river
@@ -4717,7 +4717,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Fog, smoke
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#xeyon|xeyon]]_
 ### xayxay
-ᴇᴀʀʟʏ [ʃɑjʃɑj]; ᴍᴀᴛᴜʀᴇ [ʃɑjʃɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃajʃəj]
+ᴇᴀʀʟʏ [ʃɑjʃɑj]; ᴍᴀᴛᴜʀᴇ [ʃɑjʃɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃajʃaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xayxay|*xayxay]]_, from _[[Proto-Öbic dictionary#\*xay|*xay]]_ ("flow") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To flow
@@ -4736,7 +4736,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xilak'|*xilak']]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*xak'|*xak']]_ ("pound").
 > ¹ Forcemeat
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#xílak|xílak]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#xök|xök]]_
 ### xilbö
 ᴇᴀʀʟʏ [ʃilbø]; ᴍᴀᴛᴜʀᴇ [ʃɪɫbœ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃewbœ]
 
@@ -4756,11 +4756,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Sick
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#xíva|xíva]]_
 ### xlicek
-ᴇᴀʀʟʏ [ʃliˑtʃek]; ᴍᴀᴛᴜʀᴇ [ʃlidʒɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃlidʒɛk]
+ᴇᴀʀʟʏ [ʃliˑtʃək]; ᴍᴀᴛᴜʀᴇ [ʃlidʒək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃlidʒək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xlicek|*xlicek]]_, from _[[Proto-Öbic dictionary#\*xlic|*xlic]]_ ("writhe") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Eel; ² Worm
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#xlíjek|xlíjek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#xlíjak|xlíjak]]_
 ### xocat
 ᴍᴀᴛᴜʀᴇ [ʃodʒɑt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃodʒət]
 
@@ -4858,7 +4858,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xūnǖp|*xūnǖp]]_, from _[[Proto-Öbic dictionary#\*xū-|*xū-]]_ ("round in circles") + _[[Proto-Öbic dictionary#\*nǖp|*nǖp]]_ ("wrap").
 > ¹ To wrap around; ² To bend round
 ### xutay
-ᴇᴀʀʟʏ [ʃuˑtɑj]; ᴍᴀᴛᴜʀᴇ [ʃudɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃudəj]
+ᴇᴀʀʟʏ [ʃuˑtɑj]; ᴍᴀᴛᴜʀᴇ [ʃudɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃudaj]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xūtay|*xūtay]]_, from _[[Proto-Öbic dictionary#\*xū-|*xū-]]_ ("round in circles") + _[[Proto-Öbic dictionary#\*tay|*tay]]_ ("move").
 > ¹ To orbit; ² To move in circles
@@ -4868,17 +4868,17 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xūtyum|*xūtyum]]_, from _[[Proto-Öbic dictionary#\*xū-|*xū-]]_ ("round in circles") + _[[Proto-Öbic dictionary#\*tyum|*tyum]]_ ("curl up").
 > ¹ To curve, curl round
 ### xuyaw
-ᴇᴀʀʟʏ [ʃuˑjɑw]; ᴍᴀᴛᴜʀᴇ [ʃujɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃujəw]
+ᴇᴀʀʟʏ [ʃuˑjɑw]; ᴍᴀᴛᴜʀᴇ [ʃujɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃujaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xūyaw|*xūyaw]]_, from _[[Proto-Öbic dictionary#\*xū-|*xū-]]_ ("round in circles") + _[[Proto-Öbic dictionary#\*yaw|*yaw]]_ ("bend").
 > ¹ To bend, curve
 ### xücaw
-ᴇᴀʀʟʏ [ʃyˑtʃɑw]; ᴍᴀᴛᴜʀᴇ [ʃydʒɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃydʒəw]
+ᴇᴀʀʟʏ [ʃyˑtʃɑw]; ᴍᴀᴛᴜʀᴇ [ʃydʒɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃydʒaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xǖcaw|*xǖcaw]]_, from _[[Proto-Öbic dictionary#\*caw|*caw]]_ ("deform").
 > ¹ To stretch
 ### xület
-ᴇᴀʀʟʏ [ʃyˑlet]; ᴍᴀᴛᴜʀᴇ [ʃyɫt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃewt]
+ᴇᴀʀʟʏ [ʃyˑlət]; ᴍᴀᴛᴜʀᴇ [ʃyɫt]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʃewt]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*xǖlet|*xǖlet]]_.
 > ¹ A large acidic berry
@@ -4897,11 +4897,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#xvída|xvída]]_
 # y
 ### yabek
-ᴇᴀʀʟʏ [jɑˑbek]; ᴍᴀᴛᴜʀᴇ [jɑbɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jabɛk]
+ᴇᴀʀʟʏ [jɑˑbək]; ᴍᴀᴛᴜʀᴇ [jɑbək]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jabək]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yapek|*yapek]]_, from _[[Proto-Öbic dictionary#\*yap|*yap]]_ ("squeeze") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Insect larva
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#yabek|yabek]]_, [[Xiri]] _[[Xiri dictionary#yaba|yaba]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#yabak|yabak]]_, [[Xiri]] _[[Xiri dictionary#yaba|yaba]]_
 ### yabsiw
 ᴇᴀʀʟʏ [jɑbsiw]; ᴍᴀᴛᴜʀᴇ [jɑbsɪw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jabsew]
 
@@ -4949,13 +4949,13 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Tongs
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#yanip|yanip]]_
 ### yanyo
-ᴇᴀʀʟʏ [jɑˑɲo]; ᴍᴀᴛᴜʀᴇ [jɑɲɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jaɲə]
+ᴇᴀʀʟʏ [jɑˑɲo]; ᴍᴀᴛᴜʀᴇ [jɑɲɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jaɲɔ]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yanyu|*yanyu]]_.
 > ¹ [[Yanyo]], a crane which migrates between [[T'ugü]] and the [[Haankaysiw Steppe]]
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#yaña|yaña]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#yaño|yaño]]_
 ### yaöxem
-ᴇᴀʀʟʏ [jɑˑøʃem]; ᴍᴀᴛᴜʀᴇ [jɑjʃɛ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jajʃɛ̃ː]
+ᴇᴀʀʟʏ [jɑˑøʃəm]; ᴍᴀᴛᴜʀᴇ [jɑjʃə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jajʃɛ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yayüxem|*yayüxem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*yüx|*yüx]]_ ("heat") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Hot spring
@@ -4972,7 +4972,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Satisfied, satiated
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#yada|yada]]_
 ### yaten
-ᴇᴀʀʟʏ [jɑˑten]; ᴍᴀᴛᴜʀᴇ [jɑdɛ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jadɛ̃ː]
+ᴇᴀʀʟʏ [jɑˑtən]; ᴍᴀᴛᴜʀᴇ [jɑdə̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jadɛ̃ː]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yaten|*yaten]]_, from _[[Proto-Öbic dictionary#\*i-|*i-]]_ ("singular") + _[[Proto-Öbic dictionary#\*ten|*ten]]_ ("first person").
 > ¹ First person singular
@@ -4983,7 +4983,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Scared
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#yatva|yatva]]_
 ### yawcal
-ᴇᴀʀʟʏ [jɑwtʃɑl]; ᴍᴀᴛᴜʀᴇ [jɑwdʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jawdʒəw]
+ᴇᴀʀʟʏ [jɑwtʃɑl]; ᴍᴀᴛᴜʀᴇ [jɑwdʒɑɫ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jawdʒaw]
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yawcal|*yawcal]]_, from _[[Proto-Öbic dictionary#\*yaw|*yaw]]_ ("enclose") + _[[Proto-Öbic dictionary#\*cal|*cal]]_ ("boundary").
 > ¹ To enclose, confine
@@ -5001,11 +5001,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > **Derivatives:** _[[Low Alöbi dictionary#yaxeb|yaxeb]]_ ("high Öb")
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#yaxa|yaxa]]_
 ### yaxeb
-ᴇᴀʀʟʏ [jɑˑʃeb]; ᴍᴀᴛᴜʀᴇ [jɑʃɛb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jaʃɛb]
+ᴇᴀʀʟʏ [jɑˑʃəb]; ᴍᴀᴛᴜʀᴇ [jɑʃəb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jaʃəb]
 
 *n.* From _[[Low Alöbi dictionary#yaxa|yaxa]]_ ("pale") + _[[Low Alöbi dictionary#-eb|-eb]]_ ("person object nominaliser").
 > ¹ A High-Öbic person
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#yaxeb|yaxeb]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#yaxab|yaxab]]_
 ### yaya
 ᴇᴀʀʟʏ [jɑˑjɑ]; ᴍᴀᴛᴜʀᴇ [jɑjɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jajə]
 
@@ -5100,11 +5100,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Scaly
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#yúva|yúva]]_
 ### yuek
-ᴇᴀʀʟʏ [juˑek]; ᴍᴀᴛᴜʀᴇ [juɛk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [juɛk]
+ᴇᴀʀʟʏ [juˑək]; ᴍᴀᴛᴜʀᴇ [juk]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [juk]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yūʔek|*yūʔek]]_, from _[[Proto-Öbic dictionary#\*yūʔ|*yūʔ]]_ ("scale") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ Any scaly fish
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#yúvek|yúvek]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#yuk|yuk]]_
 ### yunam
 ᴇᴀʀʟʏ [juˑnɑm]; ᴍᴀᴛᴜʀᴇ [junɑ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [junɔ̃ː]
 
@@ -5117,7 +5117,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yūp'ǖh|*yūp'ǖh]]_, from _[[Proto-Öbic dictionary#\*p'ǖh|*p'ǖh]]_ ("swarm").
 > ¹ To swarm; ² To envelope
 ### yuso
-ᴇᴀʀʟʏ [juˑso]; ᴍᴀᴛᴜʀᴇ [jusɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jusə]
+ᴇᴀʀʟʏ [juˑso]; ᴍᴀᴛᴜʀᴇ [jusɔ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [jusɔ]
 
 *pron.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yūsu|*yūsu]]_, from _[[Proto-Öbic dictionary#\*i-|*i-]]_ ("singular") + _[[Proto-Öbic dictionary#\*usu|*usu]]_ ("second person").
 > ¹ Second person singular

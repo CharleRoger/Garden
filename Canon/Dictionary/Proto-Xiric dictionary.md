@@ -1145,7 +1145,7 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 
 *n.*
 > ¹ Tattoo, marking; ² Stain
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ńə̆’ə̆ĭ|ńə̆’ə̆ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ńă’eĭ|ńă’eĭ]]_; [[Xiri]] _[[Xiri dictionary#ńa’āi|ńa’āi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geyaq|geyaq]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ńə̆’ə̆ĭ|ńə̆’ə̆ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ńă’eĭ|ńă’eĭ]]_; [[Xiri]] _[[Xiri dictionary#ńa’āi|ńa’āi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geq|geq]]_
 ### \*ńala
 
 *adj.*

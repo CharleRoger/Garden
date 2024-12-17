@@ -1669,7 +1669,7 @@ A dictionary of terms in the [[Xiri]] language.
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ńa’ahi|*ńa’ahi]]_.
 > ¹ Tattoo, marking; ² Stain
 > **Derivatives:** _[[Xiri dictionary#ńa’āiwa|ńa’āiwa]]_ ("tattoo correction"), _[[Xiri dictionary#ńa’āińuru|ńa’āińuru]]_ ("tattooed person"), _[[Xiri dictionary#ńa’āivozi|ńa’āivozi]]_ ("tattoo knowledge"), _[[Xiri dictionary#ńa’āiza|ńa’āiza]]_ ("non-tattoeed"), _[[Xiri dictionary#ńa’āiži’i|ńa’āiži’i]]_ ("tattoo needle"), _[[Xiri dictionary#ńa’āira’a|ńa’āira’a]]_ ("growing up"), _[[Xiri dictionary#fańa’āi|fańa’āi]]_ ("to tattoo")
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geyaq|geyaq]]_
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geq|geq]]_
 ### ńa’āińuru
 ᴇᴀʀʟʏ [ŋaʔaːiŋuɾu]; ʟᴀᴛᴇ [ŋəʔaɪŋuɾʊ]
 
