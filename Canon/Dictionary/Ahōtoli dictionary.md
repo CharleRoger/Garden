@@ -425,6 +425,11 @@ A dictionary of terms in the [[Ahōtoli]] language.
 
 *n.* From [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#hańə̆|hańə̆]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*pāńe|*pāńe]]_.
 > ¹ Big moon; ² Night
+### hatĭ
+[haːti]
+
+*n.* From [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#hatĭ|hatĭ]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Xiric dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
 ### hă’o’o
 [haʔɔːʔɔː]
 
@@ -1026,6 +1031,11 @@ A dictionary of terms in the [[Ahōtoli]] language.
 
 *n.* From [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#nakwə̆wŭ|nakwə̆wŭ]]_, from _[[Old Ahōtoli dictionary#nakwə̆|nakwə̆]]_ ("complete") + _[[Old Ahōtoli dictionary#wŭ|wŭ]]_ ("value").
 > ¹ Square number
+### nalu
+[naːɮuː]
+
+*n.* From [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#nalu|nalu]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*nāleu|*nāleu]]_, from _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Boy, young male
 ### nă’ută
 [naʔuːta]
 
@@ -1367,7 +1377,7 @@ A dictionary of terms in the [[Ahōtoli]] language.
 [uːwu]
 
 *n.* From [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#uwŭ|uwŭ]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ufu|*ufu]]_.
-> ¹ Lack, 
+> ¹ Lack, want
 
 *n.* From [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#uwŭ|uwŭ]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūmu|*ūmu]]_.
 > ¹ Water

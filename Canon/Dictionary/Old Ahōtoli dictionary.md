@@ -522,6 +522,12 @@ A dictionary of terms in the [[Old Ahōtoli]] language.
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*pāńe|*pāńe]]_.
 > ¹ Big moon; ² Night
 > **Descendants:** [[Ahōtoli]] _[[Ahōtoli dictionary#hańă|hańă]]_
+### hatĭ
+[haːti]
+
+*n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Xiric dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
+> **Descendants:** [[Ahōtoli]] _[[Ahōtoli dictionary#hatĭ|hatĭ]]_
 ### he
 [hɛː]
 
@@ -1248,6 +1254,12 @@ A dictionary of terms in the [[Old Ahōtoli]] language.
 *n.* From _[[Old Ahōtoli dictionary#nakwə̆|nakwə̆]]_ ("complete") + _[[Old Ahōtoli dictionary#wŭ|wŭ]]_ ("value").
 > ¹ Square number
 > **Descendants:** [[Ahōtoli]] _[[Ahōtoli dictionary#nakwewŭ|nakwewŭ]]_
+### nalu
+[naːɮuː]
+
+*n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*nāleu|*nāleu]]_, from _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Boy, young male
+> **Descendants:** [[Ahōtoli]] _[[Ahōtoli dictionary#nalu|nalu]]_
 ### ne
 [nɛː]
 
@@ -1664,7 +1676,7 @@ A dictionary of terms in the [[Old Ahōtoli]] language.
 [uːwu]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ufu|*ufu]]_.
-> ¹ Lack, 
+> ¹ Lack, want
 > **Descendants:** [[Ahōtoli]] _[[Ahōtoli dictionary#uwŭ|uwŭ]]_
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūmu|*ūmu]]_.

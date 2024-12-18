@@ -491,7 +491,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [d̪ᶻikõ̞ː]; ᴏᴜᴛᴇʀ [d̪ikɔ̃ː]
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#tiköm|tiköm]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tīküm|*tīküm]]_, from _[[Proto-Öbic dictionary#\*tī-|*tī-]]_ ("body part") + _[[Proto-Öbic dictionary#\*küm|*küm]]_ ("face, front part").
-> ¹ Chin
+> ¹ Chin; ² Face
 ### dímib
 ɪɴɴᴇʀ [d̪ᶻimɪb]; ᴏᴜᴛᴇʀ [d̪imev]
 
@@ -632,6 +632,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#aigem|aigem]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ayīgem|*ayīgem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*īg|*īg]]_ ("enter") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Entrance; ² Door
+### egíl
+ɪɴɴᴇʀ [e̞ŋʲil̪]; ᴏᴜᴛᴇʀ [ɛŋʲil̪]
+
+*n.* From [[Xiri]] _[[Xiri dictionary#egiru|egiru]]_ ("woman"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*eqileu|*eqileu]]_, from _[[Proto-Xiric dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Xiric dictionary#\*qi|*qi]]_ ("north") + _[[Proto-Xiric dictionary#\*leu|*leu]]_ ("clay, mud"). Via a merger with _[[Xiri dictionary#eńiru|eńiru]]_.
+> ¹ Spouse
 ### eli
 ɪɴɴᴇʀ [e̞l̪ɪ]; ᴏᴜᴛᴇʀ [ɛl̪e]
 
@@ -664,8 +669,8 @@ A dictionary of terms in the [[Möxali]] language.
 ### evon
 ɪɴɴᴇʀ [e̞βõ̞ː]; ᴏᴜᴛᴇʀ [ɛvɔ̃ː]
 
-*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#aywam|aywam]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔaywam|*ʔaywam]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔwam|*ʔwam]]_ ("firmament").
-> ¹ The celestial sphere, the surface on which the stars and celestial bodies lie
+*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#aywam|aywam]]_ ("firmament"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔaywam|*ʔaywam]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔwam|*ʔwam]]_ ("firmament").
+> ¹ The sky
 ### eyon
 ɪɴɴᴇʀ [e̞jõ̞ː]; ᴏᴜᴛᴇʀ [ɛjɔ̃ː]
 
@@ -870,6 +875,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#ikban|ikban]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ikpan|*ikpan]]_.
 > ¹ [[Ikban]], a small [[Wug]], similar to antelopes
+### ile
+ɪɴɴᴇʀ [ɪl̪e̞]; ᴏᴜᴛᴇʀ [el̪ɛ]
+
+*v. root* From [[Low Alöbi]] _[[Low Alöbi dictionary#eal|eal]]_ ("exist"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔal|*eʔal]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("indicative intransitive") + _[[Proto-Öbic dictionary#\*al|*al]]_ ("exist"). With influence from _[[Low Alöbi dictionary#ülay|ülay]]_.
+> ¹ To be in a place; ² To exist
 ### ilu
 ɪɴɴᴇʀ [ɪl̪ʊ]; ᴏᴜᴛᴇʀ [el̪o]
 
@@ -1531,6 +1541,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#klosmö|klosmö]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qrusmü|*qrusmü]]_, from _[[Proto-Öbic dictionary#\*qrus|*qrus]]_ ("day") + _[[Proto-Öbic dictionary#\*mü|*mü]]_ ("cycle").
 > ¹ One day, equal to 24 hours
+### konjon
+ɪɴɴᴇʀ [kõ̞n̪dʒõ̞ː]; ᴏᴜᴛᴇʀ [kɔ̃ːʒɔ̃ː]
+
+*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#kömtyag|kömtyag]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kümtyag|*kümtyag]]_, from _[[Proto-Öbic dictionary#\*küm|*küm]]_ ("face, front part") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").
+> ¹ Lower jaw
 ### konkon
 ɪɴɴᴇʀ [kõ̞ŋkõ̞ː]; ᴏᴜᴛᴇʀ [kɔ̃ŋkɔ̃ː]
 
@@ -1559,11 +1574,6 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#kük|kük]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qwǖk|*qwǖk]]_, from _[[Proto-Öbic dictionary#\*qwiw|*qwiw]]_ ("south-easterly monsoon wind") + _[[Proto-Öbic dictionary#\*-ek|*-ek]]_ ("animate object nominaliser").
 > ¹ South-easterly monsoon wind
-### könjon
-ɪɴɴᴇʀ [kʲø̞̃n̪dʒõ̞ː]; ᴏᴜᴛᴇʀ [kʲœ̃ːʒɔ̃ː]
-
-*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#kömtyag|kömtyag]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kümtyag|*kümtyag]]_, from _[[Proto-Öbic dictionary#\*küm|*küm]]_ ("face, front part") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").
-> ¹ Lower jaw
 ### könon
 ɪɴɴᴇʀ [kʲø̞n̪õ̞ː]; ᴏᴜᴛᴇʀ [kʲœn̪ɔ̃ː]
 
@@ -2136,6 +2146,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#naqem|naqem]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naqem|*naqem]]_, from _[[Proto-Öbic dictionary#\*naq|*naq]]_ ("eat") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Food
+### naru
+ɪɴɴᴇʀ [n̪aɾʊ]; ᴏᴜᴛᴇʀ [n̪aɾo]
+
+*n.* From [[Xiri]] _[[Xiri dictionary#nāru|nāru]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*nāleu|*nāleu]]_, from _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Boy, young male
 ### neje
 ɪɴɴᴇʀ [n̪e̞dʑe̞]; ᴏᴜᴛᴇʀ [n̪ɛʑɛ]
 
@@ -2628,22 +2643,24 @@ A dictionary of terms in the [[Möxali]] language.
 ### qiqe
 ɪɴɴᴇʀ [ʔɪʔe̞]; ᴏᴜᴛᴇʀ [eʔɛ]
 
-*v. root* From [[Xiri]] _[[Xiri dictionary#ca’e|ca’e]]_, from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#a’e|a’e]]_ ("arrival, beginning").
-> ¹ To come, arrive; ² To go
-
-*v. root* From [[Xiri]] _[[Xiri dictionary#cahe’i|cahe’i]]_, from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#he’i|he’i]]_ ("meadow").
-> ¹ To blossom, bloom
+*v. root* From [[Xiri]] _[[Xiri dictionary#ca’e|ca’e]]_, from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#a’e|a’e]]_ ("arrival, beginning"). With influence from both _[[Xiri dictionary#cahe’i|cahe’i]]_ and _[[Xiri dictionary#fa’ew|fa’ew]]_.
+> ¹ To come, arrive; ² To begin anew; ³ To blossom, bloom, shed skin, metamorphose
 > **Derivatives:** _[[Möxali dictionary#qirin|qirin]]_ ("blooming")
 ### qirin
 ɪɴɴᴇʀ [ʔɪɾɪ̃ː]; ᴏᴜᴛᴇʀ [eɾẽː]
 
-*n.* From _[[Möxali dictionary#qiqe|qiqe]]_ ("to blossom") + _[[Möxali dictionary#-ri|-ri]]_ ("inchoative") + _[[Möxali dictionary#-n|-n]]_ ("verb nominaliser").
+*n.* From _[[Möxali dictionary#qiqe|qiqe]]_ ("to arrive") + _[[Möxali dictionary#-ri|-ri]]_ ("inchoative") + _[[Möxali dictionary#-n|-n]]_ ("verb nominaliser").
 > ¹ Blooming; ² The seventh [[Zívon#Bigídne|bigídne]] of the [[zívon]]
 ### qídva
 ɪɴɴᴇʀ [ʔid̪β̞a]; ᴏᴜᴛᴇʀ [iɾva]
 
 *stat.* From [[Low Alöbi]] _[[Low Alöbi dictionary#qütwa|qütwa]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qǖtwa|*qǖtwa]]_, from _[[Proto-Öbic dictionary#\*qǖt|*qǖt]]_ ("empty, hollow") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Empty, hollow
+### qíjen
+ɪɴɴᴇʀ [ʔidʑẽ̞ː]; ᴏᴜᴛᴇʀ [iʑɛ̃ː]
+
+*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#qicem|qicem]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qicem|*qicem]]_, from _[[Proto-Öbic dictionary#\*qic|*qic]]_ ("null, nothing") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Nothing; ² Anything (in a negative clause)
 ### qíji
 ɪɴɴᴇʀ [ʔidʑɪ]; ᴏᴜᴛᴇʀ [iʑe]
 
@@ -2668,11 +2685,8 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [ʔø̞ʔø̞]; ᴏᴜᴛᴇʀ [œʔœ]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#cahew|cahew]]_, from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#hew|hew]]_ ("life").
-> ¹ To live, experience life
+> ¹ To live, exist
 > **Derivatives:** _[[Möxali dictionary#qöyon|qöyon]]_ ("persistence")
-
-*v. root* From [[Xiri]] _[[Xiri dictionary#fa’ew|fa’ew]]_ ("to peel"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#’ew|’ew]]_ ("peeling, shaving").
-> ¹ To peel, skin
 ### qöyon
 ɪɴɴᴇʀ [ʔø̞jõ̞ː]; ᴏᴜᴛᴇʀ [œjɔ̃ː]
 
@@ -2683,9 +2697,6 @@ A dictionary of terms in the [[Möxali]] language.
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#fa’ō|fa’ō]]_, from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#’ō|’ō]]_ ("movement, exchange").
 > ¹ To move; ² To take; ³ To give; ⁴ To carry
-
-*v. root* From [[Xiri]] _[[Xiri dictionary#ca’o|ca’o]]_, from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#’o|’o]]_ ("sneeze").
-> ¹ To sneeze
 ### qúda
 ɪɴɴᴇʀ [ʔud̪a]; ᴏᴜᴛᴇʀ [uɾa]
 
@@ -2713,6 +2724,11 @@ A dictionary of terms in the [[Möxali]] language.
 > ¹ Numeral classifier used to count organised groups of people such as communities and nations
 > **Derivatives:** _[[Möxali dictionary#lavondu|lavondu]]_ ("[[Lavondu]]")
 # s
+### sabi
+ɪɴɴᴇʀ [θabɪ]; ᴏᴜᴛᴇʀ [s̪abe]
+
+*n.* From [[Xiri]] _[[Xiri dictionary#sābi|sābi]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Xiric dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
 ### saja
 ɪɴɴᴇʀ [θadʒa]; ᴏᴜᴛᴇʀ [s̪aʒa]
 
@@ -3098,6 +3114,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *stat.* From [[Xiri]] _[[Xiri dictionary#ūwi|ūwi]]_, from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ūhi|*ūhi]]_. Displaced the similar archaic form *uva*, from _[[Low Alöbi dictionary#owa|owa]]_, with which it was conflated early on.
 > ¹ Big, large; ² Grand
+### úvu
+ɪɴɴᴇʀ [uβʊ]; ᴏᴜᴛᴇʀ [uvo]
+
+*v. root* From [[Xiri]] _[[Xiri dictionary#fuvu|fuvu]]_ ("to lack"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#uvu|uvu]]_ ("lack, want").
+> ¹ To want
 ### úzu
 ɪɴɴᴇʀ [uðʊ]; ᴏᴜᴛᴇʀ [uz̪o]
 

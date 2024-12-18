@@ -347,7 +347,7 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 
 *n.* From _[[Proto-Xiric dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Xiric dictionary#\*leu|*leu]]_ ("clay, mud").
 > ¹ Person, human; ² Soul
-> **Derivatives:** _[[Proto-Xiric dictionary#\*tialu|*tialu]]_ ("three people"), _[[Proto-Xiric dictionary#\*uecalu|*uecalu]]_ ("four people"), _[[Proto-Xiric dictionary#\*ma’āleu|*ma’āleu]]_ ("five people"), _[[Proto-Xiric dictionary#\*iā’ueleu|*iā’ueleu]]_ ("six people"), _[[Proto-Xiric dictionary#\*’akiāleu|*’akiāleu]]_ ("seven people"), _[[Proto-Xiric dictionary#\*pacāleu|*pacāleu]]_ ("eight people"), _[[Proto-Xiric dictionary#\*sikāleu|*sikāleu]]_ ("nine people"), _[[Proto-Xiric dictionary#\*efieleu|*efieleu]]_ ("ten people"), _[[Proto-Xiric dictionary#\*ma’āfieleu|*ma’āfieleu]]_ ("fifty people"), _[[Proto-Xiric dictionary#\*keuwēleu|*keuwēleu]]_ ("a hundred people"), _[[Proto-Xiric dictionary#\*eleuwai’a|*eleuwai’a]]_ ("parent")
+> **Derivatives:** _[[Proto-Xiric dictionary#\*tialu|*tialu]]_ ("three people"), _[[Proto-Xiric dictionary#\*uecalu|*uecalu]]_ ("four people"), _[[Proto-Xiric dictionary#\*ma’āleu|*ma’āleu]]_ ("five people"), _[[Proto-Xiric dictionary#\*iā’ueleu|*iā’ueleu]]_ ("six people"), _[[Proto-Xiric dictionary#\*’akiāleu|*’akiāleu]]_ ("seven people"), _[[Proto-Xiric dictionary#\*pacāleu|*pacāleu]]_ ("eight people"), _[[Proto-Xiric dictionary#\*sikāleu|*sikāleu]]_ ("nine people"), _[[Proto-Xiric dictionary#\*efieleu|*efieleu]]_ ("ten people"), _[[Proto-Xiric dictionary#\*ma’āfieleu|*ma’āfieleu]]_ ("fifty people"), _[[Proto-Xiric dictionary#\*keuwēleu|*keuwēleu]]_ ("a hundred people"), _[[Proto-Xiric dictionary#\*eleuwai’a|*eleuwai’a]]_ ("parent"), _[[Proto-Xiric dictionary#\*nāleu|*nāleu]]_ ("boy")
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ə̆lu|ə̆lu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ălu|ălu]]_; [[Xiri]] _[[Xiri dictionary#eru|eru]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#elu|elu]]_ ("Xiyeru person") → [[Möxali]] _[[Möxali dictionary#ilu|ilu]]_; [[Möxali]] _[[Möxali dictionary#-ru|-ru]]_ ("people classifier")
 ### \*eleuiēkaume
 
@@ -380,7 +380,7 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 *n.* From _[[Proto-Xiric dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Xiric dictionary#\*qi|*qi]]_ ("north") + _[[Proto-Xiric dictionary#\*leu|*leu]]_ ("clay, mud").
 > ¹ Woman
 > **Derivatives:** _[[Proto-Xiric dictionary#\*eqileuwai’a|*eqileuwai’a]]_ ("mother")
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ə̆kĭlu|ə̆kĭlu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ekĭlu|ekĭlu]]_; [[Xiri]] _[[Xiri dictionary#egiru|egiru]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ə̆kĭlu|ə̆kĭlu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ekĭlu|ekĭlu]]_; [[Xiri]] _[[Xiri dictionary#egiru|egiru]]_ → [[Möxali]] _[[Möxali dictionary#egíl|egíl]]_ ("spouse")
 ### \*eqileuwai’a
 
 *n.* From _[[Proto-Xiric dictionary#\*eqileu|*eqileu]]_ ("woman") + _[[Proto-Xiric dictionary#\*wai’a|*wai’a]]_ ("river, wind").
@@ -1115,6 +1115,11 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 *v. aux.*
 > ¹ Past tense auxiliary verb
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#no|no]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#no|no]]_; [[Xiri]] _[[Xiri dictionary#no|no]]_
+### \*nāleu
+
+*n.* From _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Boy, young male
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#nalu|nalu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#nalu|nalu]]_; [[Xiri]] _[[Xiri dictionary#nāru|nāru]]_ → [[Möxali]] _[[Möxali dictionary#naru|naru]]_
 ### \*nāpa
 
 *adj.*
@@ -1339,6 +1344,7 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 
 *adj.*
 > ¹ Small
+> **Derivatives:** _[[Proto-Xiric dictionary#\*sāpi|*sāpi]]_ ("girl")
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#hə̆ə̆|hə̆ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hī|hī]]_; [[Xiri]] _[[Xiri dictionary#sā|sā]]_ → [[Möxali]] _[[Möxali dictionary#saza|saza]]_
 ### \*sai
 
@@ -1397,6 +1403,11 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 *n.*
 > ¹ Shrimp
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#ha’ĭ|ha’ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ha’ĭ|ha’ĭ]]_; [[Xiri]] _[[Xiri dictionary#sā’i|sā’i]]_
+### \*sāpi
+
+*n.* From _[[Proto-Xiric dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#hatĭ|hatĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hatĭ|hatĭ]]_; [[Xiri]] _[[Xiri dictionary#sābi|sābi]]_ → [[Möxali]] _[[Möxali dictionary#sabi|sabi]]_
 ### \*sāu
 
 *adj.*
@@ -1659,7 +1670,7 @@ A dictionary of terms in the [[Proto-Xiric language|Proto-Xiric]] language.
 ### \*ufu
 
 *n.*
-> ¹ Lack, 
+> ¹ Lack, want
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#uwŭ|uwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#uwŭ|uwŭ]]_; [[Xiri]] _[[Xiri dictionary#uvu|uvu]]_
 ### \*uku-
 

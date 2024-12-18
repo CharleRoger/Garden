@@ -240,7 +240,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔaywam|*ʔaywam]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔwam|*ʔwam]]_ ("firmament").
 > ¹ The celestial sphere, the surface on which the stars and celestial bodies lie
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#evon|evon]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#evon|evon]]_ ("the sky")
 # b
 ### babay
 ᴇᴀʀʟʏ [bɑˑbɑj]; ᴍᴀᴛᴜʀᴇ [bɑbɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [babaj]
@@ -948,6 +948,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*eʔal|*eʔal]]_, from _[[Proto-Öbic dictionary#\*eʔ-|*eʔ-]]_ ("indicative intransitive") + _[[Proto-Öbic dictionary#\*al|*al]]_ ("exist").
 > ¹ To exist
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#ile|ile]]_ ("to be in a place")
 ### ean
 ᴇᴀʀʟʏ [eˑɑn]; ᴍᴀᴛᴜʀᴇ [eɑ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ew]
 
@@ -1861,11 +1862,11 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Face; ² Chin
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#konkon|konkon]]_
 ### kömtyag
-ᴇᴀʀʟʏ [kømcɑɴ]; ᴍᴀᴛᴜʀᴇ [kœɲɟɑ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kœɲɟɔ̃ː]
+ᴇᴀʀʟʏ [kømcɑɴ]; ᴍᴀᴛᴜʀᴇ [kœ̃ɲɟɑ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kɔ̃ɲɟɔ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*kümtyag|*kümtyag]]_, from _[[Proto-Öbic dictionary#\*küm|*küm]]_ ("face, front part") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").
 > ¹ Lower jaw
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#könjon|könjon]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#konjon|konjon]]_
 ### kuhamön
 ᴇᴀʀʟʏ [kuˑχɑmøn]; ᴍᴀᴛᴜʀᴇ [kuχɑmœ̃n]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [kuχəmɔ̃ː]
 
@@ -3086,9 +3087,6 @@ A dictionary of terms in the [[Low Alöbi]] language.
 ### olay
 ᴇᴀʀʟʏ [oˑlɑj]; ᴍᴀᴛᴜʀᴇ [olɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [olaj]
 
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wray|*wray]]_, from _[[Proto-Öbic dictionary#\*we-|*we-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
-> ¹ To be absent
-
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*uray|*uray]]_, from _[[Proto-Öbic dictionary#\*u-|*u-]]_ ("causative") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
 > ¹ To put in place
 ### olbal
@@ -3561,6 +3559,17 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qerqer|*qerqer]]_, from _[[Proto-Öbic dictionary#\*qer|*qer]]_ ("close eyes") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
 > ¹ To close the eyes
+### qicem
+ᴇᴀʀʟʏ [ʔiˑtʃəm]; ᴍᴀᴛᴜʀᴇ [ʔidʒə̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔidʒɛ̃ː]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qicem|*qicem]]_, from _[[Proto-Öbic dictionary#\*qic|*qic]]_ ("null, nothing") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Nothing
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#qíjen|qíjen]]_
+### qicö
+ᴇᴀʀʟʏ [ʔiˑtʃø]; ᴍᴀᴛᴜʀᴇ [ʔidʒœ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔidʒœ]
+
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qicü|*qicü]]_, from _[[Proto-Öbic dictionary#\*qic|*qic]]_ ("null, nothing").
+> ¹ Zero
 ### quta
 ᴍᴀᴛᴜʀᴇ [ʔudɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ʔudə]
 
@@ -4027,7 +4036,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 > ¹ Curled up
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#jönda|jönda]]_
 ### tyomtyag
-ᴇᴀʀʟʏ [comcɑɴ]; ᴍᴀᴛᴜʀᴇ [cɔɲɟɑ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [cɔɲɟɔ̃ː]
+ᴇᴀʀʟʏ [comcɑɴ]; ᴍᴀᴛᴜʀᴇ [cɔ̃ɲɟɑ̃ɴ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [cɔ̃ɲɟɔ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*tyumtyag|*tyumtyag]]_, from _[[Proto-Öbic dictionary#\*tyum|*tyum]]_ ("curl up") + _[[Proto-Öbic dictionary#\*tyag|*tyag]]_ ("bone").
 > ¹ Curved horn of certain ungulates
@@ -4544,11 +4553,6 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wayüʔ|*wayüʔ]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*wüʔ|*wüʔ]]_ ("omen, luck").
 > ¹ Luck; ² Fate
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#ve|ve]]_
-### wemay
-ᴇᴀʀʟʏ [weˑmɑj]; ᴍᴀᴛᴜʀᴇ [wemɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wemaj]
-
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wemay|*wemay]]_, from _[[Proto-Öbic dictionary#\*we-|*we-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
-> ¹ To forget
 ### wibiwmü
 ᴇᴀʀʟʏ [wiˑbiwmy]; ᴍᴀᴛᴜʀᴇ [wibɪwmʏ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wibewmʏ]
 
@@ -4602,12 +4606,22 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wik'wa|*wik'wa]]_, from _[[Proto-Öbic dictionary#\*wik'|*wik']]_ ("different, change") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser").
 > ¹ Changed, different
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#víkva|víkva]]_
+### wilay
+ᴇᴀʀʟʏ [wiˑlɑj]; ᴍᴀᴛᴜʀᴇ [wilɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wilaj]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wiray|*wiray]]_, from _[[Proto-Öbic dictionary#\*wi-|*wi-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
+> ¹ To be absent
 ### wilig
 ᴇᴀʀʟʏ [wiˑliŋ]; ᴍᴀᴛᴜʀᴇ [wilɪ̃ŋ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wilɪ̃ː]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wilig|*wilig]]_.
 > ¹ Rod, pole
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#vílin|vílin]]_
+### wimay
+ᴇᴀʀʟʏ [wiˑmɑj]; ᴍᴀᴛᴜʀᴇ [wimɑj]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wimaj]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wimay|*wimay]]_, from _[[Proto-Öbic dictionary#\*wi-|*wi-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
+> ¹ To forget
 ### winet
 ᴇᴀʀʟʏ [wiˑnət]; ᴍᴀᴛᴜʀᴇ [winət]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [winət]
 

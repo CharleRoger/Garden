@@ -297,7 +297,6 @@ A dictionary of terms in the [[Xiri]] language.
 
 *v. intr.* From _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#’o|’o]]_ ("sneeze").
 > ¹ To sneeze
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#quqo|quqo]]_
 ### ca-
 
 *pref.*
@@ -340,7 +339,6 @@ A dictionary of terms in the [[Xiri]] language.
 
 *v. intr.* From _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#he’i|he’i]]_ ("meadow").
 > ¹ To blossom; ² To bloom
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#qiqe|qiqe]]_
 ### cahew
 ᴇᴀʀʟʏ [tʃahew]; ʟᴀᴛᴇ [tʃahɵː]
 
@@ -535,7 +533,7 @@ A dictionary of terms in the [[Xiri]] language.
 ### cuvu
 ᴇᴀʀʟʏ [tʃuvu]; ʟᴀᴛᴇ [tʃuvʊ]
 
-*v. intr.* From _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#uvu|uvu]]_ ("lack, ").
+*v. intr.* From _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#uvu|uvu]]_ ("lack, want").
 > ¹ To be incomplete, lacking something; ² To be insufficient, unsatisfactory
 ### cuzī
 ᴇᴀʀʟʏ [tʃuziː]; ʟᴀᴛᴇ [tʃuzi]
@@ -559,6 +557,7 @@ A dictionary of terms in the [[Xiri]] language.
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*eqileu|*eqileu]]_, from _[[Proto-Xiric dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Xiric dictionary#\*qi|*qi]]_ ("north") + _[[Proto-Xiric dictionary#\*leu|*leu]]_ ("clay, mud").
 > ¹ Woman
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#egíl|egíl]]_ ("spouse")
 ### egiruwe’a
 ᴇᴀʀʟʏ [eŋiɾuweʔa]; ʟᴀᴛᴇ [ɛŋiɾʊweʔə]
 
@@ -671,7 +670,6 @@ A dictionary of terms in the [[Xiri]] language.
 
 *v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#’ew|’ew]]_ ("peeling, shaving").
 > ¹ To peel
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#qöqö|qöqö]]_ ("to peel, skin")
 ### fa’īyo
 ᴇᴀʀʟʏ [faʔiːjo]; ʟᴀᴛᴇ [fəʔijɔ]
 
@@ -1127,8 +1125,9 @@ A dictionary of terms in the [[Xiri]] language.
 ### fuvu
 ᴇᴀʀʟʏ [fuvu]; ʟᴀᴛᴇ [fuvʊ]
 
-*v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#uvu|uvu]]_ ("lack, ").
-> ¹ To lack something
+*v. tr.* From _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#uvu|uvu]]_ ("lack, want").
+> ¹ To lack; ² To need, want
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#úvu|úvu]]_ ("to want")
 ### fūmu
 ᴇᴀʀʟʏ [fuːmu]; ʟᴀᴛᴇ [fumʊ]
 
@@ -1651,6 +1650,12 @@ A dictionary of terms in the [[Xiri]] language.
 
 *n.* From _[[Xiri dictionary#nāba|nāba]]_ ("complete") + _[[Xiri dictionary#wew|wew]]_ ("number").
 > ¹ Square number
+### nāru
+ᴇᴀʀʟʏ [n̪aːɾu]; ʟᴀᴛᴇ [n̪aɾʊ]
+
+*n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*nāleu|*nāleu]]_, from _[[Proto-Xiric dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Boy, young male
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#naru|naru]]_
 ### nēs
 ᴇᴀʀʟʏ [n̪eːs]; ʟᴀᴛᴇ [n̪es]
 
@@ -2186,6 +2191,12 @@ A dictionary of terms in the [[Xiri]] language.
 *adj.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*sahe|*sahe]]_.
 > ¹ Small
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#saza|saza]]_
+### sābi
+ᴇᴀʀʟʏ [saːbi]; ʟᴀᴛᴇ [sabɪ]
+
+*n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Xiric dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#sabi|sabi]]_
 ### se
 [se]
 
@@ -2510,7 +2521,7 @@ A dictionary of terms in the [[Xiri]] language.
 ᴇᴀʀʟʏ [uvu]; ʟᴀᴛᴇ [uvʊ]
 
 *n.* From [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ufu|*ufu]]_.
-> ¹ Lack, 
+> ¹ Lack, want
 > **Derivatives:** _[[Xiri dictionary#cuvu|cuvu]]_ ("to be lacking"), _[[Xiri dictionary#fuvu|fuvu]]_ ("to lack")
 ### uzī
 ᴇᴀʀʟʏ [uziː]; ʟᴀᴛᴇ [uzi]

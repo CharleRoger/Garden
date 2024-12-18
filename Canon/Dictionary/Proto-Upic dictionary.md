@@ -861,6 +861,11 @@ A dictionary of terms in the [[Proto-Upic language|Proto-Upic]] language.
 *root*
 > ¹ Downwards; ² Upside down
 > **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qay-|*qay-]]_, [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qay|*qay]]_
+### \*qic
+
+*root*
+> ¹ Null, nothing
+> **Descendants:** [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qic|*qic]]_
 ### \*qir
 
 *root*

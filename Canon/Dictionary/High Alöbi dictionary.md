@@ -2258,6 +2258,16 @@ A dictionary of terms in the [[High Alöbi]] language.
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qayxil|*qayxil]]_, from _[[Proto-Öbic dictionary#\*qay-|*qay-]]_ ("downwards") + _[[Proto-Öbic dictionary#\*xil|*xil]]_ ("bury").
 > ¹ To bury
+### qicim
+[qɪtɕɪm]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qicem|*qicem]]_, from _[[Proto-Öbic dictionary#\*qic|*qic]]_ ("null, nothing") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
+> ¹ Nothing
+### qicü
+[qɪtɕʏ]
+
+*num.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*qicü|*qicü]]_, from _[[Proto-Öbic dictionary#\*qic|*qic]]_ ("null, nothing").
+> ¹ Zero
 ### qirqir
 [qɪʁqɪʁ]
 
@@ -3656,7 +3666,7 @@ A dictionary of terms in the [[High Alöbi]] language.
 ### wimay
 [wɪmɑj]
 
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wemay|*wemay]]_, from _[[Proto-Öbic dictionary#\*we-|*we-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wimay|*wimay]]_, from _[[Proto-Öbic dictionary#\*wi-|*wi-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*may|*may]]_ ("know, remember").
 > ¹ To forget
 ### winit
 [wɪnɪt]
@@ -3668,6 +3678,11 @@ A dictionary of terms in the [[High Alöbi]] language.
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*winwin|*winwin]]_, from _[[Proto-Öbic dictionary#\*win|*win]]_ ("count, hold value") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("repetitively").
 > ¹ To count
+### wiray
+[wɪʁɑj]
+
+*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wiray|*wiray]]_, from _[[Proto-Öbic dictionary#\*wi-|*wi-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
+> ¹ To be absent
 ### wisa
 [wɪsɑ]
 
@@ -3713,11 +3728,6 @@ A dictionary of terms in the [[High Alöbi]] language.
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wīxa|*wīxa]]_, from _[[Proto-Öbic dictionary#\*wīx|*wīx]]_ ("sacred, shining"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*plīxma|*plīxma]]_ ("shining").
 > ¹ Sacred; ² Relating to light in spiritual or theological contexts
-### wray
-[wʁɑj]
-
-*v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*wray|*wray]]_, from _[[Proto-Öbic dictionary#\*we-|*we-]]_ ("absence of") + _[[Proto-Öbic dictionary#\*ray|*ray]]_ ("be in a place").
-> ¹ To be absent
 ### wuk'i
 [wʊkʼɪ]
 
