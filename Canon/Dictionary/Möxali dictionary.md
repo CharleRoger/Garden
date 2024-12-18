@@ -632,6 +632,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#aigem|aigem]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ayīgem|*ayīgem]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*īg|*īg]]_ ("enter") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Entrance; ² Door
+### eli
+ɪɴɴᴇʀ [e̞l̪ɪ]; ᴏᴜᴛᴇʀ [ɛl̪e]
+
+*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#aül|aül]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔayǖr|*ʔayǖr]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔǖr|*ʔǖr]]_ ("night"). Back-formed from the ergative *elin*.
+> ¹ Nighttime
 ### elib
 ɪɴɴᴇʀ [e̞l̪ɪb]; ᴏᴜᴛᴇʀ [ɛl̪ev]
 
@@ -1977,6 +1982,11 @@ A dictionary of terms in the [[Möxali]] language.
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#mümüb|mümüb]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖpmǖp|*mǖpmǖp]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ A person with the same parents as another (not necessarily genetic siblings)
+### mímun
+ɪɴɴᴇʀ [mimʊ̃ː]; ᴏᴜᴛᴇʀ [mimõː]
+
+*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#mümüm|mümüm]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖmmǖm|*mǖmmǖm]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
+> ¹ Something similar to something else
 ### mísva
 ɪɴɴᴇʀ [miθβ̞a]; ᴏᴜᴛᴇʀ [mis̪va]
 
@@ -2057,11 +2067,6 @@ A dictionary of terms in the [[Möxali]] language.
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#famomo|famomo]]_, from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#momo|momo]]_ ("vessel").
 > ¹ To fill
-### mun
-ɪɴɴᴇʀ [mʊ̃ː]; ᴏᴜᴛᴇʀ [mõː]
-
-*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#müm|müm]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miwum|*miwum]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
-> ¹ Something similar to something else
 ### muro
 ɪɴɴᴇʀ [mʊɾo̞]; ᴏᴜᴛᴇʀ [moɾɔ]
 
@@ -2368,11 +2373,6 @@ A dictionary of terms in the [[Möxali]] language.
 *suff.* From [[Low Alöbi]] _[[Low Alöbi dictionary#-o|-o]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-wu|*-wu]]_.
 > ¹ Numeral classifier used to count hollow objects such as baskets, barrels, bags, houses, caves, and some shells
 > **Derivatives:** _[[Möxali dictionary#sulno|sulno]]_ ("sinking canoe"), _[[Möxali dictionary#köxno|köxno]]_ ("rising canoe")
-### o
-ɪɴɴᴇʀ [o̞]; ᴏᴜᴛᴇʀ [ɔ]
-
-*n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#aül|aül]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔayǖr|*ʔayǖr]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔǖr|*ʔǖr]]_ ("night").
-> ¹ Nighttime
 ### -on
 
 *suff.* From [[Low Alöbi]] _[[Low Alöbi dictionary#-ag|-ag]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-ag|*-ag]]_.
@@ -3137,7 +3137,7 @@ A dictionary of terms in the [[Möxali]] language.
 ### vaja
 ɪɴɴᴇʀ [βadʒa]; ᴏᴜᴛᴇʀ [vaʒa]
 
-*stat.* From [[Low Alöbi]] _[[Low Alöbi dictionary#waca|waca]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*waca|*waca]]_, from _[[Proto-Öbic dictionary#\*wac|*wac]]_ ("special, unique").
+*stat.* From [[Low Alöbi]] _[[Low Alöbi dictionary#waca|waca]]_ ("special"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*waca|*waca]]_, from _[[Proto-Öbic dictionary#\*wac|*wac]]_ ("special, unique").
 > ¹ Special; ² Unique
 ### vajon
 ɪɴɴᴇʀ [βadʒõ̞ː]; ᴏᴜᴛᴇʀ [vaʒɔ̃ː]

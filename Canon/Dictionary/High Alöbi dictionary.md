@@ -1491,11 +1491,6 @@ A dictionary of terms in the [[High Alöbi]] language.
 
 *v.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mitüs|*mitüs]]_, from _[[Proto-Öbic dictionary#\*tüs|*tüs]]_ ("smoke").
 > ¹ To smoke
-### miwum
-[mɪwʊm]
-
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miwum|*miwum]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
-> ¹ Something similar to something else
 ### miwwa
 [mɪwwɑ]
 
@@ -1571,6 +1566,11 @@ A dictionary of terms in the [[High Alöbi]] language.
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖʔem|*mǖʔem]]_, from _[[Proto-Öbic dictionary#\*mǖʔ|*mǖʔ]]_ ("sweet") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Fruit in general
+### mǖmmǖm
+[myːmmyːm]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖmmǖm|*mǖmmǖm]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
+> ¹ Something similar to something else
 ### mǖpmǖp
 [myːpmyːp]
 

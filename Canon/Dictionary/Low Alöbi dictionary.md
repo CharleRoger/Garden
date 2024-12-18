@@ -187,7 +187,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*ʔayǖr|*ʔayǖr]]_, from _[[Proto-Öbic dictionary#\*<ay>|*<ay>]]_ ("circumstance") + _[[Proto-Öbic dictionary#\*ʔǖr|*ʔǖr]]_ ("night").
 > ¹ Nighttime
 > **Derivatives:** _[[Low Alöbi dictionary#aülinklos|aülinklos]]_ ("nighttime sun")
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#o|o]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#eli|eli]]_
 ### aülinklos
 ᴇᴀʀʟʏ [ɑˑylinklos]; ᴍᴀᴛᴜʀᴇ [ɑʏlɪ̃ŋklɔs]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [aʏlɪ̃ŋklɔs]
 
@@ -2729,18 +2729,18 @@ A dictionary of terms in the [[Low Alöbi]] language.
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖʔem|*mǖʔem]]_, from _[[Proto-Öbic dictionary#\*mǖʔ|*mǖʔ]]_ ("sweet") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
 > ¹ Fruit in general
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#mí|mí]]_
-### müm
-ᴇᴀʀʟʏ [mym]; ᴍᴀᴛᴜʀᴇ [mʏ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mʊ̃ː]
-
-*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*miwum|*miwum]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-u|*-u]]_ ("stativiser") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
-> ¹ Something similar to something else
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#mun|mun]]_
 ### mümüb
 ᴇᴀʀʟʏ [myˑmyb]; ᴍᴀᴛᴜʀᴇ [mymʏb]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mymʏb]
 
 *n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖpmǖp|*mǖpmǖp]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("person object nominaliser") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
 > ¹ A person with the same parents as another (not necessarily genetic siblings)
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#mímöb|mímöb]]_
+### mümüm
+ᴇᴀʀʟʏ [myˑmym]; ᴍᴀᴛᴜʀᴇ [mymʏ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mymʊ̃ː]
+
+*n.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*mǖmmǖm|*mǖmmǖm]]_, from _[[Proto-Öbic dictionary#\*miw|*miw]]_ ("similar") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("specifier").
+> ¹ Something similar to something else
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#mímun|mímun]]_
 ### myawa
 ᴇᴀʀʟʏ [mjɑˑwɑ]; ᴍᴀᴛᴜʀᴇ [mjɑwɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [mjawə]
 
@@ -4490,7 +4490,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *stat.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*waca|*waca]]_, from _[[Proto-Öbic dictionary#\*wac|*wac]]_ ("special, unique").
 > ¹ Special; ² Unique
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#vaja|vaja]]_
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#vaja|vaja]]_ ("some particular")
 ### wacam
 ᴇᴀʀʟʏ [wɑˑtʃɑm]; ᴍᴀᴛᴜʀᴇ [wɑdʒɑ̃m]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [wadʒɔ̃ː]
 
