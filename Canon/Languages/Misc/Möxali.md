@@ -258,17 +258,21 @@ Nouns in Möxali exhibit the phenomenon of [[Noun instancing|instancing]], a tr
 - **Instanced** — countable reference to a particular instance of a thing regardless of definiteness, e.g. "a person", "the person", "two people"
 - **Uninstanced** — uncountable reference to a kind or category of thing, e.g. "people" or "humans" in general
 
-Each instancing prefix ends in a vowel which is subject to sandhi with an initial vowel on the stem. Each prefix has a specific allomorph for vowel-initial and consonant-initial stems, shown in the table below.
+Nouns are instanced by the use of a prefix which marks one of three numbers, **singular**, **dual** and **plural**, with the particular choice of prefix dependent on the animacy level of the referent. Each instancing prefix has a distinct pair of forms which depend on whether the host noun begins with a vowel or consonant, contrary to the usual pattern whereby morphemes have a single underlying form which is then subject to the sandhi rules outlined [[Möxali#Vowel sandhi|above]].
 
-| Initial segment | < | - | Vowel | Consonant |
-| ---- | ---- | ---- | ---- | ---- |
-| Singular | Human | - | *y-* | *e-* |
-| ^ | Animate | - | *c-* | *ti-* |
-| ^ | Inanimate | - | *v-* | *yo-* |
-| Plural | Human | - | *ñ-* | *ni-* |
-| ^ | Animate | - | *x-* | *xi-* |
-| ^ | Inanimate | - | *xun-* | *xu-* |
-| Dual | < | - | *k-* | *ke-* |
+| Initial segment | <         | -   | Vowel  | Consonant |
+| --------------- | --------- | --- | ------ | --------- |
+| Singular        | Human     | -   | *y-*   | *e-*      |
+| ^               | Animate   | -   | *c-*   | *ti-*     |
+| ^               | Inanimate | -   | *v-*   | *yo-*     |
+| Dual            | <         | -   | *k-*   | *ke-*     |
+| Plural          | Human     | -   | *ñ-*   | *ni-*     |
+| ^               | Animate   | -   | *x-*   | *xi-*     |
+| ^               | Inanimate | -   | *xun-* | *xu-*     |
+
+For example, the inanimate plural prefix (*xun-*) on the noun stem *ikyat* "statement" yields *xunikyat*, while the singular person prefix on the noun stem *iru* "human" yields *yiru*, using the specific vowel-attaching form *y-*.
+
+The instancing prefixes correspond to roughly the same usage as their equivalents in [[Low Alöbi]], from which the [[Möxali]] forms are derived. The dual number is unique in not distinguishing animacy, and has a slightly extended usage from pairs of animate things to small complete sets of two, three and very occasionally four. For example, the [[zívon]] (64 day month) of the [[Öcídñox|Öcídñox calendar]] is sometimes referred to as *kovíne* in reference to its four *ovíne* "great segments" which are each incomplete and exist only as parts of the whole, hence the use of the dual number. Such situations would use the paucal number in [[Low Alöbi]], which is no longer present in [[Möxali]] and thus this usage was taken up by the dual. The plural number represents any greater number, but unlike in [[Low Alöbi]] can also be used for as little as two referents, so long as those two things aren't considered to form a pair or complete set.
 ### Transitive verbs
 The origin of Möxali's transitive verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
 
