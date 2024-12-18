@@ -166,7 +166,7 @@ Numeral stems do not occur in isolation and must be suffixed with a classifier w
 | *-ö*       | **Cyclic or reciprocal things**: months, years, wheels, transactions                                                 |
 | *-u*       | **Objects with no physical form**: words, thoughts, colours, other non-physical things                               |
 Two of the classifiers were innovated in the first few centuries AGS:
-- *-lu* ~ *-du* — Initially referring to Xiyeru people, derived from *elu* ~ *edu* [ˈelʊ ~ edʊ] "Xiyeru person" ← Xiri *eru* "person".
+- *-lu* ~ *-du* — Groups of people, derived from Xiri *eru* "person".
 - *-ö* — Partially a back-formation from *omö* "major month (50 days)", rebracketed as `five-CLF`.
 
 Numerals do not modify nouns but rather are nouns which can be modified by the thing being counted. The noun being counted is adjectivised by a genitive prefix *a-*, and falls last in the list of adjectives modifying the numeral noun.
@@ -224,16 +224,16 @@ Additional arguments to any verb take the oblique case with prepositions, like a
 
 A full table of true pronouns is shown in the table below.
 
-|  | < | - | Nominative | Accusative | Dative | Oblique |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| First person | Singular | - | *yaten* | *itas* | *inel* | *iniw* |
-| ^ | Dual | - | *katen* | *ketas* | *kenel* | *keniw* |
-| ^ | Paucal | - | *maten* | *matas* | *manel* | *maniw* |
-| ^ | Plural | - | *hwaten* | *hötas* | *hönel* | *höniw* |
-| Second person | Singular | - | *yuso* | *yasu* | *yosol* | *yosiw* |
-| ^ | Dual | - | *kuso* | *kasu* | *kosol* | *kosiw* |
-| ^ | Paucal | - | *mawso* | *masu* | *mawsol* | *mawsiw* |
-| ^ | Plural | - | *huso* | *hasu* | *husol* | *husiw* |
+|               | <        | -   | Nominative | Accusative | Dative   | Oblique  |
+| ------------- | -------- | --- | ---------- | ---------- | -------- | -------- |
+| First person  | Singular | -   | *yaten*    | *itas*     | *inel*   | *iniw*   |
+| ^             | Dual     | -   | *katen*    | *ketas*    | *kenel*  | *keniw*  |
+| ^             | Paucal   | -   | *maten*    | *matas*    | *manel*  | *maniw*  |
+| ^             | Plural   | -   | *hwaten*   | *hötas*    | *hönel*  | *höniw*  |
+| Second person | Singular | -   | *yuso*     | *yasu*     | *yosol*  | *yosiw*  |
+| ^             | Dual     | -   | *kuso*     | *kasu*     | *kosol*  | *kosiw*  |
+| ^             | Paucal   | -   | *mawso*    | *masu*     | *mawsol* | *mawsiw* |
+| ^             | Plural   | -   | *huso*     | *hasu*     | *husol*  | *husiw*  |
 
 Additionally, possessive proclitics are sometimes used to express certain inalienable possessions. These clitics take different forms depending on whether they precede a vowel or a consonant, shown in the table below.
 
@@ -251,18 +251,15 @@ Additionally, possessive proclitics are sometimes used to express certain inalie
 > `2SG.AN=snake.ERG  2.POSS=DU-    leg.ABS  wrap_around`
 > "A snake is wrapping around your legs"
 #### Classifier pronouns
-Alöbi has no true third person pronouns, instead using the dummy numeral _-n-_ described above which takes classifiers and grammatical number prefixes. For example, the table below shows the numeral-type third person "pronouns" commonly used for [[Öb]] and non-[[Öb]] people in the [[Exodus period]]:
+Alöbi has no true third person pronouns, instead using the dummy numeral _-n-_ described above which takes classifiers and grammatical number prefixes. For example, the table below shows the numeral-type third person "pronouns" commonly used for human referents in the [[Exodus period]]:
 
-|  | < | - | Absolutive | Ergative | Oblique |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Öb | Singular | - | *enka* | *enkin* | *enkab* |
-| ^ | Dual | - | *kenka* | *kenkin* | *kenkab* |
-| ^ | Paucal | - | *manka* | *mankin* | *mankab* |
-| ^ | Plural | - | *ninka* | *ninkin* | *ninkab* |
-| Non-Öb | Singular | - | *endu* | *endin* | *endub* |
-| ^ | Dual | - | *kendu* | *kendin* | *kendub* |
-| ^ | Paucal | - | *mandu* | *mandin* | *mandub* |
-| ^ | Plural | - | *nindu* | *nindin* | *nindub* |
+|          | -   | Absolutive | Ergative | Oblique  |
+| -------- | --- | ---------- | -------- | -------- |
+| Singular | -   | *enka*     | *enkin*  | *enkab*  |
+| Dual     | -   | *kenka*    | *kenkin* | *kenkab* |
+| Paucal   | -   | *manka*    | *mankin* | *mankab* |
+| Plural   | -   | *ninka*    | *ninkin* | *ninkab* |
+
 # Vocabulary
 ## Xiri loans
 Low Alöbi loaned many words from [[Xiri]] when the speakers of the two languages began trading around the [[1st century|1st]] or [[2nd century|2nd]] century. Most of the borrowed vocabulary consists of material cultural terminology, some examples of which with the approximate pronunciations c. 400 AGS are shown in the table below.

@@ -278,6 +278,25 @@ Nouns are instanced by the use of a prefix which marks one of three numbers, **s
 For example, the inanimate plural prefix (*xun-*) on the noun stem *ikyat* "statement" yields *xunikyat*, while the singular person prefix on the noun stem *iru* "human" yields *yiru*, using the specific vowel-attaching form *y-*.
 
 The instancing prefixes correspond to roughly the same usage as their equivalents in [[Low Alöbi]], from which the [[Möxali]] forms are derived. The dual number is unique in not distinguishing animacy, and has a slightly extended usage from pairs of animate things to small complete sets of two, three and very occasionally four. For example, the [[zívon]] (64 day month) of the [[Öcídñox|Öcídñox calendar]] is sometimes referred to as *kovíne* in reference to its four *ovíne* "great segments" which are each incomplete and exist only as parts of the whole, hence the use of the dual number. Such situations would use the paucal number in [[Low Alöbi]], which is no longer present in [[Möxali]] and thus this usage was taken up by the dual. The plural number represents any greater number, but unlike in [[Low Alöbi]] can also be used for as little as two referents, so long as those two things aren't considered to form a pair or complete set.
+### Pronouns
+Unlike other nouns, first and second person pronouns follow a nominative-accusative alignment, a feature inherited from [[Low Alöbi]] and one of a few examples of split-ergativity in Möxali.
+
+|               | <        | -   | Nominative | Accusative | Dative |
+| ------------- | -------- | --- | ---------- | ---------- | ------ |
+| First person  | Singular | -   | *yaden*    | *ídas*     | *ínö*  |
+| ^             | Dual     | -   | *kaden*    | *kidas*    | *kinö* |
+| ^             | Plural   | -   | *faden*    | *födas*    | *fönö* |
+| Second person | Singular | -   | *yúso*     | *yasu*     | *yusu* |
+| ^             | Dual     | -   | *kúso*     | *kasu*     | *kusu* |
+| ^             | Plural   | -   | *fúso*     | *hasu*     | *fusu* |
+Third person pronouns are more like true nouns and follow the usual ergative alignment.
+
+|          | -   | Absolutive | Ergative | Dative   |
+| -------- | --- | ---------- | -------- | -------- |
+| Singular | -   | *inka*     | *inkin*  | *inkab*  |
+| Dual     | -   | *kinka*    | *kinkin* | *kinkab* |
+| Plural   | -   | *ninka*    | *ninkin* | *ninkab* |
+Pronouns never take an [[Noun instancing|instancing]] prefix and are considered to be always-instanced.
 ### Verbs
 The origin of Möxali's verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
 
