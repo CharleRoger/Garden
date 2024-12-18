@@ -176,6 +176,11 @@ The close vowels (*í ú*) are considered equivalent to the mid-close vowels (*i
 - If a merged vowel *i* or *u* lands in a stressed syllable, which it most often does, the resulting quality will be *í* or *ú* respectively.
 - *í* and *ú* are not considered higher than *i* and *u*, thus |í-i| does not yield *íye*, but *í*. Note that *i*, and by extension *í*, are both considered higher than *e*, so |i-e| yields *iye*.
 
+Nasalised vowels function identically to their non-nasal counterparts in sandhi processes, and if they appear as the first vowel in the pair, the nasalisation is deleted. This can be seen commonly in noun inflection:
+- |amon| *amon* (house-ABS)
+- |amo(n)-in| *amin* (house-ERG)
+- |amo(n)-[a]b| *amovab* (house-DAT)
+
 In Outer Möxali (OM) dialects, the lack of a glottal stop at the phonemic level can obscure the predictable behaviour of the vowel sandhi. Words which historically began with the glottal stop *q*, which is retained in Inner Möxali (IM), do not undergo vowel sandhi despite being apparently vowel-initial. These can be analysed as having an underlying glottal stop, which technically need not exist at the phonemic level despite sometimes manifesting at the phonetic level. Compare the following examples:
 - |'añon| *añon* (lid, cf. IM *qañon*) → |xu-'añon| *xu'añon* (ᴘʟ-lid), underlying glottal stop blocks interaction between vowel qualities
 - |onxub| *onxub* (adze, cf. IM *onxub*) → |xu-onxub| *xvonxub* (ᴘʟ-adze), sandhi interaction present
@@ -222,9 +227,9 @@ Another common feature of Outer Möxali is the rhotacism of *d* to [ɾ~r] when f
 
 Written language used conservative spelling in formal and culturally important texts, perhaps due to the cultural influence of Inner Möxali or just a continuation of older tradition, while more everyday writing frequently featured unique spellings which more accurately represented dialectal forms. The letters ⟨QA QE⟩ were dropped completely in written Outer Möxali, reflecting the loss of the phonemic glottal stop *q*. The glottal stop [ʔ] still occurs at the phonetic level as epenthesis between two adjacent vowels, blocking sandhi in some circumstances. This can be analysed as an underlying glottal stop, but it is not necessary to consider it a separate consonant, which is likely why the Q-letters fell out of use in favour of the null-onset vowels. Despite lack of representation in the native script, the phonetic glottal stop in Outer Möxali is romanised as ⟨'⟩ within words for clarity of reading.
 # Grammar
-Möxali is an agglutinative language, in which words are formed by attaching several classes of affixes to disyllabic word stems. Transitive verbs, statives and numerals have their stems derived from monosyllabic roots with some classificatory suffix attached, while noun stems are disyllabic morphemes which cannot be broken down.
+Möxali is an agglutinative language, in which words are formed by attaching several classes of affixes to usually disyllabic word stems. Many transitive verbs, statives and numerals have their stems derived from monosyllabic roots with some classificatory suffix attached, while most noun stems are disyllabic morphemes which cannot be broken down.
 
-Transitive verbs take inflectional affixes for mood, voice and aspect but are not inflected for person, number or tense. Tense is generally denoted by temporal adjuncts or understood from context. The person of the subject may optionally be marked with a prefix to refer back to a previously established subject, but this is not strictly part of the verb's inflection.
+Transitive verbs carry a lexical aspect and take inflectional affixes for mood and voice, but are not inflected for person, number or tense. Tense is generally denoted by temporal adjuncts such as *elíjaqa* "at night" or understood from context. The person of the subject may optionally be marked with a prefix to refer back to a previously established subject, but this is not strictly part of the verb's inflection.
 
 Möxali's morphosyntactic alignment has characteristics of ergativity and its transitive verbs use a system of symmetrical voice to mark the syntactic role of the subject of the verb. Nouns are marked for absolutive, ergative and accusative case and have additional optional number marking.
 ## Content words
@@ -273,8 +278,8 @@ Nouns are instanced by the use of a prefix which marks one of three numbers, **s
 For example, the inanimate plural prefix (*xun-*) on the noun stem *ikyat* "statement" yields *xunikyat*, while the singular person prefix on the noun stem *iru* "human" yields *yiru*, using the specific vowel-attaching form *y-*.
 
 The instancing prefixes correspond to roughly the same usage as their equivalents in [[Low Alöbi]], from which the [[Möxali]] forms are derived. The dual number is unique in not distinguishing animacy, and has a slightly extended usage from pairs of animate things to small complete sets of two, three and very occasionally four. For example, the [[zívon]] (64 day month) of the [[Öcídñox|Öcídñox calendar]] is sometimes referred to as *kovíne* in reference to its four *ovíne* "great segments" which are each incomplete and exist only as parts of the whole, hence the use of the dual number. Such situations would use the paucal number in [[Low Alöbi]], which is no longer present in [[Möxali]] and thus this usage was taken up by the dual. The plural number represents any greater number, but unlike in [[Low Alöbi]] can also be used for as little as two referents, so long as those two things aren't considered to form a pair or complete set.
-### Transitive verbs
-The origin of Möxali's transitive verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
+### Verbs
+The origin of Möxali's verb morphology is an unusual mixture of [[Low Alöbi|Alöbi]]-style agglutination and [[Xiri]] morphemes and syntax. A verb stem consists of a root with a suffix marking aspect. A verb stem then additionally takes obligatory prefixes for mood and voice optional other prefixes. The verb template is shown below, with the optional slots in brackets.
 
 | Optional prefixes | <                    | Obligatory prefixes | Stem | <      | Optional suffixes |
 | ----------------- | -------------------- | ------------------- | ---- | ------ | ----------------- |
@@ -289,8 +294,8 @@ The first person prefix appears as *ñ-* on vowel-initial stems and *ña-* on co
 
 The syncretism of the first and third person on vowel-initial stems rarely leads to ambiguity, as the subject prefix is used only to refer back to a recently established subject of another verb. Consider the following example:
 > Mu-faden den-ínen nötíquq i ax-ñuri
-> `mu- faden    den-     ína   -in   nötö-∅-qu   -q[a]  i     ax-  ñ[a]-u  -ri`
-> `VIS-1PL.ABS  1SG.POSS-parent-ERG  meat-PV-bring-PFV  CONJ  PERM-1-   eat-INCH`
+> `mu- faden    den-     ína   -in   nötö-∅ -qu   -q[a]  i     ax-  ñ[a]-u  -ri  `
+> `VIS-1PL.ABS  1SG.POSS-parent-ERG  meat-PV-bring-PFV   CONJ  PERM-1-   eat-INCH`
 > "We were brought meat by my parent, and so we could start eating (like animals)"
 
 The subject prefix *ñ-* on *ñuri* is understood by context to refer to the first person *faden* established as the core argument in the previous phrase rather than a third person reference to the ergative noun *den-ínen*.
@@ -301,9 +306,9 @@ The subject prefix slot is also used to form the imperative with the prefix *i-*
 > `firewood-ABS  IMP-PV-gather_up~PROG`
 > "Get to gathering up some firewood!"
 #### Stem and aspect
-The transitive verb stem is usually disyllabic, either a single morpheme with a fixed lexical aspect or derived from a monosyllabic root by addition of a monosyllabic suffix marking the aspect. The formation of a verb stem is closer to derivation than regular inflection, with particular verb stem formations often carrying nuanced meanings, and the polymorphemic verb stems, never roots, appearing in compounds.
-
-There are nine verb aspects, each with a suffix for deriving new verb stems from roots, show in the table below.
+The transitive verb stem is usually disyllabic and carries an intrinsic aspect. Some verb stems consist of a single morpheme with a fixed lexical aspect, while others are formed from a monosyllabic root and a monosyllabic suffix marking the aspect. Verb stems formed in this way are themselves somewhat lexicalised, with particular verb stem formations often carrying nuanced meanings, so this can be considered closer to derivation than inflection. Accordingly, the polymorphemic verb stems, never roots, are found in compounds.
+##### Root-suffix formations
+There are nine aspects which can be carried by the verb stem, each with a suffix for deriving new stems from roots, shown in the table below.
 
 | Aspect       | -   | Suffix    | Description                                                                  |
 | ------------ | --- | --------- | ---------------------------------------------------------------------------- |
@@ -316,12 +321,10 @@ There are nine verb aspects, each with a suffix for deriving new verb stems from
 | Resumptive   | -   | \|-ño\|   | Resumed action or success after failed attempts                              |
 | Defective    | -   | \|-be\|   | Temporarily paused action, action prevented from continuing or failed action |
 | Iterative    | -   | \|-to\|   | Single instance of a repetitious action                                      |
-The progressive is formed by a reduplication of the root vowel, which is modified according to the same phonological lowering process seen in [[Möxali#Inversion|inversion]], in which close vowels are changed to their more open counterpart (u ú i í → o u e i).
+The progressive stem serves as the citation form of a verb root, e.g. *[[Möxali dictionary#ava|ava]]* representing the verb root *av-* "fly, glide". It is formed by a reduplication of the root vowel, which is modified according to the same phonological lowering process seen in [[Möxali#Inversion|inversion]], in which close vowels are changed to their more open counterpart (u ú i í → o u e i).
 - |yad~V| → *yada* (show-ᴘʀᴏɢ)
 - |min~V| → *mine* (cultivate-ᴘʀᴏɢ)
 - |qúr~V| → *qúru* (sharpen-ᴘʀᴏɢ)
-
-The progressive stem serves as the citation form of a verb root, e.g. *[[Möxali dictionary#eqe|eqe]]* representing the verb root *e-* "do, make, put in place".
 
 If the verb root ends in a vowel, a glottal stop is inserted before the reduplicated vowel
 - |qo~V| → *qoqo* (carry-ᴘʀᴏɢ)
@@ -332,7 +335,9 @@ The perfective suffix *-qa* has an allomorph *-q* following a vowel as described
 - |dus~q[a]| → *dusqa* or *dus* (hunt-ᴘꜰᴠ)
 - |dúz~q[a]| → *dúsqa* or *dús* (carve-ᴘꜰᴠ)
 - |míb~q[a]| → *mípqa* or *míp* (wrap-ᴘꜰᴠ)
-
+##### Other aspects
+A habitual aspect can be formed using the auxiliary verb *eq*, the perfective form of *[[Möxali dictionary#eqe|eqe]]* "do", with the main verb appearing as a bare stem.
+- *janak af eq* (bird fly-PFV do-PFV) "birds fly"
 #### Polarity
 A final polarity suffix may be used to mark a verb as negative or emphatic.
 - |-s[a]| — Negative
@@ -352,7 +357,7 @@ Compare the following other derivations, showing semantic abstraction from the o
 - *xiya-líji* — transitive stem: to fairly share between people (lit. "fair-divide", a stative-transitive compound)
 - *lictu-d-n-e* — noun stem: a particular short unit of time (lit. "divide.ɪᴛᴇʀ-ꜱᴛᴀᴛ-n-ᴄʟꜰ", a numeral classifier construction using the dummy root *-n-* and the classifier *-e* for segmented things, i.e. "segment which has been iteratively divided")
 
-There are various extensions and variations of these suffixes. One common derivation is *-jaqe* which forms a phrasal adverb from a noun describing the circumstances or context, usually appearing at the beginning of a phrase.
+There are various extensions and variations of these suffixes. One common derivation is *-jaqa* which forms a phrasal adverb from a noun describing the circumstances or context, usually appearing at the beginning of a phrase.
 ### Adjuncts
 Adjuncts are not an intrinsic lexical class, but a form of statives which are a distinct part of speech in their own right. Adjuncts are marked by the suffix *-a* on a stative stem.
 ## Function words
@@ -384,4 +389,4 @@ All prepositions in Möxali are monosyllabic and always unstressed, appearing at
 A small set of conjunctions is used to link clauses or begin statements:
 - *i* — basic positive conjunction meaning "and, thus, so, then"
 - *fi* — basic negative conjunction meaning "but, however, regardless"
-- *dúbi* — 
+- *yo* — temporal conjunction meaning "when, then, at that time"
