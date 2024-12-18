@@ -324,6 +324,14 @@ The subject prefix slot is also used to form the imperative with the prefix *i-*
 > `ösen    -∅    í-    -böb      ~ö   `
 > `firewood-ABS  IMP-PV-gather_up~PROG`
 > "Get to gathering up some firewood!"
+#### Voice
+Möxali has three verb voices, marked with a prefix:
+- |∅-| — Mediopassive
+	- Takes a subject in the absolutive case and an optional agent in the ergative case.
+- |f[a]-| — Active
+	- Takes a subject in the absolutive case and an optional object in the dative case.
+- |c[a]-| — Antipassive
+	- Takes a single argument in the absolutive case and can have a reflexive sense.
 #### Stem and aspect
 The transitive verb stem is usually disyllabic and carries an intrinsic aspect. Some verb stems consist of a single morpheme with a fixed lexical aspect, while others are formed from a monosyllabic root and a monosyllabic suffix marking the aspect. Verb stems formed in this way are themselves somewhat lexicalised, with particular verb stem formations often carrying nuanced meanings, so this can be considered closer to derivation than inflection. Accordingly, the polymorphemic verb stems, never roots, are found in compounds.
 ##### Root-suffix formations
@@ -368,8 +376,10 @@ A negated verb requires its subject to also be negated with the cliticising part
 > `EVID-NEG -1SG.NOM  AN.SG-crab  AV-  see~PROG-NEG `
 > "I don't see the crab"
 ### Copula
-The basic copula which equates one noun with another is formed with a suffix on a noun *-j[a]*, appearing like a verb at the end of a phrase:
+The basic copula which equates one noun with another is formed with a suffix on a noun |-j[a]|, which can be devoiced to *-ca* or reduced to a single consonant *-j* or *-c*. A copulaic noun appears like a verb at the end of a phrase:
 - *sajin klíbja* `gibbon monkey-COP` "gibbons are monkeys"
+- *yaden jíjöj* `1SG.NOM child-COP` "I'm a child"
+- *ajasca!* `snake-COP` "it's a snake!"
 
 Despite not being a true verb, the copula can be negated with a combination of the noun proclitic *sa-* and the verb suffix *-z*:
 - *nijvi sa-lubícaz* `necwi NEG-flightless.bird-NEG` "[[necwi]] are not birds"
@@ -397,7 +407,7 @@ Compare the following other derivations, showing semantic abstraction from the o
 
 There are various extensions and variations of these suffixes. One common derivation is *-jaqa* which forms a phrasal adverb from a noun describing the circumstances or context, usually appearing at the beginning of a phrase.
 ### Adjuncts
-Adjuncts are not an intrinsic lexical class, but a form of statives which are a distinct part of speech in their own right. Adjuncts are marked by the suffix *-a* on a stative stem.
+Adjuncts are not an intrinsic lexical class, but a form of statives which are a distinct part of speech in their own right. Adjuncts are marked by the suffix *-a* on a stative stem and can act as an adjective or an adverb.
 ## Function words
 #### Modal clitics
 Möxali inherited many of [[Xiri|Xiri's]] evidential particles, but also adopted [[Low Alöbi|Alöbi's]] strict verb-final structure in main clauses. This forced the evidentials in front of the verb, occupying the same position as the [[Xiri]] modal particle which was rarely used in conjunction with an evidential. The result is the merging of the evidentials and four of the [[Xiri]] irrealis moods (subjunctive, permissive, conditional, interrogative) into a single paradigm. 
