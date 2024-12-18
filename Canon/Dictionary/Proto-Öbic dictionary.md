@@ -16,7 +16,7 @@ A dictionary of terms in the [[Proto-Öbic language|Proto-Öbic]] language.
 
 *suff.*
 > ¹ Adjunct
-> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#-a|-a]]_ → [[Möxali]] _[[Möxali dictionary#-a|-a]]_ ("adjective")
+> **Descendants:** [[Low Alöbi]] _[[Low Alöbi dictionary#-a|-a]]_ → [[Möxali]] _[[Möxali dictionary#-a|-a]]_
 ### \*acas
 
 *n.*
@@ -4310,7 +4310,7 @@ A dictionary of terms in the [[Proto-Öbic language|Proto-Öbic]] language.
 ### \*tyǖm
 
 *root* From [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*tyaw|*tyaw]]_ ("bladder, pouch"), Perhaps related to [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*taw|*taw]]_ ("carry").
-> ¹ Bladder; ² Pouch, pocket
+> ¹ Pouch, pocket
 > **Derivatives:** _[[Proto-Öbic dictionary#\*tīwyǖm|*tīwyǖm]]_ ("bladder"), _[[Proto-Öbic dictionary#\*atyǖm|*atyǖm]]_ ("pouch, pocket")
 # t'
 ### \*t'ag
@@ -6140,7 +6140,7 @@ A dictionary of terms in the [[Proto-Öbic language|Proto-Öbic]] language.
 ### \*ʔal-
 
 *pref.* From [[Proto-Upic language|Proto-Upic]] _[[Proto-Upic dictionary#\*ʔal|*ʔal]]_ ("outside").
-> ¹ Outside
+> ¹ Outside, outer
 > **Derivatives:** _[[Proto-Öbic dictionary#\*ʔalt'aq'|*ʔalt'aq']]_ ("shell of an animal"), _[[Proto-Öbic dictionary#\*ʔalīg|*ʔalīg]]_ ("to exit")
 ### \*ʔal
 

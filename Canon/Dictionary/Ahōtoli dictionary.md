@@ -958,7 +958,7 @@ A dictionary of terms in the [[Ahōtoli]] language.
 [ɮiːɮɔːː]
 
 *n.* From [[Möxali]] _[[Möxali dictionary#lílo|lílo]]_ ("cloth, sail"), from [[Low Alöbi]] _[[Low Alöbi dictionary#lilaw|lilaw]]_ ("linen cloth"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*rilaw|*rilaw]]_, from _[[Proto-Öbic dictionary#\*<il>|*<il>]]_ ("result or product") + _[[Proto-Öbic dictionary#\*raw|*raw]]_ ("sew, weave").
-> ¹ Cloth; ² Sail of a ship
+> ¹ Sail of a ship
 > **Derivatives:** _[[Ahōtoli dictionary#hewŭlilō|hewŭlilō]]_ ("threesail ship")
 ### lită
 [ɮiːta]

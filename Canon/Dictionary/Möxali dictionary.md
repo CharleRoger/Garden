@@ -10,7 +10,7 @@ A dictionary of terms in the [[Möxali]] language.
 # a
 ### -a
 
-*suff.* From [[Low Alöbi]] _[[Low Alöbi dictionary#-a|-a]]_ ("adjunct"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-a|*-a]]_.
+*suff.* From [[Low Alöbi]] _[[Low Alöbi dictionary#-a|-a]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-a|*-a]]_.
 > ¹ Adjunct
 ### abda
 ɪɴɴᴇʀ [abd̪a]; ᴏᴜᴛᴇʀ [avd̪a]
@@ -31,7 +31,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [adʑe̞l̪]; ᴏᴜᴛᴇʀ [aʑɛl̪]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#ājere|ājere]]_ ("flushed"), from _[[Xiri dictionary#ā-|ā-]]_ ("augmentative") + _[[Xiri dictionary#cere|cere]]_ ("blood").
-> ¹ Flushed; ² Blushing; ³ A name for the [[Öb]]
+> ¹ A nickname for Öb
 ### ajok
 ɪɴɴᴇʀ [adʒo̞k]; ᴏᴜᴛᴇʀ [aʒɔx]
 
@@ -127,7 +127,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [biŋʲɪ]; ᴏᴜᴛᴇʀ [biŋʲe]
 
 *v. root* From [[Low Alöbi]] _[[Low Alöbi dictionary#bigi|bigi]]_ ("to carry, bear"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pigi|*pigi]]_, from _[[Proto-Öbic dictionary#\*gi|*gi]]_ ("shoulder").
-> ¹ To carry; ² To bear the weight of
+> ¹ To bear
 > **Derivatives:** _[[Möxali dictionary#bigídne|bigídne]]_ ("4-day lunar phase")
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#bügi|bügi]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pǖgi|*pǖgi]]_.
@@ -293,7 +293,7 @@ A dictionary of terms in the [[Möxali]] language.
 ### c(a)-
 
 *pref.* From [[Xiri]] _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix").
-> ¹ Verb prefix
+> ¹ Antipassive voice
 ### cabat
 ɪɴɴᴇʀ [tʃabat̪]; ᴏᴜᴛᴇʀ [tʃabas̪]
 
@@ -387,7 +387,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [d̪an̪a]; ᴏᴜᴛᴇʀ [d̪an̪a]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#fadana|fadana]]_ ("to lead"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#tana|tana]]_ ("front, head").
-> ¹ To lead
+> ¹ To lead, guide
 ### danon
 ɪɴɴᴇʀ [d̪an̪õ̞ː]; ᴏᴜᴛᴇʀ [d̪an̪ɔ̃ː]
 
@@ -466,7 +466,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [d̪ᶻiʑd̪a]; ᴏᴜᴛᴇʀ [d̪iʑd̪a]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#farižida|farižida]]_ ("division, group of people"), from _[[Xiri dictionary#fariži|fariži]]_ ("to divide") + _[[Xiri dictionary#-ta|-ta]]_ ("adjectiviser").
-> ¹ Division, group of people
+> ¹ Tribe, group of people
 ### díji
 ɪɴɴᴇʀ [d̪ᶻidʑɪ]; ᴏᴜᴛᴇʀ [d̪iʑe]
 
@@ -599,7 +599,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [d̪ʊθo̞]; ᴏᴜᴛᴇʀ [d̪os̪ɔ]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#fados|fados]]_ ("to hunt"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#tos|tos]]_ ("hunt, prey").
-> ¹ To hunt
+> ¹ To hunt, stalk
 ### dúzu
 ɪɴɴᴇʀ [d̪uðʊ]; ᴏᴜᴛᴇʀ [d̪uz̪o]
 
@@ -660,7 +660,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [e̞ʔe̞]; ᴏᴜᴛᴇʀ [ɛʔɛ]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#fāē|fāē]]_ ("to do, make, put in place"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#āē|āē]]_ ("act, work, result").
-> ¹ To do, make, put in place
+> ¹ To do
 ### evon
 ɪɴɴᴇʀ [e̞βõ̞ː]; ᴏᴜᴛᴇʀ [ɛvɔ̃ː]
 
@@ -678,7 +678,7 @@ A dictionary of terms in the [[Möxali]] language.
 ### f(a)-
 
 *pref.* From [[Xiri]] _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix").
-> ¹ Verb prefix
+> ¹ Active voice
 ### fíma
 ɪɴɴᴇʀ [ɸima]; ᴏᴜᴛᴇʀ [fima]
 
@@ -848,7 +848,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [ɪŋʲe̞]; ᴏᴜᴛᴇʀ [eŋʲɛ]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#cēga|cēga]]_ ("to leave"), from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#ēga|ēga]]_ ("departure, end").
-> ¹ To leave; ² To go
+> ¹ To depart
 > **Derivatives:** _[[Möxali dictionary#igen|igen]]_ ("departure")
 ### igen
 ɪɴɴᴇʀ [ɪŋʲẽ̞ː]; ᴏᴜᴛᴇʀ [eŋʲɛ̃ː]
@@ -908,7 +908,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [ɪ̃mpɪ]; ᴏᴜᴛᴇʀ [ẽmpe]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#inpi|inpi]]_ ("second (ordinal)"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*inepi|*inepi]]_, from _[[Proto-Xiric dictionary#\*ine|*ine]]_ ("two") + _[[Proto-Xiric dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
-> ¹ Second (ordinal)
+> ¹ Second day
 ### intib
 ɪɴɴᴇʀ [ɪ̃n̪t̪ˢɪb]; ᴏᴜᴛᴇʀ [ẽn̪t̪ev]
 
@@ -1108,7 +1108,7 @@ A dictionary of terms in the [[Möxali]] language.
 ### -j(a)
 
 *suff.* From [[Xiri]] _[[Xiri dictionary#ca|ca]]_ ("to be"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ca|*ca]]_.
-> ¹ To be
+> ¹ Copula
 ### jakí
 ɪɴɴᴇʀ [dʒakʲi]; ᴏᴜᴛᴇʀ [ʒakʲi]
 
@@ -1244,7 +1244,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [dʑin̪ɪ]; ᴏᴜᴛᴇʀ [ʑin̪e]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#cažīne|cažīne]]_ ("to pause, stay still"), from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#xīne|xīne]]_ ("to pause, hold in place").
-> ¹ To pause, stay still
+> ¹ To pause, hold in place
 ### jíqi
 ɪɴɴᴇʀ [dʑiʔɪ]; ᴏᴜᴛᴇʀ [ʑiʔe]
 
@@ -2071,7 +2071,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [mʊɾo̞]; ᴏᴜᴛᴇʀ [moɾɔ]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#camoro|camoro]]_ ("to increase, grow"), from _[[Xiri dictionary#ca-|ca-]]_ ("verb prefix") + _[[Xiri dictionary#moro|moro]]_ ("growth").
-> ¹ To increase, grow
+> ¹ To increase
 ### múqa
 [muʔa]
 
@@ -2081,12 +2081,12 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [muβa]; ᴏᴜᴛᴇʀ [muva]
 
 *stat.* From [[Xiri]] _[[Xiri dictionary#mu’u|mu’u]]_ ("big"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*mu’u|*mu’u]]_.
-> ¹ Big, large; ² Grand; ³ Intimidating, scary
+> ¹ Big, scary
 # n
 ### -n
 
 *suff.* From [[Low Alöbi]] _[[Low Alöbi dictionary#-em|-em]]_ ("inanimate object nominaliser"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-em|*-em]]_.
-> ¹ Inanimate object nominaliser
+> ¹ Verb nominaliser
 > **Derivatives:** _[[Möxali dictionary#yubñon|yubñon]]_ ("reascension"), _[[Möxali dictionary#uron|uron]]_ ("weaving"), _[[Möxali dictionary#úben|úben]]_ ("lacquering"), _[[Möxali dictionary#nanan|nanan]]_ ("feasting"), _[[Möxali dictionary#qirin|qirin]]_ ("blooming"), _[[Möxali dictionary#qöyon|qöyon]]_ ("persistence"), _[[Möxali dictionary#jiren|jiren]]_ ("draining"), _[[Möxali dictionary#dúzun|dúzun]]_ ("carving"), _[[Möxali dictionary#vacton|vacton]]_ ("planting"), _[[Möxali dictionary#kíjin|kíjin]]_ ("sharpening"), _[[Möxali dictionary#sumen|sumen]]_ ("unravelling"), _[[Möxali dictionary#yuben|yuben]]_ ("abdication"), _[[Möxali dictionary#igen|igen]]_ ("departure")
 ### -na
 
@@ -2109,7 +2109,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [n̪an̪a]; ᴏᴜᴛᴇʀ [n̪an̪a]
 
 *v. root* From [[Low Alöbi]] _[[Low Alöbi dictionary#naqnaq|naqnaq]]_ ("to feast"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*naqnaq|*naqnaq]]_, from _[[Proto-Öbic dictionary#\*naq|*naq]]_ ("eat") + _[[Proto-Öbic dictionary#\*~|*~]]_ ("directionless intransitive").
-> ¹ To feast
+> ¹ To eat
 > **Derivatives:** _[[Möxali dictionary#nanan|nanan]]_ ("feasting")
 ### nanan
 ɪɴɴᴇʀ [n̪an̪ãː]; ᴏᴜᴛᴇʀ [n̪an̪ãː]
@@ -2208,7 +2208,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [n̪iɸmø̞]; ᴏᴜᴛᴇʀ [n̪ifmœ]
 
 *num.* From [[Low Alöbi]] _[[Low Alöbi dictionary#nühomö|nühomö]]_ ("fifteen"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*nǖhumyü|*nǖhumyü]]_, from _[[Proto-Öbic dictionary#\*nǖhü|*nǖhü]]_ ("three") + _[[Proto-Öbic dictionary#\*umü|*umü]]_ ("five") + _[[Proto-Öbic dictionary#\*-i|*-i]]_ ("relational linker").
-> ¹ Fifteen
+> ¹ Fourteen
 ### nífö
 ɪɴɴᴇʀ [n̪iɸø̞]; ᴏᴜᴛᴇʀ [n̪ifœ]
 
@@ -2352,7 +2352,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [ɲo̞mø̞]; ᴏᴜᴛᴇʀ [ɲɔmœ]
 
 *num.* From [[Low Alöbi]] _[[Low Alöbi dictionary#myawmö|myawmö]]_ ("twenty five (five squared)"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*myawmü|*myawmü]]_, from _[[Proto-Öbic dictionary#\*umü|*umü]]_ ("five"). Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*maq|*maq]]_ ("repeat").
-> ¹ Twenty five (five squared)
+> ¹ Twenty five
 > **Derivatives:** _[[Möxali dictionary#ísñomö|ísñomö]]_ ("thirty five")
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#myawmö|myawmö]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*myawmmü|*myawmmü]]_, from _[[Proto-Öbic dictionary#\*myawmü|*myawmü]]_ ("twenty five (five squared)") + _[[Proto-Öbic dictionary#\*mü|*mü]]_ ("cycle").
@@ -2416,7 +2416,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [o̞ðbɪ]; ᴏᴜᴛᴇʀ [ɔz̪be]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#ozubi|ozubi]]_ ("fourth (ordinal)"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*ausupi|*ausupi]]_, from _[[Proto-Xiric dictionary#\*ausu|*ausu]]_ ("four") + _[[Proto-Xiric dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
-> ¹ Fourth (ordinal)
+> ¹ Fourth day
 # ö
 ### -ö
 
@@ -2672,7 +2672,7 @@ A dictionary of terms in the [[Möxali]] language.
 > **Derivatives:** _[[Möxali dictionary#qöyon|qöyon]]_ ("persistence")
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#fa’ew|fa’ew]]_ ("to peel"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#’ew|’ew]]_ ("peeling, shaving").
-> ¹ To peel
+> ¹ To peel, skin
 ### qöyon
 ɪɴɴᴇʀ [ʔø̞jõ̞ː]; ᴏᴜᴛᴇʀ [œjɔ̃ː]
 
@@ -2695,7 +2695,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [ʔuŋʲø̞]; ᴏᴜᴛᴇʀ [uŋʲœ]
 
 *num.* From [[Xiri]] _[[Xiri dictionary#’ugew|’ugew]]_ ("one hundred"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*’eukeuwe|*’eukeuwe]]_, from _[[Proto-Xiric dictionary#\*’eu|*’eu]]_ ("one") + _[[Proto-Xiric dictionary#\*keuwe|*keuwe]]_ ("hundred").
-> ¹ Alternate form of _[[Xiri dictionary#kew|kew]]_
+> ¹ 100
 ### qúva
 ɪɴɴᴇʀ [ʔuβa]; ᴏᴜᴛᴇʀ [uva]
 
@@ -2772,7 +2772,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [s̪ɪpø̞]; ᴏᴜᴛᴇʀ [s̪epœ]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#sepwi|sepwi]]_ ("third (ordinal)"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*sewepi|*sewepi]]_, from _[[Proto-Xiric dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Xiric dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
-> ¹ Third (ordinal)
+> ¹ Third day
 ### síbin
 ɪɴɴᴇʀ [s̪ibɪ̃ː]; ᴏᴜᴛᴇʀ [s̪ibẽː]
 
@@ -2853,7 +2853,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [θvɪɾʊ]; ᴏᴜᴛᴇʀ [s̪veɾo]
 
 *v.* From [[Xiri]] _[[Xiri dictionary#saverō|saverō]]_ ("to uncover"), from _[[Xiri dictionary#sa|sa]]_ ("general negativising adverb") + _[[Xiri dictionary#ferō|ferō]]_ ("to hide").
-> ¹ To uncover; ² To expose; ³ To reveal
+> ¹ Find, reveal
 # t
 ### taba
 ɪɴɴᴇʀ [t̪aba]; ᴏᴜᴛᴇʀ [t̪aba]
@@ -2879,7 +2879,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [t̪aɾo̞βa]; ᴏᴜᴛᴇʀ [t̪aɾɔva]
 
 *stat.* From [[Xiri]] _[[Xiri dictionary#taro|taro]]_ ("old, ancient"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*talau|*talau]]_.
-> ¹ Old, ancient
+> ¹ Old
 ### teken
 ɪɴɴᴇʀ [t̪ˢe̞kʲẽ̞ː]; ᴏᴜᴛᴇʀ [t̪ɛkʲɛ̃ː]
 
@@ -2939,7 +2939,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [t̪õ̞n̪d̪ᶻe̞]; ᴏᴜᴛᴇʀ [t̪ɔ̃n̪d̪ɛ]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#tanure|tanure]]_ ("first (ordinal)"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*taneulai|*taneulai]]_, from _[[Proto-Xiric dictionary#\*tane|*tane]]_ ("in front of") + _[[Proto-Xiric dictionary#\*-ulai|*-ulai]]_ ("position").
-> ¹ First (ordinal)
+> ¹ First day
 ### töga
 ɪɴɴᴇʀ [t̪ˢø̞ŋa]; ᴏᴜᴛᴇʀ [t̪œŋa]
 
@@ -3138,7 +3138,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [βadʒa]; ᴏᴜᴛᴇʀ [vaʒa]
 
 *stat.* From [[Low Alöbi]] _[[Low Alöbi dictionary#waca|waca]]_ ("special"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*waca|*waca]]_, from _[[Proto-Öbic dictionary#\*wac|*wac]]_ ("special, unique").
-> ¹ Special; ² Unique
+> ¹ Some particular
 ### vajon
 ɪɴɴᴇʀ [βadʒõ̞ː]; ᴏᴜᴛᴇʀ [vaʒɔ̃ː]
 
@@ -3465,7 +3465,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [jad̪a]; ᴏᴜᴛᴇʀ [jaɾa]
 
 *v. root* From [[Xiri]] _[[Xiri dictionary#fayāda|fayāda]]_ ("to make evident, present"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#yāda|yāda]]_ ("evident, obvious").
-> ¹ To make evident, present
+> ¹ To make evident, obvious
 
 *stat.* From [[Low Alöbi]] _[[Low Alöbi dictionary#yata|yata]]_, from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*yata|*yata]]_.
 > ¹ Satisfied, satiated
@@ -3473,7 +3473,7 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [jaŋʲɪja]; ᴏᴜᴛᴇʀ [jaŋʲeja]
 
 *stat.* From [[Xiri]] _[[Xiri dictionary#yāgi|yāgi]]_ ("bright, smart"), from [[Proto-Xiric language|Proto-Xiric]] _[[Proto-Xiric dictionary#\*iāqi|*iāqi]]_.
-> ¹ Bright; ² Smart; ³ Witty
+> ¹ Bright
 ### yanip
 ɪɴɴᴇʀ [jan̪ɪp]; ᴏᴜᴛᴇʀ [jan̪ef]
 
@@ -3614,4 +3614,4 @@ A dictionary of terms in the [[Möxali]] language.
 ɪɴɴᴇʀ [ðuʒbe̞]; ᴏᴜᴛᴇʀ [z̪uʒbɛ]
 
 *n.* From [[Xiri]] _[[Xiri dictionary#fazūjebe|fazūjebe]]_ ("paper"), from _[[Xiri dictionary#fazū|fazū]]_ ("to beat") + _[[Xiri dictionary#cebe|cebe]]_ ("skin, bark").
-> ¹ Paper
+> ¹ [[Ink and Paper in Udovuʼo and T'ugü#Paper|Tree bark paper]]

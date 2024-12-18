@@ -1710,7 +1710,7 @@ A dictionary of terms in the [[Xiri]] language.
 ʟᴀᴛᴇ [ŋaʃwɪ]
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#gaxwi|gaxwi]]_ ("beans"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*gaxwi|*gaxwi]]_.
-> ¹ Beans
+> ¹ Bean
 ### ńi
 [ŋi]
 
@@ -1848,7 +1848,7 @@ A dictionary of terms in the [[Xiri]] language.
 ʟᴀᴛᴇ [pin̪ɛ̃]
 
 *n.* From [[Low Alöbi]] _[[Low Alöbi dictionary#binem|binem]]_ ("binem sauce"), from [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*pinem|*pinem]]_, from _[[Proto-Öbic dictionary#\*pin|*pin]]_ ("bitter") + _[[Proto-Öbic dictionary#\*-em|*-em]]_ ("inanimate object nominaliser").
-> ¹ A bitter fish sauce
+> ¹ Condiment
 ### pwa
 [pwa]
 

@@ -12,7 +12,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 
 *suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-a|*-a]]_.
 > ¹ Adjunct
-> **Descendants:** [[Möxali]] _[[Möxali dictionary#-a|-a]]_ ("adjective")
+> **Descendants:** [[Möxali]] _[[Möxali dictionary#-a|-a]]_
 ### abta
 ᴇᴀʀʟʏ [ɑbtɑ]; ᴍᴀᴛᴜʀᴇ [ɑbdɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [abdə]
 
@@ -956,7 +956,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 ### -eb
 
 *suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-ep|*-ep]]_ ("oblique"), Perhaps related to [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-iw|*-iw]]_ ("oblique").
-> ¹ Oblique case, a non-subject argument of a verb
+> ¹ Oblique case
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#-v|-v]]_ ("oblique")
 
 *suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-ep|*-ep]]_.
@@ -1333,7 +1333,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 ᴍᴀᴛᴜʀᴇ [ɸoʔɑw]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸoʔaw]
 
 *v.* From [[Xiri]] _[[Xiri dictionary#fa’awa|fa’awa]]_ ("to stir, mix, jostle"), from _[[Xiri dictionary#fa-|fa-]]_ ("verb prefix") + _[[Xiri dictionary#’awa|’awa]]_ ("mixture").
-> ¹ To stir; ² To mix; ³ To jostle
+> ¹ To mix
 > **Derivatives:** _[[Low Alöbi dictionary#qawet|qawet]]_ ("mixture")
 ### höe
 ᴇᴀʀʟʏ [xʷøˑə]; ᴍᴀᴛᴜʀᴇ [ɸø]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [ɸø]
@@ -1516,7 +1516,7 @@ A dictionary of terms in the [[Low Alöbi]] language.
 ### -in
 
 *suff.* From [[Proto-Öbic language|Proto-Öbic]] _[[Proto-Öbic dictionary#\*-in|*-in]]_ ("ergative").
-> ¹ Ergative case, the subject of a transitive verb
+> ¹ Ergative case
 > **Descendants:** [[Möxali]] _[[Möxali dictionary#-in|-in]]_ ("ergative")
 ### ina
 ᴇᴀʀʟʏ [iˑnɑ]; ᴍᴀᴛᴜʀᴇ [inɑ]; ᴛʀᴀɴꜱɪᴛɪᴏɴᴀʟ [inə]
