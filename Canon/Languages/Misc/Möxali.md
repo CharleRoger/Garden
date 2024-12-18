@@ -359,11 +359,30 @@ A habitual aspect can be formed using the auxiliary verb *eq*, the perfective fo
 - *janak af eq* (bird fly-PFV do-PFV) "birds fly"
 #### Polarity
 A final polarity suffix may be used to mark a verb as negative or emphatic.
-- |-s[a]| — Negative
-- |-x[a]| — Emphatic
+- |-z[a]| — Negative
+- |-[a]x| — Emphatic
+
+A negated verb requires its subject to also be negated with the cliticising particle *sa-*, which often reduces to just *s-*:
+> *mu-s-yaden ti-jakí favíqiz*
+> `mu-  s[a]-yaden    ti-   jakí  f[a]-ví ~[q]i-z[a]`
+> `EVID-NEG -1SG.NOM  AN.SG-crab  AV-  see~PROG-NEG `
+> "I don't see the crab"
+### Copula
+The basic copula which equates one noun with another is formed with a suffix on a noun *-j[a]*, appearing like a verb at the end of a phrase:
+- *sajin klíbja* `gibbon monkey-COP` "gibbons are monkeys"
+
+Despite not being a true verb, the copula can be negated with a combination of the noun proclitic *sa-* and the verb suffix *-z*:
+- *nijvi sa-lubícaz* `necwi NEG-flightless.bird-NEG` "[[necwi]] are not birds"
+
+Note that in the above example, |lúbic-j[a]-z| is reduced via regular phonological processes to *lubícaz*.
+
+Though not strictly a copula, the verb *[[Möxali dictionary#ile|ile]]* is used to mean "be" in describing circumstances and locations, which can use either a prepositional phrase or a dative noun. This verb is formally a root-aspect construction, but almost exclusively appears in the progressive form:
+- *inklos evob ile* `sun sky-DAT be-PROG` "the sun is in the sky"
+
+Expressions which describe other qualities of a noun, such as "I am tired" or "the sky is blue" cannot use a copula and instead use a stative verb which expresses the quality.
 ### Valency-decreasing suffixes
 A ubiquitous pillar of Möxali's grammar is a closed set of valency-decreasing suffixes which convert a word from one class to another:
-- ***-j*** / ***-c*** — Converts a noun stem into a stative stem, the state of being associated with the noun
+- ***-j*** / ***-c*** — Converts a noun stem into a stative stem, the state of being associated with the noun. Note this is identical in form to the copula
 - ***-d*** / ***-t*** — Converts a transitive stem into a stative stem, the state of participating in the verb
 - ***-n*** — Converts a transitive stem into a noun stem, the act of the verb itself
 
@@ -405,7 +424,7 @@ Many of these clitics were not common in ordinary speech and some were not used 
 ### Prepositions
 All prepositions in Möxali are monosyllabic and always unstressed, appearing at the start of a noun phrase, so can be thought of as clitics. 
 ### Conjunctions
-A small set of conjunctions is used to link clauses or begin statements:
+A small set of conjunctions is used to link clauses or begin statements. Broadly speaking, each conjunction uses the previous clause, if there is one present, to provide contextual information to the next clause:
 - *i* — basic positive conjunction meaning "and, thus, so, then"
 - *fi* — basic negative conjunction meaning "but, however, regardless"
-- *yo* — temporal conjunction meaning "when, then, at that time"
+- *yu* — temporal conjunction meaning "now, when, at that time"
