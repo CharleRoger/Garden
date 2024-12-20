@@ -98,7 +98,7 @@ tags:
 ### erroʻe
 /ˈer.ro.ʔe/ [ˈer.ro.ʔe]
 *n.*
->¹ A species of long horned long haired bipedal ungulate found in the Haankay Steppe
+>¹ [[Erroʻe|A species]] of long horned long haired bipedal ungulate found in the Haankay Steppe
 
 ### ewtuy
 /ˈew.t͡suj/ [ˈeu̯.t͡sui̯]
@@ -298,7 +298,7 @@ a
 # m
 ### mefmoʻï
 /ˈmeɸ.mo.ʔɯ/ [ˈmeɸ.mo.ʔɯ]
->¹ A tribe, a clan, a collection of families living under a single chieftan
+>¹ A tribe, [[Mefmoʻï|a clan]], a collection of families living under a single chieftan
 ### mee
 /ˈmeː/ [ˈmeː]
 *v.*
@@ -410,12 +410,12 @@ a
 ### raamti
 /raːm.t͡si/ [raːn.d͡ʒi]
 *n.*
->¹ A long lasting natural disaster that prevents livestock from grazing, such as a drought or excessive snowfall
+>¹ [[Raamti|A long lasting natural disaster]] that prevents livestock from grazing, such as a drought or excessive snowfall
 >² A winter with excessive snowfall caused by a large influx of polar air
 ### reenvep
 /ˈreːn.βep/ [ˈreːm.βep]
 *n.*
->¹ A type of tree found around freshwater. It disperses its seeds with the help of the local migratory bird population
+>¹ [[Reenvep|A type of tree]] found around freshwater. It disperses its seeds with the help of the local migratory bird population
 ### roʻay
 /roˈʔaj/ [roˈʔai̯]
 *v.*
@@ -496,7 +496,7 @@ a
 ### teyokkay
 /t͡seˈjok.kaj/ [t͡seˈjok.kai̯]
 *n.* Possibly from *[[#teyoke]]* + *[[#kay]]*
->¹ Chieftan
+>¹ [[Teyokkay|Chieftan]]
 ### teek
 /ˈt͡seːk/ [ˈt͡seːk]
 *v.*
@@ -542,14 +542,14 @@ a
 ### tun
 /ˈt͡sun/ [ˈt͡suŋ]
 *n.*
->¹ House, home, the traditional Haankaysiwan abode that is able to be taken down quickly, packed up and moved, and put back up quickly too
+>¹ House, home, [[Tun|the traditional Haankaysiwan abode]] that is able to be taken down quickly, packed up and moved, and put back up quickly too
 # u
 a
 # uu
 ### uunko 
 /ˈuːn.ko/ [ˈuːŋ.go]
 *n.*
->¹ Migratory crane notable for light blue feathers
+>¹ [[Uunko|Migratory crane]] notable for light blue feathers
 # v
 ### vankuu
 /ˈβan.kuː/ [ˈβaŋ.guː]
