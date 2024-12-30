@@ -1,6 +1,19 @@
 One of the most characteristic and persistent elements of the [[Xiyeru]] culture is their tattoos, which took many forms and styles throughout their history, some of which spread to other cultures, most notably the [[Lavondu]]. There were many types of tattoo that could be given to a person for a variety of reasons, such as certain points in their life, in recognition of good deeds, or just purely cosmetics.
 
 Tattoos were broadly referred to as *ńaʼay* "marking", a word also applied to writing, which later in history can be seen in the forms *ńaʼai* and *ńaʼe*. The entire identifying set of tattoos of a person was referred to by the collective plural *uńaʼay*. Tattooists were called *ńaʼayeru* "marking-person", which was a sacred role handled only by a small handful of elders in the village.
+# History
+The earliest evidence for the practice of tattooing in [[Udovuʼo]] comes from around 4000 BGS or earlier, and similar practices are found in the cultures of certain islands of [[Fountainhead]], particularly [[Buhō]], [[Ō-Hilau]] and [[uSasa-Uhō]].
+
+Early ńaʼay was more abstract in structure, taking essentially any form the artist felt like, though utilising common stylistic elements. As writing became more widely used, ńaʼay became more structured and rigorously linked to the personal name, until the names became essentially a reading of the tattoo. It is not clear from historical evidence whether the first writing in [[Udovuʼo]] was directly derived from the ńaʼay, or whether the morphology of the tattoos shifted to be more linguistic in response to the rise of writing, but the two parallel developments are certainly closely linked.
+
+With the formation of the [[Xiyeru Confederation]] came the concept of [[Xiyeru]] citizenship, under which the uńaʼay became a person's official identification. Throughout the [[10th century]], there was even legislation passed which constrained the design and use of the ńaʼay, causing them to become more formulaic and less artistically expressive, though still a marvel to behold.
+
+Wearing a complex and widespread ńaʼay was naturally an object of prestige to the [[Xiyeru]], and this was exacerbated by the [[Nīholu]] noble culture, resulting in a few changes to the visual style of the tattoos:
+- They tended to cover more skin in denser patterns of repeating symbols.
+- The chest and calves were no longer reserved for only the special tattoos given as a person nears their death.
+- Extensive tattooing above the knee became common, which was generally forbidden previously.
+
+Common people usually retained the more traditional simple tattoos on the face and neck with fairly modest arrangements on the arms and ankles.
 # Wōjama
 The most widely recognised and practiced type of [[Xiyeru]] tattoo was a series of maturity-warding tattoos that every person received in accordance with age rituals. These were called the *wōjama* (“may-(you)-be-wells”). They symbolise wellness and good wishes. Note that all ages listed below follow the [[Xiyeru#Age system|Xiyeru age system]] which counts the number of 385-day calendar rounds a person has lived through.
 ## Wōmavanaʼa
