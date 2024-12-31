@@ -35,10 +35,10 @@ The multiplicative rules which define Mōhuānō numerals arose in the late [[1s
 > 2×100=200; (3×10)+5=35
 
 The numeral systems in [[Qnōp']] were fairly uniform in function at this time, consisting of signs for 1, 2, 3, 4, 5, 10, 50 and 100 and following the principles laid out above. The style of signs varied from place to place, but generally used the same pictographic symbols:
-- Tally marks or dots from 1 to 4
+- Dots or tally marks from 1 to 4
 - A hand or fist for 5
 - An eye for 10
-- The moon or an [[ugo]] antler for 50
+- A crescent moon or an [[ugo]] antler for 50
 - An [[ugo]] head or pair of antlers for 100
 
 ![[mohanuo sign variants.png]]
