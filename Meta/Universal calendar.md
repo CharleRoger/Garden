@@ -4,7 +4,7 @@ aliases:
 tags:
   - meta
 ---
-The **universal calendar** is a timekeeping system used to unambiguously date events in the [[Garden]] universe, and specifically the history of the planet [[Winter]].
+The **universal calendar** is an out-of-universe timekeeping system used to unambiguously date events in the [[Garden]] universe, and specifically the history of the planet [[Winter]].
 # Definition
 The universal calendar counts days from a semi-arbitrary zero point, the [[Great Syzygy]].
 ## Zero point
