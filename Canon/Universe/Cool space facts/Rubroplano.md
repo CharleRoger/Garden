@@ -1,4 +1,0 @@
-A roughly Earth-sized reddish orange planet with an atmosphere of 75% nitrogen, 20% carbon dioxide and 5% argon, and a pressure of 89 atmospheres at the surface. Rubroplano is one of the brightest planets in the sky and its red colour is quite visible. It's closer to the Sun than Winter and only appears within about 30° from the Sun in the sky, meaning it's most commonly seen just before sunrise and just after sunset. Sometimes it may be visible in broad daylight, particularly when Winter's elliptical orbit brings the planets close together. Rubroplano is locked into a 1:2 orbital resonance with Winter, meaning it orbits ~exactly twice each Winter year. It also has a single very small moon in a ~19 hour orbit around it, which is not visible from Winter with the naked eye.
-
-`Sidereal period (days):  125.6803 Synodic period (days):   250.9211 Angular diameter ('):    0.49   [0.28 - 1.21] Apparent magnitude:      -5.13  [~-3 - -5.76]`
-![[Rubroplano.png]]
