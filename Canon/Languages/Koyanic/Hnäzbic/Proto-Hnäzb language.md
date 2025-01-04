@@ -20,26 +20,29 @@ Around the [[1st century|1st]] and [[2nd century]] Proto-Hnäzb diverged in indi
 - w̥ l̥ ẙ > x ɬ ɕ
 
 ### Affricate genesis
+- t(ʰ) > tɬ(ʰ) / \_u
+- t(ʰ) > ts(ʰ) / \_i
+- k(ʰ) > tɕ(ʰ) / \_i
 - cl tl cʰɬ tʰɬ > tɬ tɬ tɬʰ tɬʰ
 - cʰs tʰs > tsʰ
 - cʰɕ tʰɕ > tɕʰ
 - c cʰ > ts tsʰ
-- t(ʰ) > tɬ(ʰ) / _u
-- t(ʰ) > ts(ʰ) / _i
-- k(ʰ) > tɕ(ʰ) / _i
 - r̥s ɬs ss > ts
 - r̥ɬ ɬɬ sɬ tl > tɬ
-- ɬ s > tɬ ts / N_
-- The previous change actually causes things like *sŋ̊ɬ- > *sŋ̊tɬ-, in which case everything before the affricate is deleted leaving *tɬ-
+- ɬ s > tɬ ts / N\_
+- The previous change actually causes things like \*sŋ̊ɬ- > \*sŋ̊tɬ-, in which case everything before the affricate is deleted leaving \*tɬ-
 - Anything resulting like tsʰ-s just merges to tsʰ
 
+### Final continuant devoicing
+- r l z → r̥ ɬ s / \_#
+
 ### Ejective genesis
-- (t)ɬ (t)s p t k q > tɬʼ tsʼ pʼ tʼ kʼ qʼ / _x₁; _x₂; _x₃
+- (t)ɬ (t)s p t k q > tɬʼ tsʼ pʼ tʼ kʼ qʼ / \_x₁; \_x₂; \_x₃
 - pp tt tts ttɬ ttɕ kk qq > ppʼ ttʼ ttsʼ ttɬʼ ttɕʼ kkʼ qqʼ
 
 ### Sonorants
 - Nasals assimilate to a following plosive, forming a geminate (e.g. -mpʰ- > -ppʰ-)
-- m̥ n̥ ɲ̊ ŋ̊ > mp nt ntɕ nk / _#
+- m̥ n̥ ɲ̊ ŋ̊ > mpʰ ntʰ ntɕʰ nkʰ / \_#
 - ɲ̊ ŋ̊ ɲ ŋ > n̥ n̥ n n
 - w > ɰ
 - r̥ r > χ ʁ
@@ -49,7 +52,7 @@ Around the [[1st century|1st]] and [[2nd century]] Proto-Hnäzb diverged in indi
 - ə > e / next to x₁
 - ə > a / next to x₂
 - ə > o / next to x₃
-- x₁ x₂ x₃ > ∅ x χ / _V
+- x₁ x₂ x₃ > ∅ x χ / \_V
 - əy əw > ai̯ au̯
 
 ### Unstressed vowel shifts

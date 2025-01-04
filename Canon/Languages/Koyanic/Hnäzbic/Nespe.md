@@ -26,7 +26,7 @@ Lateral reduction
 | ---- | ------ | ------------- | ------ | ------------ |
 | High | i \<i> | y \<ü>        | ɯ <ı>  | u \<u>       |
 | Low  | æ <ä>  | œ <ö>         | a \<a> | ɔ \<o>       |
-Older stages of Nespe retained length distinctions from [[Proto-Hnäzb]], but later it merged with stress. Now length distinctions have become synonymous with accent and stress. 
+Older stages of Nespe retained length distinctions from [[Proto-Hnäzb language]], but later it merged with stress. Now length distinctions have become synonymous with accent and stress. 
 ## Consonants
 
 |         |         | Labial   | Dental     | Postal.   | Velar    | Uvular | Glottal |
