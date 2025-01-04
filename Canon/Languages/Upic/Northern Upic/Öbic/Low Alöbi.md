@@ -62,7 +62,7 @@ The tense vowel forms appeared in open initial syllables and in the six diphthon
 ### Coronal consonants
 The consonants *c c' x* are pronounced [tʃ tʃʼ ʃ] respectively, while the approximant *y* is palatal [j] but forms a natural group with the post-alveolars when considering phonotactics.
 
-Some time in the 4th century, the consonants *t c* were voiced to [d dʒ] between two voiced segments, often romanised as *d j* in transcriptions of Low Alöbi from around 300 - 600 AGS.
+Some time in the [[4th century]], the consonants *t c* were voiced to [d dʒ] between two voiced segments, often romanised as *d j* in transcriptions of Low Alöbi from around 300 - 600 AGS.
 ### Dorsal consonants
 The dorsal series *g k k' h* are uvularised to [ɴ q qʼ χ] next to *a* [ɑ] within the same syllable.
 ### Labial fricative

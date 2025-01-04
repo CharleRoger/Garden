@@ -44,4 +44,4 @@ The numeral systems in [[Qnōp']] were fairly uniform in function at this time, 
 ![[mohanuo sign variants.png]]
 > A sample of Mōhuānō numerals from a variety of locations and dates 0-1600 AGS.
 
-Signs for 500 and 1,000 were also occasionally used until around the [[4th century]] AGS, usually depicting the sun and a tree either alone or in combination, though exhibiting much more variation.
+Signs for 500 and 1,000 were also occasionally used until around the [[4th century]], usually depicting the sun and a tree either alone or in combination, though exhibiting much more variation.

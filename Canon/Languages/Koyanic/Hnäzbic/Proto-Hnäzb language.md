@@ -6,7 +6,7 @@ Proto-Hnäzb is the hypothetical ancestor of the [[Hnäzb languages|Hnäzbic lan
 
 It is estimated that Proto-Hnäzb was spoken by the [[Northern-Koty Pre-Metallic Complex]] and by the [[South-Koyanic Pastoralic Complex]]. The former likely spoke an early form of Proto-Hnäzb, still more in line with its ancestral language, while the latter made up the speaker community of the ancestral language of all Hnäzb languages. For this reason the SKP is sometimes called the Proto-Hnäzb culture. 
 
-Around the [[1st century|1st]] and [[2nd century]] Proto-Hnäzb diverged in individual dialects, although these varieties remained relatively similar to each other due to continued contact. The [[3rd century]] saw the complate dominance of Hnäzb over the [[Red Steppe]] and the formation of the [[Common Hnäzb]] language, which served as Koiné of the Hnäzb people until the [[7th century]]. Proto-Hnäzb and Common Hnäzb morphology are largely identical, while the sound system changed due to phonological diffusion. 
+Around the [[1st century|1st]] and [[2nd century]] Proto-Hnäzb diverged in individual dialects, although these varieties remained relatively similar to each other due to continued contact. The [[3rd century]] saw the complete dominance of Hnäzb over the [[Red Steppe]] and the formation of the [[Common Hnäzb]] language, which served as Koiné of the Hnäzb people until the [[7th century]]. Proto-Hnäzb and Common Hnäzb morphology are largely identical, while the sound system changed due to phonological diffusion. 
 
 # Phonology 
 

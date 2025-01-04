@@ -272,7 +272,7 @@ mbu-lonjor ndayɨtɨ mbu-res-eye-le tu-tere
 
 "Until I die, I'll not forget your kindness"
 
-### Complementizer: _[alerukɨt](https://winter.miraheze.org/wiki/Dictionary/Ansang#aleruk%C9%A8t "Dictionary/Ansang")_ and _alendayɨ_
+### Complementizer: *alerukɨt* and *alendayɨ*
 
 From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is Alendayɨ, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
 
@@ -331,7 +331,7 @@ Some verbs may not take directional prefixes, those that do, are verbs related t
 
 ## Writing system
 
-Around the year 900AGS [Lavondu people](https://winter.miraheze.org/wiki/Lavondu_people "Lavondu people") sailed in Ansang islands, some forward years in 950AGS their writing system the [Opsíbdañox](https://winter.miraheze.org/wiki/Ops%C3%ADbda%C3%B1ox "Opsíbdañox") developed into [Ansang Writing System](https://winter.miraheze.org/wiki/Ansang_Writing_System "Ansang Writing System").
+Around the year 900 AGS, the [[Lavondu]] people sailed to the Ansang islands, some years later in 950 AGS their writing system the [[Opsíbdañox]] developed into [[Ansang Writing System]].
 
 ## Lavondu contact and borrowings
 
@@ -379,30 +379,30 @@ Formed by preceding the number with _sa_.
 
 Ansang features counters for basically anything.
 
-|   |   |
-|---|---|
-|Pronunciation|Use|
-|People and things|   |
-|_rei_|Furniture, household appliances|
-|_ndale_|Cups and glasses of drink|
-|_ñolo_|Small animals and insects|
-|_mondo_|Children and Infant (Used as mockery for adults that act like children)|
-|_ur_|People (Polite)|
-|_ɨcu_|Stories|
-|_ekka_|Roof (Used to mean that you have a house/hearth)|
-|_yovɨ_|Books and Manuscripts (From the [Möxali](https://winter.miraheze.org/wiki/M%C3%B6xali "Möxali") word _yavdonlon_ loaned into Ansang as _yovɨdʼonlon_)|
-|Time, Calendar|   |
-|_mot_|Month|
-|_yambo_|Season|
-|_ŋgolok_|Year|
-|_ñom_|Week|
-|_koret_|Day of the month|
+|                   |                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| Pronunciation     | Use                                                                                              |
+| People and things |                                                                                                  |
+| _rei_             | Furniture, household appliances                                                                  |
+| _ndale_           | Cups and glasses of drink                                                                        |
+| _ñolo_            | Small animals and insects                                                                        |
+| _mondo_           | Children and Infant (Used as mockery for adults that act like children)                          |
+| _ur_              | People (Polite)                                                                                  |
+| _ɨcu_             | Stories                                                                                          |
+| _ekka_            | Roof (Used to mean that you have a house/hearth)                                                 |
+| _yovɨ_            | Books and Manuscripts (From the [[Möxali]] word _yavdonlon_ loaned into Ansang as _yovɨdʼonlon_) |
+| Time, Calendar    |                                                                                                  |
+| _mot_             | Month                                                                                            |
+| _yambo_           | Season                                                                                           |
+| _ŋgolok_          | Year                                                                                             |
+| _ñom_             | Week                                                                                             |
+| _koret_           | Day of the month                                                                                 |
 
 ## Literature
 
-Ansang literature is characterized by highly religious texts that can be traced back by its origins when the [Lavondu](https://winter.miraheze.org/wiki/Lavondu "Lavondu") first came in contact with Ansang, in the 9th century of the [Round 3](https://winter.miraheze.org/wiki/Round_3 "Round 3").
+Ansang literature is characterized by highly religious texts that can be traced back by its origins when the [[Lavondu]] first came into contact with Ansang, in the [[9th century]].
 
-The first paragraph of the historical essay of a famous writer, [Emberetek Arol ʼIʼici](https://winter.miraheze.org/wiki/Emberetek_Arol_%CA%BCI%CA%BCici "Emberetek Arol ʼIʼici").
+The first paragraph of the historical essay of a famous writer, [[Emberetek Arol ʼIʼici]].
 
 ilap-aka
 

@@ -21,7 +21,7 @@ The Time of Fragmentation comes eventually to an end in the early [[6th century]
 
 The end of the Four Kingdoms is fairly less spectacular than its inception. Mostly the Walken Empire descended into civil war, while the Yarlaganda, in absence of a common enemy slowly dissolved. The so called [[Imperial period]] would not begin until the late [[9th century]] and there is no concrete term for that interim period. 
 
-The 9th century saw the opening of Oks. to the rest of the world and the sending of many expeditions and embassies into foreign lands. Among them the [[Embassy of Peace and Friendship]] to [[Irimri]] or the expedition by [[Asin Erta]] to the [[Uhustaw]].
+The [[9th century]] saw the opening of Oks. to the rest of the world and the sending of many expeditions and embassies into foreign lands. Among them the [[Embassy of Peace and Friendship]] to [[Irimri]] or the expedition by [[Asin Erta]] to the [[Uhustaw]].
 
 In central Oks. the [[Empire of Kalotgane]] would begin its rise during the [[10th century]] and [[11th century]] and conquer most of it. This would culminate into a period known as the [[Long Peace]], by some regarded as the cultural pinnacle of the Yarlish people. The power of [[Kalotgane]] would last until the [[16th century]], when it would burn within the flames of its own making. 
 ## Religion 

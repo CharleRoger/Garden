@@ -150,9 +150,9 @@ Losh being the only god, in this system, the god of good and humanity, he has a 
 
 ### Cosmology and afterlife
 
-The common knowledge, and described in the [Losh Yeremen](https://winter.miraheze.org/w/index.php?title=Losh_Yeremen&action=edit&redlink=1 "Losh Yeremen (page does not exist)") is, the world was created when Losh blew out of his lungs the primordial waters and from that he pushed the sun, the two moons and Koty itself from the waters, from there, Koty was full of sludge and algae, all burning in the sun, because it did not moved, it was static, Losh then made it so, the sun and moons would always move in the sky.
+The common knowledge, and described in the [[Losh Yeremen]] is, the world was created when Losh blew out of his lungs the primordial waters and from that he pushed the sun, the two moons and Koty itself from the waters, from there, Koty was full of sludge and algae, all burning in the sun, because it did not moved, it was static, Losh then made it so, the sun and moons would always move in the sky.
 
-Afterlife in Loshianism is said to be simply a path you go when you die, if you practiced good deeds when you was alive, Losh spirits would judge you and send you to either the [Joçepteyu](https://winter.miraheze.org/w/index.php?title=Jo%C3%A7epteyu&action=edit&redlink=1 "Joçepteyu (page does not exist)") "eternal joy" or [Goroed](https://winter.miraheze.org/w/index.php?title=Goroed&action=edit&redlink=1 "Goroed (page does not exist)") "Hole".
+Afterlife in Loshianism is said to be simply a path you go when you die, if you practiced good deeds when you was alive, Losh spirits would judge you and send you to either the [[Joçepteyu]] "eternal joy" or [[Goroed]] "Hole".
 
 ### Morality and ethics
 
