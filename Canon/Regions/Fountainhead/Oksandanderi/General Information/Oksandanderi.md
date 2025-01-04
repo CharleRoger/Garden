@@ -13,7 +13,7 @@ Main article: [[History of Oksandanderi]]
 The history of Oksandanderi reaches far back for many centuries, if not millennia. It can be subdivided into several macrohistorical periods. 
 Everything before the [[1st millennium BGS]] can be considered ancient and prehistorical. During [[7th century BGS]] writing is invented in Oks. and a period known as [[Formative-Literary period]] begins. 
 
-In the year [[1st century|164 AGS]] [[Astmerge the Great]] establishes the first empire of Oks., known as the [[Astmergian Empire]]. This empire however is fairly shortlived and falls into disarray almost immediately after his death, with different provincial governments claiming legitimacy. 
+In the year [[2nd century|164 AGS]] [[Astmerge the Great]] establishes the first empire of Oks., known as the [[Astmergian Empire]]. This empire however is fairly shortlived and falls into disarray almost immediately after his death, with different provincial governments claiming legitimacy. 
 
 After another period called Astmergian Dominion, the period known as [[Time of Fragmentation]] follows, which is generally marked by chaos and warfare between several squabbling petty states. Though during this period several important developments took place. For one the states of Tyon-Arat and the [[Makhatganda]] formed, as well as the religious movement of [[Kamalism]] becoming prominent. 
 
