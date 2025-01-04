@@ -5,7 +5,8 @@ tags:
 ---
 The **1st century** was the century spanning the [[Universal calendar|year 0]] to 99 AGS. It is often written as the **1st century AGS** to distinguish it from the 1st century BGS which preceded it. During this period, cross-cultural contact increased almost universally, establishing many important tribes and nations. Heightened trade led to the spread of writing independently in two different parts of the world: The [[Söwita̋néÿ]] script in [[K'tlagn]] and the [[Ugugo]] in [[T'ugü]].
 # Events
-- 0: The [[Big Green Comet]] makes a close approach to the sun, appearing in [[Winter|Winter's]] night sky for around half the year.
+- 0: The [[Great Syzygy]] occurs at precisely midnight on the winter solstice, establishing the zero-point of the [[Universal calendar]] and marking the transition from the BGS to the AGS period.
+- 0-1: The [[Big Green Comet]] makes a close approach to the sun, appearing in [[Winter|Winter's]] night sky for around half a year.
 - 23: The first [[Dugrien]] clans are formed.
 - 34: The kingdom of [[Taspi]] conquers the city state [[Kypky]].
 - 39: Strong [[Dugrien]] clans begin to exert power over weaker clans through the control of food production.
