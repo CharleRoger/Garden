@@ -1,6 +1,6 @@
 **Ūiyeńiruweʼa Ōgogo** or **Grandmother Ōgogo** is the name of a mythical witch who lives deep in the rainforests in [[Xiyeru#Religion|Xiyeru folklore]], featuring in various stories throughout [[Udovuʼo]].
 
-A [[1st century]] [[Xiri]] mythological compendium described the Grandmother Ōgogo as follows:
+A [[1st century]] [[Xiri]] mythological compendium, the *[[Fanaʼaidi Famuru Xiluʼuže]]* "tree of stories that flows into the ocean", describes the Grandmother Ōgogo as follows:
 >*She is said to have feet like a pig and legs like a dog. *She is tall and speaks "with a lisp"* [it is uncertain what is meant by *lisp* here] *and, she carries a satchel full of mushrooms and nuts.*
 >...
 >*If she notices you going too deep into the forest, she will greet you, wearing a long skirt made of waterproof leaves to hide her legs; she then leads you deep into the forest with promises of a hot meal of yam, rice, and pork, alcohol, psychedelic mushrooms, ceremonial tea. When you reach her hut, she feeds you poisoned foods and then buries you vertical in the ground with your head poking out so that mushrooms for her stew will grow out of your eyes and mouth.*
