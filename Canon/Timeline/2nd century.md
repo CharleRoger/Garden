@@ -6,7 +6,7 @@ tags:
 The **2nd century** is the period from 100 to 199 AGS. In the latter half of the century, the [[Astmergian Empire]] and several important cities were founded in [[Oksandanderi]].
 # Events
 - Early 2nd century: The [[Yunge]] language begins to diverge from [[Common-Ansangic]].
-- Early 2nd century: The [[Ran]] city-states of [[Totky]] and [[Feculky]] establish colonies around the coast, escalating a political rivalry.
+- Early 2nd century: The [[Ran peoples|Ran]] city-states of [[Totky]] and [[Feculky]] establish colonies around the coast, escalating a political rivalry.
 - 104: An enormous graphite deposit is discovered near the settlement of [[Ruieurol ru Lagur]].
 - 104: [[Sarovagas]] ascends the throne of [[Vërev]].
 - 112: [[Vërev]] wages war against [[Imnagal]], ending in stalemate.
