@@ -12,7 +12,7 @@ The script is a syllabary with the following properties:
 ![[Söwita̋néÿ signs.png]]
 
 # Example
-Below is a rune poem by an unknown [[Mÿrșo·to]] in 20 BGS, depicting the myth of the three Riders, who after saving the first [[Mÿrșo·to]] from the moon and splitting it in two, rode into the sky to keep a vigilant eye over the [[Mÿrșo·to]] for the rest of time. The little pictograms at the bottom are a representation of what the words mean, working as both a little artistic flourish and also helping to disambiguate the text.
+Below is a rune poem by an unknown [[Mÿrzoto]] in 20 BGS, depicting the myth of the three Riders, who after saving the first [[Mÿrzoto]] from the moon and splitting it in two, rode into the sky to keep a vigilant eye over the [[Mÿrzoto]] for the rest of time. The little pictograms at the bottom are a representation of what the words mean, working as both a little artistic flourish and also helping to disambiguate the text.
 
 A transcription and translation of the text follows.
 
