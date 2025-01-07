@@ -1,6 +1,6 @@
 **Kypky** was a [[Ran peoples|Ran]] city-state located on the southern peninsula of the [[Ran peoples|Ran]] cultural region.
 
-![[Totky.png]]
+![[Ran cultural region.png]]
 > Yellow: The [[Ran peoples|Ran]] cultural region
 > Red: [[Taspi]] in [[Universal calendar|year 0]]
 > Cyan: Kypky in [[Universal calendar|year 0]]

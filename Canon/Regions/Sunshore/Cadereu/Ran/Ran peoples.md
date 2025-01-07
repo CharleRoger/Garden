@@ -1,6 +1,6 @@
 The **Ran peoples** were a group of peoples inhabiting a region of western [[Cādereu]].
 
-![[Totky.png]]
+![[Ran cultural region.png]]
 > Yellow: The Ran cultural region
 > Red: [[Taspi]] in [[Universal calendar|year 0]]
 > Cyan: [[Kypky]] in [[Universal calendar|year 0]]

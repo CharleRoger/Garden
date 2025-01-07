@@ -1,6 +1,6 @@
 The **Taspi-Kypky war**s were a series of military conflicts between the [[Ran peoples|Ran]] city-states of [[Taspi]] and [[Kypky]] in the [[1st century]], culminating in the formation of [[Totky]].
 
-![[Totky.png]]
+![[Ran cultural region.png]]
 > Yellow: The [[Ran peoples|Ran]] cultural region
 > Red: [[Taspi]] in [[Universal calendar|year 0]]
 > Cyan: [[Kypky]] in [[Universal calendar|year 0]]

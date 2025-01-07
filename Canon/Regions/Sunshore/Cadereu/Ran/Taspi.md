@@ -2,7 +2,7 @@
 
 The patron deity of Taspi was [[Pilur]].
 
-![[Totky.png]]
+![[Ran cultural region.png]]
 > Yellow: The [[Ran peoples|Ran]] cultural region
 > Red: Taspi in [[Universal calendar|year 0]]
 > Cyan: [[Kypky]] in [[Universal calendar|year 0]]
