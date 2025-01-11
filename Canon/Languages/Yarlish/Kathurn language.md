@@ -46,7 +46,10 @@ Long vowels which are the result of allophony are a lot more common and do frequ
 | ɛ, ɛ: |         |       |
 |       | a, a:   |       |
 ### Nasal vowels
-Nasalisation is a feature of Kathurn which is never phonemic. Nasalisation is essentially caused by the same morphophonological processes, which are also responsible for lenition and lengthening.
+Nasalisation is a feature of Kathurn which is never phonemic. Nasalisation is essentially caused by the same morphophonological processes, which are also responsible for lenition and lengthening. 
+
+### Labial colouring 
+In Midlands and nascent Highlands dialects, the combination of /iv/ or /ev/ tends to be pronounced as \[y] and \[œ] respectively. 
 ## Consonants
 The phonological inventory of Kathurn is likewise fairly simple. There are overall only 14 phonemic consonants. Additionally some of them are fairly restricted in their distribution. Voiced strops, as well as /r/ and /l/ and the nasal /n/ can never appear as word initial onsets in native roots.
 
@@ -491,7 +494,7 @@ Kathurn has several noun classes. They are differentiated into human, non-human 
 | Non-Human Anim. | -s(u)             | <               |
 | Inanimate       | -l(e), -Ce, -e    |                 |
 ## Case Morphology
-The case system of Kathurn and Central Yarlish in general consists of eight to ten cases. These cases have different syntactic functions. Morphologically the biggest difference is between the cases which suffix after or before the possessive suffixes. The first group of cases, namely genitive, dative, essive and ablative are suffixed before any other inflectional suffix, while the rest is suffixed last. The other issue is the marking of direct objects. Proto-Yarlish did not have an accusative case, neither do some Lowland Yarlish varieties strictly speaking. The means of accusative marking in Kathurn are rather complex. The cases which precede possessive suffixes are older and likely predate the affixation of possessive markers. Additionally there was the so called **Connective case**, which has been lost in most of Lowland Yarlish and only retained in Kuperian.
+The case system of Kathurn and Central Yarlish in general consists of eight to ten cases. These cases have different syntactic functions. Morphologically the biggest difference is between the cases which suffix after or before the possessive suffixes. The first group of cases, namely genitive, dative, essive and ablative are suffixed before any other inflectional suffix, while the rest is suffixed last. The other issue is the marking of direct objects. Proto-Yarlish did not have an accusative case, neither do some Lowland Yarlish varieties strictly speaking. The means of accusative marking in Kathurn are rather complex. The cases which precede possessive suffixes are older and likely predate the affixation of possessive markers. Additionally there was the so called **Connective case** *-i*, which has been lost in most of Lowland Yarlish and only retained in Kuperian.
 
 The other cases are inventions that happened separately in the successive Yarlish languages. They are therefore also different between different Yarlish languages.
 
@@ -510,6 +513,161 @@ The other cases are inventions that happened separately in the successive Yarlis
 | Locative.Inanim | -me          |        | -eri         | \[str] |
 | Vocative        | -(r)e, -(l)e |        | -(r)é, -(l)é |        |
 
+# Pronouns
+## Personal Pronouns
+The group of personal pronouns is rather small. In essence there are only *ve* (first person) and *ukha* (second person) which can be considered exlusively personal pronouns. Their usage is rather limited, pro drop is common. The overall scarcity of these pronouns can be explained by a previous process of clitisation, which removed free pronouns and suxed them to objects and verbs.
+The remaining pronouns ve and ukha are generally undeclinable and appear foremost either in topic position or as resumptive pronouns. There are no proper plural pronouns either.
+### Appositional Pronouns
+Personal pronouns are often used in combination with nouns, especially titles, as apposition. This is
+especially common in dialogues, where one part addresses the other and labels them and themself in regards to social hierarchy. This hierarchy does not simply includes titles of respect, but also affection and adoration.
+One of the most common nouns used with a pronominal apposition is *erbe* "friend, companion".
+
+### Substitute Pronouns
+Due to the paucacity of personal pronouns and their necessity sometimes, Kathurn uses some constructions which can be understood as pronominal. They use words such as *ton, khele* "man, woman" or *is*, *én* "person, people" in combination with either possessive suffxes or demonstratives.
+The first person plural can be expressed by *ihatiyé* (alternatively *isiyé*) "our people/person". The second person plural can also be constructed similarly: *ihtké* (*iskhú*) "your people".
+For the third person, demonstratives are preferred: *isayo* "that person" or ihtayo "those people".
+## Demonstrative Pronouns 
+There are two demonstrative pronouns *eyo* and *ayo*, which can appear as free pronouns or as enclitics *-eyo* or *-(a)yo*, which case they replace possessive pronouns. 
+Free demonstratives are placed in front of the noun and before adjectives. 
+## Interrogative Pronouns
+
+|             | Singular              | Plural                                      |
+| ----------- | --------------------- | ------------------------------------------- |
+| Subject     | seye                  | seyét (hum.), seyet (n-hum.), sey (inanim.) |
+| Dir. Obj.   | seya, sey (inanimate) | seyde (hum.). seyd (n-hum.), sey (inanim.)  |
+| Indir. Obj. | medë                  | meda                                        |
+| Possessor   | medhin                | medin                                       |
+| Comparison  | meba                  | meba                                        |
+| Instrument  | kede                  | kede                                        |
+| Place       | keme                  | keme                                        |
+| Reason      | keyin                 | keyin                                       |
+# Verbal Morphology 
+
+## Overview
+There are three paradigms to verbs, fientives, perfectives and statives. Fientives are essentially non-aspectual verbs, which means the fientive past can be imperfective, but doesn't have to be. Perfectives are, irregardless of tense, finished actions (in the past, present or future). Statives are the third group and include durative, frequentive, as well as converbial and participle functions. 
+The following chart details the person markers of each of these paradigms. 
+
+**stem - voice marker - negation marker - perfectivity/tense marker - person marker**
+
+|                  | Fientive        | Perfective | Stative |
+| ---------------- | --------------- | ---------- | ------- |
+| 1SG.M, 1SG.NEUT  | -VOC-iv         | -sen       | -(e)    |
+| 1SG.F            | -VOC-iv         | -snen      | -(e)    |
+| 2SG              | -(e)-VOC-\[len] | -sekh      | -(e)    |
+| 3SG.M, 3.SG.NEUT | -(e)-VOC        | -(e)s      | -(e)kh  |
+| 3SG.F            | -(e)-VOC        | -sam       | -(e)kh  |
+| 1PL              | -(a)-VOC        | -siyen     | -(a)    |
+| 2PL              | -(a)-VOC        | -(e)skhu   | -(a)    |
+| 3PL              | -VOC-an \[len]  | -san       | -(a)    |
+## Fientives 
+The entive contrasts mostly with the stative. Fientive verbs can be considered active and dynamic.
+Other than statives, fientives have a mostly temporal and weaker aspectual dimension. Due to different morphology and strong aspectual connotation. Perfective verbs are considered a different class from fientives. (Fientive are often interpreted as imperfectives, but they are not strictly so). 
+
+Fientive verbs consist of a stem, a possible thematic vowel, a valency marker and a tense/aspect marker followed by a possible person marker. As shown in the previous table, not all person have corresponding person marking suffxes. Only the rst person singular and the third person plural are consistently visible. Second person singulars can be obscured if their corresponding change is not visible on the verb (such as in the preterite tense). Number can also be indicated through a thematic vowel, but again not consistently due to vowel final verbal stems.
+Fientives have four different tenses. A remote or narrative past tense, a regular past tense here called preterite, a non-past tense an a prospective/future tense.
+There are a handful of irregular verbs, largely the group of V- and CV- roots.  
 
 
+|     | Remote Past       | Past              | Present           | Future              |
+| --- | ----------------- | ----------------- | ----------------- | ------------------- |
+|     | -n-               | -r-               | -d-               | -tag-               |
+| 1SG | -VOC-n-iv         | -VOC-r-iv         | -VOC-d-iv         | -VOC-tag-iv         |
+| 2SG | -(e)-VOC-n \[len] | -(e)-VOC-r \[len] | -(e)-VOC-d \[len] | -(e)-VOC-tag \[len] |
+| 3SG | -(e)-VOC-n        | -(e)-VOC-r        | -(e)-VOC-d        | -(e)-VOC-tag        |
+| 1PL | -(a)-VOC-n        | -(a)-VOC-r        | -(a)-VOC-d        | -(a)-VOC-tag        |
+| 2PL | -(a)-VOC-n        | -(a)-VOC-r        | -(a)-VOC-d        | -(a)-VOC-tag        |
+| 3PL | -VOC-n-an \[len]  | -VOC-r-an \[len]  | -VOC-d-an \[len]  | -VOC-tag-an \[len]  |
+Conjugation of *tel* "to give" (root verb) 
 
+|     | Remote Past | Past   | Present | Future    |
+| --- | ----------- | ------ | ------- | --------- |
+|     | -n-         | -r-    | -d-     | -tag-     |
+| 1SG | telniv      | telriv | teldiv  | teltgiv   |
+| 2SG | telen       | teler  | teledh  | teltagh   |
+| 3SG | telen       | teler  | teled   | teltag    |
+| 1PL | telan       | telar  | telad   | teltag    |
+| 2PL | telan       | telar  | telad   | teltag    |
+| 3PL | telnan      | telran | teldhan | teltaghan |
+
+Conjugation of *kasa* "to work, to craft" (derived)
+
+|     | Remote Past | Past   | Present | Future    |
+| --- | ----------- | ------ | ------- | --------- |
+|     | -n-         | -r-    | -d-     | -tag-     |
+| 1SG | kasniv      | kasriv | kasdiv  | kahatgiv  |
+| 2SG | kasan       | kasar  | kasadh  | kastagh   |
+| 3SG | kasan       | kasar  | kasad   | kastag    |
+| 1PL | kasan       | kasar  | kasad   | kastag    |
+| 2PL | kasan       | kasar  | kasad   | kastag    |
+| 3PL | kasnan      | kasran | kasdhan | kahatghan |
+### Irregular Verbs
+
+*a-* "to go"
+
+|     | Remote Past | Past | Present | Future |
+| --- | ----------- | ---- | ------- | ------ |
+|     | -n-         | -r-  | -d-     | -tag-  |
+| 1SG | aniv        | ariv | adiv    | atgiv  |
+| 2SG | anu         | aru  | adhu    | atghu  |
+| 3SG | anë         | arë  | adë     | atgë   |
+| 1PL | ana         | ara  | ada     | atga   |
+| 2PL | anu         | aru  | adu     | atgu   |
+| 3PL | anan        | aran | adhan   | atghan |
+## Perfectives 
+The perfective describes completed events regardless of tense and their relation to the time of the speech act. The perfective is semantically close to the fientive, but exhibits different paradigm and is always aspectual and not necessarily temporal. This difference in paradigms and similarity in function reaects the evolution of these forms within the Yarlish languages.
+The structure of perfective verbs is similar to entive verbs. A possible thematic vowel, valency markers, a negation marker, the perfective -s- inx and personal endings. One main difference is the presence of a suffx negation marker which is not present within the entive paradigm, indicating that the perfective paradigm as it is, might be of greater antiquity. 
+
+
+|                  | Suffix   |
+| ---------------- | -------- |
+| 1SG.M, 1SG.NEUT  | -sen     |
+| 1SG.F            | -snen    |
+| 2SG              | -sekh    |
+| 3SG.M, 3.SG.NEUT | -(e)s    |
+| 3SG.F            | -sam     |
+| 1PL              | -siyen   |
+| 2PL              | -(e)skhu |
+| 3PL              | -san     |
+
+|                  | tel- "to give" | kasa "to work" |
+| ---------------- | -------------- | -------------- |
+| 1SG.M, 1SG.NEUT  | telsen         | kassen         |
+| 1SG.F            | tel(e)snen     | kasasnen       |
+| 2SG              | telsekh        | kassekh        |
+| 3SG.M, 3.SG.NEUT | teles          | kasas          |
+| 3SG.F            | telsam         | kassam         |
+| 1PL              | telsiyen       | kahasiyen      |
+| 2PL              | teleskhu       | kasaskhu       |
+| 3PL              | telsan         | kassan         |
+### Perfective Negation
+Unlike the fientive, the perfective has a form of morphological negation. The negation marker is *-y(e)* or *-y(a)* containing a thematic vowel which indicates singular or plural. 
+The negation marker is inserted after possible voice markers and before the perfective marker itself. 
+
+|                  | tel- "to give" | kasa "to work" |
+| ---------------- | -------------- | -------------- |
+| 1SG.M, 1SG.NEUT  | telyesen       | kahaysen       |
+| 1SG.F            | telyesnen      | kahaysnen      |
+| 2SG              | telyesekh      | kahaysekh      |
+| 3SG.M, 3.SG.NEUT | telyes         | kasyes         |
+| 3SG.F            | telyesam       | kahaysam       |
+| 1PL              | telyasiyen     | kahaysiyen     |
+| 2PL              | telyaskhu      | kahayskhu      |
+| 3PL              | telyasan       | kahaysan       |
+## Statives
+
+|     | Stative |
+| --- | ------- |
+| 1SG | -(e)    |
+| 2SG | -(e)    |
+| 3SG | -(e)kh  |
+| 1PL | -(a)    |
+| 2PL | -(a)    |
+| 3PL | -(a)    |
+
+## Voice Morphology 
+There are four voices in Kathurn, Active, Passive, Benefactive, Causative and Applicative. 
+The root-voice of every verb is active, while other voices 
+
+| Active | Passive | Benefactive        | Causative | Applicative             |
+| ------ | ------- | ------------------ | --------- | ----------------------- |
+| 0      | -në-    | -(e)yde-<br>-(e)y- | -mo-      | -urbi-<br>-vr-<br>-u/v- |
