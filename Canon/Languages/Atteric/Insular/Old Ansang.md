@@ -40,17 +40,26 @@ Later Ansang features a consonantal inventory characterized by its pre-nasal con
 
 Ansang syllable structure is observed to be simple plain (C)V(V)(C).
 
+### Morphonology
+Hic sunt draconis 
+
 ## Grammar
 Ansang is mostly SVO, with nominative-accusative alignment.
 ### Particles
 Ansang language features three particles, they are used to mark nouns according to their grammatical case or thematic relation in a sentence or clause.
 - *ŋgo* marks the comitative, instrumental of an object.
 - *ndel* marks the generic locative position of a noun.
-- *masa* marks the goal of any movement. This goal may be location or a state of affairs, i.e., a purpose.
+- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. 
+
+
+> *Suta tɨrincuŋgɨ masa simbil ñimocaŋɨ musu isimi*
+> `Suta tɨr=incu-ŋgɨ masa simbil ñ=imoc-aŋɨ musu isimi 
+> `NAME 3SG=swim-PST towards axe 3INA=sink-PST 
+> Suta swam towards the hatchet that sank in the depths of the lake.
 
 ### Nouns
 #### Pronouns
-In Ansang pronouns are particles that can be attached to the verb or noun that can come after or before the root word. Functioning as clitics pronouns don't function on their own.
+Pronouns are clitics that must be attached to the lexical element comes suffixing or prefixing the root word. They themselves don't have an isolated form to which they can function on their own.
 
 |             |     | -   | Subject | Object   | Possessive | Locative | Resultative |
 | ----------- | --- | --- | ------- | -------- | ---------- | -------- | ----------- |
@@ -65,7 +74,6 @@ In Ansang pronouns are particles that can be attached to the verb or noun that c
 - **Possessive pronouns**: Possessor prefixes, in verbs assumes function of reflexive pronoun going after the subject pronouns rendering them infixes.
 - **Locative pronouns**: Locative deixis for pronouns, only **animate objects** may be marked with the locative, otherwise the particle *ndel* maybe used. In verbs assumes function of Andative and Venitive verbal deixis.
 - Resultative pronouns:  Indicates state of change of a person.
-
 
 > *kouŋoto orot*
 > `ko-uŋoto orot`
