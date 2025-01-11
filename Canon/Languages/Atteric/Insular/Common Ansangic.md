@@ -1,2 +1,0 @@
-[[Ansang Language]]
-[[Yuge language]]

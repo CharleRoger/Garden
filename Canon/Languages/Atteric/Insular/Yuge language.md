@@ -4,21 +4,21 @@ tags:
 ---
 ## Phonology
 ### Consonants
-|  |Labial | Coronal | Dorsal |
-| ---- | ---- | ---- | ---- |
-| Nasal | m | n | ŋ \<g> |
-| Lenis plosive | p | t | k |
-| Constrictive |  | s | ɦ \<h> |
-|  | t͡s \<c>|  |  |
-| Liquid |  | l |  |
-|  | ɟ~ᵈj~ʝ \<y> | w |  |
+|               | -   | Labial      | Coronal | Dorsal |
+| ------------- | --- | ----------- | ------- | ------ |
+| Nasal         | -   | m           | n       | ŋ \<g> |
+| Lenis plosive | -   | p           | t       | k      |
+| Constrictive  | -   |             | s       | ɦ \<h> |
+| ^             | -   | t͡s \<c>    |         |        |
+| Liquid        | -   |             | l       |        |
+| ^             | -   | ɟ~ᵈj~ʝ \<y> | w       |        |
 ### Vowels
-||Front|Back|
-|---|---|---|
-|Closed|i|u|
-|Mid|e|o|
-|Open|a||
 
+|        | -   | Front | Back |
+| ------ | --- | ----- | ---- |
+| Closed | -   | i     | u    |
+| Mid    | -   | e     | o    |
+| Open   | -   | a     |      |
 
 ## Morphology
 
@@ -39,11 +39,11 @@ Reduplication of noun and verbs in Yugebusorese is as important as it is in Ansa
 #### Pronouns
 Pronouns in Yuge are marked for number.
 
-||singular|plural|
-|---|---|---|
-|1st-person|_mu_|_na_|
-|2nd-person|_wel_|_ge_|
-|3rd-person|_ter_|_goyi_|
+|            | -   | singular | plural |
+| ---------- | --- | -------- | ------ |
+| 1st-person | -   | _mu_     | _na_   |
+| 2nd-person | -   | _wel_    | _ge_   |
+| 3rd-person | -   | _ter_    | _goyi_ |
 ### Questions
 
 Yes/No questions usually receive the question particle _cale_ that is a shortening of the phrase _caga yo le_ "yes or no?".
@@ -57,8 +57,8 @@ Non-possessed nouns receive the suffix _-o_, when they are possessed they get th
 
 #### Verbal conjugation
 
-||Singular|Plural|Past|Imperfect|Passive|
-|---|---|---|---|---|---|
-|1st|_m-_|_n-_|_-ge_|_-ca_|_-elo_|
-|2nd|_w-_|_g-_| ^ | ^ | ^ |
-|3rd|_t-_|_y-_|^ | ^ | ^ |
+|     | -   | Singular | Plural | Past  | Imperfect | Passive |
+| --- | --- | -------- | ------ | ----- | --------- | ------- |
+| 1st | -   | _m-_     | _n-_   | _-ge_ | _-ca_     | _-elo_  |
+| 2nd | -   | _w-_     | _g-_   | ^     | ^         | ^       |
+| 3rd | -   | _t-_     | _y-_   | ^     | ^         | ^       |

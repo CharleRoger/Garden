@@ -2,7 +2,7 @@
 tags:
   - language/koyanic
 ---
-**Qachkav** language, also called **Shimtar** is a dialect continuum of the [[Qachkav people]], spoken in Northern [[Kóty]] it has been in contact with other languages such as [[Telehe language]], [[Berkke language]] and [[Ansang Language]].
+**Qachkav** language, also called **Shimtar** is a dialect continuum of the [[Qachkav people]], spoken in Northern [[Kóty]] it has been in contact with other languages such as [[Telehe language]], [[Berkke language]] and [[Old Ansang]].
 A [[Koyanic languages]] of the [[Tsittar branch]] it's genetically related to [[Hnäzb languages]].
 # History
 Qachkav language is a Koyanic language of the [[Shimtar branch]], evolving from [[Old-Qachkav]] its proto language had a tongue root harmony system that got translated as a palatal-roundness harmony system in Qachkav. 

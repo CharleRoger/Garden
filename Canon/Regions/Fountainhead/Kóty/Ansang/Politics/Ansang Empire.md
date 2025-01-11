@@ -5,7 +5,7 @@ tags:
 ---
 **Ansang Empire** was a thalassocratic empire in [[Southern Fountainhead]] that was based on the [[Ansang Islands]]. It existed from 670 to 1200 and reached its peak during the coming of the [[Lavondu]] once the knowledge of outside world came forth.
 
-Official language [[Ansang Language]], during the rule of the [[Yuge dynasty]] the [[Yuge language]] was enforced; official religion [[Ansaŋetuʼakɨmi|Ansang traditional religion]].
+Official language [[Old Ansang]], during the rule of the [[Yuge dynasty]] the [[Yuge language]] was enforced; official religion [[Ansaŋetuʼakɨmi|Ansang traditional religion]].
 # History
 During the first century AGS, migration routes have been drawn by early Common Ansangic speakers settling in the eight islands that form the [[Ansang Islands]]. Speakers of [[Yuge language]] split up early and formed their own settlements alongside [[Ɨrsɨryuŋe]].
 Those settlements functioned which evolved from an ancient network brought by the third and last migration wave, denoted the presence of a federation of small kingdoms or vassalized polity under a center of domination. These centers were called \[\[PLACEHOLDER]]....

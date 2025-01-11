@@ -3,7 +3,7 @@ tags:
   - ansang
   - language/atteric
 ---
-**Ansang** or **Later Ansang**, also called **Proper Ansang** is a variety of Ansang spoken roughly the [[6th century]] through the following two centuries. Spoken by the [[Ansang people]] is one of the languages spoken in [[Ansang Islands]].
+**Old Ansang** also called **Classic Ansang** is was the earliest recorded variety of the [[Ansang]] spoken roughly throughout the [[6th century]] into the following centuries. Spoken by the [[Ansang people]] it's the ancestral language of both [[Yuge language]] and many of the modern dialects of Ansang, among them the most spoken [[Ansang Islands]].
 It's an agglutinative language and polysynthetic, most of it's grammatical constructions and morpheme can be agglutinated forming long words that encompass several phrases.
 ## History
 
@@ -92,211 +92,61 @@ Ansang language exhibits a SVO word order.
 
 ### Relative clauses
 
-Demonstratives are used in relative clauses _se_ "this" became a common relativizer. Template:Interlinear: no lines supplied.;
+Demonstratives are used in relative clauses _se_ "this" became a common relativizer. 
 
-mbaimbai
-
-man
-
-mbu=oti’-ŋgɨ=mbai’
-
-1SG=see-PST=3SG
-
-se
-
-REL
-
-orɨt
-
-yesterday
-
-tɨr=onjal-ayɨ
-
-3SG=leave-PST
-
-mbaimbai mbu=oti’-ŋgɨ=mbai’ se orɨt tɨr=onjal-ayɨ
-
-man 1SG=see-PST=3SG REL yesterday 3SG=leave-PST
-
-"The man I saw yesterday has left."
+> *mbaimbai mbuoti’ŋgɨmbai’ se orɨt tɨronjalayɨ*
+> `mbaimbai mbu=oti’-ŋgɨ=mbai’ se orɨt tɨr=onjal-ayɨ`
+> `man 1SG=see-PST=3SG REL yesterday 3SG=leave-PST`
+> "The man I saw yesterday has left."
 
 _se_ is also used as an participle marker coming before the verb which also can be described as adverb.
 
-mbu=sil
-
-1SG=live
-
-ndel
-
-LOC
-
-ursur
-
-house
-
-se
-
-REL
-
-vel=otiʼ-ayɨ=mbaiʼ
-
-2SG=see-PST=3SG
-
-orɨt
-
-yesterday
-
-mbu=sil ndel ursur se vel=otiʼ-ayɨ=mbaiʼ orɨt
-
-1SG=live LOC house REL 2SG=see-PST=3SG yesterday
-
-"I live in the house that you saw yesterday."
+> *mbusil ndel ɨrsɨr se velotiʼayɨmbaiʼ orɨt*
+> `mbu=sil ndel ɨrsɨr se vel=otiʼ-ayɨ=mbaiʼ orɨt`
+> `1SG=live LOC house REL 2SG=see-PST=3SG yesterday`
+> "I live in the house that you saw yesterday."
 
 ### Converb
+Formed from the productive word _ɨtɨ_ "thing" being grammaticalized as nominalizer.
 
-Converbs are an innovation in Later Ansang from the end of 1000AGS. Here you can see them. They are formed from the productive word _ɨtɨ_ "thing" being grammaticalized as nominalizer.
-
-vel-mborot
-
-2.NOM-sew
-
-ndayɨtɨ,
-
-TERM.CVB
-
-ndaʼ-ahako
-
-1.NOM-sing
-
-ndorok-ka
-
-song-PL
-
-vel-mborot ndayɨtɨ, ndaʼ-ahako ndorok-ka
-
-2.NOM-sew TERM.CVB 1.NOM-sing song-PL
-
-"While you are sewing, we sing songs"
-
+> *velmborot ndayɨtɨ, ndaʼahako ndorokka*
+> `vel=mborot ndayɨtɨ, ndaʼ-ahako ndorok-ka
+> `2=sew TERM.CVB 1=sing song-PL
+> "While you are sewing, we sing songs"
 #### Rukɨtɨ
 
 For an imperfective, conditional and locative converb (most known converb conjugation):
 
-mbaimbai
-
-man
-
-xap-lu
-
-temple-3.ACC
-
-tɨr-ɨmbo
-
-3.NOM-go
-
-rukɨtɨ
-
-CVB
-
-tɨr-otiʼ
-
-3.NOM-see
-
-ɨp
-
-ART
-
-njire
-
-bird
-
-mbaimbai xap-lu tɨr-ɨmbo rukɨtɨ tɨr-otiʼ ɨp njire
-
-man temple-3.ACC 3.NOM-go CVB 3.NOM-see ART bird
-
-"The man, while going to the temple, saw a bird"
-
+> *mbaimbai xaplu tɨrɨmbo rukɨtɨ tɨrotiʼ ɨp njire*
+> `mbaimbai xap-lu tɨr-ɨmbo rukɨtɨ tɨr-otiʼ ɨp njire
+> `man temple-3.ACC 3.NOM-go CVB 3.NOM-see ART bird
+> "The man, while going to the temple, saw a bird"
 #### Voŋɨtɨ
+Grammaticalized from the verb 'to give' *voŋɨ*, it's a purposive and causal converb:
 
-From the meaning to give, here its grammaticalized given a purposive and causal converb:
+> *mbutoret se toʼor kake voŋɨtɨ*
+> `mbu=toret se toʼor kake voŋɨtɨ
+> `1.NOM-scale DEM fish cook CVB
+> "I scale this fish in order to cook it"
 
-mbu-toret
-
-1.NOM-scale
-
-se
-
-DEM
-
-toʼor
-
-fish
-
-kake
-
-cook
-
-voŋɨtɨ
-
-CVB
-
-mbu-toret se toʼor kake voŋɨtɨ
-
-1.NOM-scale DEM fish cook CVB
-
-"I scale this fish in order to cook it"
 
 #### Ndayɨtɨ
 
-From the verb to leave, here it is grammaticalized given a terminative converb:
+From the verb 'to leave' *nday*, here it is grammaticalized given a terminative converb:
 
-mbu-lonjor
-
-1.NOM-die
-
-ndayɨtɨ
-
-TERM.CVB
-
-mbu-res-eye-le
-
-1.NOM-forget-NPST.NEG
-
-tu-tere
-
-2.GEN-kindness
-
-mbu-lonjor ndayɨtɨ mbu-res-eye-le tu-tere
-
-1.NOM-die TERM.CVB 1.NOM-forget-NPST.NEG 2.GEN-kindness
-
-"Until I die, I'll not forget your kindness"
+> *mbulonjor ndayɨtɨ mbureseyele tutere*
+> `mbu-lonjor ndayɨtɨ mbu-res-eye-le tu-tere
+> `1.NOM-die TERM.CVB 1.NOM-forget-NPST.NEG 2.GEN-kindness
+> "Until I die, I'll not forget your kindness"
 
 ### Complementizer: *alerukɨt* and *alendayɨ*
 
 From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is Alendayɨ, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
 
-tata
-
-father
-
-umanji-re
-
-come-NPST
-
-alerukɨt
-
-say.CVB
-
-tɨr-ɨrot
-
-3.NOM-know
-
-tata umanji-re alerukɨt tɨr-ɨrot
-
-father come-NPST say.CVB 3.NOM-know
-
-"He knows that father will come tomorrow"
+> *Tata umanjire alerukɨt tɨrɨrot*
+> `tata umanji-re alerukɨt tɨr-ɨrot
+> `father come-NPST say.CVB 3.NOM-know
+> "He knows that father will come tomorrow"
 
 ### Coordination
 
@@ -402,37 +252,12 @@ Ansang features counters for basically anything.
 
 Ansang literature is characterized by highly religious texts that can be traced back by its origins when the [[Lavondu]] first came into contact with Ansang, in the [[9th century]].
 
-The first paragraph of the historical essay of a famous writer, [[Emberetek Arol ʼIʼici]].
+The first paragraph of the historical essay of a famous writer, [[ʼIʼici]].
 
-ilap-aka
-
-ship-PL
-
-tɨpima
-
-new
-
-akatupɨne
-
-shape
-
-axek-e-ŋgɨ
-
-come-PASS-PST
-
-ndel
-
-LOC
-
-ameʼ
-
-ocean
-
-ilap-aka tɨpima akatupɨne axek-e-ŋgɨ ndel ameʼ
-
-ship-PL new shape come-PASS-PST LOC ocean
-
-"Ships of a new kind came from the ocean"
+> *Ilapaka tɨpima akatupɨne axekeŋgɨ ndel ameʼ*
+> `ilap-aka tɨpima akatupɨne axek-e-ŋgɨ ndel ameʼ
+> `ship-PL new shape come-PASS-PST LOC ocean
+> "Ships of a new kind came from the ocean"
 
 |   |   |   |
 |---|---|---|

@@ -16,7 +16,7 @@ tags:
 [[Embendalere]]
 [[Ŋatumici]]
 
-[[Ansang Language]]
+[[Old Ansang]]
 [[Yuge language]]
 
 

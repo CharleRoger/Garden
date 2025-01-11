@@ -1,4 +1,4 @@
-Official religion of the [[Ansang Empire]] practiced even by some [[Lavondu]], after the conquest of the [[Ansang Empire]] in the shores of [[Kóty]], the cult of the Ansang gods expanded even further.
+The official religion of the [[Ansang Empire]] practiced among [[Lavondu]], after the conquest of the [[Ansang Empire]] in the shores of [[Kóty]], the cult of the Ansang gods expands further into their colonies with a general tendency to merge and intertwine with local cults and deities.
 Composed of seven Celestial Gods:
 * [[Orɨm]] God of sun, light, light-beams.
 * [[Yuŋgo]] God of fire, blacksmithing, weapons.
@@ -22,7 +22,7 @@ Ansang cosmology give provide several interpretations of the creation of the wor
 ## Beliefs
 
 ### Ñyatil
-Polytheistic in nature, the worship of many Gods and Goddesses known as [[Ñyatil]] is commonplace in the entirety of the [[Ansang Islands]].
+Polytheistic in nature, the worship of many Gods and Goddesses known as [[Ñyatil]] is commonplace and central to the lives of many [[Ansang people|Ansang]],  [[Ansang Islands]].
 
 #### Canon pantheon
 
