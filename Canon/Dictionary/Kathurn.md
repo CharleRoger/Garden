@@ -85,8 +85,7 @@ Likely related to [[Ardanic language|Ardanic]]: [[Ardanic#šan|šan]] "old man"
 **Plural:** *kusthe*
 # Pseudo-Compounds 
 
-Pseudo-compounds are a particular class of prefixes in Kathurn. Traditionally 
-
+Pseudo-compounds are a particular class of prefixes in Kathurn. Traditionally there are no prefixes in the [[Yarlish languages]]. All of these prefixes began their life as adjectival compounds. 
 ## a- 
 The prefix *a-* marks movement in either direction. 
 ## e- 
@@ -125,7 +124,68 @@ The prefix *vi-* means "active things" and wild and otherwise lively entities.
 The prefix *yas-* is associated with forbidden and illicit things and activities. 
 
 # Class Suffixes
+
 # Derivational Suffixes
+## \[Low]
+Vowel final, denominal verbaliser 
+## -V 
+Thematic vowel, denominal verbaliser 
+## -(a)b \[Len]
+Augementative
+## -é \[Len]
+Produce of... 
+## -(e)khta \[Len] 
+People who have, who are among, who are under, who belong to. 
+## -er 
+Abstract noun
+## -eri \[Str]
+Place of... 
+
+## -(e)s \[Len]
+Deverbal passive nouns. 
+## -da 
+People of (activity)
+## -do 
+Place which is ... 
+## -dun \[Low]
+People of place ... 
+## -(i)k \[Str]
+something to ... (useful to do for...)
+## - im \[Low]
+Male names
+## -(i)ns \[Len]
+Deverbal abstracts
+## -in \[Len]
+Being in the state of ... 
+## -iye
+Feminine names
+## -kV
+Deverbal verbal derivations.
+## -ki \[Low]
+Diminutive
+## -kiri \[Low]
+Diminutive
+## -(m)un \[Low] 
+Object for the purpose of ... 
+## -ova \[Str]
+Enities related to .. 
+## -pa 
+Food related to .. 
+## -sun 
+to be able to ... 
+## -(t)ek
+Part of ... 
+## -(t)okh
+Something similar to ...
+## -ti 
+People who do ... 
+## -u \[Str]
+Reification of ... 
+## -yen 
+Negation of property ... 
+## -yër 
+Without... 
+
 
 
 

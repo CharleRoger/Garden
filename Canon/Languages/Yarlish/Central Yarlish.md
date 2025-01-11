@@ -1,0 +1,2 @@
+The term Central Yarlish denotes a group of closely related dialects spoken in the Lowlands and Midlands of [[Oksandanderi]]. 
+The most noteworthy variety of this language is [[Kathurn language|Kathurn]], which served as the literary standard language for many centuries. 
