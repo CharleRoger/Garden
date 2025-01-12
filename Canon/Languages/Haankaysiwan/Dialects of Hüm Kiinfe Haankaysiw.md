@@ -11,7 +11,7 @@ There are eight major dialects found in [[1st century|this era]] which can be sp
 ## Dialectal Comparisons
 Detailed below are tables that demonstrate the phonetic differences between dialects of certain declensions and conjugations.
 ### Nouns
-#### Faanru (River, Water [drink])
+#### [[Dictionary of Hüm Kiinfe Haankaysiw#faanru|Faanru]] (River)
 
 |              | <              | Romanization | Bay Haankaysiw   | River Haankaysiw | Central Haankaysiw  | Highlands Haankaysiw | Western Haankaysiw | Cradles Haankaysiw  | Southern Haankaysiw | Lake Haankaysiw     |
 | ------------ | -------------- | ------------ | ---------------- | ---------------- | ------------------- | -------------------- | ------------------ | ------------------- | ------------------- | ------------------- |
@@ -29,7 +29,7 @@ Detailed below are tables that demonstrate the phonetic differences between dial
 | ^            | *Genitive*     | Faanruufut   | ˈɸaː.luː.ɸut͡s   | ˈɸãːn.ɹuː.ɸut͡s  | ˈɸãː.l̪uː.ɸut̪      | ˈhaːn.ru.ɸut͡s       | ˈɸae̯n.ɾu.ɸut͡s    | ˈɸaːn̪.r̪uː.ɸut̪    | ˈɸaːn̪.ɾ̪uː.ɸut̪͡s̪ | ˈɸaːn̪.ɾ̪uː.ɸus̪    |
 | ^            | *Comitative*   | Faanruuʻuy   | ˈɸaː.lũː.ʔũi̯    | ˈɸãːn.ɹuː.ʔui̯   | ˈɸãː.l̪ũ.ʔũi̯       | ˈhaːn.ru.ʔɯ          | ˈɸae̯n.ɾu.ʔʉ       | ˈɸaːn̪.r̪uː.ʔui̯    | ˈɸaːn̪.ɾ̪uː.ʔui̯    | ˈɸaːn̪.ɾ̪uː.ʔui̯    |
 | ^            | *Instrumental* | Faanruuʻïrfï | ˈɸaː.lũː.ʔɯ̃l.ɸɯ | ˈɸãːn.ɹuː.ʔɯɹ.ɸɯ | ˈɸãːn.l̪ũː.ʔɯ̃l̪.ɸɯ | ˈhaːn.ru.ʔɯr.hɯ      | ˈɸae̯n.ɾu.ʔɯɾ.ɸɯ   | ˈɸaːn̪.r̪uː.ʔɯr̪.ɸɯ | ˈɸaːn̪.ɾ̪uː.ʔɯɾ̪.ɸɯ | ˈɸaːn̪.ɾ̪uː.ʔɯɾ̪.ɸɯ |
-#### Kay (Spirit, Deity)
+#### [[Dictionary of Hüm Kiinfe Haankaysiw#kay|Kay]] (Spirit, Deity)
 
 |              | <              | Romanization | Bay Haankaysiw | River Haankaysiw | Central Haankaysiw | Highlands Haankaysiw | Western Haankaysiw | Cradles Haankaysiw | Southern Haankaysiw | Lake Haankaysiw |
 | ------------ | -------------- | ------------ | -------------- | ---------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------- | --------------- |
@@ -47,7 +47,7 @@ Detailed below are tables that demonstrate the phonetic differences between dial
 | ^            | *Genitive*     | Kayayfut     | kɑˈʎai̯.ɸut͡s  | kɑˈʎai̯.ɸut͡s    | kɑˈʎai̯.ɸut̪       | kɑˈjai̯.ɸʊt͡s        | kaˈjɛ.ɸʊt͡s        | kɑˈjai̯.ɸut̪       | koˈjai̯.ɸut̪͡s̪     | koˈjai̯.ɸus̪    |
 | ^            | *Comitative*   | Kayayuy      | kɑˈʎa.ʎui̯     | kɑˈʎa.ʎui̯       | kɑˈʎa.ʎui̯         | kɑˈja.jɯ̽            | kɑˈja.jʉ           | kɑˈja.jui̯         | koˈja.jui̯          | koˈja.jui̯      |
 | ^            | *Instrumental* | Kayayirfi    | kɑˈʎa.ʎil.ɸi   | kɑˈʎa.ʎiɹ.ɸi     | kɑˈʎa.ʎil̪.ɸi      | kɑˈja.jɪr.hi         | kɑˈja.jɪɾ.ɸi       | kɑˈja.jir̪.ɸi      | koˈja.jiɾ̪.ɸi       | koˈja.jiɾ̪.ɸi   |
-#### Mila
+#### [[Dictionary of Hüm Kiinfe Haankaysiw#mila|Mila]] (Horse)
 
 |              | <              | Romanization | Bay Haankaysiw | River Haankaysiw | Central Haankaysiw | Highlands Haankaysiw | Western Haankaysiw | Cradles Haankaysiw | Southern Haankaysiw | Lake Haankaysiw |
 | ------------ | -------------- | ------------ | -------------- | ---------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------- | --------------- |
