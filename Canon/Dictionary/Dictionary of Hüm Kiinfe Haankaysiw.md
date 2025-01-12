@@ -28,7 +28,7 @@ tags:
 /on/ [ˈʔoŋ]
 *n.*
 >¹ Stone; a hard earthen substance that forms cliffs, rocks, and the like
->**Derivatives:** *[[Dictionary of Hüm Kiinfe Haankaysiw#ʻontïk|ʻontïk]]*
+>**Derivatives:** *[[Dictionary of Hüm Kiinfe Haankaysiw#ʻontïk|ʻontïk]]*, *[[#naaʻon]]*
 
 *adj.*
 >¹ Enduring, tough
@@ -113,7 +113,7 @@ a
 /ˈɸaːn.ru/ [ˈɸaːn.ru]
 *n.*
 >¹ River, water (beverage)
->**Derivatives:** *[[Dictionary of Hüm Kiinfe Haankaysiw#faanrusïïh|faanrusïïh]]*
+>**Derivatives:** *[[Dictionary of Hüm Kiinfe Haankaysiw#faanrusïïh|faanrusïïh]]*, *[[#naafaanru]]*
 
 ### faanrusïïh
 /ˈɸaːn.ru.sɯːx/ [ˈɸaːn.ru.sɯːx]
@@ -174,6 +174,7 @@ a
 
 *adj.*
 >¹ Wise, experienced, elderly
+>**Derivatives:** *[[#teyokehurwan]]*
 
 # i
 ### ihös
@@ -207,6 +208,7 @@ a
 /kaˈmaɬ.t͡sik.pʼanʱ/ [kɑˈmaɬ.t͡ʃik.p’aŋʱ]
 *n.* From [[Boaghuta]] *[[Boaghuta Dictionary#kmätlchikhb’gn’|kmätlchikhb’gn’]]*
 >¹ Tool used to shape the earth to form levees and furrows on a field for agriculture (regional to River Haankaysiw)
+>**Derivatives:** *[[#kamaltikpan]]*
 ### kamaltikʻüp
 /kaˈmaɬ.t͡sik.ʔyp/ [kɑˈmaɬ.t͡sik.ʔyp]
 *n.* From [[Boaghuta]] *[[Boaghuta Dictionary#kmätlchikh‘üb|kmätlchikh‘üb]]*
@@ -222,6 +224,7 @@ a
 
 *adj.*
 >¹ Spiritually powerful, supernatural, divine
+>**Derivatives:** *[[#teyokkay]]*, *[[#naakay]]*
 ### kaartu
 /ˈkaːr.t͡su/ [ˈkɑːr.t͡su]
 *n.*
@@ -239,14 +242,17 @@ a
 /ˈkiːn/ [ˈciːŋ]
 *v.*
 >¹ To speak, to recount, to make vocalizations
+>**Derivatives:** *[[#kiinfe]]*
 ### kiinfe
 /ˈkiːn.ɸe/ [ˈciːm.βe]
 *v.* From *[[#kiin]]* + *-fe*
 >¹ Language, speech
+>**Derivatives:** *[[#kiinfefir]]*, *[[#kiinferöʻay]]*
 ### kiinfefir
 /ˈkiːn.ɸe.ɸir/ [ˈciːm.βe.ɸir]
 *v.* From *[[#kiinfe]]* + *[[#fir]]*
 >¹ To write using a brush
+>**Derivatives:** *[[#kiinfefir]]*
 ### kiinfefirfe
 /ˈkiːn.ɸe.ɸir.ɸe/ [ˈciːm.βe.ɸir.ɸe]
 *v.* From *[[#kiinfefir]]* + *-fe*
@@ -255,6 +261,7 @@ a
 /ˈkin.ɸe.rø.ʔaj/ [ˈciːm.βe.rø.ʔai̯]
 *v.* From *[[#kiinfe]]* + *[[#roʻay]]*
 >¹ To write by carving _(regional to Western, Highlands, River, Bay, and Central Haankaysiw)_
+>**Derivatives:** *[[#kiinferöʻayfe]]*
 ### kiinferöʻayfe
 /ˈkiːn.ɸe.rø.ʔaj.ɸe/ [ˈciːm.βe.rø.ʔai̯.ɸe]
 *n.* From *[[#kiinferöʻay]]* + *-fe*
@@ -263,6 +270,7 @@ a
 /ˈkoʔ/ [ˈkoʔ]
 *n.*
 >¹ Mountain, cliff, any hill too steep for horses or carts
+>**Derivatives:** *[[#koʻwan]]*
 ### koʻwan
 /ˈkoʔ.wan/ [ˈkoʔ.wɑŋ]
 *n.* From *[[#koʻ]]* + *[[#wan]]*
@@ -271,6 +279,7 @@ a
 /ˈkow/ [ˈkou̯]
 *n.*
 >¹ Wisdom
+>**Derivatives:** *[[#kownïïmhu]]*
 ### kownïïmhu
 /kowˈnɯːm.xu/ [kou̯ˈnɯːŋ.ɣu]
 *v.* From *[[#kow]]* + *[[#niimhü]]*
@@ -303,6 +312,7 @@ a
 /ˈmeː/ [ˈmeː]
 *v.*
 >¹ To collect, to group, to round up, to unite
+>**Derivatives:** *[[#meefe]]*
 ### meefe
 /ˈmeː.ɸe/ [ˈmeː.ɸe]
 *n.* From *[[#mee]]* + *-fe*
@@ -315,6 +325,7 @@ a
 /ˈmi.ɬa/ [ˈmi.ɬa]
 *n.*
 >¹ Horse
+>**Derivatives:** *[[#naamila]]*
 ### miiʻ
 /ˈmiːʔ/ [ˈmiːʔ]
 *n.*
@@ -323,6 +334,7 @@ a
 /moˈʔɯː/ [moˈʔɯː]
 *n.*
 >¹ Family, close friends, those you raise, those who raise you
+>**Derivatives:** *[[#moʻïïhu]]*
 ### moʻïïhu
 /moˈʔɯː.xu/ [moˈʔɯː.xu]
 *v.* From *[[#moʻïï]]* + *-hu*
@@ -333,10 +345,12 @@ a
 [nãp.t͡sʼoːɹ]
 *n.* From [[Boaghuta]] *[[Boaghuta Dictionary#gnpt’öûl|gnpt’öûl]]*
 >¹ Caffinated grain crop primarily grown in flooded fields (regional to River Haankaysiw)
+>**Derivatives:** *[[#napeʻtoor]]*
 ### napeʻtoor
 [nã.pe.t͡sːoːl]
 *n.* From *[[#napʻtoor]]*
 >¹ Caffinated grain crop primarily grown in flooded fields (regional to Bay and Central Haankaysiw)
+>**Derivatives:** *[[#napetoor]]*
 ### napetoor
 /na.peˈt͡soːr/ [na.peˈt͡soːr]
 *n.* From *[[#napeʻtoor]]*
@@ -344,6 +358,7 @@ a
 ### naa
 /ˈnaː/ [ˈnaː]
 >¹ Gender, gender identity
+>**Derivatives:** *[[#naaʻon]]*, *[[#naakay]]*, *[[#naamila]]*, *[[#naafaanru]]*
 ### naaʻon
 /ˈnaː.ʔon/ [ˈnaː.ʔoŋ]
 *n.* From *[[#naa]]* + *[[#ʻon]]*
@@ -358,7 +373,7 @@ a
 >¹ Spirit gender, supernatural-entity gender
 ### naamila
 /ˈnaːmi.ɬa/ [ˈnaː.mi.ɬa]
-*n.* From *[[#naa]]* +*[[#mila]]*
+*n.* From *[[#naa]]* + *[[#mila]]*
 >¹ Horse gender
 ### nitköö
 /ˈnit͡s.køː/ [ˈnit͡s.køː]
@@ -370,6 +385,7 @@ a
 /ˈniːm/ [ˈniːŋ]
 *n.*
 >¹ Eye, eyeball
+>**Derivatives:** *[[#niimhü]]*
 ### niimhü
 /ˈniːm.xy/ [ˈniːɲ.ʝy]
 *v.* From *[[#niim]]* + *-hu*
@@ -378,6 +394,7 @@ a
 >³  To inspect, to verify
 >⁴ To estimate, to gauge
 >⁵ To empathize
+>**Derivatives:** *[[#kownïïmhu]]*
 ### nuʻas
 /nuˈʔas/ [nuˈʔas]
 *n.*
@@ -395,6 +412,7 @@ a
 /ˈpanʱ/ [ˈpaŋʱ]
 *n.* From [[Boaghuta]] *[[Boaghuta Dictionary#b’gn’|b’gn’]]*
 >¹ Levee, earthwork border of a flooded farmland (regional to River Haankaysiw)
+>**Derivatives:** *[[#pan]]*
 ### peeh
 /ˈpeːx/ [ˈpeːx]
 *n.*
@@ -420,10 +438,12 @@ a
 /roˈʔaj/ [roˈʔai̯]
 *v.*
 >¹ To manipulate hard and solid materials in artistic or similar fashions; to carve
+>**Derivatives:** *[[#roʻayfe]]*, *[[#kiinferöʻay]]*
 ### roʻayfe
 /roˈʔay.ɸe/ [roˈʔai̯.ɸe]
 *n.* From *[[#roʻay]]* + *-fe*
 >¹ Carving, sculpture, statue
+>**Derivatives:** *[[#roʻayfeyohna]]*
 ### roʻayfeyohna
 /roˈʔay.ɸe.jox.na/ [roˈʔai̯.ɸe.joh.na]
 *n.* From *[[#roʻayfe]]* + *[[#yohna]]*
@@ -447,8 +467,9 @@ a
 >¹ Fox
 ### sirisiimüükrüü
 /si.ri.siːˈmyːk.ryː/ [ʃi.ri.ʃiːˈmyːk.ryː]
-*n.* From [[Mÿrzoto]] *[[Mÿrzoto Dictionary#ciricímäükrű|ciricímäükrű]]*
+*n.* From [[Täne language|Täne]] *[[Täne Dictionary#ciricímäükrű|ciricímäükrű]]*
 >¹ Writing written by carving _(regional to Lake, Southern, Cradles, and Central Haankaysiw)_
+>**Derivatives:** *[[#sirisiimüükrüühü]]*
 ### sirisiimüükrüühü
 /si.ri.siːˈmyːk.ryː.xy/ [ʃi.ri.ʃiːˈmyːk.ryː.çy]
 *v.* From *[[#sirisiimüükrüü]]* + *-hu*
@@ -457,6 +478,7 @@ a
 /ˈsiːx/ [ˈʃiːx]
 *n.*
 >¹ Breast, titty, boob, udder
+>**Derivatives:** *[[#faanrusïïh]]*
 ### siirpey
 /ˈsiːr.pej/ [ˈʃiːr.pei̯]
 *v.*
@@ -469,8 +491,9 @@ a
 # t
 ### tahew
 /t͡saˈxew/ [t͡saˈxeu̯]
-*n.* From [[Mÿrzoto]] *[[Mÿrzoto Dictionary#däheö|däheö]]*
+*n.* From [[Täne language|Täne]] *[[Täne Dictionary#däheö|däheö]]*
 >¹ Iron (regional to Lake, Southern, and Cradles, Haankaysiw)
+>**Derivatives:** *[[#tahiw]]*
 ### tahiw
 /t͡saˈxiw/ [t͡saˈçiu̯]
 *n.* From *[[#tahew]]*
@@ -484,10 +507,12 @@ a
 /ˈt͡se.jo/ [ˈt͡se.jo]
 *v.*
 >¹ To lead, to rule, to guide
+>**Derivatives:** *[[#teyo]]*
 ### teyoke
 /ˈt͡se.jo.ke/ [ˈt͡se.jo.ke]
 *n.* From *[[#teyo]]* + -*ke*
 >¹ Leader, ruler
+>**Derivatives:** *[[#teyokkay]]*, *[[#teyokehurwan]]*
 ### teyokehurwan
 /t͡se.jo.keˈhur.wan/ [t͡se.jo.keˈhur.wɑŋ]
 *n.* From *[[#teyoke]]* + *[[#hurwan]]*
@@ -501,6 +526,7 @@ a
 /ˈt͡seːk/ [ˈt͡seːk]
 *v.*
 >¹ To dig, to burrow
+>**Derivatives:** *[[#teekke]]*
 ### teekke
 /ˈt͡seːk.ke/ [ˈt͡seːk.ke]
 *n.* From *[[#teek]]* + *-ke*
@@ -567,6 +593,7 @@ a
 /ˈβun/ [ˈβuŋ]
 *n.*
 >¹ Repetitions
+>**Derivatives:** *[[#vunhu]]*
 ### vunhu
 /ˈβun.xu/ [ˈβuŋ.ɣu]
 *v.* From *[[#vun]]* + *-hu*
@@ -581,6 +608,7 @@ a
 *n.*
 >¹ Bowl, small round vessel
 >² Crater, caldera
+>**Derivatives:** *[[#koʻwan]]*
 ### wehi
 /ˈwe.xi/ [ˈwe.çi]
 *n.*
@@ -590,6 +618,7 @@ a
 /ˈjox.na/ [ˈjoh.na]
 *n.*
 >¹ Ritual, ceremony, rites, ceremonial offerings
+>**Derivatives:** *[[#roʻayfeyohna]]*
 ### yuuʻ 
 /ˈjuːʔ/ [ˈjuːʔ]
 *n.*
