@@ -86,10 +86,10 @@ A full table of possible intrasyllabic clusters of two consonants subject to the
 | ŋʷ  | -   | ŋŋʷ | <   | <    | pŋʷ | bŋʷ | tŋʷ | dŋʷ | dŋʷ | <    | <    | sŋʷ | ŋʷ   | rŋʷ | lŋʷ |
 | p   | -   | mp  | <   | <    | pp  | <   | <   | <   | <   | <    | <    | <   | p    | rp  | lp  |
 | b   | -   | mb  | <   | <    | bb  | <   | <   | <   | <   | <    | <    | <   | b    | rb  | lb  |
-| t   | -   | mt  | <   | <    | pt  | <   | tt  | <   | <   | <    | <    | <   | t    | rt  | lt  |
-| d   | -   | md  | nt  | <    | bd  | <   | dd  | <   | <   | <    | <    | <   | d    | rd  | ld  |
-| j   | -   | mj  | nd  | <    | pj  | bj  | jj  | <   | <   | <    | <    | <   | j    | rj  | lj  |
-| k   | -   | ŋk  | nj  | <    | kk  | <   | <   | <   | <   | <    | <    | <   | k    | rk  | lk  |
+| t   | -   | mt  | nt  | <    | pt  | <   | tt  | <   | <   | <    | <    | <   | t    | rt  | lt  |
+| d   | -   | md  | nd  | <    | bd  | <   | dd  | <   | <   | <    | <    | <   | d    | rd  | ld  |
+| j   | -   | mj  | nj  | <    | pj  | bj  | jj  | <   | <   | <    | <    | <   | j    | rj  | lj  |
+| k   | -   | ŋk  | <   | <    | kk  | <   | <   | <   | <   | <    | <    | <   | k    | rk  | lk  |
 | g   | -   | ŋg  | <   | <    | gg  | <   | <   | <   | <   | <    | <    | <   | g    | rg  | lg  |
 | kʷ  | -   | ŋkʷ | <   | <    | kkʷ | <   | <   | <   | <   | <    | <    | <   | kʷ   | rkʷ | lkʷ |
 | gʷ  | -   | ŋgʷ | <   | <    | ggʷ | <   | <   | <   | <   | <    | <    | <   | gʷ   | rgʷ | lgʷ |
