@@ -41,7 +41,8 @@ Later Ansang features a consonantal inventory characterized by its pre-nasal con
 Ansang syllable structure is observed to be simple plain (C)V(V)(C).
 
 ### Morphonology
-Hic sunt draconis 
+Phonological processes in Old Ansang observed throughout the entire language, depending on the adjacent morphemes or their position in a word.
+
 
 ## Grammar
 Ansang is mostly SVO, with nominative-accusative alignment.
@@ -49,10 +50,9 @@ Ansang is mostly SVO, with nominative-accusative alignment.
 Ansang language features three particles, they are used to mark nouns according to their grammatical case or thematic relation in a sentence or clause.
 - *ŋgo* marks the comitative, instrumental of an object.
 - *ndel* marks the generic locative position of a noun.
-- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. 
+- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. Towards.
 
-
-> *Suta tɨrincuŋgɨ masa simbil ñimocaŋɨ musu isimi*
+> *Suta tɨrincuŋgɨ **masa** simbil ñimocaŋɨ musu isimi*
 > `Suta tɨr=incu-ŋgɨ masa simbil ñ=imoc-aŋɨ musu isimi 
 > `NAME 3SG=swim-PST towards axe 3INA=sink-PST 
 > Suta swam towards the hatchet that sank in the depths of the lake.
@@ -237,9 +237,8 @@ Formed by preceding the number with _sa_.
 
 Ansang features counters for basically anything.
 
-|                   |                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------ |
 | Pronunciation     | Use                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
 | People and things |                                                                                                  |
 | _rei_             | Furniture, household appliances                                                                  |
 | _ndale_           | Cups and glasses of drink                                                                        |
