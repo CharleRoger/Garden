@@ -1,0 +1,5 @@
+**Ābrējō** was the caste of farmers, builders, couriers and other labourers in [[Nambō]] society.
+
+The Ābrējō was willingly subjugated to the [[Ansang Empire]] by the [[Sakkorājā]] for a time, becoming the crux of the [[Ansang Empire|empire's]] entire presence in [[Nambō]]. This led to the perception that [[Ansang Empire|Ansang]] was becoming more and more of a drain on [[Nambō]] society, and eventually to the [[Qnōp' rebellion]], which began with the Ābrējō. This uprising did revoke [[Ansang Empire|Ansang]] rule, but had little effect on the social structure within [[Nambō]]. If anything, the role of the Ābrējō as directly providing for the [[Jakkuarasō]] system which gave the [[Sakkorājā]] their power was strengthened by the whole ordeal.
+
+The loin cloth was the most typical wear for an ābrēja man, while women tended to wear more, often multiple layers.

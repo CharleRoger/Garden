@@ -1,0 +1,3 @@
+The **Jakkuarasō** was a twofold caste of [[Nambō]] society, made up of the [[Kuarasō]] (soldiers) and the [[Āsamājā]] (political officers).
+
+During the [[Qnōp']] rebellion in the [[12th century]], both arms of the [[Jakkuarasō]] were organised into a genuine active army, instrumental in driving out the [[Ansang Empire]]. This cemented the [[Jakkuarasō]] as the predominant political tool of the [[Sakkorājā]], used to delineate and exchange their land. It was a common belief in [[Nambō]] that peace is attained through war alone, and indeed their own somewhat fantastical folklore justified the historical peace in the nation as the result of many great wars.

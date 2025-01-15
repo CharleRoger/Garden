@@ -30,7 +30,7 @@ In the following centuries several great steppe federations arose and fell again
 ### The Age of Fracturing: 700-900
 The age of cultural and political decline which is called the Age of Fracturing began in the early [[8th century]] and lasted until the middle of the [[9th century]]. Only the late [[9th century]] saw a renewed rise in Hnäzb power, but this time mostly connected to an emerging west-[[Fountainhead]] trade network.
 
-The great clans of the Hnäzb split into smaller and smaller clans. Politically there were no new large federations being formed. The old Hnäzb elite went into decline and mostly impoverished, while culture became increasingly more local. On the linguistic side, this loss of political unity also coincided with an increase in linguistic diversification among the [[Hnäzb languages]], although there is no direct cause and effect between these two developments. The Hnäzb tribes which were closest to the [[Nambō culture|Nambic cultures]] even began to enter a relation of vassalage with some of them.
+The great clans of the Hnäzb split into smaller and smaller clans. Politically there were no new large federations being formed. The old Hnäzb elite went into decline and mostly impoverished, while culture became increasingly more local. On the linguistic side, this loss of political unity also coincided with an increase in linguistic diversification among the [[Hnäzb languages]], although there is no direct cause and effect between these two developments. The Hnäzb tribes which were closest to the [[Nambic peoples|Nambic cultures]] even began to enter a relation of vassalage with some of them.
 
 ## Society 
 ### General Lifestyle and Economy
@@ -51,7 +51,7 @@ The symbolic narrative is that there are five parts to Hnäzb society. In fact t
 ### Gender
 The Hnäzb keep track of both patrilineal and matrilineal lines and assign different property to each. They believe that divine abilities are inherited through the female line, although they are different in men and women.
 
-According to their believes, humans were originally hermaphroditic, but were split into sexes by the gods after the fall of the world tree. There is also an equivalent of the [[Nambō culture|Nambō]] [[Nambō culture#ōsapnē|ōsapnē]]/[[Nambō culture#ōsapnē|tilibbō]], a third gender which is believed to originate from the convergence of two divine male and female lines and thus can transcend that gender binary. They often belong to the priest class as they are believed to have special powers. These people, neither male nor female, represent and amendment of the original separation and are thus closer to the divine original humans. 
+According to their believes, humans were originally hermaphroditic, but were split into sexes by the gods after the fall of the world tree. There is also an equivalent of the [[Nambō]] [[Nambō#ōsapnē|ōsapnē]]/[[Nambō#ōsapnē|tilibbō]], a third gender which is believed to originate from the convergence of two divine male and female lines and thus can transcend that gender binary. They often belong to the priest class as they are believed to have special powers. These people, neither male nor female, represent and amendment of the original separation and are thus closer to the divine original humans. 
 
 ### Religion
 Main article: [[Hnäzb religion]] 

@@ -1,0 +1,3 @@
+**Tāmākuarasō** were highly specialised ritual warriors in [[Nambō]] who dressed as animals and fought alone. They fell under the [[Jakkuarasō]] warrior-caste of [[Nambō]] society.
+
+Tāmākuarasō were primarily used in ritual combat used to settle legal disputes, but are said to have also fought during the [[Qnōp' rebellion]]. They typically wielded a small shield and a weapon used exclusively in ritual combat called a *kuahēgalla*, literally "war-shovel", which featured a flat plate resembling a shovelhead, traditionally carved from a lightweight stone but sometimes made in bronze.

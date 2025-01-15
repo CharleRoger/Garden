@@ -1,0 +1,1 @@
+**Āsamājā** were non-military members of the [[Jakkuarasō]] caste of [[Nambō]] society, typically accountants, diplomats, judiciaries, and things of that nature. They managed the land and its people on behalf of the [[Sakkorājā]] through various political and economic responsibilities.

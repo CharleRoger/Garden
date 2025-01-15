@@ -1,0 +1,5 @@
+**Huitēglō** was a caste of [[Nambō]] society representing scribes, natural philosophers, civic project managers and other skilled workers. Though many of the activities of the Huitēglō were scholarly or didactic, this should not be confused with the higher role of the scholars within the [[Sakkorājā]] as cultivators and originators of knowledge.
+
+A Huitēgla typically had some sort of fixed wage or living agreement with their [[ōmōda]] and often also worked closely with an [[Āsamājā]]. Their relationship with the [[Sakkorājā]] could make it difficult for a person of lower class to climb the social ladder, though a surprisingly high proportion of [[Lavondu]] immigrants were able to position themselves as Huitēgla. It was not uncommon for a Huitēgla to take on students or other kinds of subordinates, scribes for example were primarily teachers, and large farms had a manager appointed by the [[ōmōda]].
+
+After the [[Qnōp' rebellion]], cities began to rise throughout [[Nambō]], beginning in [[Uhustaw]], and the developing field of public infrastructure provided whole new facets to society and many jobs for the *Huitēglō*.

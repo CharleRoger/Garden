@@ -1,0 +1,3 @@
+**Kuarasō** is a [[Nambāno]] term roughly meaning "soldier" or "fighter", used to describe the active part of the [[Jakkuarasō]] warrior caste. Highly specialised Kuarasō are known as [[Tāmākuarasō]].
+
+There was little actual physical conflict to speak of for much of the history of [[Qnōp']], so Kuarasō were mostly a symbolic role and something of a deterrent. They did, however, frequently engage in ritual combat and provide important services to the [[Sakkorājā]]. During the [[Qnōp' rebellion]], the Kuarasō engaged in large-scale warfare for the first time in recorded history.
