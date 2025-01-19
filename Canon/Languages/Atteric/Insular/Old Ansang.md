@@ -85,7 +85,84 @@ Pronouns are clitics that must be attached to the lexical element comes suffixin
 > `2.RES=health-IRR   LOC next day`
 > "May you become healthy by the next day."
 
+### Reduplication
 
+Reduplication is a core feature of Old Ansang, a morphological process both present in verbs, nouns and adjectives. 
+#### Reduplication in nouns
+In **nouns**, reduplication assumes much broader and less constrained rules, allowing speakers to coin a myriad of new meanings, such as *mbo∼mboŋ* "big rock" or more commonly translated as "made of rocks".
+* *enu* 'sadness' > *enunu* 'depression'.
+* *hɨra* 'fire' > *hɨrara* 'big fire, forest fire'.
+* *hekeʼe* 'sky' > hekeʼeke 'firmament'.
+* *poʼo* 'endless' > *poʼopo* 'infinity, forever and ever'.
+* *vɨŋɨ* 'milk' > *vɨŋɨŋɨ* 'fermented milk, yogurt'.
+* *canja* 'happiness' > *canjanja* 'be euphoric; motivation'.
+* *emaʼ* 'cloud' > *emammaʼ* 'tempest, storm'.
+
+Commonly done in name conventions, one of the most common names is _mbomboŋ_ "made out of rocks/strong as rocks"
+### Verbs
+#### Transitive verbs
+
+Transitive verbs in Ansang language are the ones that take the most morphology of all.
+
+| -2                     | -1                                 | 0        | 1          | <         | <        | 2            | 3           | 4                                 |
+| ---------------------- | ---------------------------------- | -------- | ---------- | --------- | -------- | ------------ | ----------- | --------------------------------- |
+| **Optional Prefix**    | **Subject of the transitive verb** | **Stem** | **TAM**    | <         | <        | **Negation** | **Converb** | **Object of the transitive verb** |
+| **Directional prefix** | ^                                  | **Root** | **Aspect** | **Tense** | **Mood** | ^            | ^           | ^                                 |
+#### TAM
+
+Verbs in Ansang are not conjugated by person, they exhibit a system of TAM (Tense Aspect and Mood) with, Past and Non-Past Tense,  Imperative and Infinitive. They change accordingly to the last phoneme of the verb root.
+
+Their etymology vary a lot, but it is theorized they are innovations or simply metathesis of the same suffix.
+
+Although the use of these varies on the last phoneme of the root of the word, the row V# is the most used among all other ones, marked with green as the most prominent.
+
+|     | -   | Infinitive | Negative | Non-Past | Past   | Irrealis | Passive |
+| --- | --- | ---------- | -------- | -------- | ------ | -------- | ------- |
+| C#  | -   | _-anje_    | _-ye_    | _-eye_   | _-aŋɨ_ | _-andi_  | _-e_    |
+| V#  | -   | _-nja_     | _-le_    | _-re_    | _-ŋgɨ_ | _-ʼendi_ | _-ʼelo_ |
+| Vy# | -   | _-ay_      | _-el_    | _-ela_   | _-ɨŋ_  | _-ande_  | _-ol_   |
+#### Infinitive
+
+Special form of verbs that can be used as a noun, adjective, or adverb, in Old Ansang is no different to what English speakers are used to.
+
+#### Non Past
+
+Sometimes also called the Terminal conjugation of a verb, it's the base zero of a verb root.
+
+#### Irrealis
+
+A free label of a sequence of various moods.
+
+#### Passive
+
+The grammatical subject expresses the theme or patient of the main verb that is, the person or thing that undergoes the action or has its state changed.
+
+Bellow we can see a example of a sentence with use of Negative particle:
+```
+{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
+|<nowiki>mbu=karar-eye voŋɨ=nde</nowiki>
+|<nowiki>1SG.NOM=work-NPST give-2SG.ACC</nowiki>
+|"I'll do the work for you"}}
+```
+#### Causatives
+
+Causatives in Old Ansang come from the word _voŋɨ_ "to give", it's also used as a benefactive and dative preposition.
+```
+{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
+|mbu-ndixi-ŋgɨ-le-lu
+|1SG.NOM-kiss-PST-NEG-2PL.ACC
+|'i didn’t kiss you'}}
+
+{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
+|rut-xap ndekot-eye-nde
+|1SG.LOC-temple pray-NPST-2.SG.ACC
+|'I am at the temple praying to you'}}
+
+{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
+|mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ
+|1SG.NOM-eat-NEG-PST-3SG.ACC meat
+|'I didn't eat meat'}}
+```
 ## Syntax
 
 Ansang is mostly SVO, with nominative-accusative alignment.
@@ -134,10 +211,12 @@ Grammaticalized from the verb 'to give' *voŋɨ*, it's a purposive and causal co
 
 > *mbutoret se toʼor kake voŋɨtɨ*
 > `mbu=toret se toʼor kake voŋɨtɨ
-> `1.NOM-scale DEM fish cook CVB
+> `1=scale DEM fish cook CVB
 > "I scale this fish in order to cook it"
 
-
+>ayondɨ voŋɨtɨ 
+>`
+> "In order to eat, you must drink."
 #### Ndayɨtɨ
 
 From the verb 'to leave' *nday*, here it is grammaticalized given a terminative converb:
@@ -173,6 +252,19 @@ valence-changing strategies (e.g. causatives, anticausatives, applicatives, etc.
 ### Questions (polar, content)
 
 Question intonation is often used as a way to convey questions, be it polar or content.
+As such, Old Ansang is not devoid of content interrogative words.
+
+|                         | -   | Question word |
+| ----------------------- | --- | ------------- |
+| Manner (How)            | -   | *kimbi*       |
+| Direction (In what way) | -   | *vumbaiʼo*    |
+| Time (When)             | -   | *kɨcyu*       |
+| Quantity (How many)     | -   | *ŋgɨt*        |
+| Person (Who)            | -   | *tuvi*        |
+| Thing (What)            | -   | *kava*        |
+| Space (Where)           | -   | *kɨʼos*       |
+| Reason (Why)            | -   | *mbeimbei*    |
+
 
 ### Directional (orientational) prefixes
 
