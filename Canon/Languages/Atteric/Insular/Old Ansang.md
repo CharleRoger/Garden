@@ -48,9 +48,9 @@ Phonological processes in Old Ansang observed throughout the entire language, de
 Ansang is mostly SVO, with nominative-accusative alignment.
 ### Particles
 Ansang language features three particles, they are used to mark nouns according to their grammatical case or thematic relation in a sentence or clause.
-- *ŋgo* marks the comitative, instrumental of an object.
-- *ndel* marks the generic locative position of a noun.
-- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. Towards.
+- *ŋgo* marks the comitative, instrumental of an object. Comparable to a genitive/dative.
+- *ndel* marks the generic locative position of a noun. Comparable to the locative.
+- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. Comparable to the allative case.
 
 > *Suta tɨrincuŋgɨ **masa** simbil ñimocaŋɨ musu isimi*
 > `Suta tɨr=incu-ŋgɨ masa simbil ñ=imoc-aŋɨ musu isimi 
@@ -61,14 +61,14 @@ Ansang language features three particles, they are used to mark nouns according 
 #### Pronouns
 Pronouns are clitics that must be attached to the lexical element comes suffixing or prefixing the root word. They themselves don't have an isolated form to which they can function on their own.
 
-|             |     | -   | Subject | Object   | Possessive | Locative | Resultative |
-| ----------- | --- | --- | ------- | -------- | ---------- | -------- | ----------- |
-| 1st         | Sg. | -   | *mbu-*  | *-lai*   | *-re-*     | *rut-*   | *ko-*       |
-| ^           | Pl. | -   | *nda’-* | *-lɨ’*   | *-may-*    | *hur-*   | ^           |
-| 2nd         | Sg. | -   | *vel-*  | *-nde*   | *-tu-*     | *ŋgu-*   | *o-*        |
-| Animate/3rd | ^   | -   | *tɨr-*  | *-mbai’* | *-yu-*     | *ruk-*   | ^           |
-| 2nd/3rd     | Pl. | -   | *ŋges-* | *-lu*    | *-hey-*    | *tov-*   | ^           |
-| Inanimate   | <   | -   | *ñ(i)-* | <        | *ŋe-*      | <        | <           |
+|             |     | -   | Subject  | Object   | Possessive | Locative | Resultative |
+| ----------- | --- | --- | -------- | -------- | ---------- | -------- | ----------- |
+| 1st         | Sg. | -   | *mbu-*   | *-lai*   | *-re-*     | *rut-*   | *ko-*       |
+| ^           | Pl. | -   | *nda’-*  | *-lɨ’*   | *-may-*    | *hur-*   | ^           |
+| 2nd         | Sg. | -   | *vel-*   | *-nde*   | *-tu-*     | *ŋgu-*   | *o-*        |
+| Animate/3rd | ^   | -   | *tɨr-*   | *-mbai’* | *-yu-*     | *ruk-*   | ^           |
+| 2nd/3rd     | Pl. | -   | *ŋges-*  | *-lu*    | *-hey-*    | *tov-*   | ^           |
+| Inanimate   | <   | -   | -*ñ(i)-* | <        | *ŋe-*      | <        | <           |
 - **Subject pronouns**: Subject of the intransitive/transitive verb, essentially the Nominative.
 - **Object pronouns**: Object of the transitive verb, essentially the Accusative.
 - **Possessive pronouns**: Possessor prefixes, in verbs assumes function of reflexive pronoun going after the subject pronouns rendering them infixes.
@@ -85,6 +85,28 @@ Pronouns are clitics that must be attached to the lexical element comes suffixin
 > `2.RES=health-IRR   LOC next day`
 > "May you become healthy by the next day."
 
+#### Derivation
+Derivation in Ansang is a common act, and it is used in normal speech, mainly to form neologism the language does not has a root for it, or to simply to standardize the morphology.
+
+| Meaning        | -   | Morpheme |
+| -------------- | --- | -------- |
+| Place          | -   | -po      |
+| Human          | -   | -yeʼe    |
+| Adjectivizer   | -   | -her     |
+| Profession     | -   | -mo      |
+| Language       | -   | -nji     |
+| Maker          | -   | -xa      |
+| Nominalizer    | -   | -oñ      |
+| Noun into verb | -   | -si      |
+### Demonstatives
+
+|                         | -   |        |
+| ----------------------- | --- | ------ |
+| Proximal                | -   | se     |
+| Medial                  | -   | unju   |
+| Distal                  | -   | yasa   |
+| Non-visible but audible | -   | ye’eyu |
+| Non-audible but visible | -   | ’e’e   |
 ### Reduplication
 
 Reduplication is a core feature of Old Ansang, a morphological process both present in verbs, nouns and adjectives. 
@@ -228,14 +250,14 @@ From the verb 'to leave' *nday*, here it is grammaticalized given a terminative 
 
 ### Complementizer: *alerukɨt* and *alendayɨ*
 
-From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is Alendayɨ, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
+From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is *Alendayɨ*, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
 
 > *Tata umanjire alerukɨt tɨrɨrot*
 > `tata umanji-re alerukɨt tɨr-ɨrot
 > `father come-NPST say.CVB 3.NOM-know
 > "He knows that father will come tomorrow"
 
-### Coordination
+### Conjunction
 
 #### _yo/ŋal_ - coordination for nominals and adjectives
 
@@ -347,6 +369,8 @@ Ansang features counters for basically anything.
 | _ñom_             | Week                                                                                             |
 | _koret_           | Day of the month                                                                                 |
 
+
+## Oral tradition
 ## Literature
 
 Ansang literature is characterized by highly religious texts that can be traced back by its origins when the [[Lavondu]] first came into contact with Ansang, in the [[9th century]].
