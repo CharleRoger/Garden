@@ -160,31 +160,27 @@ A free label of a sequence of various moods.
 The grammatical subject expresses the theme or patient of the main verb that is, the person or thing that undergoes the action or has its state changed.
 
 Bellow we can see a example of a sentence with use of Negative particle:
-```
-{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
-|<nowiki>mbu=karar-eye voŋɨ=nde</nowiki>
-|<nowiki>1SG.NOM=work-NPST give-2SG.ACC</nowiki>
-|"I'll do the work for you"}}
-```
+mbu-ndixi-ŋgɨ-le-lu
+1SG.NOM-kiss-PST-NEG-2PL.ACC
+'i didn’t kiss you'
+
+rut-xap ndekot-eye-nde
+1SG.LOC-temple pray-NPST-2.SG.ACC
+'I am at the temple praying to you'
+
+mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ
+1SG.NOM-eat-NEG-PST-3SG.ACC meat
+'I didn't eat meat'
+
+
 #### Causatives
 
 Causatives in Old Ansang come from the word _voŋɨ_ "to give", it's also used as a benefactive and dative preposition.
-```
-{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
-|mbu-ndixi-ŋgɨ-le-lu
-|1SG.NOM-kiss-PST-NEG-2PL.ACC
-|'i didn’t kiss you'}}
 
-{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
-|rut-xap ndekot-eye-nde
-|1SG.LOC-temple pray-NPST-2.SG.ACC
-|'I am at the temple praying to you'}}
+mbu=karar-eye voŋɨ=nde
+1SG.NOM=work-NPST give-2SG.ACC
+"I'll do the work for you"
 
-{{interlinear|style1 = font-size:120%|style2 = color:DarkGreen;
-|mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ
-|1SG.NOM-eat-NEG-PST-3SG.ACC meat
-|'I didn't eat meat'}}
-```
 ## Syntax
 
 Ansang is mostly SVO, with nominative-accusative alignment.
