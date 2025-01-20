@@ -35,15 +35,10 @@ Later Ansang features a consonantal inventory characterized by its pre-nasal con
 | Close  | -   | **i** | **ɨ** | **u** |
 | Middle | -   | **e** |       | **o** |
 | Open   | -   | **a** |       |       |
-
 ### Phonotactics
-
 Ansang syllable structure is observed to be simple plain (C)V(V)(C).
-
 ### Morphonology
 Phonological processes in Old Ansang observed throughout the entire language, depending on the adjacent morphemes or their position in a word.
-
-
 ## Grammar
 Ansang is mostly SVO, with nominative-accusative alignment.
 ### Particles
@@ -53,9 +48,9 @@ Ansang language features three particles, they are used to mark nouns according 
 - *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. Comparable to the allative case.
 
 > *Suta tɨrincuŋgɨ **masa** simbil ñimocaŋɨ musu isimi*
-> `Suta tɨr=incu-ŋgɨ masa simbil ñ=imoc-aŋɨ musu isimi 
-> `NAME 3SG=swim-PST towards axe 3INA=sink-PST 
-> Suta swam towards the hatchet that sank in the depths of the lake.
+> `Suta tɨr=incu-ŋgɨ masa simbil ñ=imoc-aŋɨ musu isimi` 
+> `NAME 3SG=swim-PST towards axe 3INA=sink-PST`
+> "Suta swam towards the hatchet that sank in the depths of the lake."
 
 ### Nouns
 #### Pronouns
@@ -160,26 +155,24 @@ A free label of a sequence of various moods.
 The grammatical subject expresses the theme or patient of the main verb that is, the person or thing that undergoes the action or has its state changed.
 
 Bellow we can see a example of a sentence with use of Negative particle:
-mbu-ndixi-ŋgɨ-le-lu
-1SG.NOM-kiss-PST-NEG-2PL.ACC
-'i didn’t kiss you'
+> *mbundixiŋgɨlelu*
+> `mbu-ndixi-ŋgɨ-le-lu`
+> `1=kiss-PST-NEG`
+> 'I didn’t kiss you'
 
-rut-xap ndekot-eye-nde
-1SG.LOC-temple pray-NPST-2.SG.ACC
-'I am at the temple praying to you'
+> `rut-xap ndekot-eye-nde`
+> `1SG.LOC-temple pray-NPST-2.SG.ACC`
+> 'I am at the temple praying to you'
 
-mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ
-1SG.NOM-eat-NEG-PST-3SG.ACC meat
-'I didn't eat meat'
-
-
+> `mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ`
+> `1SG.NOM-eat-NEG-PST-3SG.ACC meat`
+> 'I didn't eat meat'
 #### Causatives
+**Causatives** in Old Ansang come from the word _voŋɨ_ "to give", it's also used as a benefactive and dative preposition.
 
-Causatives in Old Ansang come from the word _voŋɨ_ "to give", it's also used as a benefactive and dative preposition.
-
-mbu=karar-eye voŋɨ=nde
-1SG.NOM=work-NPST give-2SG.ACC
-"I'll do the work for you"
+> `mbu=karar-eye voŋɨ=nde`
+> `1SG.NOM=work-NPST give-2SG.ACC`
+> "I'll do the work for you"
 
 ## Syntax
 
@@ -213,44 +206,45 @@ _se_ is also used as an participle marker coming before the verb which also can 
 Formed from the productive word _ɨtɨ_ "thing" being grammaticalized as nominalizer.
 
 > *velmborot ndayɨtɨ, ndaʼahako ndorokka*
-> `vel=mborot ndayɨtɨ, ndaʼ-ahako ndorok-ka
-> `2=sew TERM.CVB 1=sing song-PL
+> `vel=mborot ndayɨtɨ, ndaʼ-ahako ndorok-ka`
+> `2=sew TERM.CVB 1=sing song-PL`
 > "While you are sewing, we sing songs"
 #### Rukɨtɨ
 
 For an imperfective, conditional and locative converb (most known converb conjugation):
 
 > *mbaimbai xaplu tɨrɨmbo rukɨtɨ tɨrotiʼ ɨp njire*
-> `mbaimbai xap-lu tɨr-ɨmbo rukɨtɨ tɨr-otiʼ ɨp njire
-> `man temple-3.ACC 3.NOM-go CVB 3.NOM-see ART bird
+> `mbaimbai xap-lu tɨr-ɨmbo rukɨtɨ tɨr-otiʼ ɨp njire`
+> `man temple-3.ACC 3.NOM-go CVB 3.NOM-see ART bird`
 > "The man, while going to the temple, saw a bird"
 #### Voŋɨtɨ
 Grammaticalized from the verb 'to give' *voŋɨ*, it's a purposive and causal converb:
 
 > *mbutoret se toʼor kake voŋɨtɨ*
-> `mbu=toret se toʼor kake voŋɨtɨ
-> `1=scale DEM fish cook CVB
+> `mbu=toret se toʼor kake voŋɨtɨ`
+> `1=scale DEM fish cook CVB`
 > "I scale this fish in order to cook it"
 
->ayondɨ voŋɨtɨ 
->`
-> "In order to eat, you must drink."
+> *velayondɨʼendi uŋoto voŋɨtɨ* 
+> `vel=ayondɨ-ʼendi uŋoto voŋɨtɨ`
+> `2=eat-IRR drink CVB`
+> "You must eat, in order to drink."
 #### Ndayɨtɨ
 
 From the verb 'to leave' *nday*, here it is grammaticalized given a terminative converb:
 
 > *mbulonjor ndayɨtɨ mbureseyele tutere*
-> `mbu-lonjor ndayɨtɨ mbu-res-eye-le tu-tere
-> `1.NOM-die TERM.CVB 1.NOM-forget-NPST.NEG 2.GEN-kindness
+> `mbu-lonjor ndayɨtɨ mbu-res-eye-le tu-tere`
+> `1.NOM-die TERM.CVB 1.NOM-forget-NPST.NEG 2.GEN-kindness`
 > "Until I die, I'll not forget your kindness"
 
 ### Complementizer: *alerukɨt* and *alendayɨ*
 
 From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is *Alendayɨ*, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
 
-> *Tata umanjire alerukɨt tɨrɨrot*
-> `tata umanji-re alerukɨt tɨr-ɨrot
-> `father come-NPST say.CVB 3.NOM-know
+> *Tata tɨrumanjire alerukɨt tɨrɨrot*
+> `tata tɨr=umanji-re alerukɨt tɨr-ɨrot`
+> `father 3=come-NPST CVB 3-know`
 > "He knows that father will come tomorrow"
 
 ### Conjunction
@@ -258,15 +252,6 @@ From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most c
 #### _yo/ŋal_ - coordination for nominals and adjectives
 
 _Yo_ is the main coordination of Ansang translated as "and-NP", The numbers or nouns or noun phrases that can be conjoined to _yo_ is unlimited unlike _ŋal_ which is solely for adjectives and adjectival phrases. Verbs take the converbs show above.
-
-Special cases as
-
-other subordination strategies (e.g. for manner, means, purpose, cause)
-
-valence-changing strategies (e.g. causatives, anticausatives, applicatives, etc.)
-
-### Negation
-
 ### Questions (polar, content)
 
 Question intonation is often used as a way to convey questions, be it polar or content.
@@ -283,8 +268,8 @@ As such, Old Ansang is not devoid of content interrogative words.
 | Space (Where)           | -   | *kɨʼos*       |
 | Reason (Why)            | -   | *mbeimbei*    |
 
-
 ### Directional (orientational) prefixes
+Some verbs may not take directional prefixes, those that do, are verbs related to movement. Like to go, to pass, to flow and to arrive.
 
 - _ŋay-_ Upward
 - _ot-_ Up stream/Inward
@@ -292,10 +277,6 @@ As such, Old Ansang is not devoid of content interrogative words.
 - _ŋge-_ Downward
 - _ɨr-_ Down stream/Outward
 - _map-_ Towards the speaker
-
-#### Directive use of directional prefixes
-
-Some verbs may not take directional prefixes, those that do, are verbs related to movement. Like to go, to pass, to flow and to arrive.
 
 ## Writing system
 
@@ -374,8 +355,8 @@ Ansang literature is characterized by highly religious texts that can be traced 
 The first paragraph of the historical essay of a famous writer, [[ʼIʼici]].
 
 > *Ilapaka tɨpima akatupɨne axekeŋgɨ ndel ameʼ*
-> `ilap-aka tɨpima akatupɨne axek-e-ŋgɨ ndel ameʼ
-> `ship-PL new shape come-PASS-PST LOC ocean
+> `ilap-aka tɨpima akatupɨne axek-e-ŋgɨ ndel ameʼ`
+> `ship-PL new shape come-PASS-PST LOC ocean`
 > "Ships of a new kind came from the ocean"
 
 |   |   |   |
