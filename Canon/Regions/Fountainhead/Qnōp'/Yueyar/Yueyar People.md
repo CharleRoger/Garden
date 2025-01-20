@@ -16,7 +16,7 @@ Like many of their neighbours and their cultural and linguistical cousins, Yueya
 6. [[Xōmuhŕ]] - Travellers & Entertainers
 7. [[Tmisŕ]] - Exiles, Criminals, & Merchants
 
-Movement between strata is difficult in Yueyar society. For example, to join the Sīmuesŕ, one must either marry into an existing noble house or acquire enough wealth to own both an estate and a parcel of workable land as well as learn a difficult and time consuming craft and petition the Yokrattasŕ to recognize it as artisanal. The most reliable way to move up is to devote yourself to the Xovvasŕ, however most Omsŕ have familial and communal pressure to remain and assist with the harvest and other labours that need to be done.
+Movement between strata is difficult in Yueyar society. For example, to join the Sīmuesŕ, one must either marry into an existing noble house or acquire enough wealth to own both an estate and a parcel of workable land as well as learn a difficult and time consuming craft and petition the Yokrattasŕ to recognize it as artisanal. The most reliable way to move up is to devote yourself to the Priesthood, however most Omsŕ have familial and communal pressure to remain and assist with the harvest and other labours that need to be done.
 
 All strata, except Tmisŕ, Yokrattasŕ, and Xōmuhŕ, are inherited from parents. Having parentage in the Tmisŕ may lead to negative social occurrences however. The default strata, with exceptions, is the Omssŕ.
 
