@@ -48,9 +48,9 @@ Phonological processes in Old Ansang observed throughout the entire language, de
 Ansang is mostly SVO, with nominative-accusative alignment.
 ### Particles
 Ansang language features three particles, they are used to mark nouns according to their grammatical case or thematic relation in a sentence or clause.
-- *ŋgo* marks the comitative, instrumental of an object.
-- *ndel* marks the generic locative position of a noun.
-- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. Towards.
+- *ŋgo* marks the comitative, instrumental of an object. Comparable to a genitive/dative.
+- *ndel* marks the generic locative position of a noun. Comparable to the locative.
+- *masa* marks the goal of any movement. This goal may be the end location or a state of affairs, i.e., a purpose. Comparable to the allative case.
 
 > *Suta tɨrincuŋgɨ **masa** simbil ñimocaŋɨ musu isimi*
 > `Suta tɨr=incu-ŋgɨ masa simbil ñ=imoc-aŋɨ musu isimi 
@@ -61,14 +61,14 @@ Ansang language features three particles, they are used to mark nouns according 
 #### Pronouns
 Pronouns are clitics that must be attached to the lexical element comes suffixing or prefixing the root word. They themselves don't have an isolated form to which they can function on their own.
 
-|             |     | -   | Subject | Object   | Possessive | Locative | Resultative |
-| ----------- | --- | --- | ------- | -------- | ---------- | -------- | ----------- |
-| 1st         | Sg. | -   | *mbu-*  | *-lai*   | *-re-*     | *rut-*   | *ko-*       |
-| ^           | Pl. | -   | *nda’-* | *-lɨ’*   | *-may-*    | *hur-*   | ^           |
-| 2nd         | Sg. | -   | *vel-*  | *-nde*   | *-tu-*     | *ŋgu-*   | *o-*        |
-| Animate/3rd | ^   | -   | *tɨr-*  | *-mbai’* | *-yu-*     | *ruk-*   | ^           |
-| 2nd/3rd     | Pl. | -   | *ŋges-* | *-lu*    | *-hey-*    | *tov-*   | ^           |
-| Inanimate   | <   | -   | *ñ(i)-* | <        | *ŋe-*      | <        | <           |
+|             |     | -   | Subject  | Object   | Possessive | Locative | Resultative |
+| ----------- | --- | --- | -------- | -------- | ---------- | -------- | ----------- |
+| 1st         | Sg. | -   | *mbu-*   | *-lai*   | *-re-*     | *rut-*   | *ko-*       |
+| ^           | Pl. | -   | *nda’-*  | *-lɨ’*   | *-may-*    | *hur-*   | ^           |
+| 2nd         | Sg. | -   | *vel-*   | *-nde*   | *-tu-*     | *ŋgu-*   | *o-*        |
+| Animate/3rd | ^   | -   | *tɨr-*   | *-mbai’* | *-yu-*     | *ruk-*   | ^           |
+| 2nd/3rd     | Pl. | -   | *ŋges-*  | *-lu*    | *-hey-*    | *tov-*   | ^           |
+| Inanimate   | <   | -   | -*ñ(i)-* | <        | *ŋe-*      | <        | <           |
 - **Subject pronouns**: Subject of the intransitive/transitive verb, essentially the Nominative.
 - **Object pronouns**: Object of the transitive verb, essentially the Accusative.
 - **Possessive pronouns**: Possessor prefixes, in verbs assumes function of reflexive pronoun going after the subject pronouns rendering them infixes.
@@ -85,6 +85,101 @@ Pronouns are clitics that must be attached to the lexical element comes suffixin
 > `2.RES=health-IRR   LOC next day`
 > "May you become healthy by the next day."
 
+#### Derivation
+Derivation in Ansang is a common act, and it is used in normal speech, mainly to form neologism the language does not has a root for it, or to simply to standardize the morphology.
+
+| Meaning        | -   | Morpheme |
+| -------------- | --- | -------- |
+| Place          | -   | -po      |
+| Human          | -   | -yeʼe    |
+| Adjectivizer   | -   | -her     |
+| Profession     | -   | -mo      |
+| Language       | -   | -nji     |
+| Maker          | -   | -xa      |
+| Nominalizer    | -   | -oñ      |
+| Noun into verb | -   | -si      |
+### Demonstatives
+
+|                         | -   |        |
+| ----------------------- | --- | ------ |
+| Proximal                | -   | se     |
+| Medial                  | -   | unju   |
+| Distal                  | -   | yasa   |
+| Non-visible but audible | -   | ye’eyu |
+| Non-audible but visible | -   | ’e’e   |
+### Reduplication
+
+Reduplication is a core feature of Old Ansang, a morphological process both present in verbs, nouns and adjectives. 
+#### Reduplication in nouns
+In **nouns**, reduplication assumes much broader and less constrained rules, allowing speakers to coin a myriad of new meanings, such as *mbo∼mboŋ* "big rock" or more commonly translated as "made of rocks".
+* *enu* 'sadness' > *enunu* 'depression'.
+* *hɨra* 'fire' > *hɨrara* 'big fire, forest fire'.
+* *hekeʼe* 'sky' > hekeʼeke 'firmament'.
+* *poʼo* 'endless' > *poʼopo* 'infinity, forever and ever'.
+* *vɨŋɨ* 'milk' > *vɨŋɨŋɨ* 'fermented milk, yogurt'.
+* *canja* 'happiness' > *canjanja* 'be euphoric; motivation'.
+* *emaʼ* 'cloud' > *emammaʼ* 'tempest, storm'.
+
+Commonly done in name conventions, one of the most common names is _mbomboŋ_ "made out of rocks/strong as rocks"
+### Verbs
+#### Transitive verbs
+
+Transitive verbs in Ansang language are the ones that take the most morphology of all.
+
+| -2                     | -1                                 | 0        | 1          | <         | <        | 2            | 3           | 4                                 |
+| ---------------------- | ---------------------------------- | -------- | ---------- | --------- | -------- | ------------ | ----------- | --------------------------------- |
+| **Optional Prefix**    | **Subject of the transitive verb** | **Stem** | **TAM**    | <         | <        | **Negation** | **Converb** | **Object of the transitive verb** |
+| **Directional prefix** | ^                                  | **Root** | **Aspect** | **Tense** | **Mood** | ^            | ^           | ^                                 |
+#### TAM
+
+Verbs in Ansang are not conjugated by person, they exhibit a system of TAM (Tense Aspect and Mood) with, Past and Non-Past Tense,  Imperative and Infinitive. They change accordingly to the last phoneme of the verb root.
+
+Their etymology vary a lot, but it is theorized they are innovations or simply metathesis of the same suffix.
+
+Although the use of these varies on the last phoneme of the root of the word, the row V# is the most used among all other ones, marked with green as the most prominent.
+
+|     | -   | Infinitive | Negative | Non-Past | Past   | Irrealis | Passive |
+| --- | --- | ---------- | -------- | -------- | ------ | -------- | ------- |
+| C#  | -   | _-anje_    | _-ye_    | _-eye_   | _-aŋɨ_ | _-andi_  | _-e_    |
+| V#  | -   | _-nja_     | _-le_    | _-re_    | _-ŋgɨ_ | _-ʼendi_ | _-ʼelo_ |
+| Vy# | -   | _-ay_      | _-el_    | _-ela_   | _-ɨŋ_  | _-ande_  | _-ol_   |
+#### Infinitive
+
+Special form of verbs that can be used as a noun, adjective, or adverb, in Old Ansang is no different to what English speakers are used to.
+
+#### Non Past
+
+Sometimes also called the Terminal conjugation of a verb, it's the base zero of a verb root.
+
+#### Irrealis
+
+A free label of a sequence of various moods.
+
+#### Passive
+
+The grammatical subject expresses the theme or patient of the main verb that is, the person or thing that undergoes the action or has its state changed.
+
+Bellow we can see a example of a sentence with use of Negative particle:
+mbu-ndixi-ŋgɨ-le-lu
+1SG.NOM-kiss-PST-NEG-2PL.ACC
+'i didn’t kiss you'
+
+rut-xap ndekot-eye-nde
+1SG.LOC-temple pray-NPST-2.SG.ACC
+'I am at the temple praying to you'
+
+mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ
+1SG.NOM-eat-NEG-PST-3SG.ACC meat
+'I didn't eat meat'
+
+
+#### Causatives
+
+Causatives in Old Ansang come from the word _voŋɨ_ "to give", it's also used as a benefactive and dative preposition.
+
+mbu=karar-eye voŋɨ=nde
+1SG.NOM=work-NPST give-2SG.ACC
+"I'll do the work for you"
 
 ## Syntax
 
@@ -134,10 +229,12 @@ Grammaticalized from the verb 'to give' *voŋɨ*, it's a purposive and causal co
 
 > *mbutoret se toʼor kake voŋɨtɨ*
 > `mbu=toret se toʼor kake voŋɨtɨ
-> `1.NOM-scale DEM fish cook CVB
+> `1=scale DEM fish cook CVB
 > "I scale this fish in order to cook it"
 
-
+>ayondɨ voŋɨtɨ 
+>`
+> "In order to eat, you must drink."
 #### Ndayɨtɨ
 
 From the verb 'to leave' *nday*, here it is grammaticalized given a terminative converb:
@@ -149,14 +246,14 @@ From the verb 'to leave' *nday*, here it is grammaticalized given a terminative 
 
 ### Complementizer: *alerukɨt* and *alendayɨ*
 
-From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is Alendayɨ, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
+From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most common converb derived from the imperfective converb), the word it is grammaticalized as a complementizer. Another word rarely seen but also used in literature is *Alendayɨ*, from _Ale_ "to say" and _Ndayɨtɨ_ "terminative converb".
 
 > *Tata umanjire alerukɨt tɨrɨrot*
 > `tata umanji-re alerukɨt tɨr-ɨrot
 > `father come-NPST say.CVB 3.NOM-know
 > "He knows that father will come tomorrow"
 
-### Coordination
+### Conjunction
 
 #### _yo/ŋal_ - coordination for nominals and adjectives
 
@@ -173,6 +270,19 @@ valence-changing strategies (e.g. causatives, anticausatives, applicatives, etc.
 ### Questions (polar, content)
 
 Question intonation is often used as a way to convey questions, be it polar or content.
+As such, Old Ansang is not devoid of content interrogative words.
+
+|                         | -   | Question word |
+| ----------------------- | --- | ------------- |
+| Manner (How)            | -   | *kimbi*       |
+| Direction (In what way) | -   | *vumbaiʼo*    |
+| Time (When)             | -   | *kɨcyu*       |
+| Quantity (How many)     | -   | *ŋgɨt*        |
+| Person (Who)            | -   | *tuvi*        |
+| Thing (What)            | -   | *kava*        |
+| Space (Where)           | -   | *kɨʼos*       |
+| Reason (Why)            | -   | *mbeimbei*    |
+
 
 ### Directional (orientational) prefixes
 
@@ -255,6 +365,8 @@ Ansang features counters for basically anything.
 | _ñom_             | Week                                                                                             |
 | _koret_           | Day of the month                                                                                 |
 
+
+## Oral tradition
 ## Literature
 
 Ansang literature is characterized by highly religious texts that can be traced back by its origins when the [[Lavondu]] first came into contact with Ansang, in the [[9th century]].
