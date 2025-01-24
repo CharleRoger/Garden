@@ -1,4 +1,9 @@
-
+---
+tags:
+  - eternal_delta
+  - language/ncacun
+---
+[[Eternal Deltas]]
 
 
 

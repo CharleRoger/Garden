@@ -1,4 +1,10 @@
+---
+tags:
+  - language/ram
+  - eternal_delta
+---
 **Râm Trõew Û Language** or Simply **Ramtrowu Language** (my attempt to romanize this name) The name translates to "language of the serene/behaved person"
+[[Eternal Deltas]]
 
 ```
 pʰ tʰ     kʰ <ph th kh>

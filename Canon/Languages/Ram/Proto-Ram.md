@@ -1,3 +1,11 @@
+---
+tags:
+  - eternal_delta
+  - language/ram
+---
+[[Eternal Deltas]]
+
+
 ```
 Consonants:
 *pʰ *tʰ *cʰ *kʰ
