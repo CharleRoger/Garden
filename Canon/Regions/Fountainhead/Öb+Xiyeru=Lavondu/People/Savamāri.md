@@ -2,7 +2,7 @@
 tags:
   - person
 ---
-**Savamāri** was a semi-legendary [[Ńaʼay|ńaʼayeru]] (tattooist) in [[Xiyeru]] history who is said to have invented writing in 729 BGS.
+**Savamāri** was a semi-legendary [[Ńaʼay|ńaʼayeru]] (tattooist) in [[Xiyeru]] history who is said to have invented the [[Ugugo]] in 729 BGS.
 # Traditional legend
 [[Fobizāgāju Āeruweʼa]] heard word of a [[Ńaʼay|ńaʼayeru]] on the far north island of [[Kigipwa]] who was said to be able to write out a *xiʼiyo* (ritual aphorism) in such a way that a student of theirs who had never heard that particular xiʼiyo was able to read it and speak it out loud. The [[Āeruweʼa]] saw the power of such an ability, and travelled to meet with Savamāri for a demonstration in person. This is unusual for an [[Āeruweʼa]], who normally stays at her home on the main island while people travel from all around [[Udovuʼo]] seeking her advice.
 
@@ -10,6 +10,6 @@ Upon their first meeting, it was revealed to the [[Āeruweʼa]] that Savamāri c
 
 Savamāri was appointed the new role of *Ańaʼayeru* (grand tattooist) and immediately began work overseeing the development of a new version of the *[[Ugugo]]* "very many cuts", and teaching it to as many people as possible until their death in 641 BGS.
 # Historicity
-Savamāri was almost certainly a real person, as the historical record surrounding their later life and funeral in particular appear to be accurate and legitimate. It is unlikely that a single person invented writing ex nihilo, rather it appears that [[Xiyeru]] writing developed as a notation system for personal names on census records and similar documents.
+The earliest surviving true writing in [[Udovuʼo]] dates from around the time of Savamāri, though no contemporary records mention them by name. Savamāri was almost certainly a real person, as historical records surrounding their later life and funeral in particular, though composed posthumously, appear to be legitimate. The story of the invention of phonetic writing by a single person ex nihilo, however, is very much embellished and is likely not an accurate account of real events. Savamāri represents a broader movement occurring in the [[8th century BGS]], in which the name-writing techniques of the [[ńaʼayeru]] started to see use beyond the tattoo itself and in physical records of information.
 
-The earliest surviving writing in [[Udovuʼo]] dates from around 500 BGS, but it is reasonable that writing could have been utilised as early as 729 BGS. Savamāri most likely represents a broader movement occurring in the [[8th century BGS]], in which the name-writing techniques of the [[ńaʼayeru]] started to see use beyond the tattoo itself and in physical records of information.
+It is fairly well understood that [[Xiyeru]] writing developed as a notation system for personal names on census records and similar documents (*see [[Ugugo#History]]*), and writing at the time of Savamāri was already quite well developed. It is conceivable that similar writing could have been utilised as early as 1000 BGS, if not earlier, though perhaps without the use of purely phonetic elements. The widespread use of such phonograms alongside existing tattoo-signs in recording all elements of spoken language, and perhaps the earliest standard orthography, seems to have been Savamāri's contribution to writing. Whether they were actually the first person to utilise a consistent abjad to write consonants phonetically or if an earlier purely-logographic system of writing existed is not known.
