@@ -11,7 +11,7 @@ Some texts from this corpus exhibit the use of an additional stroke to mark a lo
 
 Coda glides /j/ and /w/ are transcribed ⟨Yi⟩ and ⟨Wo⟩ respectively, while /Cj/ and /Cw/ clusters are rendered as ⟨Ci-YV⟩ and ⟨Cu-WV⟩ respectively.
 
-Coda fricatives /f/ and /s/ were originally written as ⟨Fu⟩ and ⟨Su⟩ respectively, reflecting an early pattern in which the vowels \*u and \*ə (perhaps [ɨ]) were both written with the same vowel mark, before \*ə was lost in this environment and shifted to /e/ elsewhere. Standard Ugugo as defined in the [[1st century BGS]] used ⟨Fa⟩ and ⟨Sa⟩ instead, though the earlier spellings can still be found as late as the [[2nd century|2nd century AGS]].
+Coda fricatives /f/ and /s/ were originally written as ⟨Fu⟩ and ⟨Su⟩ respectively, reflecting an early pattern in late inscriptions of [[Old Xiri]] in which an unknown vowel of a likely central quality, lost after fricatives in [[Xiri|Standard Xiri]], was written as either ⟨i⟩ or ⟨u⟩. Standard Ugugo as defined in the [[1st century BGS]] used ⟨Fa⟩ and ⟨Sa⟩ instead, though the earlier spellings can still be found as late as the [[2nd century|2nd century AGS]].
 
 Coda nasals /m/ and /ŋ/ were similarly written ⟨Ma⟩ and ⟨Ńa⟩ in standard Ugugo, while coda /n/, which had been lost in the [[Erido]] dialect but leaving nasalisation on the vowel, was marked with a dot above the syllable sign. In the [[1st century|1st century AGS]] or perhaps beginning even earlier, /m/ and /ŋ/ were similarly lost leaving a nasalised vowel, thus affected syllables also came to be spelt with the dot mark. This convention continued into the script of [[Möxali]], the [[Opsíbdañox]], where it became a sign called *kivane* "hanger" which transcribed coda /n/.
 

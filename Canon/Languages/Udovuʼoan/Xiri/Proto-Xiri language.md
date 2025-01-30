@@ -11,13 +11,13 @@ The **Proto-Xiri language** is the hypothetical reconstructed common ancestor of
 | Fricative   | -   | \*f    | \*s      |         |       |        | \*h     |
 | Approximant | -   | \*w    | \*l      | \*j     |       |        |         |
 
-The reconstructed consonant inventory matches closely to the set of 15 consonants used in the earliest version of the [[Ugugo]]. The presence of the uvular plosive \*q in particular is suggested by a unique letter in very early [[Old Xiri]] inscriptions, labelled ⟨Q⟩, which quickly fell out of use as it merged with \*k. \*q is thus reconstructed for Proto-Xiri, and is useful in explaining the development of later /k/ and /ʃ/. 
+The consonant inventory matches closely to the set of 15 consonants used in the earliest version of the [[Ugugo]]. The presence of the uvular plosive \*q in particular is suggested by a unique letter in very early [[Old Xiri]] inscriptions, labelled ⟨Q⟩, which quickly fell out of use as it merged with \*k. \*q is thus reconstructed for Proto-Xiri, and is useful in explaining the development of later /k/ and /ʃ/. 
 
 \*ɲ is generally considered a single consonant in Proto-Xiri, though the earliest transcriptions of [[Old Xiri]] record it as the sequence ⟨N-Y⟩, i.e. /nj/, or simply ⟨N⟩.
 
 ## Vowels
 
-Proto-Xiri had five monophthongal vowels with contrastive length, a stable system which survived into most later varieties.
+Proto-Xiri is reconstructed with five monophthongal vowels with contrastive length, a stable system which survived into most later varieties. This system is, however, not thought to have existed in [[Old Xiri]], which more likely had a system like /i ɨ u ai a au/ or /i ə u e a o/, though this is less certain than even the reconstruction of Proto-Xiri.
 
 |       | -   | Front   | Central | Back    |
 | ----- | --- | ------- | ------- | ------- |
