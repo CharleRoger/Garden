@@ -1,9 +1,16 @@
+---
+cssclasses:
+  - dictionary
+tags:
+  - auto_generated
+  - language/atteric
+  - ansang
+---
 
 ### acende
 \[at͡seⁿde]
 *number*
 > 15
-        
 ### ahako
 \[ahako]
 *v*

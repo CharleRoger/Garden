@@ -1,3 +1,10 @@
+---
+cssclasses:
+  - dictionary
+tags:
+  - language/dreic
+  - telehe
+---
 
 ### yev-
 *v. tr.*
