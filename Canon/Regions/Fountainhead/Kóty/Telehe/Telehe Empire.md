@@ -53,28 +53,29 @@ Berkke kingdoms were small in comparison, they paid tributes greatly and their p
 - The Telehe empire served as a model for later kingdoms because it was neither necessarily good nor bad but rather neutral in its own meanings. Because the Berkke kingdoms despised what the Telehe Empire had done to them, they made a great effort to comply with neither their laws nor their language. As a result, they established their own government, which had been created before the Telehe forcibly incorporated them into their empire through marriage affairs. 
 
 ## List of events
-| Telehe Empire                                                                                                      | 350~489AGS-850~860AGS |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| Formation of The Telehe confederacy.                                                                               | 340                   |
-| Construction of Bērzun beggins.                                                                                    | 400                   |
-| Ērēdoy Asay Geri from the Foičī family becomes the first Telehe emperor.                                           | 500                   |
-| Expansion of Telehe state.                                                                                         | 504                   |
-| Telehe proto script is created from Cisi logography.                                                               | 505                   |
-| [[Samēdē]] rose to the throne.                                                                                     | 536                   |
-| [[Samēdē]] revoked the cultural and religious rights of Ħautkar exclaves.                                          | 540                   |
-| [[Mede Ēpere]] rises to the throne.                                                                                | 570                   |
-| [[Šemedo Ēodinare]] rises to the throne, then initiates his conquests of Berkke lands.                             | 578                   |
-| [[Šemedo Ēodinare\|Šemedo]] conquest of Berkke lands was initiated.                                                | 620                   |
-| [[Šemedo Ēodinare\|Šemedo]] marries Amakke in hopes to annex Berkke Kingdom.                                       | 625                   |
-| [[Maynda Aēym]] rises to the throne.                                                                               | 637                   |
-| [[Sefe Maynda]] rises to the throne.                                                                               | 662                   |
-| [[Saemedor Aeym]] rises to the throne.                                                                             | 684                   |
-| Foundation of Losh religion by Ergoy.                                                                              | 720                   |
-| [[Saemedor]] died without any successors.                                                                          | 756                   |
-| [[Tuntun]] ruled until Maynda became the next emperor.                                                             | 758                   |
-| [[Maynda Oferay]] rose to the throne.                                                                              | 780~782               |
-| The reign of Maynda reminded once more the people of hunger and poverty.                                           | 800                   |
-| Things happen.                                                                                                     | 847                   |
-| Ħautkar took over [[Bērzun]] and destroyed it, killing [[Maynda Oferay]] and destroying the capital of the Empire. | 847~850               |
-| The Telehe Empire collapsed.                                                                                       | 850                   |
+| Event                                                                                                              | Year                        |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| Formation of The Telehe confederacy.                                                                               | 340                         |
+| Telehe Empire                                                                                                      | ```350~489AGS-850~860AGS``` |
+| Construction of Bērzun beggins.                                                                                    | 400                         |
+| Ērēdoy Asay Geri from the Foičī family becomes the first Telehe emperor.                                           | 500                         |
+| Expansion of Telehe state.                                                                                         | 504                         |
+| Telehe proto script is created from Cisi logography.                                                               | 505                         |
+| [[Samēdē]] rose to the throne.                                                                                     | 536                         |
+| [[Samēdē]] revoked the cultural and religious rights of Ħautkar exclaves.                                          | 540                         |
+| [[Mede Ēpere]] rises to the throne.                                                                                | 570                         |
+| [[Šemedo Ēodinare]] rises to the throne, then initiates his conquests of Berkke lands.                             | 578                         |
+| [[Šemedo Ēodinare\|Šemedo]] conquest of Berkke lands was initiated.                                                | 620                         |
+| [[Šemedo Ēodinare\|Šemedo]] marries Amakke in hopes to annex Berkke Kingdom.                                       | 625                         |
+| [[Maynda Aēym]] rises to the throne.                                                                               | 637                         |
+| [[Sefe Maynda]] rises to the throne.                                                                               | 662                         |
+| [[Saemedor Aeym]] rises to the throne.                                                                             | 684                         |
+| Foundation of Losh religion by Ergoy.                                                                              | 720                         |
+| [[Saemedor]] died without any successors.                                                                          | 756                         |
+| [[Tuntun]] ruled until Maynda became the next emperor.                                                             | 758                         |
+| [[Maynda Oferay]] rose to the throne.                                                                              | 780~782                     |
+| The reign of Maynda reminded once more the people of hunger and poverty.                                           | 800                         |
+| Things happen.                                                                                                     | 847                         |
+| Ħautkar took over [[Bērzun]] and destroyed it, killing [[Maynda Oferay]] and destroying the capital of the Empire. | 847~850                     |
+| The Telehe Empire collapsed.                                                                                       | 850                         |
 ## [[Telehe Empire Government]]

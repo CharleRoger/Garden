@@ -109,7 +109,7 @@ Reduplication is a core feature of Old Ansang, a morphological process both pres
 In **nouns**, reduplication assumes much broader and less constrained rules, allowing speakers to coin a myriad of new meanings, such as *mbo∼mboŋ* "big rock" or more commonly translated as "made of rocks".
 * *enu* 'sadness' > *enunu* 'depression'.
 * *hɨra* 'fire' > *hɨrara* 'big fire, forest fire'.
-* *hekeʼe* 'sky' > hekeʼeke 'firmament'.
+* *hekeʼe* 'sky' > *hekeʼeke* 'firmament'.
 * *poʼo* 'endless' > *poʼopo* 'infinity, forever and ever'.
 * *vɨŋɨ* 'milk' > *vɨŋɨŋɨ* 'fermented milk, yogurt'.
 * *canja* 'happiness' > *canjanja* 'be euphoric; motivation'.
@@ -148,7 +148,7 @@ Sometimes also called the Terminal conjugation of a verb, it's the base zero of 
 
 #### Irrealis
 
-A free label of a sequence of various moods.
+A free label of a sequence of various moods, including the future tense sometimes.
 
 #### Passive
 
@@ -252,6 +252,8 @@ From the two words _Ale_ "to say" and _Rukɨtɨ_ Converb (analyzed as the most c
 #### _yo/ŋal_ - coordination for nominals and adjectives
 
 _Yo_ is the main coordination of Ansang translated as "and-NP", The numbers or nouns or noun phrases that can be conjoined to _yo_ is unlimited unlike _ŋal_ which is solely for adjectives and adjectival phrases. Verbs take the converbs show above.
+
+
 ### Questions (polar, content)
 
 Question intonation is often used as a way to convey questions, be it polar or content.
