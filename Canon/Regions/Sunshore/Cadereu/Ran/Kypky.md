@@ -1,4 +1,4 @@
-**Kypky** was a [[Ran peoples|Ran]] city-state located on the southern peninsula of the [[Ran peoples|Ran]] cultural region.
+**Kypky**  (*early:* /kupku/) was a [[Ran peoples|Ran]] city-state located on the southern peninsula of the [[Ran peoples|Ran]] cultural region.
 
 ![[Ran cultural region.png]]
 > Yellow: The [[Ran peoples|Ran]] cultural region

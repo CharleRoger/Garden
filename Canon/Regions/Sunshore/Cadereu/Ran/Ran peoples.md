@@ -1,4 +1,4 @@
-The **Ran peoples** were a group of peoples inhabiting a region of western [[Cādereu]].
+The **Ran peoples** /ʁan/ were a group of peoples inhabiting a region of western [[Cādereu]].
 
 ![[Ran cultural region.png]]
 > Yellow: The Ran cultural region
@@ -17,3 +17,5 @@ All of the Ran deities had one thing in common; they were not human, or even hum
 Both [[Taspi]] and [[Kypky]] had their own patron deities. The patron deity of [[Taspi]] was [[Pilur]], the god of the sea, death, and sailors. In [[Kypky]], the patron deity was the eponymous [[Kyp]], the deity of the moons, fertility, and love. Unlike [[Pilur]], [[Kyp]] was female. In the larger [[Ran peoples#Religion|Ran pantheon]], these deities were thought to be a brother and a sister.
 
 In both [[Taspi]] and [[Kypky]], the [[tot]] of the capital held power over the tots of the other cities. In this regard, [[Taspi]] was more centralized. After [[Kypky]] was annexed by [[Taspi]] in the [[Taspi-Kypky wars]], the [[tot]] of [[Kypky]] was subjugated to the [[tot]] of [[Taspi]], who was by now also known as the [[Tot#Tot Cenukki|Tot Cenukki]]. The [[Tot#Tot Cenukki|Tot Cenukki's]] reforms brought more centralization into the practice of religion in [[Kypky]]. For example, all [[tot|totyq]] in [[Kypky]] were now subjugated to both the [[tot]] of [[Kypky]] and the [[Tot#Tot Cenukki|Tot Cenukki]]. However, although he now held power over him, the [[Tot#Tot Cenukki|Tot Cenukki]] let the [[tot]] of [[Kypky]] stay relatively autonomous due to the difference in patron deities between the two regions. He proclaimed the [[tot]] of [[Kypky]] a [[tot]] of [[Pilur]], and more importantly, the [[Tot#Tot Cenuk|Tot Cenuk]] of [[Kyp]] — the title literally meaning ”High Priest”, whereas [[Tot#Tot Cenukki|Tot Cenukki]] meant ”The Highest Priest”. The [[Tot#Tot Cenukki|Tot Cenukki]] styled himself as the [[Tot#Tot Cenukki|Tot Cenukki]] of both [[Pilur]] and [[Kyp]].
+
+With states rising to prominence, the practice of religion also changed. Polytheism gave way to henotheism and ditheism in Totky. For more info, see [[Ran polytheism]].

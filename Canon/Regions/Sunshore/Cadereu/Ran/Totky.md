@@ -1,4 +1,4 @@
-**Totky** was a [[Ran peoples|Ran]] state formed from the cities of [[Taspi]] and [[Kypky]] and surrounding areas from 86 AGS.
+**Totky** (*early*: /ta:tku/) was a [[Ran peoples|Ran]] state formed from the cities of [[Taspi]] and [[Kypky]] and surrounding areas from 86 AGS.
 
 # History
 ## From monarchy to theocracy
@@ -25,6 +25,11 @@ Over time, these colonies grew, eventually resulting in domination of the intern
 Unlike [[Taspi]] and [[Kypky]], the colonies of Totky were both de facto and de jure under the control of the [[Tot#Tot Cenukki|Totyq Cenukkiq]]. This benefitted the position of the [[Tot#Tot Cenukki|Totyq Cenukkiq]]. At the time, [[Taspi]] and [[Kypky]] were nominally ruled by the kings of Totky, who resided in [[Kypky]]. However, while the kings were indeed the de facto rulers of [[Kypky]], the [[Tot#Tot Cenukki|Totyq Cenukkiq]] held more sway in most of [[Taspi]]. As a general trend, the [[Tot#Tot Cenukki|Totyq Cenukkiq]] were on the rise. The ongoing shift was reflected by the fact that the rulers of colonies were allowed to use the term *tir* "king", originally used for the leader of a tribe or a settlement) instead of *tirqela* "viceroy". Tir would have been unacceptable in the monarchical period, evidenced by the fact that the rulers of [[Kypky]] were called *tirqelaq*. However, in the new theocratical period, tir was not held to necessarily refer to the supreme authority.
 
 Many of the deities of the colonies were imported back into Totky, where they became more prominent parts of the pantheon, with their own cults. A doctrine emerged that as incarnations of the supreme principle (the [[Moferrumca Xal]] — the divine siblinghood), the two [[Moferrumca Xal|Moferrumyq Xalyq]] (the divine siblings) — [[Pilur]] and [[Kyp]] (the tutelary deities of [[Taspi]] and [[Kypky]] respectively), were "first among equals" among the gods, and leaders of the pantheon. The [[Tot#Tot Cenukki|Totyq Cenukkiq]] were considered the incarnation of the [[Moferrumca Xal]] on [[Winter]].
+
+## Totky-Feculky conflict
+
+## Feculky uprising
+
 
 # Religion
 *See: [[Ran peoples#Religion]]*
