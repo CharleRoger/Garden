@@ -1,4 +1,4 @@
-The **Ran peoples** /ʁan/ were a group of peoples inhabiting a region of western [[Cādereu]].
+The **Ran peoples** /ʁɑn/ were a group of peoples inhabiting a region of western [[Cādereu]].
 
 ![[Ran cultural region.png]]
 > Yellow: The Ran cultural region
@@ -10,6 +10,7 @@ Not much is known about the origins of the Ran people. By 300 BGS, many settleme
 # Language
 The language of the Ran people was known as [[Rantag]]. Different settlements had their own dialects, which diverged over time.
 # Religion
+*See also: [[Ran polytheism]]*
 In the Ran culture, high importance was placed on religion. The Ran shared a pantheon of gods, but different interpretations of these gods were common. The importance and hierarchy of the gods varied by tribe and region. When settlements became more prevalent, it became common for them to have their own "patron" deity, which would be the primary subject of worship.
 
 All of the Ran deities had one thing in common; they were not human, or even humanoid. Instead, Ran deities were portrayed as human-sized crabs. It is not fully known why this was the case, but some hints may lie in popular cultural practices. The Ran considered crabs—a common animal in the region, and an important livelihood—holy, which is why numerous rituals were associated with them. The Ran also believed in a system of reincarnation. Everything was subject to reincarnation—not only living creatures, but also objects, plants, streams, settlements, and even dynasties. Things were able to reincarnate as very distinct things from what they had been. For example, a dead stream might reincarnate as feline animal, or an extraordinary person might reincarnate as a crab. Depictions of famous figures as crabs were not unusual, sometimes being made even though the subject was still alive.

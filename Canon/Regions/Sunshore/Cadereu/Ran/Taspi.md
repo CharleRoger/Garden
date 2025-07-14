@@ -1,4 +1,4 @@
-**Taspi** (*early*: /taspi:/) was a [[Ran peoples|Ran]] city-state in [[Cādereu]] which operated as a monarchy, known as the **Kingdom of Taspi**, until the formation of [[Totky]] around 86 AGS.
+**Taspi** (*early*: /tɑspi:/) was a [[Ran peoples|Ran]] city-state in [[Cādereu]] which operated as a monarchy, known as the **Kingdom of Taspi**, until the formation of [[Totky]] around 86 AGS.
 
 The patron deity of Taspi was [[Pilur]].
 

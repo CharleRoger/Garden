@@ -1,0 +1,2 @@
+
+The history of Dábxagó started in ancient times. The land was inhabited by several tribes who were hunter-gatherers. However, agriculture developed in the fertile river valleys. This gave rise to towns and small city states.

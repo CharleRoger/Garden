@@ -1,0 +1,3 @@
+**Pilur** (*early*: /pi:lu:r/) was a deity belonging to the pantheon of [[Ran polytheism]]. As the patreon deity of [[Taspi]], he became increasingly prominent after Taspi evolved into [[Totky]]. 
+
+Pilur was the brother of [[Kyp]]. Together, the two were known in Totky as the [[Moferrumca Xal|Moferrumyq Xalyq]]. With the evolution of the cult, he became an integral part of the syncretic figure known as [[Moferrumca Xal]], which embodied aspects of both him and his sister.

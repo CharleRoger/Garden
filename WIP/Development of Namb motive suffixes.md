@@ -6,7 +6,7 @@ First posit of a nominal form of the verb similar to Latin's first supine, diffi
 >`travel  -?-DAT   walk-IND.1SG`
 >"I walk in order to travel"
 # Proto-Gäj
-[[Proto-Gäj]] continues the Proto-Koyanic feature of allowing postpositions on only the dative and ablative, but as the isolated dative starts to take the role of the accusative, postpositions become necessary for any other role. This includes this supine-like verb form, which broadens its meaning from purpose to circumstance, requiring a postposition.
+[[Proto-Gäj language|Proto-Gäj]] continues the Proto-Koyanic feature of allowing postpositions on only the dative and ablative, but as the isolated dative starts to take the role of the accusative, postpositions become necessary for any other role. This includes this supine-like verb form, which broadens its meaning from purpose to circumstance, requiring a postposition.
 >`xwōmax    θōm      ŋāk -a`
 >`travel.?  towards  walk-IND.1SG`
 >Literally "I walk towards travel", meaning "I walk in order to travel" or "I walk to somewhere with the purpose/intention of travelling"

@@ -1,5 +1,6 @@
-**Totky** (*early*: /ta:tku/) was a [[Ran peoples|Ran]] state formed from the cities of [[Taspi]] and [[Kypky]] and surrounding areas from 86 AGS.
-
+**Totky** (*early*: /ta:tku/, *late*: /totkɨ/) was a [[Ran peoples|Ran]] state formed from the cities of [[Taspi]] and [[Kypky]] and surrounding areas from 86 AGS.
+## Language
+The language spoken in Totky was a regional variant of [[Rantag]]. With the increase in Totky's prominence, this variant went on to be widely spoken along the coasts of [[Pilam]], being considered the standard.
 # History
 ## From monarchy to theocracy
 [[Melna|Melna's]] [[Taspi-Kypky wars#Coup of 74 AGS|coup of 74 AGS]] had failed to reduce the [[Tot#Tot Cenukki|Tot Cenukki's]] power in the long term and the counter-coup triggered by it had lead to even further losses of the kings' authority. Now, the two [[Tot#Tot Cenukki|Totyq Cenukkiq]] together wielded power over the entire governance. The [[Tot#Tot Cenukki|Tot Cenukki]] of [[Taspi]] held great control over the religious and civil affairs of the entire state. The [[Tot#Tot Cenukki|Tot Cenukki]] of [[Kypky]] had control over the military, and had the final say about religious affairs in [[Kypky]].
@@ -34,7 +35,7 @@ Many of the deities of the colonies were imported back into Totky, where they be
 # Religion
 *See: [[Ran peoples#Religion]]*
 ## Siblinghood
-Religion shifted with the nomination of the [[tot]] of [[Kypky]] as a [[Tot#Tot Cenukki|Tot Cenukki]]. Previously, the state had emphasized the worship of [[Pilur]] over the worship of other deities, which was however still both common and allowed. With the nomination of a second [[Tot Cenukki]], [[Kyp]] gained a more equal position to [[Pilur]] in the pantheon. Although it took time to catch on with the general populace, the state soon began equally emphasizing the worship of [[Kyp]].
+Religion shifted with the nomination of the [[tot]] of [[Kypky]] as a [[Tot#Tot Cenukki|Tot Cenukki]]. Previously, the state had emphasized the worship of [[Pilur]] over the worship of other deities, which was however still both common and allowed. With the nomination of a second [[Tot#Tot Cenukki|Tot Cenukki]], [[Kyp]] gained a more equal position to [[Pilur]] in the pantheon. Although it took time to catch on with the general populace, the state soon began equally emphasizing the worship of [[Kyp]].
 
 The doctrine of equality between the two deities became an influential one. Another doctrine that gained ground was the principle of siblinghood. The nature of the two deities' relationship as siblings was admired and increasingly highlighted. The role of the [[Tot#Tot Cenukki|Totyq Cenukkiq]] was compared to that of the divine siblings, which also had legal ramifications; in law, the [[Tot#Tot Cenukki|Totyq Cenukkiq]] were now legally considered siblings. It became increasingly common to worship the divine siblings ([[Moferrumca Xal|Moferrumyq Xalyq]]) at the same time. Their relationship, the divine siblinghood ([[Moferrumca Xal]]) was considered the ideal state of a being. *Moferrumca*, the concept of siblinghood, was thought to apply to all relationships, not just those between biological or adopted siblings.
 

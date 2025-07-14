@@ -1,0 +1,3 @@
+**Kyp** (*early*: /kup/) was a deity belonging to the pantheon of [[Ran polytheism]]. As the patreon deity of [[Kypky]], she became increasingly prominent after [[Taspi-Kypky wars#Counter-coup of 75 AGS|Laxo's countercoup.]] 
+
+Pilur was the brother of [[Kyp]]. Together, the two were known in Totky as the [[Moferrumca Xal|Moferrumyq Xalyq]]. With the evolution of the cult, he became an integral part of the syncretic figure known as [[Moferrumca Xal]], which embodied aspects of both him and his sister.
