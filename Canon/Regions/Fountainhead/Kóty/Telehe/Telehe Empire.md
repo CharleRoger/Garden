@@ -53,7 +53,7 @@ Berkke kingdoms were small in comparison, they paid tributes greatly and their p
 - The Telehe empire served as a model for later kingdoms because it was neither necessarily good nor bad but rather neutral in its own meanings. Because the Berkke kingdoms despised what the Telehe Empire had done to them, they made a great effort to comply with neither their laws nor their language. As a result, they established their own government, which had been created before the Telehe forcibly incorporated them into their empire through marriage affairs. 
 
 ## List of events
-| Event                                                                                                              | Year                        |
+| Events                                                                                                             | Year                        |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------- |
 | Formation of The Telehe confederacy.                                                                               | 340                         |
 | Telehe Empire                                                                                                      | ```350~489AGS-850~860AGS``` |

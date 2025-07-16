@@ -104,7 +104,7 @@ Derivation in Ansang is a common act, and it is used in normal speech, mainly to
 | Non-audible but visible | -   | ’e’e   |
 ### Reduplication
 
-Reduplication is a core feature of Old Ansang, a morphological process both present in verbs, nouns and adjectives. 
+Reduplication is a core feature of Old Ansang, it is highly productive in morphological process both present in verbs, nouns and adjectives. 
 #### Reduplication in nouns
 In **nouns**, reduplication assumes much broader and less constrained rules, allowing speakers to coin a myriad of new meanings, such as *mbo∼mboŋ* "big rock" or more commonly translated as "made of rocks".
 * *enu* 'sadness' > *enunu* 'depression'.
