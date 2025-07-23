@@ -1,10 +1,10 @@
 Berkke polytheism is the ancient and polytheistic faith of the Berkke people as they just split apart in their own from the other Koto-Dreic peoples. Dwelling in the mountainous landscape right by other peoples of similar languages and culture and other not so similar languages and cultures. 
 
 
-- Losh - god of blacksmiths/fire/magic
-- Açemu - god of merchants/trade
-- Tmir - god of war/conflict/strategies
-- J̌eampso - god of wine/party/sexual liberation
+- [[Lōš]] - god of blacksmiths/fire/magic
+- [[Açemu]] - god of merchants/trade
+- [[Tmir]] - god of war/conflict/strategies
+- [[J̌eampso]] - god of wine/party/sexual liberation
 
 
 
