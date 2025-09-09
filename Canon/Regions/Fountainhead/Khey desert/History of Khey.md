@@ -4,17 +4,17 @@ The Upper [[Lāēde river]] has been for most of the history of Khey one of the 
 
 By about 1000 BGS, many city states rose in power.
 
-Small tribes living in the [[Lāēde valley]] had developed into a series of cultures demonstrating firm control of agriculture and animal husbandry. The largest of these cultures was the Ada, they were known for their technological and advanced agriculture techniques adapted for that landscape. Following this trend the [[Kátic]] and [[Rharnic]] cultures [[Rotak language]] & [[Rabak language]] people, one of the first to inhabit the desert shared goods and agricultural knowledge with other cultures.
+Small tribes living in the [[Lāēde valley]] had developed into a series of cultures demonstrating firm control of agriculture and animal husbandry. The largest of these cultures was the Ada, they were known for their technological and advanced agriculture techniques adapted for that landscape. Following this trend the [[Kátic]] and [[Rharnic peoples|Rharnic]] cultures [[Rotak]] & [[Rabak]] people, one of the first to inhabit the desert shared goods and agricultural knowledge with other cultures.
 
-The [[Para-Ardanic people|Ada]]  was followed by the [[Khufkhey]] culture [Early mixed Koyanic-Dreic culture], the [[Tili culture]] [Early Dreic culture]. Over a period of one thousand years the [[Khufkhey]] developed into a powerful civilization that accumulated wealth and power enough to establish their center of power at [Holy City yet to be named].
+The [[Para-Ardanic people|Ada]]  was followed by the [[Khufkey people|Khufkey culture]] [Early mixed Koyanic-Dreic culture], the [[Tili culture]] [Early Dreic culture]. Over a period of one thousand years the [[Khufkey people|Khufkey]] developed into a powerful civilization that accumulated wealth and power enough to establish their center of power at [Holy City yet to be named].
 
-Warfare was glorified by the [[Khufkhey]], they waged war against many cities eventually forging the kingdom of [Insert name here], a theocratic state based on slavery. However the subjugated people fought against the kingdom, leading to the fracturing of the kingdom.
+Warfare was glorified by the [[Khufkey people|Khufkey]], they waged war against many cities eventually forging the kingdom of [Insert name here], a theocratic state based on slavery. However the subjugated people fought against the kingdom, leading to the fracturing of the kingdom.
 
-The [[Khufkey]] and [[Tili culture]] were followed by the [[Vakeye]] and [[Ekerre cultures]]. 
+The [[Khufkey people|Khufkey]] and [[Tili culture]] were followed by the [[Vakeye people|Vakeye]] and [[Ekere people|Ekere]] cultures. 
 
 # Temple Era (c. 500-300 BGS)
 
-As economic instability reigns in Khey desert, after the failure of the [[Khufkhey]] Proto-Kingdom many tribesmen become more isolated, their identity distinguished through religion molded their societal values, leading to eventual cultural conflicts between tribes. But among them all, there was the belief of the promised land claimed to be the big rock [[Fkey]] at the center of the [[Khey desert]].
+As economic instability reigns in Khey desert, after the failure of the [[Khufkey people|Khufkey]] Proto-Kingdom many tribesmen become more isolated, their identity distinguished through religion molded their societal values, leading to eventual cultural conflicts between tribes. But among them all, there was the belief of the promised land claimed to be the big rock [[Fkey]] at the center of the [[Khey desert]].
 
 However conflicting claims about the promised land, led many priests and tribesmen to fight among themselves for an unclarified cause, the fracture of religion and the people resulted in the assassination of many leaders and kings, the vacuum of power submerged the people into chaos once again.
 
@@ -22,7 +22,7 @@ A period of silence followed, as the desert became drier and inhospitable for a 
 
 # Reconstruction period (c. 200-100 BGS)
 
-Despite almost two hundred years of silence in the desert, the desert has once more become more manageable and fertile, during this time the first coalition of cities was created, a cooperative region between peoples with similar language, culture and tradition, the only distinguishing feature being their city Patron deity. These coalitions of cities existed between the [[Khufkhey]], [[Tili]], [[Ada]], [[Vakeye]], [[Ekerre]], [[Katic]] and [[Ħautar delûr|Ħautaric]] peoples, not as attempts to form a new empire, but as a slow pacing beginnings from the last period of extreme drought that swept across the desert.
+Despite almost two hundred years of silence in the desert, the desert has once more become more manageable and fertile, during this time the first coalition of cities was created, a cooperative region between peoples with similar language, culture and tradition, the only distinguishing feature being their city Patron deity. These coalitions of cities existed between the [[Khufkey people|Khufkey]], [[Tili]], [[Ada]], [[Vakeye]], [[Ekerre]], [[Katic]] and [[Ħautar delûr|Ħautaric]] peoples, not as attempts to form a new empire, but as a slow pacing beginnings from the last period of extreme drought that swept across the desert.
 
 # Split of the coalition (c. 100 BGS-60 AGS)
 

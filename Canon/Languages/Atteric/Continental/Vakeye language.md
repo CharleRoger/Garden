@@ -10,7 +10,7 @@ Around 650 BGS, many [[Atteric peoples|Atteric people]] migrated towards the [[K
 
 Around 400 BGS they settled around the fertile [[Kóty bottleneck|bottleneck region of Kóty]] that grants access to the desert. A [[Vakeye kingdom]] was established around 467 BGS with the first king [[Dedo-Mayale]] ascending to the throne and ruling through the first years of the dry desert.
 
-Around 0 BGS [[Vakeye people]] migrated further inland into the desert, as a window of rains made the desert fertile again, thus they established around the [[Rabak people]]. Both cultures integrated and syncretized lots of gods and traditions and around the same both [[Rabak people|Rabak]] and [[Rotak people]] were further integrated into the [[Vakeye people]], adopting their language and worldviews.
+Around 0 BGS [[Vakeye people]] migrated further inland into the desert, as a window of rains made the desert fertile again, thus they established around the [[Rabak]]-speaking [[Rharnic peoples]]. Both cultures integrated and syncretized many gods and traditions as the [[Rharnic peoples]] were further integrated into the [[Vakeye people]], adopting their language and worldviews.
 
 # Phonology
 
