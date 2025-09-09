@@ -1,0 +1,1 @@
+The **Rharnic peoples** are a large ethnic group that inhabit in the [[Khey desert]] alongside many other peoples. The Rharnic peoples speak a myriad of [[Bamuic-Hautaric languages]], including [[Rotak]], [[Rabak]] and a minority language [[Lovok]].
