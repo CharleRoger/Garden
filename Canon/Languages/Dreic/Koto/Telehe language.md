@@ -1,16 +1,14 @@
----
-tags:
-  - language/dreic
-  - Telehe_Empire
----
-Telehe language is spoken by the [[Telehe people]] in [[Hārūcute]], it was one of the most spoken languages in [[Kóty]] before it's extinction in 1200AGS, influential language between 500-850AGS to many other peoples in Koty, its decline met when the [[Telehe Empire]] fell.
-## Phonology
-### Consonants
+#language/dreic #telehe 
 
+The **Telehe language** was spoken by the [[Telehe people]] in [[Hārūcute]] and was one of the most spoken languages in [[Kóty]] before its extinction in 1200 AGS. Telehe was an influential language to many other peoples in [[Kóty]], particularly during 500-850 AGS, until its decline with the fall of the [[Telehe Empire]].
+
+# Phonology
+
+## Consonants
 
 |           |           | -   | Labial | Alveolar   | Palatal      | Velar      |
 | --------- | --------- | --- | ------ | ---------- | ------------ | ---------- |
-| Stop      | Voiceless | -   | **p**  | **t**      |              | **c** \[k] |
+| Plosive   | Voiceless | -   | **p**  | **t**      |              | **c** \[k] |
 | ^         | Voiced    | -   | **b**  | **d**      |              | **g**      |
 | Nasal     | <         | -   | **m**  | **n**      |              |            |
 | Affricate | <         | -   |        |            | **č** \[t͡ʃ] |            |
@@ -28,7 +26,9 @@ Telehe language is spoken by the [[Telehe people]] in [[Hārūcute]], it was one
 - \ <č> is realized as \[t̠͡ʃ]
 - \<h> is realized as its voiced version of it.
 - /z s/ in some environments change to its allophone \[ʐ ʂ] next to /r/.
-### Vowels
+
+## Vowels
+
 Telehe features vowel length distinction. 
 
 |        | -   | Front   | Back    |
@@ -37,40 +37,32 @@ Telehe features vowel length distinction.
 | Mid    | -   | **e ē** | **o ō** |
 | Open   | -   | **a ā** | <       |
 
-### Phonotactics
+## Phonotactics
+
 - S – Sibilant /s z/
 - O – Obstruent /p b t d k g č/
 - N – Sonorant /n m r l j w s z š h/
 - C – Consonant / p b t d k g č n m r j w s z š/
 > SONV(:)V(:)\*CNσ\*
 
-## Grammar
+# Grammar
 
-### Nouns
+## Nouns
 
-#### Number
+### Number
 
-#### Gender
+### Gender
+
 There are two genders in Telehe:
-- **Inanimate** - Non moving and living things: _bamur_ "sand", _itēr_ "root".
-- **Animate** - Moving and living things: _tlefes_ "priest", _attas_ "father".
-#### Case
+- **Inanimate** - Non moving and living things: *bamur* "sand", *itēr* "root".
+- **Animate** - Moving and living things: *tlefes* "priest", *attas* "father".
 
-| Name of case | -   | Use                  | ani. sg. | ani. pl. | ina. sg. | ina. sg. |
-| ------------ | --- | -------------------- | -------- | -------- | -------- | -------- |
-| Nominative   | -   | *Subject*            | -(e)s    | -(e)n    | -(e)r    | -ai      |
-| Accusative   | -   | *Object, goal*       | -č       | -lču     | -t       | ^        |
-| Genitive     | -   | *of*                 | -l       | -lt      | -s       | -nce     |
-| Dative       | -   | *to, for*            | -su      | -lli     | -mi      | ^        |
-| Ablative     | -   | *with, by, from, in* | -zbu     | -lbu     | -cī      | -cē      |
+### Case
 
-### Verbs
-#### Active Indicative
-
-#### Copula
-
-|     |       |
-| --- | ----- |
-|     | telo- |
-
-
+| Name of case | Use                | -   | ani. sg. | ani. pl. | ina. sg. | ina. sg. |
+| ------------ | ------------------ | --- | -------- | -------- | -------- | -------- |
+| Nominative   | Subject            | -   | *-(e)s*    | *-(e)n*    | *-(e)r*    | *-ai*      |
+| Accusative   | Object, goal       | -   | *-č*       | *-lču*     | *-t*       | *^*        |
+| Genitive     | of                 | -   | *-l*       | *-lt*      | *-s*       | *-nce*     |
+| Dative       | to, for            | -   | *-su*      | *-lli*     | *-mi*      | *^*        |
+| Ablative     | with, by, from, in | -   | *-zbu*     | *-lbu*     | *-cī*      | *-cē*      |
