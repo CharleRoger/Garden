@@ -1,3 +1,8 @@
+---
+tags:
+  - religion
+  - ansang
+---
 The official religion of the [[Ansang Empire]] practiced among [[Lavondu]], after the conquest of the [[Ansang Empire]] in the shores of [[Kóty]], the cult of the Ansang gods expands further into their colonies with a general tendency to merge and intertwine with local cults and deities.
 Composed of seven Celestial Gods:
 * [[Orɨm]] God of sun, light, light-beams.
@@ -65,10 +70,24 @@ Essentially any space that has an Ansang person and some god imagery, be it stat
 ### Festivals
 
 ### Rites of passage
-#### Birth
-#### Adulthood
-
+#### Birth 
+#### Adolescence
+#### Pregnancy
 #### Priesthood
+#### Marriage
+#### Cremation ritual, Roisoʼot  
+The Ansang have a collection of funerary rites referred to as *Roisoʼot*, 'Send off'. The ritual is divided into four stages, which may take five to seven days to complete, with the addition of a  year.  
+##### Prerequisites, Vimo  
+A dead adult Ansang is mourned through cremation, the ceremonies which take place before the body is cremated are comprised of ritualistically cleansing the body by a hired [[Mbɨŋɨrɨl]], a priest trained to chant hymns, cleanse and instruct the deceased's soul on the correct path for the afterlife.  
+##### Mourning, Ndusu  
+After all the cleansing rituals are done, the body is displayed for three days. Family members mourn by praying to the deceased, and while the body is shown, the hired Mbɨŋɨrɨl priest retires for the remainder of the ritual to a secluded place and meditates on behalf of the deceased.  
+##### Sacrifice, Tɨʼɨña  
+Finally, on the sixth day, the Mbɨŋɨrɨl priest reemerges from his meditative state and chants the last hymns. The body is then wrapped in cloth and transported to a pyre alongside a sacrificed dog, for guiding aid through the Ansang underworld, the [[Ɨvon]].  
+After the cremation has taken place, a period of observance commences, during which family members are prompted to consult the Mbɨŋɨrɨl assigned to their Roisoʼot periodically and perform cleansing rituals, ranging from ceremonial baths to the anointing of the forehead.  
+##### Effigy making, Hulotavu  
+After one year of observance and constant visits to the Mbɨŋɨrɨl, an effigy is carved out of the [[ʼEyoŋ]] tree, which is sacred to the Ansang, in the form of the deceased person. It functions as an avatar of the deceased, to which the family may perform offerings, honoring the memory of the ancestor.
+Many Ansang houses have [[Njimorel]], altars for the ancestors, made in the shape of steps, which encourage older ancestors to be at the topmost, overseeing the whole family, and protecting from all evils.
+It is both a sign of spiritual wealth to offer their favorite dishes, trinkets they used to use, and even gift them new ones.
 
 
 ### Spirit mediumship and healing
