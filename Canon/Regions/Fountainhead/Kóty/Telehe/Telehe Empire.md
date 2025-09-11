@@ -30,8 +30,8 @@ Berkke kingdoms were small in comparison, they paid tributes greatly and their p
 
 - Telehe empire expands, builds safe roads for trading, allowing efficient mobility and great expansion of the empire. It developed a writing system borrowed from the [[Cisi logograph]] that spread throughout the empire.
 - Little expansions took place in some Ħautkar lands allowing the empire to impose their rules and traditions. Settlers in the newly founded Telehe Empire faced difficult times, tyranny was the common tongue spoken by the Emperor. (530AGS).
-- As time went on, [[Bērzun]] didn’t explicitly had plans to oppress [[Ħautkar]] and [[Shote]], those that promptly rejected to pay tributes and build temples in their lands, the Emperor at that point judged them wrong and prohibited their own cultural identity to be practiced.
-- This move wasn’t welcoming, [[Ħautkar]] and [[Shote]] lands were swept with Anti-Telehe-ist ideas, but nothing could be done; they were weak in the early centuries of the empire (550AGS).
+- As time went on, [[Bērzun]] didn’t explicitly had plans to oppress [[Ħautkar]] and [[Geri peoples#Shote|Shote]], those that promptly rejected to pay tributes and build temples in their lands, the Emperor at that point judged them wrong and prohibited their own cultural identity to be practiced.
+- This move wasn’t welcoming, [[Ħautar delûr|Ħautar]] and [[Geri peoples#Shote|Shote]] lands were swept with Anti-Telehe-ist ideas, but nothing could be done; they were weak in the early centuries of the empire (550AGS).
 - Šemedo Ēodinare rise to the throne, he then launched campaigns against Berkke Kingdom, three years later he decided to let Berkke decide for themselves, two years they had. (578AGS)
 - In no time the emperor [[Šemedo Ēodinare]] formed a marriage bond with one the most rich families in the land of [[Berkke]], thus annexing Berkke kingdom, therefore tributes and total sovereignty of the land was given to the Emperor by his union with the lady [[Amakke Berkkun Hurut]] of the [[Framy dinasty]].(625AGS)
 ![[Koty612.png]]
@@ -53,7 +53,7 @@ Berkke kingdoms were small in comparison, they paid tributes greatly and their p
 - The Telehe empire served as a model for later kingdoms because it was neither necessarily good nor bad but rather neutral in its own meanings. Because the Berkke kingdoms despised what the Telehe Empire had done to them, they made a great effort to comply with neither their laws nor their language. As a result, they established their own government, which had been created before the Telehe forcibly incorporated them into their empire through marriage affairs. 
 
 ## List of events
-| Event                                                                                                              | Year                        |
+| Events                                                                                                             | Year                        |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------- |
 | Formation of The Telehe confederacy.                                                                               | 340                         |
 | Telehe Empire                                                                                                      | ```350~489AGS-850~860AGS``` |

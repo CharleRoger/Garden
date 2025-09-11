@@ -1,6 +1,6 @@
 # Fauna
 
-Consisting of a lot of animals, it has cows, pigs and chickens, animals like Togtog can be found in some places in [[Kóty]], [[Telehe]] used the togtog to dominate over other kingdoms, the Yanyo can also be found in some places of [[Kóty]] being a important animal for the [[Shote language]] people they sometimes worshiped to it, in Shote they call it “Ptārsof”  (lit. rapid blue) it feathers are used as offerings to the sky god of [[Shote language]] mythology and also used by kings to symbolize they are “blue as the sky” (in Shote culture being blue means you are an illuminated person or someone who watches over everyone).
+Consisting of a lot of animals, it has cows, pigs and chickens, animals like Togtog can be found in some places in [[Kóty]], [[Telehe]] used the togtog to dominate over other kingdoms, the Yanyo can also be found in some places of [[Kóty]] being a important animal for the [[Shote language]] people they sometimes worshiped to it, in [[Shote language|Shote]] they call it “Ptārsof”  (lit. rapid blue) it feathers are used as offerings to the sky god of [[Shote language]] mythology and also used by kings to symbolize they are “blue as the sky” (in Shote culture being blue means you are an illuminated person or someone who watches over everyone).
 
 # Flora
 
