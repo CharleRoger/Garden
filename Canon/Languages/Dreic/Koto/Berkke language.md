@@ -53,8 +53,10 @@ They both differ in declension and agreement with the head verb. For weak nouns 
 
 ### Case
 
+<<<<<<< Updated upstream
+
 |            | -   | Weak nouns | <      | Strong nouns | <       |
-| ---------- | --- | ---------- | ------ | ------------ | ------- |
+| ---------- | --- | ---------- | ------ | ------------ | ------- | 
 |            | -   | Singular   | Plural | Singular     | Plural  |
 | Nominative | -   | *-*        | *-n*   | -            | *-on*   |
 | Dative     | -   | *-č*       | *-ǰe*  | *-oč*        | *-oǰo*  |
@@ -65,22 +67,56 @@ They both differ in declension and agreement with the head verb. For weak nouns 
 
 |     |     | -   | Independent | Possessive | Dative  | Oblique | Subject | Object |
 | --- | --- | --- | ----------- | ---------- | ------- | ------- | ------- | ------ |
-| Sg  | 1st | -   | *eç*        | *-e*       | *insa*  | *ke*    | *-eç*   | -ubi   |
-| ^   | 2nd | -   | *dea*       | *-a*       | *ulde*  | *ata*   | *-ad*   | -di    |
-| ^   | 3rd | -   | *tey*       | *-i*       | *idi*   | *os*    | *-it*   | -yul   |
-| Pl  | 1st | -   | *çem*       | *-m*       | *midra* | *kim*   | *-iç*   | -pi    |
-| ^   | 2nd | -   | *din*       | *-n*       | *drut*  | *ete*   | *-ild*  | -dus   |
-| ^   | 3rd | -   | *ti*        | *-i*       | *yest*  | *us*    | *-is*   | -yul   |
+| Sg  | 1st | -   | *eç*        | *-e*       | *insa*  | *ke*    | *-eç*   | *-ubi*   |
+| ^   | 2nd | -   | *dea*       | *-a*       | *ulde*  | *ata*   | *-ad*   | *-di*    |
+| ^   | 3rd | -   | *tey*       | *-i*       | *idi*   | *os*    | *-it*   | *-yul*   |
+| Pl  | 1st | -   | *çem*       | *-m*       | *midra* | *kim*   | *-iç*   | *-pi*    |
+| ^   | 2nd | -   | *din*       | *-n*       | *drut*  | *ete*   | *-ild*  | *-dus*   |
+| ^   | 3rd | -   | *ti*        | *-i*       | *yest*  | *us*    | *-is*   | *-yul*   |
 
 ## Verbs
 
-|                     | -   | Suffix  | Usage                                                                                |
-| ------------------- | --- | ------- | ------------------------------------------------------------------------------------ |
-| Imperfective        | -   | *-d*    | Broadly equivalent to the present and future tenses.                                 |
-| Perfective          | -   | *-s*    | Basically the past tense with habitual and some infinitive uses.                     |
-| Negative            | -   | *-ne*   | Negation.                                                                            |
-| Negative past       | -   | *-he*   | Negation plus perfective.                                                            |
-| Causative           | -   | *-š*    | Valency increasing operation that indicates that a subject does something to sth/sn. |
-| Potential           | -   | *-v*    | Describes the capability of doing something.                                         |
-| Converb             | -   | *-daya* | Conjunction operation between two verbs, like English *and*.                         |
+|               | -   | Suffix  | Usage                                                                                |
+| ------------- | --- | ------- | ------------------------------------------------------------------------------------ |
+| Imperfective  | -   | *-d*    | Broadly equivalent to the present and future tenses.                                 |
+| Perfective    | -   | *-s*    | Basically the past tense with habitual and some infinitive uses.                     |
+| Negative      | -   | *-ne*   | Negation.                                                                            |
+| Negative past | -   | *-he*   | Negation plus perfective.                                                            |
+| Causative     | -   | *-š*    | Valency increasing operation that indicates that a subject does something to sth/sn. |
+| Potential     | -   | *-v*    | Describes the capability of doing something.                                         |
+| Converb       | -   | *-daya* | Conjunction operation between two verbs, like English *and*.                         |
 | Conditional converb | -   | *-bya*  | Conjunction operation under which set up the main verb as a condition.               |
+
+
+=======
+
+|            | -   | Weak nouns   | <          | Strong nouns | <          |
+| ---------- | --- | ------------ | ---------- | ------------ | ---------- |
+|            | -   | **Singular** | **Plural** | **Singular** | **Plural** |
+| Nominative | -   | _-_          | _-n_       | *-*          | _-on_      |
+| Dative     | -   | _-č_         | _-ǰe_      | _-oč_        | _-oǰo_     |
+| Possessive | -   | _-l_         | _-nlu_     | _-ol_        | _-onnu_    |
+| Locative   | -   | _-pu_        | _-mpo_     | _-ob_        | _-obo_     |
+### Pronouns
+|     |     | -   | Independent | Possessive | Dative  | Oblique | Subject | Object |
+| --- | --- | --- | ----------- | ---------- | ------- | ------- | ------- | ------ |
+| Sg  | 1st | -   | _eç_        | _-e_       | _insa_  | _ke_    | _-eç_   | *-ubi* |
+| ^   | 2nd | -   | _dea_       | _-a_       | _ulde_  | _ata_   | _-ad_   | *-di*  |
+| ^   | 3rd | -   | _tey_       | _-i_       | _idi_   | _os_    | _-it_   | *-yul* |
+| Pl  | 1st | -   | _çem_       | _-m_       | _midra_ | _kim_   | _-iç_   | *-pi*  |
+| ^   | 2nd | -   | _din_       | _-n_       | _drut_  | _ete_   | _-ild_  | *-dus* |
+| ^   | 3rd | -   | _ti_        | _-i_       | _yest_  | _us_    | _-is_   | *-yul* |
+
+## Verbs
+|                     | Suffix  | Usage                                                                                |
+| ------------------- | ------- | ------------------------------------------------------------------------------------ |
+| Imperfective        | *-d*    | Broadly equivalent to the present and future tenses.                                 |
+| Perfective          | *-s*    | Basically the past tense with habitual and some infinitive uses.                     |
+| Negative            | *-ne*   | Negation.                                                                            |
+| Negative past       | *-he*   | Negation plus perfective.                                                            |
+| Causative           | *-š*    | Valency increasing operation that indicates that a subject does something to sth/sm. |
+| Potential           | *-v*    | Describes the capability of doing something.                                         |
+| Converb             | *-daya* | Conjunction operation between two verbs, like English _and_.                         |
+| Conditional converb | *-bya*  | Conjunction operation under which set up the main verb as a condition.               |
+
+>>>>>>> Stashed changes

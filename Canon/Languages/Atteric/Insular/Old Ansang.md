@@ -61,11 +61,11 @@ Pronouns are clitics that must be attached to the lexical element comes suffixin
 | 2nd         | Sg. | -   | *vel-*   | *-nde*   | *-tu-*     | *ŋgu-*   | *o-*        |
 | Animate/3rd | ^   | -   | *tɨr-*   | *-mbai’* | *-yu-*     | *ruk-*   | ^           |
 | 2nd/3rd     | Pl. | -   | *ŋges-*  | *-lu*    | *-hey-*    | *tov-*   | ^           |
-| Inanimate   | <   | -   | -*ñ(i)-* | <        | *ŋe-*      | <        | <           |
+| Inanimate   | <   | -   | *-ñ(i)-* | <        | *ŋe-*      | <        | <           |
 - **Subject pronouns**: Subject of the intransitive/transitive verb, essentially the Nominative.
 - **Object pronouns**: Object of the transitive verb, essentially the Accusative.
 - **Possessive pronouns**: Possessor prefixes, in verbs assumes function of reflexive pronoun going after the subject pronouns rendering them infixes.
-- **Locative pronouns**: Locative deixis for pronouns, only **animate objects** may be marked with the locative, otherwise the particle *ndel* maybe used. In verbs assumes function of Andative and Venitive verbal deixis.
+- **Locative pronouns**: Locative deixis for pronouns, only **animate objects** may be marked with the locative, otherwise the particle *ndel* maybe used. In Class I and II verbs assumes function of Andative and Venitive verbal deixis. On Class III verbs assumes function of pronominal suffixes.
 - Resultative pronouns:  Indicates state of change of a person.
 
 > *kouŋoto orot*
@@ -141,21 +141,30 @@ Transitive verbs in Ansang language are the ones that take the most morphology o
 | ---------------------- | ---------------------------------- | -------- | ---------- | --------- | -------- | ------------ | ----------- | --------------------------------- |
 | **Optional Prefix**    | **Subject of the transitive verb** | **Stem** | **TAM**    | <         | <        | **Negation** | **Converb** | **Object of the transitive verb** |
 | **Directional prefix** | ^                                  | **Root** | **Aspect** | **Tense** | **Mood** | ^            | ^           | ^                                 |
+<<<<<<< Updated upstream
 
 ### TAM
 
-Verbs in Ansang are not conjugated by person, they exhibit a system of TAM (Tense Aspect and Mood) with, Past and Non-Past Tense,  Imperative and Infinitive. They change accordingly to the last phoneme of the verb root.
+#### Verb paradigm
 
-Their etymology vary a lot, but it is theorized they are innovations or simply metathesis of the same suffix.
 
-Although the use of these varies on the last phoneme of the root of the word, the row V# is the most used among all other ones, marked with green as the most prominent.
 
-|     | -   | Infinitive | Negative | Non-Past | Past   | Irrealis | Passive |
-| --- | --- | ---------- | -------- | -------- | ------ | -------- | ------- |
-| C#  | -   | *-anje*    | *-ye*    | *-eye*   | *-aŋɨ* | *-andi*  | *-e*    |
-| V#  | -   | *-nja*     | *-le*    | *-re*    | *-ŋgɨ* | *-ʼendi* | *-ʼelo* |
-| Vy# | -   | *-ay*      | *-el*    | *-ela*   | *-ɨŋ*  | *-ande*  | *-ol*   |
+|               | -   | Class I (Transitive) | Class II (Intransitive) | Class III (Stative) |
+| ------------- | --- | -------------------- | ----------------------- | ------------------- |
+| Perfective    | -   | _-aŋɨ_               | _-ŋgɨ_                  | _-ɨŋ_               |
+| Imperfect     | -   | _-eye_               | _-re_                   | _-ela_              |
+| Infinitive    | -   | _-anje_              | _-nja_                  | _-ay_               |
+| Irrealis      | -   | _-andi_              | _-ʼendi_                | _-ande_             |
+| Realis        | -   | _-o_                 | _-omo_                  | _-omo_              |
+| Negative      | -   | _-ye_                | _-le_                   | _-ele_              |
+| Past Negative | -   | _-aŋɨle_             | _-ŋgɨle_                | _-ɨŋele_            |
+| Passive       | -   | _-e_                 | _-ʼelo_                 | _-ol_               |
+
+
+
 ### Infinitive
+=======
+#### Infinitive
 
 Special form of verbs that can be used as a noun, adjective, or adverb, in Old Ansang is no different to what English speakers are used to.
 
@@ -177,12 +186,14 @@ Bellow we can see a example of a sentence with use of Negative particle:
 > `1=kiss-PST-NEG`
 > 'I didn’t kiss you'
 
+> *rutxap ndekoteyende*
 > `rut-xap ndekot-eye-nde`
 > `1SG.LOC-temple pray-NPST-2.SG.ACC`
 > 'I am at the temple praying to you'
 
-> `mbu-ayondɨ-ŋgɨ-le-mbai’ uriŋ`
-> `1SG.NOM-eat-NEG-PST-3SG.ACC meat`
+> *mbuayondɨaŋɨlembaiʼ uriŋ*
+> `mbu-ayondɨ-aŋɨle-mbai’ uriŋ`
+> `1SG.NOM-eat-NEG.PST-3SG.ACC meat`
 > 'I didn't eat meat'
 
 ### Causatives
