@@ -27,10 +27,28 @@ Unlike [[Taspi]] and [[Kypky]], the colonies of Totky were both de facto and de 
 
 Many of the deities of the colonies were imported back into Totky, where they became more prominent parts of the pantheon, with their own cults. A doctrine emerged that as incarnations of the supreme principle (the [[Moferrumca Xal]] — the divine siblinghood), the two [[Moferrumca Xal|Moferrumyq Xalyq]] (the divine siblings) — [[Pilur]] and [[Kyp]] (the tutelary deities of [[Taspi]] and [[Kypky]] respectively), were "first among equals" among the gods, and leaders of the pantheon. The [[Tot#Tot Cenukki|Totyq Cenukkiq]] were considered the incarnation of the [[Moferrumca Xal]] on [[Winter]].
 
-## Totky-Feculky conflict
+## First Totky-Feculky war
 
+*See: [[Totky-Feculky wars]]*
+
+The war began with Feculky having the upper hand, attacking northwards and overwhelming Totky's colonies. However, this left the southern areas weak The king of Kypky managed to bypass Feculky's defences through the mountains and defeat most of the southern army in a crucial fight, allowing him to advance to the capital of Feculky and take it. This caused much of the northern Feculky expeditionary force to be pulled to meet the thread, allowing Totky to defeat the remnants and give pursuit. Feculky's forces, having struggled to break into their own capital, suddenly found themselves at trouble with the arrival of Totky's northern forces. Using the sea and the city walls to their advantage, Totky encircled most of Feculky's army in a costly manoueuvre. Once Kypky's forces occupying the capital joined the battlefield in support of their allies, panic set in and Feculky surrendered. The military fight was over, but the political one was just beginning.
 ## Feculky uprising
 
+### Background
+- Weak puppet king
+- Major Totky, especially Kypky, influence in Feculky politics.
+- Younger generation unsatisfied, including many totyq
+- "The Young" - a name for such totyq
+- Movement to embrace traditional Feculky culture in contrast to Totky's culture
+- Feculky religion and totyq held in especially high importance.
+- Opportunity: conflict between the king of Kypky and the Totyq Cenukkiq
+### Consequences
+- Riots, protests, eventual support in the military
+- Weak king of Feculky replaced with a Tot Cenukki of their own
+- "A national rebirth", in a way
+- Conflict against Totky, initial success
+- Failure
+- Occupation, supression of Fecul's cult, city renamed to Kyxal.
 
 # Religion
 *See: [[Ran peoples#Religion]]*
