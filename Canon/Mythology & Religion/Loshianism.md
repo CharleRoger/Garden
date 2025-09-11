@@ -1,23 +1,36 @@
 ---
-aliases:
-  - Religion
-  - Cosmology
+tags:
+  - religion
 ---
-**Loshianism** is a monotheistic religion founded by the teachings of [[Ergoy]] and many of his writings such as the . 
+**Loshianism**, founded in the [[8th century]], is a monotheistic, [[Berkke]] religion centred on the [[Isçamalirǰeǰ]] and the teachings of [[Ergoy]]. Its adherents, the Loshianists, exalt an uncreated, benevolent, and all-wise deity known as [[Lōš]], who is hailed as the supreme being of the universe.
+The faith was established around the year 720 AGS in the region of [[Stamnar-Lōššī]], where Loshianists believe [[Ergoy]] began divine revelations; most notably, the _flame of truth_. Before his death, Ergoy entrusted this flame and his spiritual legacy to his closest disciple and companion, **[[Brimys]]**, who continued to guide the early Loshianist community.
+## Overview
 
-**Loshianism** is a monotheistic religion founded in the year 720, its adherents, the Loshianists, center their lives around the [[Isçamalirǰeǰ]] and the teachings of [[Ergoy]].
-Loshianists believe the world was plagued with falsehood and false idols, Ergoy was given the task to cleanse the world and teach every people the truth that was given to him the night he received visions from Losh.
-Loshianism originated in [[Stamnar-Lōššī]] about 720 AGS. Loshianists believe this is when [[Ergoy]] began receiving revelations, and when the flame of truth was given to him. By the time of his death [[Ergoy]] passed the flame of truth to his most trusted disciple and friend [[Brimys]]. 
+## Founder
+
+## Sacred texts
+
+## Theology
+### God
+### Cosmology
+### Afterlife
+## Morality and Ethics
+## Worship and rituals
+## Sects and variants
+## History
+## Demographics and culture
+
+
+
 ## Beliefs
 **[[Lōš]]** is a multifaceted God, believed to be the only God, omnipresent, all-powerful and creator of the world. [[Lōš]] as a way to interact with humanity, he made himself multifaceted with three dominant aspects, five spirits and epithets for which one may direct their prayers to.
-
 ### Fundamental tenets
 1. Recognition of one God known as [[Lōš]], a multifaceted God with three aspects and five spirits.
 2. Power of the flame of truth, which is vivifying and personified by **Truth**, one of the aspects of [[Lōš]].
 3. Immortality of the soul; the fate of the soul is the main concern with the belief in the next life.
 
 ### Faces of Losh
-Losh being a multifaceted God is shown to be a remnant feature of the ancient [[Berkke polytheism#Mystery cult of Losh|mystery cult of Losh]].  
+Losh being a multifaceted God is shown to be a remnant feature of the ancient [[Ancient Berkke religion#Mystery cult of Losh|mystery cult of Losh]].  
 #### The three aspects
 - **Truth**,  depicted as a man holding an oil lamp, symbolizes Losh bringer of the flame of truth.
 - **Justice**, depicted as a man holding a scale, symbolizes how Losh hold the ultimate judgement of all affairs.
