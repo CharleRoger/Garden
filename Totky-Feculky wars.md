@@ -1,5 +1,7 @@
 ## Background
 
+Totky and Feculky were the main colonial powers on Pilam and were engaged in a rivalry long before the war broke out. 
+
 ## First Totky-Feculky war
 
 *Note: In this section, Feculky's and Totky's forces are also considered to include the forces of their allies, although they were not entirely coordinated.*
@@ -13,5 +15,7 @@ In the meantime, Kypky had managed to take the capital Feculky, though with heav
 It was then that Totky's army arrived from the north, surprising both the king of Kypky and Feculky's forces. Through what might be described as sheer unfortune, Feculky's forces found themselves between Totky's southern army and the walls of the city held by Kypky. The ensuing confrontation was chaotic, with losses on both sides. The outcome was decided by Totky's successful rush to encircle Feculky's forces, using the ocean and the city walls for two of the sides. This manoueuvre would be later considered culturally significant, having cost the life of a Tot Cenukki leading the charge. With the encirclement in place, Kypky's army descended from the city to join their Taspian allies, causing widespread panic and the surrender of Feculky. This marked the end of the military conflict, and the start of a political one.
 
 ## Interbellum
+
+
 
 ## Feculky uprising
