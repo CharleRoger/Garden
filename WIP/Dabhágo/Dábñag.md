@@ -3,9 +3,9 @@
 
 | `CONSONANTS` | Labial    | Alveolar  | Palatal   | Velar     |
 | ------------ | --------- | --------- | --------- | --------- |
-| Stop         | p,b <p,b⟩ | t,d <t,d⟩ | c,ɟ <c,j⟩ | k,g <k,g⟩ |
+| Stop         | p,b ⟨p,b⟩ | t,d ⟨t,d⟩ | c,ɟ ⟨c,j⟩ | k,g ⟨k,g⟩ |
 | Fricative    | f <f>     | s <s>     | x <x>     |           |
-| Nasal        | m <m>     | n <n>     | ɲ <ñ⟩     | ŋ <q>     |
+| Nasal        | m <m>     | n <n>     | ɲ ⟨ñ⟩     | ŋ <q>     |
 
 | `VOWELS`  | Front | Back    |
 | --------- | ----- | ------- |
@@ -66,4 +66,6 @@ Certain prepositions use genitive but most use the nominative.
 If the word ends in a vowel, the genitive is formed by adding a b to the end of a word. However, sometimes -pab is added instead. This in some contexts might make the vowel mutate. If the word ends in a nasal, the nasal is replaced with an m. If the word ends in a voiced stop that is not b, the stop is replaced with a b. However, sometimes, the vowel mutates as well. Lastly, if a word ends in b, -ab is added. 
 
 edit2025: there was some kind of logic to this but i just can't remember. will try to figure out later
+
+e2025: okay so i think the idea here is that the suffix is -b but in the proto if the word ended in p or b there was an epenthetic -a-. then -p got lost, yielding the weird -pab thing. if there was a nasal, the nasal assimilated to the -b, which would eventually disappear. i guess voiced stops assimilated too, similarly. 
 ## [[Dábñag vocabulary (non-canon)|Vocab]]

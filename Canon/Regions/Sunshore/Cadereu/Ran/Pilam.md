@@ -1,1 +1,0 @@
-Pilam was the name for the internal sea. The [[Ran peoples]] dwelled mainly along the coast of Pilam.
