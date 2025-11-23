@@ -1,3 +1,5 @@
+#language/udovuoan #xiri #udovuo #xiyeru 
+
 The **Proto-Xiri language** is the hypothetical reconstructed common ancestor of all language varieties in the [[Xiri]] dialect cluster, forming the largest branch of the [[Udovuʼoan languages]]. While Proto-Xiri itself is strictly unattested, it very closely resembles [[Old Xiri]], an actual language stage spoken in the [[1st millennium BGS]], attested in the earliest writing on the islands in the [[Ugugo#Origin and evolution|Savamāric Ugugo]] abjad.
 
 # Phonology

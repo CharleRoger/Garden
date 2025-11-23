@@ -1,4 +1,6 @@
-The **Proto-Udovuʼoan language** is the hypothetical reconstructed common ancestor of all native languages of [[Udovuʼo]], believed to have been spoken no later than 3000 BGS.
+#language/udovuoan #udovuo #xiyeru 
+
+The **Proto-Udovuʼoan language** is the hypothetical reconstructed common ancestor of all native languages of [[Udovuʼo]], called the [[Udovuʼoan languages]], believed to have been spoken no later than 3000 BGS.
 # Phonology
 
 ## Consonants
