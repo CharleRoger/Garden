@@ -1,13 +1,11 @@
----
-tags:
-  - history
-  - Kóty
-  - Telehe_Empire
-  - Ħautar_delûr
----
+#history #politics #kóty #ħautar_delûr #telehe 
+
 The **Telehe-Ħautar Conflict** was a three-century long series of political and military conflicts between the [[Telehe Empire]] and various [[Ħautar delûr]] polities, beginning in the early [[6th century]] with [[Ērēdoy|Ērēdoy's]] annexation of [[Ħautar delûr|Ħautar]] lands and ending with the [[Ħautar invasion]] of 847 - 850 AGS.
+
 # Imperial occupation
+
 ## Under Ērēdoy
+
 In the late [[4th century]], the population growth in the flourishing [[New Kingdom of Dâmer-ṭegik]] caused the [[Ħautar delûr]] to spread westward, settling mostly along the [[Leda river]] which runs through the [[Kóty heartlands]]. Some of these people mixed with extant Telehe-speaking [[Geri peoples]], creating several multilingual communities including the [[Eyedölü language|Eyedölü]] and [[Yedilô language|Yedilô]] among others. These new mixed cultures were relatively distinct in their identities and eventually linguistically diverged, but all were bound to a macrocultural riverine trade economy.
 
 Towards the end of the next century, the [[Yedilô]] people in particular had organised into something of a fledgling state known as [[Yediluôtarar šyô]]. In 489, the head of the [[Telehe Confederacy]], [[Ērēdoy]], seized the opportunity to conquer this newly assembled state, proclaiming himself [[Asay Gēruiar]] "king of all peoples". This marks the beginning of the [[Mense period|Mense]] "afternoon" period of the [[History of the Telehe State|Telehe state's history]].
@@ -15,23 +13,37 @@ Towards the end of the next century, the [[Yedilô]] people in particular had or
 Over the next decade or so, [[Ērēdoy]] would conquer every smaller kingdom within reach, laying claim to the entire heartland region of [[Kóty]] up to parts of the western coast and building great roads between his conquered cities to secure their connection to the new [[Telehe Empire]]. Unlike their [[Yedilô]] cousins, the [[Eyedölü]] people remained the least organised and thus were the last to fall. Initially, these "municipalities" were granted their own civil law and freedoms, subject to a universal law code.
 
 In the 530s, the later years of [[Ērēdoy|Ērēdoy's]] reign, the Telehe state grew ever more oppressive as the enforcement of imperial law increased. Any subruler of a polity that was deemed to be in violation of this law was exiled to the [[Ħautar delûr|Ħautar]] deserts to the east along with their entire family. Exiled [[Eyedölü]] political leaders were easily able to gain influence in their ancestral homelands, which for most of whom was the [[Ħautar delûr|Ħautar]] city of [[Xutuiar Uṣûnur]]. There, they shared word of the maltreatment their brothers and sisters faced under the [[Telehe Empire]] and anti-imperial sentiment swept through the [[Ħautar dêlur]].
+
 > *The [[Ħautar delûr]] are not a warlike people, but they are quite insular and do not look upon their neighbours with good grace.*
 
 One of [[Ērēdoy|Ērēdoy's]] last acts was to demand tribute from the cities of [[Xutuiar Uṣûnur]] and [[Ulemmek]] in exchange for their protection, as they had become surrounded by imperial territory. The cities were powerless to negotiate and accepted the terms of the suzerainty.
+
 ## Under Samēdē
+
 The trend of increased persecution was punctuated by the ascension of [[Samēdē]] to the throne following [[Ērēdoy|Ērēdoy's]] death in 536 AGS, an exchange of hats which was taken as an opportunity for change on both sides. [[Samēdē]] demanded increased tribute, the city of [[Xutuiar Uṣûnur]] responded by refusing to pay up and even sabotaging their own crop yield. [[Samēdē|Samēdē's]] retaliation in 540 was absolute, issuing several edicts revoking the right to practice many [[Ħautar delûr|Ħautar]] religious and cultural traditions. All [[Ħautar delûr|Ħautar]] enclaves in his lands were immediately fully incorporated into the empire. This included the cities [[Xutuiar Uṣûnur]] and [[Ulemmek]], whose traditional ruling [[ârcacak]], were executed in ceremonies which were, ironically, not unlike the [[Ħautar delûr|Ħautar's]] own which had been the crux of the cultural prohibition. The empire's "protection" became an uncomfortable occupation. Citizens could face punishment for not following certain Telehe customs, and soon travel in and out of the cities was restricted too.
+
 ## Later history
+
 Over the next couple of centuries, imperial law continued to be enforced in the two occupied [[Ħautar delûr|Ħautaric]] cities, but the empire was gradually committing less and less resources to its threat of military violence, allowing [[Ħautar delûr|Ħautaric]] culture to seep back in.
+
 # Ħautar politics
+
 In response to the actions of the [[Telehe Empire]] in the [[6th century]], the [[New Kingdom of Dâmer-ṭegik]] had built up a sizable army and successfully absorbed the city of [[Leṣek-etku]] in 599 AGS through a mostly peaceful political arrangement (having an army can make your arguments quite convincing). The city of [[Uṣûnur]] retained its own [[ârcacak]], but also had a sort of alliance with [[New Kingdom of Dâmer-ṭegik|the kingdom]] which had them pledge resources to support the army. This was the first large-scale militarised state in the history of the [[Ħautar delûr]].
 
 In 760, [[Xutuiar Uṣûnur]] reinstalled an [[ârcacak]] for the first time in 224 years. The [[Telehe Empire|empire]] did not even bother reacting to this since it was struggling with economic failure, rebellion, and a [[Loshianism|Loshian]] uprising under the controversial new emperor [[Tuntun]].
 
 At the same time as [[Xutuiar Uṣûnur]] was triumphantly reclaiming its heritage under the not-so-watchful eye of the failing empire, something apparently innocuous was stirring further east. The cities of [[Cerin]], [[Tulu-Mdari]] and [[C̣auhin]] were in dispute with fish-merchants over the rights to fish in certain parts of the nearby river and lake, resulting in the formation of the [[Khumnuk Union]] in 766, which would play a crucial role in the upcoming war.
+
 # Decline of the Telehe Empire
+
 ## Maynda Oferay
+
 In 780 AGS, two years before [[Mamdari]] would complete the [[Khumnuk Union]], the 9th and final [[Telehe Empire|Telehe emperor]] [[Maynda Oferay]] ascended the throne. The prophet [[Ergoy]], the founder of [[Loshianism]], died the next year, ordering that his writings be compiled into the scripture known as *[[Isçamalirǰeǰ|Losh yerem]]*, after which the religion spread like wildfire. As the [[8th century]] became the [[9th century|9th]], the poor rulership of the mad emperor and the rise of [[Loshianism]] exacerbated the destabilisation of the already-declining empire. The cracks were beginning to show.
+
 ## Xutuiar Crisis and Ħautar alliance
+
 [[Maynda Oferay]] dispatched a [[839 Telehe Expedition|punitive expedition]] against the [[Khumnuk Union]] in 839 AGS. The expedition failed and the retreating soldiers were captured at [[Xutuiar Uṣûnur]], beginning the [[Xutuiar Crisis]] which resulted in the formation of the [[Degâmun Guard]]. After this, the city allied with the [[New Kingdom of Dâmer-ṭegik]] and the [[Khumnuk Union]] in secret against the [[Telehe Empire]].
+
 # Ħautar invasion
+
 In 847 AGS, the united [[Ħautar delûr]] began a [[Ħautar invasion|three-year invasion]] of the [[Telehe Empire]] which ultimately resulting in the capture and destruction of its capital city [[Bērzun]], and the execution of emperor [[Maynda Oferay]].
