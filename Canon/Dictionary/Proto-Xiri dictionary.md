@@ -1,0 +1,1727 @@
+---
+cssclasses:
+  - dictionary
+#auto_generated #dictionary #language/udovuʼoan
+---
+
+A dictionary of terms in the [[Proto-Xiri]] language.
+
+# ’
+### \*’a’ē
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’a’āi|*’a’āi]]_.
+> ¹ Chin, jaw
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’a’ē|’a’ē]]_
+### \*’ala
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ala|*’ala]]_.
+> ¹ Sand, shore
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ara|’ara]]_
+### \*’alamūm
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’alamūme|*’alamūme]]_, from _[[Proto-Udovuʼoan dictionary#\*’ala|*’ala]]_ ("sand").
+> ¹ Beach
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’aramūm|’aramūm]]_
+### \*’alo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’alau|*’alau]]_.
+> ¹ Shark
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’aro|’aro]]_
+### \*’awa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’awa|*’awa]]_.
+> ¹ Mixture
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’awa|’awa]]_
+### \*’awalasa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’awalasa|*’awalasa]]_, from _[[Proto-Udovuʼoan dictionary#\*’awa|*’awa]]_ ("mixture") + _[[Proto-Udovuʼoan dictionary#\*lasa|*lasa]]_ ("stuff, matter").
+> ¹ Complex substance, a mixture of fundamental substances
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’awaraza|’awaraza]]_
+### \*’axāfi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akiāfi|*’akiāfi]]_, from _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_ ("seven") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Seventy
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ažāvi|’ažāvi]]_
+### \*’axālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akiāleu|*’akiāleu]]_, from _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_ ("seven") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Seven people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ažāru|’ažāru]]_
+### \*’axo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_.
+> ¹ Seven
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ažo|’ažo]]_
+### \*’axokew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akiakeuwe|*’akiakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_ ("seven") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Seven hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ažogew|’ažogew]]_
+### \*’āna
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’āna|*’āna]]_.
+> ¹ Shoulder
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’āna|’āna]]_
+### \*’eqe
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eqe|*’eqe]]_.
+> ¹ Excrement
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’e’e|’e’e]]_
+### \*’ew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ewe|*’ewe]]_.
+> ¹ Peeling, shaving
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ew|’ew]]_
+### \*’ewū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ewū|*’ewū]]_.
+> ¹ Crab
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ewū|’ewū]]_
+### \*’if
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ife|*’ife]]_.
+> ¹ Abdomen; ² Trunk, as of a tree
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’if|’if]]_
+### \*’īmo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ēimau|*’ēimau]]_.
+> ¹ Sea turtle
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’īmo|’īmo]]_
+### \*’īyo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ihau|*’ihau]]_.
+> ¹ Command; ² Desire; ³ Want
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’īyo|’īyo]]_
+### \*’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’au|*’au]]_.
+> ¹ Sneeze
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’o|’o]]_
+### \*’ō
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’āu|*’āu]]_.
+> ¹ Movement, exchange
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ō|’ō]]_
+### \*’u
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eu|*’eu]]_.
+> ¹ One
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’u|’u]]_
+### \*’ukew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eukeuwe|*’eukeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*’eu|*’eu]]_ ("one") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Alternate form of _[[Xiri dictionary#kew|kew]]_
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’ugew|’ugew]]_ → [[Möxali]] _[[Möxali dictionary#qúgö|qúgö]]_ ("100")
+### \*’ulu
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ulu|*’ulu]]_.
+> ¹ Sharp, witty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’uru|’uru]]_
+### \*’ulwasi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’uluasi|*’uluasi]]_, from _[[Proto-Udovuʼoan dictionary#\*’ulu|*’ulu]]_ ("sharp") + _[[Proto-Udovuʼoan dictionary#\*asi|*asi]]_ ("rock").
+> ¹ Knife
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’urazi|’urazi]]_
+### \*’yo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ia|*’ia]]_.
+> ¹ Inside of
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’o|’o]]_
+# a
+### \*a’e
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*a’e|*a’e]]_.
+> ¹ Arrival, beginning
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#a’e|a’e]]_
+### \*a’uta
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*a’uta|*a’uta]]_.
+> ¹ Power, strength; ² Ability, aptitude
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#a’uda|a’uda]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#quta|quta]]_ ("strong") → [[Möxali]] _[[Möxali dictionary#qúda|qúda]]_
+### \*afa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*afa|*afa]]_.
+> ¹ Wind, breath; ² Flying, floating; ³ Air, as a fundamental substance of the universe
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ava|ava]]_
+### \*ali
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ali|*ali]]_.
+> ¹ Coil
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ari|ari]]_
+### \*ape
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ape|*ape]]_.
+> ¹ Clutter, mess
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#abe|abe]]_
+### \*asi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*asi|*asi]]_.
+> ¹ Rock
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#azi|azi]]_
+### \*asī
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*asēi|*asēi]]_.
+> ¹ Change
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#azī|azī]]_
+### \*atu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*atu|*atu]]_.
+> ¹ Leg of an animal; ² Stilt, support
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#adu|adu]]_
+# ā
+### \*āē
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ahāi|*ahāi]]_.
+> ¹ Act, work, result
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#āē|āē]]_
+### \*āńulōki
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*āńulāuqi|*āńulāuqi]]_.
+> ¹ The Āńurōgi, a large cockroach-like insect that scavenges for dead meat
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#āńurōgi|āńurōgi]]_
+# c
+### \*ca
+
+*v. tr.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ca|*ca]]_.
+> ¹ To be
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ca|ca]]_ → [[Möxali]] _[[Möxali dictionary#-j(a)|-j(a)]]_ ("copula")
+### \*caci
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*caci|*caci]]_.
+> ¹ Squid, octopus
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#caji|caji]]_
+### \*cata
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cata|*cata]]_.
+> ¹ Neck, wrist; ² Narrow part
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cada|cada]]_
+### \*cālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cālu|*cālu]]_.
+> ¹ Deer
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cāru|cāru]]_
+### \*cāpā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiāpā|*tiāpā]]_.
+> ¹ Eleven
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cābā|cābā]]_
+### \*cele
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cele|*cele]]_.
+> ¹ Blood
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cere|cere]]_
+### \*cepe
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cepe|*cepe]]_.
+> ¹ Skin, peel; ² Tree bark
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cebe|cebe]]_
+### \*ci’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ci’i|*ci’i]]_.
+> ¹ Tooth
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ci’i|ci’i]]_
+### \*ci
+
+*v. aux.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ci|*ci]]_.
+> ¹ Future tense auxiliary verb
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ci|ci]]_
+### \*cilicū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cilicū|*cilicū]]_.
+> ¹ Night-time, night
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cirijū|cirijū]]_
+### \*colu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tialu|*tialu]]_, from _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Three people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#coru|coru]]_
+### \*cu’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tie’i|*tie’i]]_.
+> ¹ Hook
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cu’i|cu’i]]_
+### \*cū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cēu|*cēu]]_.
+> ¹ Time
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cū|cū]]_
+### \*cwali
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*cuali|*cuali]]_.
+> ¹ Perfect
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cari|cari]]_
+### \*cyopi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ciapi|*ciapi]]_.
+> ¹ Marsupial sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#cobi|cobi]]_
+# e
+### \*ecu’e
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ecu’e|*ecu’e]]_.
+> ¹ Bird sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eju’e|eju’e]]_
+### \*efi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_.
+> ¹ Ten
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#evi|evi]]_
+### \*efyulu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*efieleu|*efieleu]]_, from _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Ten people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#evuru|evuru]]_
+### \*ekilu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eqileu|*eqileu]]_, from _[[Proto-Udovuʼoan dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Udovuʼoan dictionary#\*qi|*qi]]_ ("north") + _[[Proto-Udovuʼoan dictionary#\*leu|*leu]]_ ("clay, mud").
+> ¹ Woman
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#egiru|egiru]]_ → [[Möxali]] _[[Möxali dictionary#egíl|egíl]]_ ("spouse")
+### \*ekiluwe’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eqileuwai’a|*eqileuwai’a]]_, from _[[Proto-Udovuʼoan dictionary#\*eqileu|*eqileu]]_ ("woman") + _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_ ("river, wind").
+> ¹ Mother
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#egiruwe’a|egiruwe’a]]_
+### \*elō
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*elāu|*elāu]]_.
+> ¹ Cover
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#erō|erō]]_
+### \*elu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_, from _[[Proto-Udovuʼoan dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Udovuʼoan dictionary#\*leu|*leu]]_ ("clay, mud").
+> ¹ Person, human; ² Soul
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eru|eru]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#elu|elu]]_ ("Xiyeru person") → [[Möxali]] _[[Möxali dictionary#ilu|ilu]]_; [[Möxali]] _[[Möxali dictionary#-ru|-ru]]_ ("people classifier")
+### \*eluwe’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eleuwai’a|*eleuwai’a]]_, from _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person") + _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_ ("river, wind").
+> ¹ Parent
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eruwe’a|eruwe’a]]_
+### \*eluyēkom
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eleuiēkaume|*eleuiēkaume]]_.
+> ¹ Friend
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eruyēgom|eruyēgom]]_
+### \*eme
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*emai|*emai]]_.
+> ¹ Young
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eme|eme]]_
+### \*eńilu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eńeileu|*eńeileu]]_, from _[[Proto-Udovuʼoan dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Udovuʼoan dictionary#\*ńei|*ńei]]_ ("south") + _[[Proto-Udovuʼoan dictionary#\*leu|*leu]]_ ("clay, mud").
+> ¹ Man
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eńiru|eńiru]]_
+### \*eńiluwe’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eńeileuwai’a|*eńeileuwai’a]]_, from _[[Proto-Udovuʼoan dictionary#\*eńeileu|*eńeileu]]_ ("man") + _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_ ("river, wind").
+> ¹ Father
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#eńiruwe’a|eńiruwe’a]]_
+# ē
+### \*ēka
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēka|*ēka]]_.
+> ¹ Departure, end
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ēga|ēga]]_
+### \*ēnē
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēnē|*ēnē]]_.
+> ¹ Rice; ² Grains in general
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ēnē|ēnē]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#ene|ene]]_ → [[Möxali]] _[[Möxali dictionary#ina|ina]]_
+# f
+### \*faskāsi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fasekāsi|*fasekāsi]]_.
+> ¹ Arrow
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#haskāzi|haskāzi]]_
+### \*faxo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fakia|*fakia]]_.
+> ¹ Crop, plant
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hažo|hažo]]_
+### \*fāla
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fāla|*fāla]]_.
+> ¹ Ship
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hāra|hāra]]_
+### \*fe’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fai’i|*fai’i]]_.
+> ¹ Descent
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#he’i|he’i]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fe’i|*fe’i]]_.
+> ¹ Meadow, field; ² Anywhere where plants grow
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#he’i|he’i]]_
+### \*fesi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*faisi|*faisi]]_.
+> ¹ Group, set
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hezi|hezi]]_
+### \*few
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fewe|*fewe]]_.
+> ¹ Life
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hew|hew]]_
+### \*fēle
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fēle|*fēle]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*niēle|*niēle]]_ ("tear").
+> ¹ Rain
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hēre|hēre]]_
+### \*fiñu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*finie|*finie]]_.
+> ¹ Small moon
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hiñu|hiñu]]_ → [[Möxali]] _[[Möxali dictionary#qíñu|qíñu]]_ ("small moon phase")
+### \*fu
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*feu|*feu]]_.
+> ¹ Many
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#hu|hu]]_ → [[Möxali]] _[[Möxali dictionary#qúva|qúva]]_
+### \*fyāmi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fiāmi|*fiāmi]]_.
+> ¹ Law, custom
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fāmi|fāmi]]_
+# i
+### \*ici
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eici|*eici]]_.
+> ¹ Pig; ² Messy eater; ³ (derogatory) fat person, slob
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#iji|iji]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#ici|ici]]_ → [[Möxali]] _[[Möxali dictionary#íji|íji]]_
+### \*icitēf
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eicitēfe|*eicitēfe]]_, from _[[Proto-Udovuʼoan dictionary#\*eici|*eici]]_ ("pig") + _[[Proto-Udovuʼoan dictionary#\*tēfe|*tēfe]]_ ("bone"). Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēici|*ēici]]_ ("black").
+> ¹ Charred pig bone, used as black pigment
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ijidēf|ijidēf]]_
+### \*iki
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iqi|*iqi]]_.
+> ¹ Milk
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#igi|igi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#igi|igi]]_ → [[Möxali]] _[[Möxali dictionary#ígi|ígi]]_
+### \*imtus
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*imetuse|*imetuse]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tusu|*tusu]]_ ("mark, line").
+> ¹ Marsupial sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#imtus|imtus]]_
+### \*in
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ine|*ine]]_, See _[[Xiri dictionary#ina|ina]]_.
+> ¹ Two
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#in|in]]_
+### \*ina
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ina|*ina]]_.
+> ¹ Two, alternate form of _[[Xiri dictionary#in|in]]_
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ina|ina]]_
+### \*inakew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*inakeuwe|*inakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*ina|*ina]]_ ("two") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Two hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#inagew|inagew]]_
+### \*inpi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*inepi|*inepi]]_, from _[[Proto-Udovuʼoan dictionary#\*ine|*ine]]_ ("two") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
+> ¹ Second (ordinal)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#inpi|inpi]]_ → [[Möxali]] _[[Möxali dictionary#inpi|inpi]]_ ("second day")
+### \*ipi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ipi|*ipi]]_.
+> ¹ Near
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ibi|ibi]]_
+### \*iti
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*hiti|*hiti]]_.
+> ¹ Tree
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#idi|idi]]_
+### \*iwapā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iuapā|*iuapā]]_.
+> ¹ Fourteen
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#iwabā|iwabā]]_
+### \*ixā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*isiā|*isiā]]_.
+> ¹ Eel
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ižā|ižā]]_
+# ī
+### \*ī
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēi|*ēi]]_.
+> ¹ Dark in colour
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ī|ī]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēi|*ēi]]_.
+> ¹ Thing, object
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ī|ī]]_
+### \*īci
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēici|*ēici]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eicitēfe|*eicitēfe]]_ ("charred pig bone"), [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ēi|*ēi]]_ ("dark in colour").
+> ¹ Black
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#īji|īji]]_ → [[Möxali]] _[[Möxali dictionary#íjiya|íjiya]]_
+### \*īpa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*īpa|*īpa]]_.
+> ¹ Sky
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ība|ība]]_
+### \*īpu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*īpu|*īpu]]_.
+> ¹ Cat
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ību|ību]]_
+### \*īs
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*īse|*īse]]_.
+> ¹ Image, visage
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#īs|īs]]_
+### \*īyi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ihi|*ihi]]_.
+> ¹ Hand; ² Foot
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#īyi|īyi]]_
+# k
+### \*ka’ayuto’u
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ka’aietau’u|*ka’aietau’u]]_.
+> ¹ Carnivore, meat-eater
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ka’ayudo’u|ka’ayudo’u]]_
+### \*ka’ā’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ka’ā’ei|*ka’ā’ei]]_.
+> ¹ Kaʼaʼi, dinosaur sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ka’ā’i|ka’ā’i]]_
+### \*kala’e
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kala’e|*kala’e]]_.
+> ¹ Anger; ² Rage; ³ Passion; ⁴ Love
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kara’e|kara’e]]_
+### \*kale
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kale|*kale]]_.
+> ¹ Demon; ² Malignant spirit
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kare|kare]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#kale|kale]]_ ("demon, evil spirit") → [[Möxali]] _[[Möxali dictionary#kala|kala]]_
+### \*kan
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kane|*kane]]_.
+> ¹ Feeling; ² Emotions
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kan|kan]]_
+### \*kā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kahe|*kahe]]_.
+> ¹ Breeze
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kā|kā]]_
+### \*kāa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kaha|*kaha]]_.
+> ¹ Wood
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kāa|kāa]]_
+### \*kew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eu|*’eu]]_ ("one"), [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_ ("value"). See _[[Xiri dictionary#’ugew|’ugew]]_.
+> ¹ Hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kew|kew]]_
+### \*ki
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*qi|*qi]]_.
+> ¹ North
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ki|ki]]_
+### \*ko
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kau|*kau]]_.
+> ¹ Cut
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ko|ko]]_
+### \*kokwasi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kaukuasi|*kaukuasi]]_, from _[[Proto-Udovuʼoan dictionary#\*kau|*kau]]_ ("cut") + _[[Proto-Udovuʼoan dictionary#\*kuasi|*kuasi]]_ ("obsidian"). Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’uluasi|*’uluasi]]_ ("knife").
+> ¹ Knife
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kokwazi|kokwazi]]_
+### \*kōla
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kāula|*kāula]]_.
+> ¹ Long
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kōra|kōra]]_
+### \*ku
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*keu|*keu]]_.
+> ¹ Fire, lava
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ku|ku]]_
+### \*kuma
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kuma|*kuma]]_.
+> ¹ Heart
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kuma|kuma]]_
+### \*kuwēlu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*keuwēleu|*keuwēleu]]_, from _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ A hundred people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kuwēru|kuwēru]]_
+### \*kūwo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kuhau|*kuhau]]_.
+> ¹ Hunger
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kūwo|kūwo]]_
+### \*kwasi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kuasi|*kuasi]]_.
+> ¹ Obsidian
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kwazi|kwazi]]_
+### \*kwi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kue|*kue]]_.
+> ¹ Yam; ² Tuber; ³ Food in general
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kwi|kwi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#kükü|kükü]]_ ("tuber, yam") → [[Möxali]] _[[Möxali dictionary#kíkö|kíkö]]_
+### \*kyē
+
+*part.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*qiē|*qiē]]_.
+> ¹ Quotative marker
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#kyē|kyē]]_
+# l
+### \*la’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*la’a|*la’a]]_.
+> ¹ Joy, happiness
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rha’a|rha’a]]_
+### \*la’e
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*la’e|*la’e]]_.
+> ¹ Fire; ² Flame; ³ Heat
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rha’e|rha’e]]_
+### \*lacyo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lacia|*lacia]]_.
+> ¹ Red
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhajo|rhajo]]_
+### \*lafo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lafau|*lafau]]_.
+> ¹ Other; ² Different; ³ Foreign; ⁴ Far
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhavo|rhavo]]_ → [[Möxali]] _[[Möxali dictionary#lava|lava]]_
+### \*lala
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lala|*lala]]_.
+> ¹ Ear; ² Hole, opening
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhara|rhara]]_
+### \*lam
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lame|*lame]]_.
+> ¹ Sticky, adhesive
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rham|rham]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lame|*lame]]_.
+> ¹ Glue
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rham|rham]]_
+### \*laqa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*laqa|*laqa]]_.
+> ¹ Nail, claw
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rha’a|rha’a]]_
+### \*lasa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lasa|*lasa]]_.
+> ¹ Stuff, matter
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhaza|rhaza]]_
+### \*laso
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lasau|*lasau]]_.
+> ¹ Noble
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhazo|rhazo]]_ → [[Möxali]] _[[Möxali dictionary#lazva|lazva]]_
+### \*lāpu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lāpu|*lāpu]]_.
+> ¹ Waist
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhābu|rhābu]]_
+### \*lē’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lāi’a|*lāi’a]]_.
+> ¹ Lizard
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhē’a|rhē’a]]_
+### \*li
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lei|*lei]]_.
+> ¹ Tongue; ² Language
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhi|rhi]]_
+### \*lili
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lili|*lili]]_.
+> ¹ Starlight, moonlight
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhiri|rhiri]]_
+### \*lita
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lita|*lita]]_.
+> ¹ Light
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhida|rhida]]_
+### \*lixi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*liki|*liki]]_.
+> ¹ Section, division; ² One sixteenth, e.g. of a circle; ³ An eighth of a day or night
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhiži|rhiži]]_
+### \*lofā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*laufā|*laufā]]_.
+> ¹ Mind, spirit
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhovā|rhovā]]_
+### \*lōka’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lāuka’a|*lāuka’a]]_.
+> ¹ Rat, mouse; ² Mole; ³ Any burrowing animal; ⁴ Some burrowing snakes and spiders
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhōga’a|rhōga’a]]_
+### \*lōpu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lāupu|*lāupu]]_.
+> ¹ Catch, capture
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhōbu|rhōbu]]_
+### \*lōyāka
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lāuiāka|*lāuiāka]]_.
+> ¹ Glassware; ² Ceramic
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhōyāga|rhōyāga]]_
+### \*lu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*leu|*leu]]_.
+> ¹ Clay, mud
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhu|rhu]]_
+### \*luf
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lufe|*lufe]]_.
+> ¹ Still, standing
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhuf|rhuf]]_
+### \*lulā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lulā|*lulā]]_.
+> ¹ White
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhurā|rhurā]]_ → [[Möxali]] _[[Möxali dictionary#lúxa|lúxa]]_
+### \*luleyāwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*luleiāwa|*luleiāwa]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāwa|*iāwa]]_ ("folded fabric or leaf").
+> ¹ Reef fish sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhureyāwa|rhureyāwa]]_
+### \*luyu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*luie|*luie]]_.
+> ¹ Hip, pelvis; ² Base part
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhuyu|rhuyu]]_
+### \*lū’u
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lū’u|*lū’u]]_.
+> ¹ The sea
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#rhū’u|rhū’u]]_ → [[Möxali]] _[[Möxali dictionary#lúqu|lúqu]]_
+# m
+### \*ma’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’a|*ma’a]]_.
+> ¹ Five
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ma’a|ma’a]]_
+### \*ma’akew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’akeuwe|*ma’akeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*ma’a|*ma’a]]_ ("five") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Five hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ma’agew|ma’agew]]_
+### \*ma’āfi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’āfi|*ma’āfi]]_, from _[[Proto-Udovuʼoan dictionary#\*ma’a|*ma’a]]_ ("five") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Fifty
+### \*ma’āfyulu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’āfieleu|*ma’āfieleu]]_, from _[[Proto-Udovuʼoan dictionary#\*ma’āfi|*ma’āfi]]_ ("fifty") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Fifty people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ma’āvuru|ma’āvuru]]_
+### \*ma’ālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’āleu|*ma’āleu]]_, from _[[Proto-Udovuʼoan dictionary#\*ma’a|*ma’a]]_ ("five") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Five people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ma’āru|ma’āru]]_
+### \*mapā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mapā|*mapā]]_.
+> ¹ Thirteen
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mabā|mabā]]_
+### \*masa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*masa|*masa]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūkiā|*ūkiā]]_ ("whole").
+> ¹ One person
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#maza|maza]]_
+### \*mā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mahe|*mahe]]_.
+> ¹ Good; ² Healthy; ³ Tasty; ⁴ Moral, just; ⁵ Fair
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mā|mā]]_ → [[Möxali]] _[[Möxali dictionary#mama|mama]]_
+### \*mene
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mainai|*mainai]]_.
+> ¹ Vegetable
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mene|mene]]_
+### \*meyo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mehia|*mehia]]_.
+> ¹ Rib
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#meyo|meyo]]_
+### \*mi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mi|*mi]]_.
+> ¹ At
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mi|mi]]_
+### \*mica
+
+*v. imp.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mica|*mica]]_.
+> ¹ There is
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mija|mija]]_
+### \*misi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*misi|*misi]]_.
+> ¹ Liver, seat of emotions
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mizi|mizi]]_
+### \*miwi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miwi|*miwi]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwi|*piwi]]_ ("ring, loop, circle").
+> ¹ Turn, bend
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#miwi|miwi]]_
+### \*molo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*maulau|*maulau]]_.
+> ¹ Growth
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#moro|moro]]_
+### \*momo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*maumau|*maumau]]_.
+> ¹ Vessel
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#momo|momo]]_
+### \*moyu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mauie|*mauie]]_.
+> ¹ Sleep
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#moyu|moyu]]_
+### \*mu’u
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mu’u|*mu’u]]_.
+> ¹ Big, large; ² Grand; ³ Intimidating, scary
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mu’u|mu’u]]_ → [[Möxali]] _[[Möxali dictionary#múva|múva]]_ ("big, scary")
+### \*muko
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mukau|*mukau]]_.
+> ¹ Hill
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mugo|mugo]]_
+### \*mupi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mupi|*mupi]]_.
+> ¹ A little bit
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mubi|mubi]]_
+### \*mū’o
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mū’au|*mū’au]]_.
+> ¹ Long (of time); ² Past
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mū’o|mū’o]]_ → [[Möxali]] _[[Möxali dictionary#múqa|múqa]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mū’au|*mū’au]]_, from _[[Proto-Udovuʼoan dictionary#\*mū’au|*mū’au]]_ ("long time").
+> ¹ The past
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mū’o|mū’o]]_
+### \*mwalu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mualu|*mualu]]_.
+> ¹ Bamboo pole
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mwaru|mwaru]]_
+### \*mwatwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*muatua|*muatua]]_.
+> ¹ Health
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mwatwa|mwatwa]]_
+### \*mwipe
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*muepai|*muepai]]_.
+> ¹ Wrap
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#mwibe|mwibe]]_
+### \*myēsū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miēsū|*miēsū]]_.
+> ¹ Valley
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#myēzū|myēzū]]_
+### \*myo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mia|*mia]]_.
+> ¹ Among, between
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#myo|myo]]_
+### \*myosa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miasa|*miasa]]_.
+> ¹ Ribcage
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#myoza|myoza]]_
+# n
+### \*na’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*na’a|*na’a]]_.
+> ¹ Mouth; ² Entry point; ³ Door; ⁴ Voice
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#na’a|na’a]]_
+### \*na’uta
+
+*v. tr.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*na’uta|*na’uta]]_.
+> ¹ To be able to
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#na’uda|na’uda]]_
+### \*nālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*nāleu|*nāleu]]_, from _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Boy, young male
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#nāru|nāru]]_ → [[Möxali]] _[[Möxali dictionary#naru|naru]]_
+### \*nāpa
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*nāpa|*nāpa]]_.
+> ¹ Complete, whole
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#nāba|nāba]]_
+### \*nēs
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*nēse|*nēse]]_.
+> ¹ Going, journey
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#nēs|nēs]]_
+### \*no
+
+*v. aux.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*nau|*nau]]_.
+> ¹ Past tense auxiliary verb
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#no|no]]_
+# ń
+### \*ńa’āi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńa’ahi|*ńa’ahi]]_.
+> ¹ Tattoo, marking; ² Stain
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńa’āi|ńa’āi]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#gayaq|gayaq]]_ → [[Möxali]] _[[Möxali dictionary#geq|geq]]_
+### \*ńala
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńala|*ńala]]_.
+> ¹ Rotten flesh; ² Detritus; ³ Trash; ⁴ Anything rotten
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńara|ńara]]_
+### \*ńi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńei|*ńei]]_.
+> ¹ South
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńi|ńi]]_
+### \*ńu’u
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńu’u|*ńu’u]]_.
+> ¹ Name
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńu’u|ńu’u]]_
+### \*ńulu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńulu|*ńulu]]_.
+> ¹ Flesh
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńuru|ńuru]]_
+### \*ńū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńēu|*ńēu]]_.
+> ¹ Love; ² Passion
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńū|ńū]]_
+### \*ńwifi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ńuefi|*ńuefi]]_.
+> ¹ Twenty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ńwivi|ńwivi]]_
+# ñ
+### \*ñālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*niālu|*niālu]]_.
+> ¹ Flower
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ñāru|ñāru]]_
+### \*ñēle
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*niēle|*niēle]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fēle|*fēle]]_ ("rain").
+> ¹ Tear
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ñēre|ñēre]]_
+### \*ñoco
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*niacau|*niacau]]_.
+> ¹ Fat (on food); ² Fat (on a person); ³ Anything particularly large
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ñojo|ñojo]]_
+# o
+### \*o’u
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*au’u|*au’u]]_.
+> ¹ Food
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#o’u|o’u]]_
+### \*o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*au|*au]]_.
+> ¹ Murder, slaughter
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#o|o]]_
+### \*olā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*aulā|*aulā]]_.
+> ¹ New; ² Novel; ³ Previously unheard of
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#orā|orā]]_ → [[Möxali]] _[[Möxali dictionary#ura|ura]]_
+### \*osu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_.
+> ¹ Four
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ozu|ozu]]_
+### \*osukew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausukeuwe|*ausukeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_ ("four") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Four hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ozugew|ozugew]]_
+### \*osupi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausupi|*ausupi]]_, from _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_ ("four") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
+> ¹ Fourth (ordinal)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ozubi|ozubi]]_ → [[Möxali]] _[[Möxali dictionary#ozbi|ozbi]]_ ("fourth day")
+### \*oswapā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausuapā|*ausuapā]]_.
+> ¹ Twelve
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#oswabā|oswabā]]_
+### \*oswifi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausuefi|*ausuefi]]_, from _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_ ("four") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Forty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#oswivi|oswivi]]_
+# ō
+### \*ōki
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*āuqi|*āuqi]]_.
+> ¹ Bug
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ōgi|ōgi]]_
+### \*ōle
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*āulai|*āulai]]_, from _[[Proto-Udovuʼoan dictionary#\*ā-|*ā-]]_ ("augmentative") + _[[Proto-Udovuʼoan dictionary#\*-ulai|*-ulai]]_ ("position"). Thought to be a clipping of _[[Proto-Udovuʼoan dictionary#\*āulai|*āulai]]_ "ultimate" _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ "hundred".
+> ¹ Thousand
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ōre|ōre]]_ → [[Möxali]] _[[Möxali dictionary#urijö|urijö]]_ ("2,500")
+# p
+### \*paca
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*paca|*paca]]_.
+> ¹ Eight
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#faja|faja]]_
+### \*pacakew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pacakeuwe|*pacakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*paca|*paca]]_ ("eight") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Eight hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fajagew|fajagew]]_
+### \*pacāfi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pacāfi|*pacāfi]]_, from _[[Proto-Udovuʼoan dictionary#\*paca|*paca]]_ ("eight") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Eighty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fajāvi|fajāvi]]_
+### \*pacālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pacāleu|*pacāleu]]_, from _[[Proto-Udovuʼoan dictionary#\*paca|*paca]]_ ("eight") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Eight people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fajāru|fajāru]]_
+### \*pata
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pata|*pata]]_.
+> ¹ Contact, exposure
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fada|fada]]_
+### \*pācyo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pācia|*pācia]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lacia|*lacia]]_ ("red").
+> ¹ Lobster
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fājo|fājo]]_
+### \*pāń
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pāńe|*pāńe]]_.
+> ¹ Big moon; ² Night
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fāń|fāń]]_ → [[Möxali]] _[[Möxali dictionary#uvon|uvon]]_ ("bigmoon phase")
+### \*pāsakam
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pāsakame|*pāsakame]]_.
+> ¹ River fish sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fāzagam|fāzagam]]_
+### \*pes
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pese|*pese]]_.
+> ¹ River fish
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fes|fes]]_
+### \*piwā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwā|*piwā]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
+> ¹ Wide
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fiwā|fiwā]]_
+### \*piwi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwi|*piwi]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miwi|*miwi]]_ ("turn, bend").
+> ¹ Ring, loop, circle
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fiwi|fiwi]]_
+### \*po
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pau|*pau]]_.
+> ¹ Knowledge
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fo|fo]]_
+### \*posi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pausi|*pausi]]_, from _[[Proto-Udovuʼoan dictionary#\*pau|*pau]]_ ("knowledge").
+> ¹ Knowledge
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fozi|fozi]]_
+### \*pōlu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pāulu|*pāulu]]_.
+> ¹ Cow
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fōru|fōru]]_
+### \*pu’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pu’au|*pu’au]]_.
+> ¹ Island
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fu’o|fu’o]]_
+### \*pu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pu|*pu]]_.
+> ¹ That, there (medial)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fu|fu]]_
+### \*pūla
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pūla|*pūla]]_.
+> ¹ String
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#fūra|fūra]]_
+### \*pwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pua|*pua]]_.
+> ¹ Land
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#pwa|pwa]]_
+### \*pyā’e
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piā’e|*piā’e]]_.
+> ¹ [[Pyaʼe]] fruit, the fruit of a kind of palm tree
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#pyā’e|pyā’e]]_
+### \*pyā’exāw
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piā’ekiāwe|*piā’ekiāwe]]_, from _[[Proto-Udovuʼoan dictionary#\*piā’e|*piā’e]]_ ("[[Pyaʼe]] fruit") + _[[Proto-Udovuʼoan dictionary#\*kiāwe|*kiāwe]]_ ("juice").
+> ¹ The juice of the [[Pyaʼe]] fruit
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#pyā’ežāw|pyā’ežāw]]_
+### \*pyo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pia|*pia]]_.
+> ¹ On a boundary
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#pyo|pyo]]_
+### \*pyostu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piasetu|*piasetu]]_.
+> ¹ Spider
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#pyostu|pyostu]]_
+# q
+### \*qaca
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*qaca|*qaca]]_.
+> ¹ Elbow, knee; ² Angle, corner
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#’aja|’aja]]_
+# s
+### \*sa’o’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sa’au’au|*sa’au’au]]_, from _[[Proto-Udovuʼoan dictionary#\*sa’au|*sa’au]]_ ("sneeze").
+> ¹ Sneeze
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sa’o’o|sa’o’o]]_
+### \*sa’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sa’au|*sa’au]]_, from _[[Proto-Udovuʼoan dictionary#\*’au|*’au]]_ ("sneeze").
+> ¹ Sneeze
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sa’o|sa’o]]_
+### \*sa
+
+*part.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sa|*sa]]_.
+> ¹ General negativising adverb
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sa|sa]]_
+### \*safa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*safa|*safa]]_.
+> ¹ Death
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sava|sava]]_
+### \*saka
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*saka|*saka]]_.
+> ¹ Foreigner
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#saga|saga]]_
+### \*sama
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sama|*sama]]_.
+> ¹ Lung
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sama|sama]]_
+### \*sańā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sańā|*sańā]]_.
+> ¹ Nose; ² Protrusion
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sańā|sańā]]_
+### \*sasa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sasa|*sasa]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Reef fish sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#saza|saza]]_
+### \*saw
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sawe|*sawe]]_.
+> ¹ Summer
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#saw|saw]]_
+### \*saxā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sakiā|*sakiā]]_.
+> ¹ Tea
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sažā|sažā]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#saca|saca]]_ → [[Möxali]] _[[Möxali dictionary#saja|saja]]_
+### \*sā’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sā’i|*sā’i]]_.
+> ¹ Shrimp
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sā’i|sā’i]]_
+### \*sā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sahe|*sahe]]_.
+> ¹ Small
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sā|sā]]_ → [[Möxali]] _[[Möxali dictionary#saza|saza]]_
+### \*sāpi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Udovuʼoan dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sābi|sābi]]_ → [[Möxali]] _[[Möxali dictionary#sabi|sabi]]_
+### \*se
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sai|*sai]]_.
+> ¹ Alongside, near
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#se|se]]_
+### \*seki
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*saiqi|*saiqi]]_.
+> ¹ Gift
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#segi|segi]]_
+### \*sew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_.
+> ¹ Three
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sew|sew]]_
+### \*sewēfi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewēfi|*sewēfi]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Thirty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sewēvi|sewēvi]]_
+### \*sewkew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewekeuwe|*sewekeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Three hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sekwew|sekwew]]_
+### \*sewpi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewepi|*sewepi]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
+> ¹ Third (ordinal)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sepwi|sepwi]]_ → [[Möxali]] _[[Möxali dictionary#sipö|sipö]]_ ("third day")
+### \*sēpa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sēpa|*sēpa]]_.
+> ¹ Festival, party; ² Gathering
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sēba|sēba]]_
+### \*si’yo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*si’ia|*si’ia]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ia|*’ia]]_ ("inside of").
+> ¹ Stomach; ² Core, inner part
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#si’o|si’o]]_
+### \*si
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*si|*si]]_.
+> ¹ This, here (proximal)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#si|si]]_
+### \*sika
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sika|*sika]]_.
+> ¹ Nine
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#siga|siga]]_
+### \*sikakew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sikakeuwe|*sikakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*sika|*sika]]_ ("nine") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Nine hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sigagew|sigagew]]_
+### \*sikāfi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sikāfi|*sikāfi]]_, from _[[Proto-Udovuʼoan dictionary#\*sika|*sika]]_ ("nine") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Ninety
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sigāvi|sigāvi]]_
+### \*sikālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sikāleu|*sikāleu]]_, from _[[Proto-Udovuʼoan dictionary#\*sika|*sika]]_ ("nine") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Nine people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sigāru|sigāru]]_
+### \*simi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*simi|*simi]]_.
+> ¹ Star
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#simi|simi]]_
+### \*sona
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sauna|*sauna]]_.
+> ¹ Hair
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sona|sona]]_
+### \*sontu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*saunetu|*saunetu]]_.
+> ¹ Fifteen
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sontu|sontu]]_
+### \*sō
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sāu|*sāu]]_.
+> ¹ Blue
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sō|sō]]_ → [[Möxali]] _[[Möxali dictionary#suva|suva]]_
+### \*suku
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*suku|*suku]]_.
+> ¹ Fissure, crevice
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sugu|sugu]]_
+### \*sulwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sulua|*sulua]]_.
+> ¹ Resting place; ² Culmination, end of a journey; ³ West
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sura|sura]]_
+### \*sū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sēu|*sēu]]_.
+> ¹ Beat
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sū|sū]]_
+### \*sūwo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sūwau|*sūwau]]_.
+> ¹ Suwo, rodent sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#sūwo|sūwo]]_
+### \*swixi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sueki|*sueki]]_.
+> ¹ Waterfowl
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#swiži|swiži]]_
+# t
+### \*talo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*talau|*talau]]_.
+> ¹ Old, ancient
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#taro|taro]]_ → [[Möxali]] _[[Möxali dictionary#tarova|tarova]]_ ("old")
+### \*talu
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*talu|*talu]]_.
+> ¹ Behind, after; ² Below; ³ At the end of
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#taru|taru]]_
+### \*tan
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tane|*tane]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tana|*tana]]_ ("front, head").
+> ¹ In front of, before; ² Above; ³ At the start of
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tan|tan]]_
+### \*tana
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tana|*tana]]_.
+> ¹ Head; ² Beginning; ³ Front, top part
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tana|tana]]_
+### \*tanule
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*taneulai|*taneulai]]_, from _[[Proto-Udovuʼoan dictionary#\*tane|*tane]]_ ("in front of") + _[[Proto-Udovuʼoan dictionary#\*-ulai|*-ulai]]_ ("position").
+> ¹ First (ordinal)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tanure|tanure]]_ → [[Möxali]] _[[Möxali dictionary#tonde|tonde]]_ ("first day")
+### \*tapa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tapa|*tapa]]_.
+> ¹ Step, footprint; ² Walk; ³ Foot
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#taba|taba]]_
+### \*tapū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tapū|*tapū]]_.
+> ¹ Body; ² Main part
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tabū|tabū]]_
+### \*taqe
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*taqe|*taqe]]_.
+> ¹ Horn
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ta’e|ta’e]]_
+### \*teke
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tekai|*tekai]]_.
+> ¹ Spine
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tege|tege]]_
+### \*tēf
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tēfe|*tēfe]]_.
+> ¹ Bone
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tēf|tēf]]_
+### \*tēsi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tāisi|*tāisi]]_.
+> ¹ River otter
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tēzi|tēzi]]_
+### \*tiwā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwā|*piwā]]_ ("wide").
+> ¹ Flat
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tiwā|tiwā]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_, from _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
+> ¹ Palm of the hand
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tiwā|tiwā]]_
+### \*tiwēwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwāiwa|*tiwāiwa]]_, from _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
+> ¹ Ground, floor
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tiwēwa|tiwēwa]]_
+### \*tixi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiki|*tiki]]_.
+> ¹ Finger
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tiži|tiži]]_
+### \*tixisańā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tikisańā|*tikisańā]]_, from _[[Proto-Udovuʼoan dictionary#\*tiki|*tiki]]_ ("finger") + _[[Proto-Udovuʼoan dictionary#\*sańā|*sańā]]_ ("nose").
+> ¹ Tapir
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tižizańā|tižizańā]]_
+### \*to
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tau|*tau]]_.
+> ¹ House; ² Place, location
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#to|to]]_ → [[Möxali]] _[[Möxali dictionary#-do|-do]]_ ("home")
+### \*tos
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tause|*tause]]_.
+> ¹ Hunt, prey
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tos|tos]]_
+### \*toto
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tautau|*tautau]]_, from _[[Proto-Udovuʼoan dictionary#\*tau|*tau]]_ ("house") + _[[Proto-Udovuʼoan dictionary#\*tau|*tau]]_ ("house").
+> ¹ Village
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#todo|todo]]_
+### \*tu’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tu’au|*tu’au]]_.
+> ¹ Egg
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tu’o|tu’o]]_
+### \*tupu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tupu|*tupu]]_.
+> ¹ Grain, seed; ² Speck, dot
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tubu|tubu]]_
+### \*tusu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tusu|*tusu]]_.
+> ¹ Mark, line
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#tuzu|tuzu]]_
+# u
+### \*ufu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ufu|*ufu]]_.
+> ¹ Lack, want
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#uvu|uvu]]_
+### \*ukuko
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ukukau|*ukukau]]_, from _[[Proto-Udovuʼoan dictionary#\*uku-|*uku-]]_ ("intensified plural") + _[[Proto-Udovuʼoan dictionary#\*kau|*kau]]_ ("cut").
+> ¹ The writing system of [[Xiri]]
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ugugo|ugugo]]_
+### \*ulu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ulu|*ulu]]_.
+> ¹ Hand; ² Work, labour; ³ A set of five things
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#uru|uru]]_
+### \*usī
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*usī|*usī]]_.
+> ¹ Awakening, beginning; ² East
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#uzī|uzī]]_
+### \*usu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*usu|*usu]]_.
+> ¹ Ascent
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#uzu|uzu]]_
+# ū
+### \*ūmu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūmu|*ūmu]]_.
+> ¹ Water
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūmu|ūmu]]_
+### \*ūmufi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūmufi|*ūmufi]]_.
+> ¹ Waterfowl sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūmuvi|ūmuvi]]_
+### \*ūpa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūpa|*ūpa]]_.
+> ¹ The sun; ² Day
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūba|ūba]]_
+### \*ūpasulwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūpasulua|*ūpasulua]]_, from _[[Proto-Udovuʼoan dictionary#\*ūpa|*ūpa]]_ ("sun") + _[[Proto-Udovuʼoan dictionary#\*sulua|*sulua]]_ ("resting, west").
+> ¹ Sunset; ² West
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūbazura|ūbazura]]_
+### \*ūposī
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūpausī|*ūpausī]]_, from _[[Proto-Udovuʼoan dictionary#\*ūpa|*ūpa]]_ ("sun") + _[[Proto-Udovuʼoan dictionary#\*usī|*usī]]_ ("rising, awakening").
+> ¹ Sunrise, dawn; ² East
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūbozī|ūbozī]]_ → [[Möxali]] _[[Möxali dictionary#ubzi|ubzi]]_
+### \*ūpu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūpu|*ūpu]]_.
+> ¹ Tile, shape
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūbu|ūbu]]_
+### \*ūwi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūhi|*ūhi]]_.
+> ¹ Big, large; ² Grand
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūwi|ūwi]]_ → [[Möxali]] _[[Möxali dictionary#úviya|úviya]]_
+### \*ūxā
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūkiā|*ūkiā]]_.
+> ¹ Entire, whole; ² True
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūžā|ūžā]]_
+### \*ūxālasa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūkiālasa|*ūkiālasa]]_, from _[[Proto-Udovuʼoan dictionary#\*ūkiā|*ūkiā]]_ ("whole") + _[[Proto-Udovuʼoan dictionary#\*lasa|*lasa]]_ ("stuff, matter").
+> ¹ Fundamental substance, one of the primary components of matter
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#ūžāraza|ūžāraza]]_
+# w
+### \*wa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ua|*ua]]_.
+> ¹ Correct
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wa|wa]]_
+### \*walań
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*walańe|*walańe]]_.
+> ¹ Alcohol; ² Yam wine
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#warań|warań]]_ → [[Low Alöbi]] _[[Low Alöbi dictionary#walag|walag]]_ ("yam wine") → [[Möxali]] _[[Möxali dictionary#valon|valon]]_
+### \*wato
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*uatau|*uatau]]_.
+> ¹ Same, equal
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wado|wado]]_
+### \*wā’wi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wā’ue|*wā’ue]]_.
+> ¹ Snake
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wā’i|wā’i]]_
+### \*wācwi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wācue|*wācue]]_.
+> ¹ Brain
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wāji|wāji]]_
+### \*we’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_.
+> ¹ River, wind
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#we’a|we’a]]_
+### \*wew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wewe|*wewe]]_, from _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_ ("value") + _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_ ("value").
+> ¹ Number
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wew|wew]]_
+### \*wē’e
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wē’e|*wē’e]]_.
+> ¹ Destruction, raid
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wē’e|wē’e]]_
+### \*wi’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wi’i|*wi’i]]_.
+> ¹ Eye; ² Point, spot, hole
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wi’i|wi’i]]_
+### \*wi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_.
+> ¹ Value
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wi|wi]]_
+### \*wicalu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*uecalu|*uecalu]]_, from _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Four people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wijaru|wijaru]]_
+### \*wīka
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wīka|*wīka]]_.
+> ¹ Reef fish sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wīga|wīga]]_
+### \*wo’acū
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wau’acū|*wau’acū]]_.
+> ¹ Day-time, day
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wo’ajū|wo’ajū]]_
+### \*wucu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wucu|*wucu]]_.
+> ¹ Stream
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#wuju|wuju]]_
+# x
+### \*xāka
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiāka|*kiāka]]_.
+> ¹ Scalp; ² Peak, apex
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xāga|xāga]]_
+### \*xālu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*siāleu|*siāleu]]_.
+> ¹ Necwi, dinosaur sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xāru|xāru]]_
+### \*xāto
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiātau|*kiātau]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūkiā|*ūkiā]]_ ("whole").
+> ¹ Sixteen
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xādo|xādo]]_
+### \*xāw
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiāwe|*kiāwe]]_.
+> ¹ Juice; ² Sap, extract
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xāw|xāw]]_
+### \*xē
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiē|*kiē]]_.
+> ¹ Yonder (distal)
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xē|xē]]_
+### \*xēsaka
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiēsaka|*kiēsaka]]_, from _[[Proto-Udovuʼoan dictionary#\*kiē|*kiē]]_ ("yonder (distal)") + _[[Proto-Udovuʼoan dictionary#\*saka|*saka]]_ ("foreigner").
+> ¹ Foreign country
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xēzaga|xēzaga]]_
+### \*xi’i
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ki’i|*ki’i]]_.
+> ¹ Needle
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xi’i|xi’i]]_
+### \*xi’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ki’au|*ki’au]]_.
+> ¹ Grass
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xi’o|xi’o]]_
+### \*xi
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ki|*ki]]_.
+> ¹ True; ² Just, right; ³ Fair
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xi|xi]]_ → [[Möxali]] _[[Möxali dictionary#xíya|xíya]]_
+### \*xin
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kine|*kine]]_.
+> ¹ Reef fish
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xin|xin]]_
+### \*xiqe
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiqe|*kiqe]]_.
+> ¹ Underground
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xi’e|xi’e]]_
+### \*xīne
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kīnai|*kīnai]]_.
+> ¹ To pause, hold in place
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xīne|xīne]]_
+### \*xo’yu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sia’ie|*sia’ie]]_.
+> ¹ Chest, torso
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xo’u|xo’u]]_
+### \*xo
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kia|*kia]]_.
+> ¹ On a line
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xo|xo]]_
+### \*xonwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kianua|*kianua]]_.
+> ¹ Dish, plate, disc
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xonwa|xonwa]]_
+### \*xoxāta
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiakiāta|*kiakiāta]]_.
+> ¹ Root; ² Root vegetable
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xožāda|xožāda]]_
+### \*xufu
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiefu|*kiefu]]_.
+> ¹ Dark
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xuvu|xuvu]]_
+### \*xumi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiemi|*kiemi]]_.
+> ¹ Sickness, ailment
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#xumi|xumi]]_
+# y
+### \*yā’a
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’a|*iā’a]]_.
+> ¹ Hawk
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā’a|yā’a]]_
+### \*yā’o
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’au|*iā’au]]_.
+> ¹ Beauty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā’o|yā’o]]_
+### \*yā’u
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’u|*iā’u]]_.
+> ¹ Six
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā’u|yā’u]]_
+### \*yā’ukew
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’ukeuwe|*iā’ukeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*iā’u|*iā’u]]_ ("six") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Six hundred
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā’ugew|yā’ugew]]_
+### \*yā’wifi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’uefi|*iā’uefi]]_, from _[[Proto-Udovuʼoan dictionary#\*iā’u|*iā’u]]_ ("six") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Sixty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā’ivi|yā’ivi]]_
+### \*yā’wilu
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’ueleu|*iā’ueleu]]_, from _[[Proto-Udovuʼoan dictionary#\*iā’u|*iā’u]]_ ("six") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
+> ¹ Six people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā’iru|yā’iru]]_
+### \*yā
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā|*iā]]_.
+> ¹ Wing; ² Bird; ³ Feather
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā|yā]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāhe|*iāhe]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā|*iā]]_ ("wing, feather").
+> ¹ Leaf
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yā|yā]]_
+### \*yāce
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāce|*iāce]]_.
+> ¹ Limb; ² Strut, beam, brace
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yāje|yāje]]_
+### \*yāki
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāqi|*iāqi]]_.
+> ¹ Bright; ² Smart; ³ Witty
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yāgi|yāgi]]_ → [[Möxali]] _[[Möxali dictionary#yagiya|yagiya]]_ ("bright")
+### \*yāpi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāpi|*iāpi]]_.
+> ¹ Skin, leather; ² Surface
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yābi|yābi]]_
+### \*yāta
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāta|*iāta]]_.
+> ¹ Evident, obvious
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yāda|yāda]]_
+### \*yāwa
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāwa|*iāwa]]_.
+> ¹ Folded fabric or leaf
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yāwa|yāwa]]_
+### \*yāxi
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāki|*iāki]]_.
+> ¹ Feather
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yāži|yāži]]_
+### \*yē
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iē|*iē]]_.
+> ¹ Plant, fruit
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yē|yē]]_
+### \*yēw
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iēwe|*iēwe]]_.
+> ¹ Thin, narrow
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yēw|yēw]]_
+### \*yo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ia|*ia]]_.
+> ¹ Now
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yo|yo]]_
+### \*yoca
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iaca|*iaca]]_.
+> ¹ Bird sp.
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yoja|yoja]]_
+### \*yona
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iana|*iana]]_.
+> ¹ Two people
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yona|yona]]_
+### \*yopo
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iapau|*iapau]]_.
+> ¹ A held position of power
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yobo|yobo]]_
+### \*yu’uń
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ie’uńe|*ie’uńe]]_.
+> ¹ Agreement
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yu’uń|yu’uń]]_
+### \*yuta
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ieta|*ieta]]_.
+> ¹ Meat
+> **Descendants:** [[Xiri]] _[[Xiri dictionary#yuda|yuda]]_

@@ -10,10 +10,10 @@ Some Old Xiri inscriptions demonstrate regional variation in the form of certain
 
 |             | -   | Labial | Alveolar | Palatal | Velar | Uvular | Glottal |
 | ----------- | --- | ------ | -------- | ------- | ----- | ------ | ------- |
-| Nasal       | -   | m      | n        | (/ɲ/?)  | ń /ŋ/ |        |         |
-| Plosive     | -   | p      | t        | c /tʃ/  | k     | q      | ʼ /ʔ/   |
-| Fricative   | -   | f      | s        |         |       |        | h       |
-| Approximant | -   | w      | l        | y /j/   |       |        |         |
+| Nasal       | -   | **m**      | **n**        | **(/ɲ/?)**  | **ń /ŋ/** |        |         |
+| Plosive     | -   | **p**      | **t**        | **c /tʃ/**  | **k**     | **q**      | **ʼ /ʔ/**   |
+| Fricative   | -   | **f**      | **s**        |         |       |        | **h**       |
+| Approximant | -   | **w**      | **l**        | **y /j/**   |       |        |         |
 
 The presumed consonant inventory implied by the abjad orthography is a close match to the hypothetical reconstructed inventory of [[Proto-Xiri language|Proto-Xiri]]. One notable difference is the lack of a letter for the palatal nasal /ɲ/, which if it did exist in Old Xiri, was written simply as ⟨N⟩ or sometimes as the sequence ⟨N-Y⟩.
 
