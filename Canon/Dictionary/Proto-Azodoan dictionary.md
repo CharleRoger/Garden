@@ -32,11 +32,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_.
 > ¹ Seven
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆ke|*’ə̆ke]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ăke|’ăke]]_
-### \*’ə̆kekuwə̆
+### \*’ə̆kekupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akiakeuwe|*’akiakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_ ("seven") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Seven hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆kekuwŭ|*’ə̆kekuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ăkekuwŭ|’ăkekuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆kekukwə̆|*’ə̆kekukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ăkekukwă|’ăkekukwă]]_
 ### \*’ə̆kēfʲĭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’akiāfi|*’akiāfi]]_, from _[[Proto-Udovuʼoan dictionary#\*’akia|*’akia]]_ ("seven") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
@@ -67,25 +67,25 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’alau|*’alau]]_.
 > ¹ Shark
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆lo|*’ə̆lo]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ălo|’ălo]]_
-### \*’ə̆wə̆
+### \*’ə̆pʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ewe|*’ewe]]_.
 > ¹ Peeling, shaving
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆wŭ|*’ə̆wŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ewŭ|’ewŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆kwə̆|*’ə̆kwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ekwă|’ekwă]]_
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’awa|*’awa]]_.
 > ¹ Mixture
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆wŭ|*’ə̆wŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ewŭ|’ewŭ]]_
-### \*’ə̆wə̆lə̆sə̆
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆kwə̆|*’ə̆kwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ekwă|’ekwă]]_
+### \*’ə̆pʷə̆lə̆sə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’awalasa|*’awalasa]]_, from _[[Proto-Udovuʼoan dictionary#\*’awa|*’awa]]_ ("mixture") + _[[Proto-Udovuʼoan dictionary#\*lasa|*lasa]]_ ("stuff, matter").
 > ¹ Complex substance, a mixture of fundamental substances
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆wŭlə̆hə̆|*’ə̆wŭlə̆hə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ewŭlehă|’ewŭlehă]]_
-### \*’ə̆wu
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆kwə̆lə̆hə̆|*’ə̆kwə̆lə̆hə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ekwelehă|’ekwelehă]]_
+### \*’ə̆pʷu
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ewū|*’ewū]]_.
 > ¹ Crab
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆wu|*’ə̆wu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ăwu|’ăwu]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ə̆ku|*’ə̆ku]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ăku|’ăku]]_
 ### \*’ĭfə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’ife|*’ife]]_.
@@ -111,11 +111,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eu|*’eu]]_.
 > ¹ One
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’u|*’u]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’u|’u]]_
-### \*’ukuwə̆
+### \*’ukupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eukeuwe|*’eukeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*’eu|*’eu]]_ ("one") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Alternate form of _[[Xiri dictionary#kew|kew]]_
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ukuwŭ|*’ukuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ukuwŭ|’ukuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*’ukukwə̆|*’ukukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#’ukukwă|’ukukwă]]_
 ### \*’ŭlosʲĭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’uluasi|*’uluasi]]_, from _[[Proto-Udovuʼoan dictionary#\*’ulu|*’ulu]]_ ("sharp") + _[[Proto-Udovuʼoan dictionary#\*asi|*asi]]_ ("rock").
@@ -250,11 +250,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eqileu|*eqileu]]_, from _[[Proto-Udovuʼoan dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Udovuʼoan dictionary#\*qi|*qi]]_ ("north") + _[[Proto-Udovuʼoan dictionary#\*leu|*leu]]_ ("clay, mud").
 > ¹ Woman
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆kĭlu|*ə̆kĭlu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ekĭlu|ekĭlu]]_
-### \*ə̆kĭluwe’ə̆
+### \*ə̆kĭlupʷe’ə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eqileuwai’a|*eqileuwai’a]]_, from _[[Proto-Udovuʼoan dictionary#\*eqileu|*eqileu]]_ ("woman") + _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_ ("river, wind").
 > ¹ Mother
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆kĭluwe’ə̆|*ə̆kĭluwe’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ekĭluwe’ă|ekĭluwe’ă]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆kĭlukwe’ə̆|*ə̆kĭlukwe’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ekĭlukwe’ă|ekĭlukwe’ă]]_
 ### \*ə̆lĭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ali|*ali]]_.
@@ -275,11 +275,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eleuiēkaume|*eleuiēkaume]]_.
 > ¹ Friend
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆luīkowə̆|*ə̆luīkowə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ăluīkowă|ăluīkowă]]_
-### \*ə̆luwe’ə̆
+### \*ə̆lupʷe’ə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eleuwai’a|*eleuwai’a]]_, from _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person") + _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_ ("river, wind").
 > ¹ Parent
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆luwe’ə̆|*ə̆luwe’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ăluwe’ă|ăluwe’ă]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆lukwe’ə̆|*ə̆lukwe’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ălukwe’ă|ălukwe’ă]]_
 ### \*ə̆me
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*emai|*emai]]_.
@@ -290,11 +290,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eńeileu|*eńeileu]]_, from _[[Proto-Udovuʼoan dictionary#\*e-|*e-]]_ ("from") + _[[Proto-Udovuʼoan dictionary#\*ńei|*ńei]]_ ("south") + _[[Proto-Udovuʼoan dictionary#\*leu|*leu]]_ ("clay, mud").
 > ¹ Man
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆ńilu|*ə̆ńilu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ăńilu|ăńilu]]_
-### \*ə̆ńiluwe’ə̆
+### \*ə̆ńilupʷe’ə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*eńeileuwai’a|*eńeileuwai’a]]_, from _[[Proto-Udovuʼoan dictionary#\*eńeileu|*eńeileu]]_ ("man") + _[[Proto-Udovuʼoan dictionary#\*wai’a|*wai’a]]_ ("river, wind").
 > ¹ Father
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆ńiluwe’ə̆|*ə̆ńiluwe’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ăńiluwe’ă|ăńiluwe’ă]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆ńilukwe’ə̆|*ə̆ńilukwe’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ăńilukwe’ă|ăńilukwe’ă]]_
 ### \*ə̆pə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ape|*ape]]_.
@@ -351,11 +351,6 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fasekāsi|*fasekāsi]]_.
 > ¹ Arrow
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆hə̆kaxĭ|*ə̆hə̆kaxĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ehăkaxĭ|ehăkaxĭ]]_
-### \*fə̆wə̆
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fewe|*fewe]]_.
-> ¹ Life
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ə̆wŭ|*ə̆wŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ewŭ|ewŭ]]_
 ### \*fu
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*feu|*feu]]_.
@@ -372,6 +367,12 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*finie|*finie]]_.
 > ¹ Small moon
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*sĭyi|*sĭyi]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#sĭyi|sĭyi]]_
+# fʷ
+### \*fʷə̆pʷə̆
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*fewe|*fewe]]_.
+> ¹ Life
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*wə̆kwə̆|*wə̆kwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#wekwă|wekwă]]_
 # i
 ### \*icĭ
 
@@ -423,16 +424,16 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ina|*ina]]_.
 > ¹ Two, alternate form of _[[Xiri dictionary#in|in]]_
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ĭnə̆|*ĭnə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ină|ină]]_
-### \*ĭnə̆kuwə̆
+### \*ĭnə̆kupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*inakeuwe|*inakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*ina|*ina]]_ ("two") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Two hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ĭnə̆kuwŭ|*ĭnə̆kuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#inăkuwŭ|inăkuwŭ]]_
-### \*ĭnə̆pʲĭ
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ĭnə̆kukwə̆|*ĭnə̆kukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#inăkukwă|inăkukwă]]_
+### \*ĭnʲə̆pʲĭ
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*inepi|*inepi]]_, from _[[Proto-Udovuʼoan dictionary#\*ine|*ine]]_ ("two") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
 > ¹ Second (ordinal)
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ĭnə̆tĭ|*ĭnə̆tĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ĭnetĭ|ĭnetĭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ĭyə̆tĭ|*ĭyə̆tĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ĭyetĭ|ĭyetĭ]]_
 ### \*ĭpʲĭ
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ipi|*ipi]]_.
@@ -484,16 +485,16 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiāka|*kiāka]]_.
 > ¹ Scalp; ² Peak, apex
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kēkə̆|*kēkə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kēkă|kēkă]]_
+### \*kēpʷə̆
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiāwe|*kiāwe]]_.
+> ¹ Juice; ² Sap, extract
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kēkwə̆|*kēkwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kēkwă|kēkwă]]_
 ### \*kēto
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiātau|*kiātau]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūkiā|*ūkiā]]_ ("whole").
 > ¹ Sixteen
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kēto|*kēto]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kēto|kēto]]_
-### \*kēwə̆
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kiāwe|*kiāwe]]_.
-> ¹ Juice; ² Sap, extract
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kēwŭ|*kēwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kēwŭ|kēwŭ]]_
 ### \*kə̆’a’i
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ka’ā’ei|*ka’ā’ei]]_.
@@ -625,16 +626,16 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*keu|*keu]]_.
 > ¹ Fire, lava
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ku|*ku]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ku|ku]]_
-### \*kuwəlu
+### \*kupʷəlu
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*keuwēleu|*keuwēleu]]_, from _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred") + _[[Proto-Udovuʼoan dictionary#\*eleu|*eleu]]_ ("person").
 > ¹ A hundred people
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kuwulu|*kuwulu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kuwulu|kuwulu]]_
-### \*kuwə̆
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kukwəlu|*kukwəlu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kukwelu|kukwelu]]_
+### \*kupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*’eu|*’eu]]_ ("one"), [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_ ("value"). See _[[Xiri dictionary#’ugew|’ugew]]_.
 > ¹ Hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kuwŭ|*kuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kuwŭ|kuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kukwə̆|*kukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kukwă|kukwă]]_
 ### \*kŭmə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*kuma|*kuma]]_.
@@ -764,11 +765,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*lulā|*lulā]]_.
 > ¹ White
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*lŭla|*lŭla]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#lŭla|lŭla]]_
-### \*lŭlə̆ēwə̆
+### \*lŭlə̆ēpʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*luleiāwa|*luleiāwa]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāwa|*iāwa]]_ ("folded fabric or leaf").
 > ¹ Reef fish sp.
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*lŭlə̆ēwŭ|*lŭlə̆ēwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#lulăēwŭ|lulăēwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*lŭlə̆ēkwə̆|*lŭlə̆ēkwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#lulăēkwă|lulăēkwă]]_
 # m
 ### \*mene
 
@@ -795,11 +796,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’a|*ma’a]]_.
 > ¹ Five
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nə̆’ə̆|*nə̆’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ne’ă|ne’ă]]_
-### \*mə̆’ə̆kuwə̆
+### \*mə̆’ə̆kupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ma’akeuwe|*ma’akeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*ma’a|*ma’a]]_ ("five") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Five hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nə̆’ə̆kuwŭ|*nə̆’ə̆kuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ne’ăkuwŭ|ne’ăkuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nə̆’ə̆kukwə̆|*nə̆’ə̆kukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ne’ăkukwă|ne’ăkukwă]]_
 ### \*mə̆e
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mehia|*mehia]]_.
@@ -861,17 +862,22 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*misi|*misi]]_.
 > ¹ Liver, seat of emotions
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nĭxĭ|*nĭxĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#nixĭ|nixĭ]]_
-### \*mʲĭwĭ
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miwi|*miwi]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwi|*piwi]]_ ("ring, loop, circle").
-> ¹ Turn, bend
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nĭwĭ|*nĭwĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#niwĭ|niwĭ]]_
 ### \*mʲīsu
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miēsū|*miēsū]]_.
 > ¹ Valley
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nīhu|*nīhu]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#nīhu|nīhu]]_
+### \*mʲŭpʲĭ
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mupi|*mupi]]_.
+> ¹ A little bit
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*nŭtĭ|*nŭtĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#nutĭ|nutĭ]]_
 # mʷ
+### \*mʷĭpʷĭ
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miwi|*miwi]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwi|*piwi]]_ ("ring, loop, circle").
+> ¹ Turn, bend
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ńwĭkwĭ|*ńwĭkwĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#wikwĭ|wikwĭ]]_
 ### \*mʷolŭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mualu|*mualu]]_.
@@ -906,11 +912,6 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mukau|*mukau]]_.
 > ¹ Hill
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ńŭko|*ńŭko]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ńŭko|ńŭko]]_
-### \*mʷŭpʲĭ
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*mupi|*mupi]]_.
-> ¹ A little bit
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ńŭtĭ|*ńŭtĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ńutĭ|ńutĭ]]_
 # n
 ### \*nalu
 
@@ -1025,16 +1026,16 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_.
 > ¹ Four
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ohŭ|*ohŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ohŭ|ohŭ]]_
-### \*osŭkuwə̆
+### \*osŭkupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausukeuwe|*ausukeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_ ("four") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Four hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ohŭkuwŭ|*ohŭkuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ohŭkuwŭ|ohŭkuwŭ]]_
-### \*osŭpʲĭ
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ohŭkukwə̆|*ohŭkukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ohŭkukwă|ohŭkukwă]]_
+### \*osʲŭpʲĭ
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ausupi|*ausupi]]_, from _[[Proto-Udovuʼoan dictionary#\*ausu|*ausu]]_ ("four") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
 > ¹ Fourth (ordinal)
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ohŭtĭ|*ohŭtĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ohutĭ|ohutĭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*oxŭtĭ|*oxŭtĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#oxutĭ|oxutĭ]]_
 # ō
 ### \*ōkĭ
 
@@ -1077,11 +1078,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*paca|*paca]]_.
 > ¹ Eight
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆sə̆|*hə̆sə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hesă|hesă]]_
-### \*pə̆cə̆kuwə̆
+### \*pə̆cə̆kupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pacakeuwe|*pacakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*paca|*paca]]_ ("eight") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Eight hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆sə̆kuwŭ|*hə̆sə̆kuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hesăkuwŭ|hesăkuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆sə̆kukwə̆|*hə̆sə̆kukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hesăkukwă|hesăkukwă]]_
 ### \*pə̆sə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*pese|*pese]]_.
@@ -1123,21 +1124,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piā’e|*piā’e]]_.
 > ¹ [[Pyaʼe]] fruit, the fruit of a kind of palm tree
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*tē’ə̆|*tē’ə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#tē’ă|tē’ă]]_
-### \*pʲē’ə̆kēwə̆
+### \*pʲē’ə̆kēpʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piā’ekiāwe|*piā’ekiāwe]]_, from _[[Proto-Udovuʼoan dictionary#\*piā’e|*piā’e]]_ ("[[Pyaʼe]] fruit") + _[[Proto-Udovuʼoan dictionary#\*kiāwe|*kiāwe]]_ ("juice").
 > ¹ The juice of the [[Pyaʼe]] fruit
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*tē’ə̆kēwŭ|*tē’ə̆kēwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#tē’ăkēwŭ|tē’ăkēwŭ]]_
-### \*pʲĭwa
-
-*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwā|*piwā]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
-> ¹ Wide
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*tĭwa|*tĭwa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#tĭwa|tĭwa]]_
-### \*pʲĭwĭ
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwi|*piwi]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miwi|*miwi]]_ ("turn, bend").
-> ¹ Ring, loop, circle
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*tĭwĭ|*tĭwĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#tiwĭ|tiwĭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*tē’ə̆kēkwə̆|*tē’ə̆kēkwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#tē’ăkēkwă|tē’ăkēkwă]]_
 # pʷ
 ### \*pʷa’u
 
@@ -1164,11 +1155,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*walańe|*walańe]]_.
 > ¹ Alcohol; ² Yam wine
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kwə̆lə̆ńə̆|*kwə̆lə̆ńə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kweleńă|kweleńă]]_
-### \*pʷə̆wə̆
+### \*pʷə̆pʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wewe|*wewe]]_, from _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_ ("value") + _[[Proto-Udovuʼoan dictionary#\*ue|*ue]]_ ("value").
 > ¹ Number
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kwə̆wŭ|*kwə̆wŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kwewŭ|kwewŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kwə̆kwə̆|*kwə̆kwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kwekwă|kwekwă]]_
 ### \*pʷikə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wīka|*wīka]]_.
@@ -1179,6 +1170,16 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wi’i|*wi’i]]_.
 > ¹ Eye; ² Point, spot, hole
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kwĭ’ĭ|*kwĭ’ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kwi’ĭ|kwi’ĭ]]_
+### \*pʷĭpʷa
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwā|*piwā]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
+> ¹ Wide
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kwĭkwa|*kwĭkwa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kwĭkwa|kwĭkwa]]_
+### \*pʷĭpʷĭ
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwi|*piwi]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*miwi|*miwi]]_ ("turn, bend").
+> ¹ Ring, loop, circle
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*kwĭkwĭ|*kwĭkwĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#kwikwĭ|kwikwĭ]]_
 ### \*pʷo’ə̆cu
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*wau’acū|*wau’acū]]_.
@@ -1215,11 +1216,6 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sā’i|*sā’i]]_.
 > ¹ Shrimp
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ha’ĭ|*ha’ĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ha’ĭ|ha’ĭ]]_
-### \*sapʲĭ
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Udovuʼoan dictionary#\*sahe|*sahe]]_ ("small").
-> ¹ Girl, young female
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hatĭ|*hatĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hatĭ|hatĭ]]_
 ### \*se
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sai|*sai]]_.
@@ -1280,35 +1276,35 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sańā|*sańā]]_.
 > ¹ Nose; ² Protrusion
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆ńa|*hə̆ńa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hăńa|hăńa]]_
+### \*sə̆pʷəfʲĭ
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewēfi|*sewēfi]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
+> ¹ Thirty
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆kwəsĭ|*hə̆kwəsĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hăkwesĭ|hăkwesĭ]]_
+### \*sə̆pʷə̆
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_.
+> ¹ Three
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆kwə̆|*hə̆kwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hekwă|hekwă]]_
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sawe|*sawe]]_.
+> ¹ Summer
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆kwə̆|*hə̆kwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hekwă|hekwă]]_
+### \*sə̆pʷə̆kupʷə̆
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewekeuwe|*sewekeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
+> ¹ Three hundred
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆kwə̆kukwə̆|*hə̆kwə̆kukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hekwăkukwă|hekwăkukwă]]_
+### \*sə̆pʷə̆pʲĭ
+
+*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewepi|*sewepi]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
+> ¹ Third (ordinal)
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆kwə̆tĭ|*hə̆kwə̆tĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hekwetĭ|hekwetĭ]]_
 ### \*sə̆sə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sasa|*sasa]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sahe|*sahe]]_ ("small").
 > ¹ Reef fish sp.
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆hə̆|*hə̆hə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hehă|hehă]]_
-### \*sə̆wəfʲĭ
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewēfi|*sewēfi]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*efi|*efi]]_ ("ten").
-> ¹ Thirty
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆wusĭ|*hə̆wusĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hăwusĭ|hăwusĭ]]_
-### \*sə̆wə̆
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_.
-> ¹ Three
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆wŭ|*hə̆wŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hewŭ|hewŭ]]_
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sawe|*sawe]]_.
-> ¹ Summer
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆wŭ|*hə̆wŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hewŭ|hewŭ]]_
-### \*sə̆wə̆kuwə̆
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewekeuwe|*sewekeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
-> ¹ Three hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆wŭkuwŭ|*hə̆wŭkuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hewŭkuwŭ|hewŭkuwŭ]]_
-### \*sə̆wə̆pʲĭ
-
-*adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sewepi|*sewepi]]_, from _[[Proto-Udovuʼoan dictionary#\*sewe|*sewe]]_ ("three") + _[[Proto-Udovuʼoan dictionary#\*-pi|*-pi]]_ ("ordinal numeral").
-> ¹ Third (ordinal)
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hə̆wŭtĭ|*hə̆wŭtĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hewutĭ|hewutĭ]]_
 ### \*sonə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sauna|*sauna]]_.
@@ -1329,11 +1325,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sueki|*sueki]]_.
 > ¹ Waterfowl
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hukĭ|*hukĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hukĭ|hukĭ]]_
-### \*suwo
+### \*supʷo
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sūwau|*sūwau]]_.
 > ¹ Suwo, rodent sp.
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*huwo|*huwo]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#huwo|huwo]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hukwo|*hukwo]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hukwo|hukwo]]_
 ### \*sŭkŭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*suku|*suku]]_.
@@ -1350,6 +1346,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 > ¹ Beat
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*hū|*hū]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#hū|hū]]_
 # sʲ
+### \*sʲapʲĭ
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sāpi|*sāpi]]_, from _[[Proto-Udovuʼoan dictionary#\*sahe|*sahe]]_ ("small").
+> ¹ Girl, young female
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*xatĭ|*xatĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#xatĭ|xatĭ]]_
 ### \*sʲe’i
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sia’ie|*sia’ie]]_.
@@ -1385,11 +1386,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sika|*sika]]_.
 > ¹ Nine
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*xĭkə̆|*xĭkə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#xikă|xikă]]_
-### \*sʲĭkə̆kuwə̆
+### \*sʲĭkə̆kupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*sikakeuwe|*sikakeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*sika|*sika]]_ ("nine") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Nine hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*xĭkə̆kuwŭ|*xĭkə̆kuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#xikăkuwŭ|xikăkuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*xĭkə̆kukwə̆|*xĭkə̆kukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#xikăkukwă|xikăkukwă]]_
 ### \*sʲĭmʲĭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*simi|*simi]]_.
@@ -1505,20 +1506,20 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tikisańā|*tikisańā]]_, from _[[Proto-Udovuʼoan dictionary#\*tiki|*tiki]]_ ("finger") + _[[Proto-Udovuʼoan dictionary#\*sańā|*sańā]]_ ("nose").
 > ¹ Tapir
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭkĭhə̆ńa|*cĭkĭhə̆ńa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cikihăńa|cikihăńa]]_
-### \*tʲĭwa
+### \*tʲĭpʷa
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_, Perhaps related to [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*piwā|*piwā]]_ ("wide").
 > ¹ Flat
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭwa|*cĭwa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cĭwa|cĭwa]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭkwa|*cĭkwa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cĭkwa|cĭkwa]]_
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_, from _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
 > ¹ Palm of the hand
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭwa|*cĭwa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cĭwa|cĭwa]]_
-### \*tʲĭwēwə̆
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭkwa|*cĭkwa]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cĭkwa|cĭkwa]]_
+### \*tʲĭpʷēpʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*tiwāiwa|*tiwāiwa]]_, from _[[Proto-Udovuʼoan dictionary#\*tiwā|*tiwā]]_ ("flat").
 > ¹ Ground, floor
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭwēwŭ|*cĭwēwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cĭwēwŭ|cĭwēwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*cĭkwēkwə̆|*cĭkwēkwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#cĭkwēkwă|cĭkwēkwă]]_
 # u
 ### \*uĭ
 
@@ -1535,16 +1536,16 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūkiālasa|*ūkiālasa]]_, from _[[Proto-Udovuʼoan dictionary#\*ūkiā|*ūkiā]]_ ("whole") + _[[Proto-Udovuʼoan dictionary#\*lasa|*lasa]]_ ("stuff, matter").
 > ¹ Fundamental substance, one of the primary components of matter
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ukēlə̆hə̆|*ukēlə̆hə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ukēlehă|ukēlehă]]_
+### \*umʲŭfʲĭ
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūmufi|*ūmufi]]_.
+> ¹ Waterfowl sp.
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*unŭsĭ|*unŭsĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#unusĭ|unusĭ]]_
 ### \*umʷŭ
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūmu|*ūmu]]_.
 > ¹ Water
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*uńŭ|*uńŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#uńŭ|uńŭ]]_
-### \*umʷŭfʲĭ
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūmufi|*ūmufi]]_.
-> ¹ Waterfowl sp.
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*uńŭsĭ|*uńŭsĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#uńusĭ|uńusĭ]]_
 ### \*upə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ūpa|*ūpa]]_.
@@ -1637,11 +1638,11 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’u|*iā’u]]_.
 > ¹ Six
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ya’ŭ|*ya’ŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ya’ŭ|ya’ŭ]]_
-### \*ya’ŭkuwə̆
+### \*ya’ŭkupʷə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā’ukeuwe|*iā’ukeuwe]]_, from _[[Proto-Udovuʼoan dictionary#\*iā’u|*iā’u]]_ ("six") + _[[Proto-Udovuʼoan dictionary#\*keuwe|*keuwe]]_ ("hundred").
 > ¹ Six hundred
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ya’ŭkuwŭ|*ya’ŭkuwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ya’ŭkuwŭ|ya’ŭkuwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*ya’ŭkukwə̆|*ya’ŭkukwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#ya’ŭkukwă|ya’ŭkukwă]]_
 ### \*ya
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iā|*iā]]_.
@@ -1671,26 +1672,26 @@ A dictionary of terms in the [[Proto-Azodoan]] language.
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāpi|*iāpi]]_.
 > ¹ Skin, leather; ² Surface
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yatĭ|*yatĭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yatĭ|yatĭ]]_
+### \*yapʷə̆
+
+*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāwa|*iāwa]]_.
+> ¹ Folded fabric or leaf
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yakwə̆|*yakwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yakwă|yakwă]]_
 ### \*yatə̆
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāta|*iāta]]_.
 > ¹ Evident, obvious
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yatə̆|*yatə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yată|yată]]_
-### \*yawə̆
-
-*n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iāwa|*iāwa]]_.
-> ¹ Folded fabric or leaf
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yawŭ|*yawŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yawŭ|yawŭ]]_
 ### \*yə
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iē|*iē]]_.
 > ¹ Plant, fruit
 > **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yi|*yi]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yi|yi]]_
-### \*yəwə̆
+### \*yəpʷə̆
 
 *adj.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*iēwe|*iēwe]]_.
 > ¹ Thin, narrow
-> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yiwŭ|*yiwŭ]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yiwŭ|yiwŭ]]_
+> **Descendants:** [[Old Ahōtoli]] _[[Old Ahōtoli dictionary#\*yikwə̆|*yikwə̆]]_ → [[Ahōtoli]] _[[Ahōtoli dictionary#yikwă|yikwă]]_
 ### \*yə̆’ŭńə̆
 
 *n.* From [[Proto-Udovuʼoan language|Proto-Udovuʼoan]] _[[Proto-Udovuʼoan dictionary#\*ie’uńe|*ie’uńe]]_.
