@@ -1,0 +1,3 @@
+**Tanuswība** was the outermost layer of the universe in [[Xiyeru religion#Cosmology|Xiyeru cosmology]], a realm of pure, primordial light.
+
+The [[Xiyeru]] believed that the [[sun]] and [[Solar system#Planets|visible planets]] were made of light from Tanuswība and were physical manifestations of creator deities called [[ībarovā]]. The stars, in contrast, were holes in the firmament punctured by the ascension of the [[Xiyeru#Parts of the self|rhovā]] (spirit) of [[Xiyeru]] ancestors to [[Tanuswība]], where they were reunited with the primordial light from which all things originally came.
