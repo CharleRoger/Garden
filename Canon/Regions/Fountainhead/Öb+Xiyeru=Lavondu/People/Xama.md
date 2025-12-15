@@ -1,0 +1,1 @@
+**Xama** was the first human child in [[Xiyeru religion|Xiyeru mythology]], born of the marriage of the [[Kiyeru]] and [[Ńiyeru]].
