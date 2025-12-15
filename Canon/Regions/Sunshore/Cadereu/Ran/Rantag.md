@@ -44,7 +44,7 @@ The plural suffix was -q. As with other suffixes, an epenthetic -y- (*early*: /u
 
 ### Individual example
 
-The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These featured a fossilized i-, originally from the honorific *exe* [içi]. They were based on the older, archaic forms *tatta* and namma. The change from t to c is irregular; it is theorized to have happened due to the influence of neighbouring ç in the intermediate form /içtan/. The same change is seen in the [[Serquky]] *icir*, a form of address to the king, from *tir*.
+The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These featured a fossilized i-, originally from the honorific *exe* [içi]. They were based on the older, archaic forms *tatta* and namma. The change from t to c is irregular; it is theorized to have happened due to the influence of neighbouring ç in the intermediate form [içtan]. The same change is seen in the [[Serquky]] *icir*, a form of address to the king, from *tir*.
 ### List
 
 | Rantag           | English                            |
