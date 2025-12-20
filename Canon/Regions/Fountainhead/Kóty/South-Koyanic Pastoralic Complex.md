@@ -9,4 +9,4 @@ The people of the SKP were pastoralists, who herded cattle, goats, [[Mlomlo]] an
 Hnäzb histories like to tell epic tales of legendary conquerors of old. One reoccuring theme is a heroic figure who lifts up his vassals from poverty. There is the motif, that before their rise, the Hnäzb were a pariah people and lived in poverty. This is probably a cultural memory relating to the end of the NKPM and its impoverishment and decline. During this collapse its members began to give up their settlements and became fully nomadic and acquired a lifestyle of raiding. Scholars like to paint these nomadic people as *parasitic* to the cultural carriers of the [[Old Krobu Maritime Culture|OKM]] culture. 
 ## Language
 
-The people of the SKP spoke a Hnäzbic language. It is often assumed to be a late phase of [[Proto-Hnäzb language]] itself. 
+The people of the SKP spoke a Hnäzbic language. It is often assumed to be a late phase of the [[Proto-Hnäzb language]] itself. 
