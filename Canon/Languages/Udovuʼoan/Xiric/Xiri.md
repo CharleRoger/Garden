@@ -1,4 +1,4 @@
-#language/udovuoan #xiri #udovuo #xiryeru
+#language/udovuoan #xiri #udovuo #xiyeru
 
 **Xiri** is a dialect continuum containing many of the most spoken languages in [[Udovuʼo]] throughout history. The varieties of Xiri are thought to have developed from a single common ancestor, [[Proto-Xiri language|Proto-Xiri]], to which the attested language [[Old Xiri]] bares strong resemblance.
 

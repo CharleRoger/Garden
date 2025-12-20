@@ -1,4 +1,4 @@
-#language/udovuoan #xiri #udovuo #xiryeru
+#language/udovuoan #xiri #udovuo #xiyeru
 
 **Ahōtoli**, called *Azodori* in [[Xiri]], is an [[Udovuʼoan languages|Udovuʼoan language]] language originating on the large southern island of [[Udovuʼo]], called *[[Azodo]]* in [[Xiri]] and *Ahōto* in Ahōtoli.
 

@@ -1,4 +1,4 @@
-#language/udovuoan #xiri #udovuo #xiryeru
+#language/udovuoan #xiri #udovuo #xiyeru
 
 **Old Xiri** is the oldest language in [[Udovuʼo]] to be attested in writing, having survived through scant inscriptions in the [[Ugugo#Origin and evolution|Savamāric Ugugo]] abjad from around the [[8th century BGS|8th]] to the [[3rd century BGS|3rd]] centuries BGS. It is closely related to the [[Proto-Xiri language]], the reconstructed common ancestor of all [[Xiri]] varieties, but exhibits some peculiarities which can be hard to explain and is likely not an ancestor of later [[Xiri|Standard Xiri]].
 
