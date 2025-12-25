@@ -2,18 +2,18 @@ Rantag /ʁɑntɑŋ/ was a language spoken by the [[Ran peoples]]. Over time, it 
 ## Phonology
 ### Consonants
 
-|             | -   | Labial | Alveolar | Palatal | Velar   | Uvular   |
-| ----------- | --- | ------ | -------- | ------- | ------- | -------- |
-| Stop        | -   | p      | t        | c       | k       | q        |
-| Fricative   | -   | f      | s        |         | x       | ⟨r⟩  /ʁ/ |
-| Nasal       | -   | m      | n        |         | ⟨g⟩ /ŋ/ |          |
-| Approximant | -   | w      | l        |         |         |          |
+|             | Labial | Alveolar | Palatal | Velar   | Uvular   |
+| ----------- | ------ | -------- | ------- | ------- | -------- |
+| Stop        | p      | t        | c       | k       | q        |
+| Fricative   | f      | s        |         | x       | ⟨r⟩  /ʁ/ |
+| Nasal       | m      | n        |         | ⟨g⟩ /ŋ/ |          |
+| Approximant | w      | l        |         |         |          |
 ### Vowels
 
 |      | Front          | Back           |
 | ---- | -------------- | -------------- |
-| High | ⟨e, i⟩ /i, i:/ | ⟨y, u⟩ /u, u:/ |
-| Low  |                | ⟨a, o⟩ /ɑ, ɑ:/ |
+| High | ⟨e, i⟩ /i, iː/ | ⟨y, u⟩ /u, uː/ |
+| Low  |                | ⟨a, o⟩ /ɑ, ɑː/ |
 
 (To avoid the use of diacritics,) The romanization for the vowels is based on later variant spoken in [[Totky]]. This variant had undergone a dramatic vowel shift, which included changes in the articulation of the short and the long vowels and the loss of a phonemic vowel length distinction.
 
@@ -39,7 +39,7 @@ The pronunciation of /ʁ/ also depended on the region. [[Taspi]], [[Kypky]], and
 
 ## Grammar
 
-The plural suffix was -q. As with other suffixes, an epenthetic -y- (*early*: /u/) was used when phonotactically necessary. The exception to this was [[Serquky]], where the vowel used was -e- (*early*: /i/).
+The plural suffix was -q. As with other suffixes, an epenthetic -y- (*early*: /u/) was used when phonotactically necessary. The exception to this was [[Serquky]], where the vowel used was -e- (*early*: /i/). -ca was used for forming abstract nouns as well as some collective phrases.
 ## Vocabulary
 
 ### Individual example
@@ -51,7 +51,7 @@ The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These 
 | ---------------- | ---------------------------------- |
 | pi               | town                               |
 | tas              | head                               |
-| tot              | priest                             |
+| tot              | ~priest                            |
 | maxa             | same                               |
 | ferrusi          | to be born                         |
 | ferrum           | born                               |
@@ -60,12 +60,14 @@ The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These 
 | tot moferrumca   | *idk*                              |
 | xal              | pyhä (holy)                        |
 | serqu            | a storm god                        |
-| beach/shore      | col                                |
+| col              | beach/shore                        |
 | tir              | king                               |
 | tirqela          | viceroy                            |
 | Pilur            | god                                |
 | Kyp              | god                                |
-| Fecul            | god probabloy                      |
+| xiny             | grain of sand                      |
+| kawu             | individual hair                    |
+| Fecul            | a certain god                      |
 | pilam            | ocean                              |
 | purka            | crab                               |
 | kyrna            | family                             |
@@ -76,5 +78,6 @@ The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These 
 | syrmafom         | goodwill                           |
 | raxal            | brave                              |
 | sug              | guardian                           |
+| syg              | fish                               |
 | tegen            | wisdom                             |
 | Monxal           | Mercy                              |

@@ -20,3 +20,7 @@ A **Tot Cenuk** "high tot" (plural *Totyq Cenukyq*) was a superior rank of tot. 
 The **Tot Cenukki** "highest tot" (plural *Totyq Cenukkiq*) was the highest ranking tot, to which all Totyq Cenukyq and other totyq in the city-state were subordinate. The position was initially that of a "first among equals", though it evolved away from that, first de facto and then de jure. 
 
 It was common for a Tot Cenukki to also wield considerable secular power. Such was the case with the position of the Tot Cenukki of [[Taspi]], whose powers rivaled even those of the king. In [[Totky]], the successor state of Taspi, the two Totyq Cenukkiq led the state in a theocracy. Though [[Feculky]] was ruled by kings for most of its existence, this briefly changed during the [[Totky#Feculky uprising|Feculky uprising]] when the totyq overthrew the puppet king, installing a Tot Cenukki of their own as the leader of the state. 
+
+# Later developments
+
+Over time, totyq became seen as increasingly political. In Totkywa, totyq were dominant in public life and political positions. While still seen as holy, their religious duties were lessened by the advent of the Singers, 

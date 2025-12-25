@@ -1,0 +1,5 @@
+Crab-like animals known as _purkaq_ (singular _purka_) are found all around the coast of Pilam, varying by region. Most purkaq are pinkish or lavender in color, with more red on the body. The size of a purka depends on the species, adult specimens ranging from ~5 cm to ~50 cm. They exhibit sexual dimorphism, with male purkaq having a large tail used to attract mates and female purkaq having a more diminute one. Sometimes the tail also has a stinger used to attack prey, but this is becoming increasingly uncommon, especially among domesticated species. 
+
+Purkaq are an important livelihood among the Ran, but are also regarded as religiously significant. They are especially associated with seasonal religious rituals. Additionally, art portraying the gods and important deceased people often portrays them as purkaq.
+
+![[purka.png]]
