@@ -1,106 +1,112 @@
----
-tags:
-  - language/koyanic
----
-**Old Arklobu** is the partially reconstructed ancestor to the [[Arklobu]] later spoken in [[Krobu]], thought to have been spoken in the 1st millennium BGS.
+#language/koyanic #krobu
+
+**Old Arklobu** is a partly attested, partly reconstructed language and ancestor of the [[Arklobu language]] later spoken in [[Krobu]]. It is thought to have been spoken throughout essentially the entire [[1st millennium BGS]], largely before the first writing appeared in [[Krobu]].
+
 # Phonology
+
 ## Consonants
 
-|                     | -   | Labial | Alveolar | Palatal | Plain velar |
-| ------------------- | --- | ------ | -------- | ------- | ----------- |
-| Voiced obstruent    | -   | \*b    | \*d      | \*ɟ     | \*g         |
-| Voiceless plosive   | -   | \*p    | \*t      | \*c     | \*k         |
-| Voiced fricative    | -   | \*v    | \*z      |         | \*ɣ         |
-| Voiceless fricative | -   | \*f    | \*s      |         | \*x         |
-| Nasal               | -   | \*m    | \*n      | \*ɲ     | \*ŋ         |
-| Approximant         | -   |        | \*l      | \*j     | \*w         |
-| Trill               | -   |        | \*r      |         |             |
+|                     | -   | Labial  | Alveolar | Palatal | Plain velar |
+| ------------------- | --- | ------- | -------- | ------- | ----------- |
+| Voiced obstruent    | -   | **\*b** | **\*d**  | **\*ɟ** | **\*g**     |
+| Voiceless plosive   | -   | **\*p** | **\*t**  | **\*c** | **\*k**     |
+| Voiced fricative    | -   | **\*v** | **\*z**  |         | **\*ɣ**     |
+| Voiceless fricative | -   | **\*f** | **\*s**  |         | **\*x**     |
+| Nasal               | -   | **\*m** | **\*n**  | **\*ɲ** | **\*ŋ**     |
+| Approximant         | -   |         | **\*l**  | **\*j** | **\*w**     |
+| Trill               | -   |         | **\*r**  |         |             |
+
 ## Vowels
+
 |       | -   | Front unrounded | Front rounded | Central | Back |
 | ----- | --- | --------------- | ------------- | ------- | ---- |
-| Close | -   | \*i             | \*y           |         | \*u  |
-| Mid   | -   | \*e             | \*ø           | \*ə     | \*o  |
-| Open  | -   | \*æ             |               |         | \*ɑ  |
-In addition to the nine monophthongs, two diphthongs \*ei and \*øi are reconstructed.
+| Close | -   | **\*i**             | **\*y**           |         | **\*u**  |
+| Mid   | -   | **\*e**             | **\*ø**           | **\*ə**     | **\*o**  |
+| Open  | -   | **\*æ**             |               |         | **\*ɑ**  |
+
+In addition to the nine monophthongs, two diphthongs \*ei and \*øy are reconstructed.
+
 # Grammar
+
 ## Nouns
+
 ### Case
 
-|            | -   | Singular | Plural   |
-| ---------- | --- | -------- | -------- |
-| Absolutive | -   | \*-(ɑ)   | \*-(ə)   |
-| Accusative | -   | \*-(ɑ)r  | \*-(ə)ɣu |
-| Relative   | -   | \*-(j)æx | \*-(j)ei |
+|          | -   | Absolutive | Accusative | Relative |
+| -------- | --- | ---------- | ---------- | -------- |
+| Singular | -   | \*-(ɑ)     | \*-(ɑ)r    | \*-(r)ɑx |
+| Plural   | -   | \*-(ə)     | \*-(ɨ)ɣu   | \*-(r)i  |
+
 The relative case triggers certain stem-final consonants to mutate according to the following rules:
-- -r -l -w -ɣ > -j
-- -b -d -ɟ -g > -p -t -c -c
+
+- {\*r, \*l, \*w, \*ɣ} > \*y
+- \*b \*d \*ɟ \*g > \*p \*t \*c \*c
+
+A similar morphophonological process is observed in other [[Namb languages]].
+
+### Number
+
+Singular nouns simply express singular entities and cannot take a quantifier. Plural nouns represent generic reference to the kind or category of thing unless they are accompanied by a quantifier, which may be a numeral or adjective and tend to follow the nouns. A special adjective marks a non-specified countable plural value, shown in the table below:
+
+| Absolutive | Accusative | Relative |
+| ---------- | ---------- | -------- |
+| \*tɑ       | \*tɑr      | \*tɑx    |
+
+#### Lexical separation
+
+Old Arklobu exhibits a small degree of lexical separation of singular and plural nouns, a feature found more extensively in other [[Namb languages]] such as [[Yueyar language|Yueyar]]. This was likely motivated or supported by the difference between the phonological forms of the singular and plural stems in most inflection paradigms. Some examples of nouns whose two number forms semantically diverged include [[Old Arklobu dictionary#\*øydɑ|*øydɑ]] "lord" vs. [[Old Arklobu dictionary#\*øydə|*øydə]] "gentry" and [[Old Arklobu dictionary#\*ŋɑmvɑ|*ŋɑmvɑ]] "hide" vs. [[Old Arklobu dictionary#\*ŋɑmvə|*ŋɑmvə]] "skin, leather". Pairs of nouns like this typically survived into [[Arklobu language|Arklobu proper]] as completely separate lexical items, with the singular noun innovating a new plural (See [[Arklobu language#Number]]).
+
+There are many nouns which existed only in the plural, most of which descend from uncountable mass or collective nouns in [[Proto-Namb language|Proto-Namb]], such as [[Old Arklobu dictionary#\*muɣə|*muɣə]] "blood" and [[Old Arklobu dictionary#\*gɑcmɑvə|*gɑcmɑvə]] "humanity". There is additionally a fairly small closed category of nouns which inflect with plural forms but grammatically take a singular number, corresponding to the [[Proto-Namb language#Unique nouns|"unique nouns" of Proto-Namb]]. Some examples of this latter category include [[Old Arklobu dictionary#\*ɑvə|*ɑvə]] "the sun", [[Old Arklobu dictionary#\*təvə|*təvə]] "the world" and [[Old Arklobu dictionary#\*ɑɣə|*ɑɣə]] "the heart".
+
 ### Ablaut
-The final vowel in the stem of a noun follows one of four ablaut patterns, shown in the table below.
 
-| Number   | Case     | -   | 1     | 2     | 3     | <      | 4     | <      |
-| -------- | -------- | --- | ----- | ----- | ----- | ------ | ----- | ------ |
-| Singular | Abs, Acc | -   | \*-ɑ- | \*-ɑ- | \*-e- | \*-ei- | \*-o- | \*-øi- |
-| ^        | Relative | -   | \*-æ- | \*-æ- | ^     | ^      | \*-ø- | ^      |
-| Plural   | Abs, Acc | -   | \*-ɑ- | \*-ə- | \*-i- | <      | \*-u- | <      |
-| ^        | Relative | -   | \*-e- | \*-i- | ^     | <      | \*-y- | <      |
+The final vowel in the stem of a noun follows one of four inflectional ablaut patterns, shown in the table below.
 
-An archaic form of the class 3 and 4 relative plurals saw the use of a diphthong on vowel-final stems, for example the older \*kerobøijei "Krobu.REL" which was later regularised to \*kerobyjei.
+| Number   | Case     | -   | I     | II    | III   | <      | IV           | <            |
+| -------- | -------- | --- | ----- | ----- | ----- | ------ | ------------ | ------------ |
+| Singular | Abs, Acc | -   | \*-ɑ- | \*-ɑ- | \*-e- | \*-ei- | \*-o-        | \*-øy-       |
+| ^        | Relative | -   | \*-æ- | \*-æ- | ^     | ^      | \*-ø-        | ^            |
+| Plural   | Abs, Acc | -   | \*-ɑ- | \*-ə- | \*-i- | \*-i-  | \*-u-        | \*-u-/\*-øy- |
+| ^        | Relative | -   | \*-e- | \*-i- | ^     | ^      | \*-y-/\*-øy- | \*-y-/\*-øy- |
 
-The four ablaut classes primarily derive from different sets of vowels in [[Proto-Namb language|Proto-Namb]], though various sound changes and analogical processes have obscured the regular correspondences in many places. In general, ablaut classes correspond to the following [[Proto-Namb language|Proto-Namb]] vowels:
-1. \*a
-2. \*e
-3. \*i, \*ie
-4. \*o, \*u, \*ue
+An archaic form of the class III and IV relative plurals saw the use of a diphthong on vowel-final stems, for example the older [[Old Arklobu dictionary#\*kerobu|*kerobøyri]] "Krobu.REL" which was later regularised to *[[Arklobu dictionary#krobu|krobüri]]* [krobyri] in later [[Arklobu language|Arklobu]].
+
+The four ablaut classes primarily derive from different sets of vowels in [[Proto-Namb language|Proto-Namb]], though various sound changes and analogical processes have obscured the regular correspondences in many places. In general, ablaut classes correspond to the following [[Proto-Namb language|Proto-Namb]] stem vowels:
+
+| I   | II  | III | <    | IV  | <   | <    |
+| --- | --- | --- | ---- | --- | --- | ---- |
+| \*a | \*e | \*i | \*ie | \*o | \*u | \*ue |
 
 Some examples exhibiting the four ablaut classes are shown in the tables below.
-#### Inflection class 1
 
-|          | <          | -   | Leaf     | Melon      | Nut       | Swamp     | Hills     |
-| -------- | ---------- | --- | -------- | ---------- | --------- | --------- | --------- |
-| Singular | Absolutive | -   | \*fɑvɑ   | \*kərɑbɑ   | \*cwɑrɑ   | -         | -         |
-| ^        | Accusative | -   | \*fɑvɑr  | \*kərɑbɑr  | \*cwɑrɑr  | -         | -         |
-| ^        | Relative   | -   | \*fævæx  | \*kəræpæx  | \*cwæjæx  | -         | -         |
-| Plural   | Absolutive | -   | \*fɑvə   | \*kərɑbə   | \*cwɑrə   | \*nɑmbə   | \*okɑrə   |
-| ^        | Accusative | -   | \*fɑvəɣu | \*kərɑbəɣu | \*cwɑrəɣu | \*nɑmbəɣu | \*okɑrəɣu |
-| ^        | Relative   | -   | \*fevei  | \*kərepei  | \*cwejei  | \*nempei  | \*okejei  |
-#### Inflection class 2
+#### Inflection class I
 
-|          | <          | -   | Human     | Bone      | Tooth     | Guts     | Fire    |
-| -------- | ---------- | --- | --------- | --------- | --------- | -------- | ------- |
-| Singular | Absolutive | -   | \*ɑdɑrɑ   | \*rɑŋgɑ   | \*twɑɣɑ   | -        | -       |
-| ^        | Accusative | -   | \*ɑdɑrɑr  | \*rɑŋgɑr  | \*twɑɣɑr  | -        | -       |
-| ^        | Relative   | -   | \*ɑdæjæx  | \*ræɲcæɣu | \*twæjæx  | -        | -       |
-| Plural   | Absolutive | -   | \*ɑdərə   | \*rəŋgə   | \*twəɣə   | \*ləbə   | \*ɲə    |
-| ^        | Accusative | -   | \*ɑdərəɣu | \*rəŋgəɣu | \*twəɣəɣu | \*ləbəɣu | \*ɲəɣu  |
-| ^        | Relative   | -   | \*ɑdijei  | \*riɲcei  | \*twijei  | \*lipei  | \*ɲijei |
-#### Inflection class 3
+|            | -   | Leaf    | Leaves   | Melon     | Melons     | Nut      | Nuts      | Swamp     | Hills     |
+| ---------- | --- | ------- | -------- | --------- | ---------- | -------- | --------- | --------- | --------- |
+| Absolutive | -   | \*fɑvɑ  | \*fɑvə   | \*kerɑbɑ  | \*kerɑbə   | \*cwɑrɑ  | \*cwɑrə   | \*nɑmbər  | \*okɑrə   |
+| Accusative | -   | \*fɑvɑr | \*fɑvɨɣu | \*kerɑbɑr | \*kerɑbɨɣu | \*cwɑrɑr | \*cwɑrɨɣu | \*nɑmbɨɣu | \*okɑrɨɣu |
+| Relative   | -   | \*fævɑx | \*fevi   | \*keræpɑx | \*kerepi   | \*cwærɑx | \*cweri   | \*nempi   | \*okeri   |
 
-|          | <          | -   | Bird     | House    | String    | Malaise  | Road     |
-| -------- | ---------- | --- | -------- | -------- | --------- | -------- | -------- |
-| Singular | Absolutive | -   | \*hevɑ   | \*fei    | \*prewɑ   | -        | -        |
-| ^        | Accusative | -   | \*hevɑr  | \*feir   | \*prewɑr  | -        | -        |
-| ^        | Relative   | -   | \*hevæx  | \*feijæx | \*prejæx  | -        | -        |
-| Plural   | Absolutive | -   | \*hivə   | \*fi     | \*priwə   | \*ŋinə   | \*firə   |
-| ^        | Accusative | -   | \*hivəɣu | \*fiɣu   | \*priwəɣu | \*ŋinəɣu | \*firəɣu |
-| ^        | Relative   | -   | \*hivei  | \*fijei  | \*prijei  | \*ŋinei  | \*fijei  |
-#### Inflection class 4
+#### Inflection class II
 
-|          | <          | -   | River    | Sibling  | Peeling    | Blood    | Krobu                     |
-| -------- | ---------- | --- | -------- | -------- | ---------- | -------- | ------------------------- |
-| Singular | Absolutive | -   | \*otmɑ   | \*ɟøimɑ  | \*tibøi    | -        | -                         |
-| ^        | Accusative | -   | \*otmɑr  | \*ɟøimɑr | \*tibøir   | -        | -                         |
-| ^        | Relative   | -   | \*øtmæx  | \*ɟøimæx | \*tibøiræx | -        | -                         |
-| Plural   | Absolutive | -   | \*utmə   | \*ɟumə   | \*tibu     | \*muɣə   | \*kərobu                  |
-| ^        | Accusative | -   | \*utməɣu | \*ɟuməɣu | \*tibuɣu   | \*muɣəɣu | \*kərobuɣu                |
-| ^        | Relative   | -   | \*ytmei  | \*ɟymei  | \*tibyjei  | \*myjei  | \*kərobøijei, \*kərobyjei |
-## Adverbs
-Old Arklobu features a class of adverbs derived from the lexicalisation of an older ablative case. They are often transparently related to nouns, though can show irregularities and semantic differences.
+|            | -   | Human    | Humans    | Bone     | Bones     | Tooth    | Teeth     | Guts     | Fire   |
+| ---------- | --- | -------- | --------- | -------- | --------- | -------- | --------- | -------- | ------ |
+| Absolutive | -   | \*ɑdɑrɑ  | \*ɑdərə   | \*rɑŋgɑ  | \*rəŋgə   | \*twɑɣɑ  | \*twəɣə   | \*ləbə   | \*ɲə   |
+| Accusative | -   | \*ɑdɑrɑr | \*ɑdərɨɣu | \*rɑŋgɑr | \*rəŋgɨɣu | \*twɑɣɑr | \*twəɣɨɣu | \*ləbɨɣu | \*ɲɨɣu |
+| Relative   | -   | \*ɑdærɑx | \*ɑdiri   | \*ræɲcɑx | \*riɲci   | \*twærɑx | \*twiri   | \*lipi   | \*ɲiri |
 
-| Adverb                             | Noun                                      |
-| ---------------------------------- | ----------------------------------------- |
-| \*ɲypi "manually"                  | \*ɲobɑ "hands.ABS", \*ɲypei "hands.REL"   |
-| \*kmyfi "sincerely"                | \*kmofə "flesh.ABS", \*kmyfei "flesh.REL" |
-| \*øɲcedi "with assistance"         | \*øɲcodə "help.ABS", \*øɲcedei "help.REL" |
-| \*firi "correctly, conventionally" | \*firə "road.ABS", \*fijei "road.REL"     |
-| \*mydi "every day, often, always"  | \*møɟə "day.ABS", \*mycei "day.REL"       |
-| \*xæ "reflexively"                 | \*xɑxɑlɑ "self.ABS", \*xɑxijɑx "self.REL" |
+#### Inflection class III
+
+|            | -   | Bird    | Birds    | House    | Houses | String   | Strings   | Malaise  | Road      |
+| ---------- | --- | ------- | -------- | -------- | ------ | -------- | --------- | -------- | --------- |
+| Absolutive | -   | \*hevɑ  | \*hivə   | \*fei    | \*fi   | \*prewɑ  | \*priwə   | \*ŋinə   | \*feirə   |
+| Accusative | -   | \*hevɑr | \*hivɨɣu | \*feir   | \*fiɣu | \*prewɑr | \*priwɨɣu | \*ŋinɨɣu | \*feirɨɣu |
+| Relative   | -   | \*hevɑx | \*hivi   | \*feijɑx | \*firi | \*prerɑx | \*priri   | \*ŋini   | \*fini    |
+
+#### Inflection class IV
+
+|            | -   | River   | Rivers   | Sibling  | Siblings | Peeling    | Peelings | Blood    | Krobu       |
+| ---------- | --- | ------- | -------- | -------- | -------- | ---------- | -------- | -------- | ----------- |
+| Absolutive | -   | \*ɑtmɑ  | \*utmə   | \*ɟøymɑ  | \*ɟumə   | \*tibøy    | \*tibu   | \*muɣə   | \*kerobu    |
+| Accusative | -   | \*ɑtmɑr | \*utmɨɣu | \*ɟøymɑr | \*ɟumɨɣu | \*tibøyr   | \*tibuɣu | \*muɣɨɣu | \*kerobuɣu  |
+| Relative   | -   | \*ætmɑx | \*ytmi   | \*ɟøymɑx | \*ɟymi   | \*tibøyrɑx | \*tibyri | \*myri   | \*kerobøyri |
