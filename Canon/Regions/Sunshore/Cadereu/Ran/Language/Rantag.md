@@ -1,4 +1,4 @@
-Rantag /ʁɑntɑŋ/ was a language spoken by the [[Ran peoples]]. Over time, it increasingly diverged into different variants, which were generally still mutually intelligeble. This page focuses on the standard variant in Totky at the time of [[Totky#From monarchy to theocracy|its founding]], as that one would go on to have the most influence. However, notable variations are also described.
+Rantag /ʁɑntɑŋ/ was a language spoken by the [[Ran peoples]]. Over time, it increasingly diverged into different variants, which were generally still mutually intelligeble. This page focuses on the standard variant in Totky at the time of [[Totky#From monarchy to theocracy|its founding]], (note: this is cap, i don't know what happened here, ignore it) as that one would go on to have the most influence. However, notable variations are also described.
 ## Phonology
 ### Consonants
 

@@ -4,7 +4,7 @@
 
 # Name
 
-*[[Arklobu dictionary#arklobu|Arklobu]]* is derived from the name *[[krobu]]*, which itself means "melon land", via an initial element ostensibly of the original form *al-*, which has an unclear meaning and only appears in this term. The exchange in liquid consonants such that the first is rhotic and the second is lateral is a regular sound change which occurred in the development of the Arklobu language, implying the [[Old Arklobu]] form was *alkrobu*.
+*[[Arklobu dictionary#arklobu|Arklobu]]* is derived from the name *[[Krobu]]*, which itself means "melon land", via an initial element ostensibly of the original form *al-*, which has an unclear meaning and only appears in this term. The exchange in liquid consonants such that the first is rhotic and the second is lateral is a regular sound change which occurred in the development of the Arklobu language, implying the [[Old Arklobu]] form was *alkrobu*.
 
 It has been suggested that the name originated as an [[Upic languages|Upic]] exonym due to the similarity of the initial syllable with the reconstructed [[Proto-Upic language|Proto-Upic]] root [[Proto-Upic dictionary#*ʔar|*ʔar]] "language" and especially its later [[Öbic languages|Öbic]] reflex \*al, which was used to form the name of the language *[[Low Alöbi|alöbi]]* in an apparently analogous way. The term *[[Arklobu dictionary#arklobu|arklobu]]*, however, referred not only to the language but also the speakers of the language and more broadly as a demonym for all inhabitants of [[Krobu]]. This latter sense was later supplanted by the collective noun *[[Arklobu peoples|arklobota]]*.
 

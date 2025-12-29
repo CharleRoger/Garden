@@ -33,7 +33,7 @@ The raising to /ɤ/ seems to have pushed /ʊ/ towards /ʉ/. This would have then
 ![[TVSanti.png|300]]
 # Minor roundedness changes
 
-The other vowel changes of the third century AGS were both related to the roundedness of vowels. These were the *syg* unrounding and the *qum*-*kom* merger. The first was the unrounding of the *syg* vowel /ʉ/, causing it to end up as /ɨ/. This change flew under the radar, mainly being attested in the speakers of other variants comparing the former to their /u/ and the latter to their /i/. The timing is unclear - some speakers may have had /ɨ/ even before the completion of the anticlockwise shift. The other change involved the vowel /ɤ/ being rounded and merging with /o/, which caused the words *qum* /kom/ and *kom* /kɤm/ to be pronounced alike as /kom/, well attested by contemporary sources. 
+The other vowel changes of the third century AGS were both related to the roundedness of vowels. These were the *syg* unrounding and the *qum*-*kom* merger. The first was the unrounding of the *syg* vowel /ʉ/, causing it to end up as /ɨ/. This change flew under the radar, mainly being attested in the speakers of other variants comparing the former to their /u/ and the latter to their /i/. The timing is unclear - some speakers may have had /ɨ/ even before the completion of the anticlockwise shift. The other change involved the vowel /ɤ/ being rounded and merging with /o/, which caused the words *qum* /kom/ and *kom* /kɤm/ to be pronounced alike as /kom/, well attested by contemporary sources. As with *syg* unrounding, some speakers may have had this merger early on.
 
 ![[TVSfinal.png|300]]
 # Spread and standardization
