@@ -21,7 +21,7 @@ It is unclear whether there was state-level organisation between different OKM s
 
 At the same time as the OKM flourishes, the [[Northern-Koty Pre-Metallic Complex|NKPM]] seems to collapse. During the [[2nd century BGS]] the [[Northern-Koty Pre-Metallic Complex|NKPM]] suddenly vanishes, with almost all settlements being given up in a matter of 40 years. What follows is a rapid transition to pastoralism.
 
-## Regionalisation Period / Terminal (2nd century BGS - 2nd Century AGS) 
+## Regionalisation Period / Terminal (2nd century BGS - 2nd century AGS) 
 The Regionalisation period is the finale stage of the OKM and is regarded as the transition to the [[Krobuan Preclassic]] period. While classical OKM artefacts remain in use, new artefacts and innovative technologies appear, among them the [[Yayamok type canoe]]. New artefacts are particularly regional and indicate the presence of states or at least individual polities. While [[Arklobu peoples]]' histories may refer to this period, it should be kept in mind that writing was not yet in use in [[Krobu]] and would not for several more centuries. Thus the histories, which go back to this time period should be taken with skepticism. 
 
 ## Language 
