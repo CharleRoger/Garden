@@ -1,20 +1,30 @@
 *Note: stuff in {} is lore of unclear canonicity, whether due to being potentially outdated or interpolation by me, and should not be considered canon without consulting Charlie. In its finished state, this article should have no {}*
 
-Krobu was a coastal region in the north of Fountainhead, west from [[Khey desert]] and south from [[Kóty]]. Krobu was inhabited primarily by the [[Arklobota]], a Koyanic people mostly speaking a Nambic language known as [[Arklobu]], with minorities speaking other [[Namb languages]] or [[Ansang language|Ansang]]. Krobu, from Arklobu *kerab* (~ melon) + *u* (land), is named after the genus of flora distinctly found therein.
-
+Krobu was a coastal region in the north of Fountainhead, west from [[Khey desert|Khey]] and north from [[Kóty]]. Krobu was inhabited primarily by the [[Arklobota]], a Koyanic people mostly speaking a Nambic language known as [[Arklobu]], with minorities speaking other [[Namb languages]] or [[Ansang language|Ansang]]. Krobu, from Arklobu *kerab* (~ melon) + *u* (land), is named after a type of plant species commonly found there.
 
 ![[krobuwithfeatures.PNG]]
 # History
 
+## Northern Kóty Premetallic Complex (NKPM)
+
+The neolithic [[Northern-Koty Pre-Metallic Complex]] or **NKPM** existed for several centuries during the [[1st millennium BGS]], in an area of southern Krobu later known as [[Bezgon]]. Its cultural zenith is traditionally placed into the [[8th century BGS|8th]] and [[7th century BGS|7th]] centuries BGS, right before the widespread adoption of metallurgy. Indeed, the NKPM remained primarily characterised by its lack of metal tools even after this point. By the 5th century BGS, NKPM was in a state of decline: there is no transition between NKPM settlements and new settlements of the metallic [[Old Krobu Maritime Culture|OKM]], with the former simply being given up. During the [[3rd century BGS|3rd]] and [[2nd century BGS]], the NKPM quickly collapsed, leading to migrations and the formation of the [[South-Koyanic Pastoralic Complex]], also called Proto-[[Hnäzb people|Hzäzb]]. Before this mass-abandonment of settlements, the people of the NKPM were sedentary pastoralists.
 ## Old Krobu Maritime Culture (OKM) 
 *6th century BGS - 2nd century AGS*
 
-{OKM (Old Krobu Maritime Culture) 6th century BGS - 2nd century AGS A maritime culture which spread metallurgy through Krobu. It flourishes through interregional trade networks and maybe guild-like structures and trade syndicates which form proto-states (though without territorial binding). Monopoly on metal trade among other things during its height. After the 2nd century BGS it begins to regionalize and transform into new cultures and polities.}
+The [[Old Krobu Maritime Culture]] or **OKM** was an early metallic culture. Vastly successful, it covered large parts of [[Krobu]], the northern reaches of [[Kóty]] and as far north as [[Qnōp']], contributing to the spread of the ancestors of the [[Nambāno]] and [[Arklobu]] peoples and languages. Emerging from unclear origins, it contributed to the decline of and largely displaced the NPKM. At its height, OKM monopolized metal trade and flourished through interregional trade networks and syndicates. {It is at this point that some first see proto-states emerge, though without territorial binding.} Polities finally make their appearance during the terminal era from 2 BGS on, with OKM fragmenting and transforming into new cultures, setting the stage for Preclassic Krobu. Due to the lack of writing, many details remain unclear.
+
+>  FloZone: It flourishes through interregional trade networks and maybe guild-like structures and trade syndicates which form proto-states (though without territorial binding)
 ### Early OKM
+*7th - 4th century BGS*
+
 TBD
 ### Mature OKM
+*4th - 2nd century BGS*
+
 TBD
 ### Terminal OKM
+*2nd century BGS - 2nd century AGS*
+
 TBD
 ## Preclassic Krobu
 *2nd century - 6th century*
@@ -25,12 +35,17 @@ TBD
 
 {Through diffusion from trade, writing appears in Krobu, coming from the Telehe Empire. Some states adopt it wholly, while more conservative states adopt it only for bureaucracy and trade. A second disruption appears in the 820s in the form of Loshianism. Some polities convert to Loshianism, while in others the old religious class tries to suppress it. At the end of this period Krobu becomes part of an increasingly internationalizing trade network between the Lavondu and Ansang.}
 
-### {Postclassic} Krobu
-*10th century -*
+## {Postclassic} Krobu
+*10th century - {16th century}*
 
 Davi: {In 1000AGS Berkke kingdom was mainly Loshianist, majority of Traditional people migrated outside the kingdom to build their own nation, a group of five hundred people including several priests and people who felt disgusted by Loshianism, they migrated into Qachkav land and even north into Krobu lands, from there many small states devoted to the old Berkke Gods established themselves.}
+
+A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] and other societies connected to the maritime trade network, including [[Qnōp']] and [[Krobu]]. 
+
+
 # Culture
 
+## Politics
 [[Nambō]]
    In the earliest history of [[Nambō]], society was stratified into around five or six castes, inherited from the earlier [[Nambic peoples|Nambic]] culture of ancient [[Krobu]]. Later, in the period leading up to and following the [[Qnōp' rebellion]], a cultural belief that each stratum was considered a necessary pillar of civilisation developed, and the canonical number of strata universally settled on five:
 
@@ -39,6 +54,9 @@ Davi: {In 1000AGS Berkke kingdom was mainly Loshianist, majority of Traditional 
 3. [[Huitēglō]] — Scribes, natural philosophers, civic project managers and other skilled workers.
 4. [[Ābrējō]] — Farmers, builders, couriers and other labourers.
 5. [[Dēmōdō]] — Merchants, entertainers, artists and other craftspeople.
+## Language
+
+## Religion
 
 # Nature
 
@@ -47,7 +65,7 @@ Krobu was home to species of melons known as kerab.
 
 ### [[Xiyeru]]
 
-A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] and other societies connected to the maritime trade network, including [[Qnōp']] and [[Krobu]]. The Xiyeru Confederation, however, initially saw comparatively little growth, shielded from potential prosperity by its own regulations. Interest in economic expansion began to emerge among the elite [[Nīholu]] class, particularly in the [[Cetănehă|Cetănehăkī]] family and a small handful of other noble families who had also achieved significant political power in the history of the confederation thus far.
+A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] and other societies connected to the maritime trade network, including [[Qnōp']] and [[Krobu]]. 
 ### [[Old Arklobu]]
 
 Old Arklobu** is a partly attested, partly reconstructed language and ancestor of the [[Arklobu language]] later spoken in [[Krobu]]. It is thought to have been spoken throughout essentially the entire [[1st millennium BGS]], largely before the first writing appeared in [[Krobu]].
