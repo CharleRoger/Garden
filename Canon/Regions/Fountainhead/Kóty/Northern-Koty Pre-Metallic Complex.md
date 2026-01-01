@@ -2,7 +2,7 @@
 tags:
   - history
 ---
-The **Northern-Kory Pre-Metallic Complex** or **NKPM** was a late neolithic culture that existed for several centuries during the [[1st millennium BGS]] in an area later known as [[Bezgon]]. The NKPM is primarily characterised by its lack of manufacturing metal tools. 
+The **Northern-Koty Pre-Metallic Complex** or **NKPM** was a late neolithic culture that existed for several centuries during the [[1st millennium BGS]] in an area later known as [[Bezgon]]. The NKPM is primarily characterised by its lack of manufacturing metal tools. 
 ## Beginning 
 The beginnings of the NKPM are unclear and it is generally thought that they originate from prior similar late neolithic cultures. The traditional beginning of the culture is often linked to the expansion of [[Koyanic languages]] and the arrival of the ancestors of [[Hnäzb people]], as well as maybe [[Nambic peoples]]. More broader classifications place the beginning of the NKPM into the more distant past, as it would characterise all pre-metallic culture of northern [[Kóty]] and southern [[Krobu]]. The cultural zenith of the culture is traditionally placed into the [[8th century BGS|8th]] and [[7th century BGS|7th]] centuries BGS, right before the widespread adoption of metallurgy. After the introduction of metallurgy, the NKPM continues and is precisely defined by its lack of metal manufacturing and a continued neolithic lifestyle. 
 ## Collapse 
