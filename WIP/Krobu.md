@@ -1,4 +1,4 @@
-*Note: stuff in {} is lore of unclear canonicity, whether due to being potentially outdated or interpolation by me, and should not be considered canon without consulting Charlie. In its finished state, this article should have no {}*
+*Note: stuff in {} is comments or lore of unclear canonicity, whether due to being potentially outdated or interpolation by me, and should not be considered canon without consulting Charlie. In its finished state, this article should have no {}*
 
 Krobu was a coastal region in the north of Fountainhead, west from [[Khey desert|Khey]] and north from [[Kóty]]. Krobu was inhabited primarily by the [[Arklobota]], a Koyanic people mostly speaking a Nambic language known as [[Arklobu]], with minorities speaking other [[Namb languages]] or [[Ansang language|Ansang]]. Krobu, from Arklobu *kerab* (~ melon) + *u* (land), is named after a type of plant species commonly found there.
 
@@ -14,7 +14,7 @@ The neolithic [[Northern-Koty Pre-Metallic Complex]] or **NKPM** existed for sev
 
 The [[Old Krobu Maritime Culture]] or **OKM** was an early metallic culture. Vastly successful, it covered large parts of [[Krobu]], the northern reaches of [[Kóty]] and land as far north as [[Qnōp']], contributing to the spread of the ancestors of the [[Nambāno]] and [[Arklobu]] peoples and languages. Emerging from unclear origins, it contributed to the decline of and largely displaced the NPKM. At its height, OKM monopolized metal trade and flourished through interregional trade networks and syndicates. {It is at this point that some first see proto-states emerge, though without territorial binding.} Polities finally make their appearance during the terminal era from 2 BGS on, with OKM fragmenting and transforming into new cultures, setting the stage for Preclassic Krobu. Due to the lack of writing, many details remain unclear.
 
-> {claim based on FloZone's: "It flourishes through interregional trade networks and maybe guild-like structures and trade syndicates which form proto-states (though without territorial binding)"}
+  {claim based on FloZone's: "It flourishes through interregional trade networks and maybe guild-like structures and trade syndicates which form proto-states (though without territorial binding)"}
 ### Early OKM
 7th - 4th century BGS*
 
@@ -60,6 +60,14 @@ A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] a
 ## Language
 
 ## Religion
+
+{probably gonna have more interpolation here}
+### Koyanic faith
+
+### Ansang faith
+### Loshianism
+
+### Berkke settlers
 
 # Nature
 

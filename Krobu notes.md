@@ -1,4 +1,4 @@
-Note: Remove this page once Krobu is out.
+Note: Remove this page once [[Krobu]] is out.
 ### [[Xiyeru]]
 
 A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] and other societies connected to the maritime trade network, including [[Qnōp']] and [[Krobu]]. 
