@@ -1,6 +1,7 @@
 
-
+**Mwosian** or **Mwös** is an [[Atteric languages|Atteric language]] spoken by [[Mwosians]] on the island of [[]]
 ## History
+
 
 ## Phonology
 
