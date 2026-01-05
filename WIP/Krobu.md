@@ -1,6 +1,6 @@
 *Note: stuff in {} is comments or lore of unclear canonicity, whether due to being potentially outdated or interpolation by me, and should not be considered canon without consulting Charlie. In its finished state, this article should have no {}*
 
-Krobu was a coastal region in the north of Fountainhead, west from [[Khey desert|Khey]] and north from [[Kóty]]. Krobu was inhabited primarily by the [[Arklobota]], a Koyanic people mostly speaking a Nambic language known as [[Arklobu]], with minorities speaking other [[Namb languages]] or [[Ansang language|Ansang]]. Krobu, from Arklobu *kerab* (~ melon) + *u* (land), is named after a type of plant species commonly found there.
+Krobu was a coastal region in the north of Fountainhead, west from [[Khey desert|Khey]] and north from [[Kóty]]. Krobu was inhabited primarily by the [[Arklobota]], a Koyanic people mostly speaking a Nambic language known as [[Arklobu Language|Arklobu]], with minorities speaking other [[Namb languages]] or [[Ansang language|Ansang]]. Krobu, from Arklobu *kerab* (~ melon) + *u* (land), is named after a type of plant species commonly found there.
 
 ![[krobuwithfeatures.PNG]]
 # History
@@ -12,11 +12,11 @@ The neolithic [[Northern-Koty Pre-Metallic Complex]] or **NKPM** existed for sev
 ## Old Krobu Maritime Culture (OKM) 
 *7th century BGS - 2nd century AGS*
 
-The [[Old Krobu Maritime Culture]] or **OKM** was an early metallic culture. Vastly successful, it covered large parts of [[Krobu]], the northern reaches of [[Kóty]] and land as far north as [[Qnōp']], contributing to the spread of the ancestors of the [[Nambāno]] and [[Arklobu]] peoples and languages. Emerging from unclear origins, it contributed to the decline of and largely displaced the NPKM. At its height, OKM monopolized metal trade and flourished through interregional trade networks and syndicates. {It is at this point that some first see proto-states emerge, though without territorial binding.} Polities finally make their appearance during the terminal era from 2 BGS on, with OKM fragmenting and transforming into new cultures, setting the stage for Preclassic Krobu. Due to the lack of writing, many details remain unclear.
+The [[Old Krobu Maritime Culture]] or **OKM** was an early metallic culture. Vastly successful, it covered large parts of [[Krobu]], the northern reaches of [[Kóty]] and land as far north as [[Qnōp']], contributing to the spread of the ancestors of the [[Nambāno]] and [[Arklobu]] peoples and languages. Emerging from unclear origins, it contributed to the decline of and largely displaced the NPKM. At its height, OKM monopolized metal trade and flourished through interregional trade networks and syndicates. It is at this point that some first see proto-states emerge{, though without territorial binding.} Polities finally make their appearance during the terminal era from 2 BGS on, with OKM fragmenting and transforming into new cultures, setting the stage for Preclassic Krobu. Due to the lack of writing, many details remain unclear.
 
   {claim based on FloZone's: "It flourishes through interregional trade networks and maybe guild-like structures and trade syndicates which form proto-states (though without territorial binding)"}
 ### Early OKM
-7th - 4th century BGS*
+*7th - 4th century BGS*
 
 There are two competing theories of how the OKM began. The *Autochthonous Theory* states that the [[Koyanic languages|Koyanic]] ancestors of the OKM spread northward prior to the invention of metallurgy and reached Krobu before or around the start of the [[1st millennium BGS]]. These people may or may not have been part of the [[Northern-Koty Pre-Metallic Complex|NKPM culture]]. When metallurgy began to spread from Kóty during the [[8th century BGS|8th century]], they adopted it and brought about the OKM. The competing *Expansion Theory* states that the northern reach of [[Koyanic languages]] prior to the invention of metallurgy did not extend beyond [[Bezgon]] and was likely even more southerly. The invention of metallurgy caused several waves of expansion within central [[Kóty]], which kickstarted the migration of [[Koyanic peoples]] into all directions. With their new metal tools, the OKM ancestors would rapidly colonise Krobu.
 ### Mature OKM
@@ -63,11 +63,14 @@ A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] a
 
 {probably gonna have more interpolation here}
 ### Koyanic faith
-
-### Ansang faith
+The ancestors of the Arklobu people brought
 ### Loshianism
 
+Loshianism was prevalent in Krobu. It was introduced {by two paths}: by the Ansang to the islands {and through the land by the Berkke. As a result}, the form of Loshianism practiced in Krobu differed by the region. {There were two especially prominent strains identifiable, known as *Insular Loshianism (IL)* and *Continental Loshianism (CL)*, influenced by the route of transmission. Note that the names are approximations, and some parts on the continent were more closely aligned with IL and certain islands with CL. As an example of the differences, [[Ergoy]] was known as /erŋo/ in IL, similar to Ansang, whereas CL preferred /ergə/. IL had some influence from syncretic systems combining Loshianism with traditional Ansang faith. {While CL was larger, IL was more popular relative to the populations of the areas where it was popular. Yikes what a sentence.}}
+### Ansang faith
 ### Berkke settlers
+
+After Loshianism rose to prominence in the Berkke kingdom, most traditionally polytheistic {and some heterodox Loshianist} Berkke migrated to Qachkav and even continental Krobu, where Loshianism was still uncommon. They formed settlements and even small states, many having an old Berkke deity as the tutelary one. {Ironically enough it was the existence of these Berkke settlers that encouraged the sending of Loshianist missionaries to Krobu from the Berkke kingdom. Some of these settlements would later embrace Loshianism, whereas others would stick to the traditional deities. Whereas the traditional Berkke religion mainly formed its own ethno-linguistics community, it is theorized that heterodox Loshianism also spread to certain Arklobota. There is disbute about how much of an impact if any heterodox Loshianism had on CL, with some saying {little influence, mostly died out and got replaced} or {the initial core Loshian areas had pre-existing heterodox activity, Loshianism in Berkke started out heterodox and only gradually became more aligned to Berkke kingdom over time, the first missionaries collaborated with the heterodox groups.}}
 
 # Nature
 
