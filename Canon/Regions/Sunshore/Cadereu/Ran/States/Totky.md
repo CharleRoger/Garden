@@ -31,17 +31,20 @@ Many of the deities of the colonies were imported back into Totky, where they be
 
 *See: [[Totky-Feculky wars]]*
 
-The war began with Feculky having the upper hand, attacking northwards and overwhelming Totky's colonies. However, this left the southern areas weak. The king of Kypky managed to bypass Feculky's defences through the mountains and defeated most of the southern army in a crucial fight, allowing him to advance to the capital of Feculky and take it. This caused much of the northern Feculky expeditionary force to be pulled to meet the thread, allowing Totky to defeat the remnants and give pursuit. Feculky's forces, having struggled to break into their own capital, suddenly found themselves at trouble with the arrival of Totky's northern forces. Using the sea and the city walls to their advantage, Totky encircled most of Feculky's army in a costly manoueuvre. Once Kypky's forces occupying the capital joined the battlefield in support of their allies, panic set in and Feculky surrendered. The military fight was over, but the political one was just beginning.
+The war began with Feculky having the upper hand, attacking northwards and overwhelming Totky's colonies. However, this left the southern areas weak. The king of Kypky, Laxoxal, managed to bypass Feculky's defences through the mountains and defeated most of the southern army in a crucial fight, allowing him to advance to the capital of Feculky and take it. This caused much of the northern Feculky expeditionary force to be pulled to meet the thread, allowing Totky to defeat the remnants and give pursuit. Feculky's forces, having struggled to break into their own capital, suddenly found themselves at trouble with the arrival of Totky's northern forces. Using the sea and the city walls to their advantage, Totky encircled most of Feculky's army in a costly manoueuvre. Once Kypky's forces occupying the capital joined the battlefield in support of their allies, panic set in and Feculky surrendered. The military fight was over, but the political one was just beginning.
+
+## Interbellum
+
+The defeat of Feculky meant the installation of a puppet king on the throne. This meant major Totky influence in Feculky politics - or more specifically, due to the initial presence of Kypky's army and the role of Laxoxal in the victory, it was Kypky that would dominate Feculky. The distinction was relevant during the interbellum period, which saw a rivalry between Kypky, led by king Laxoxal, and the rest of Totky, led by the Totyq Cenukkiq. In fact, Feculky was allowed to keep its nominal independence in large part due to neither side wanting the other to have it.
+
+While life in Feculky largely went on as usual, this arrangement was not pleasing to everyone. Kypky's influence was seen as humiliating and the needed tributes as a heavy burden. As such, Feculky was internally split on how to deal with its circumstances. The most pro-Kypky factions within Feculky were the king and the administrative officials forming the core of the bureaucracy. The secular upper class largely supported the king, though some had political grievances with him or harkened back to the earlier times. The military was even less sympathetic to Kypky, though it was still loyal to the king. Even those caught plotting against Kypky and tried to appeal to the king, wanting him to break away from Kypky.
+
+Lastly, were the totyq. Most were unhappy with Feculky's political subjugation, especially the new generation that came to age after the war. They embraced traditional Feculky culture and tried to avoid the influence of that of Totky. Feculky religion and the god Fecul were raised to new importance. Their goal of a national renewal was also accompanied by hidden initiatives under the surface, forming a network that was waiting for the right moment to act. These young totyq would be known as The Young, for their age. Later, after the Feculky Uprising, this name would refer to how many of them would not grow old.
+
+
+- Opportunity: conflict between the king of Kypky and the Totyq Cenukkiq
 ## Feculky uprising
 
-### Background
-- Weak puppet king
-- Major Totky, especially Kypky, influence in Feculky politics.
-- Younger generation unsatisfied, including many totyq
-- "The Young" - a name for such totyq
-- Movement to embrace traditional Feculky culture in contrast to Totky's culture
-- Feculky religion and totyq held in especially high importance.
-- Opportunity: conflict between the king of Kypky and the Totyq Cenukkiq
 ### Consequences
 - Riots, protests, eventual support in the military
 - Weak king of Feculky replaced with a Tot Cenukki of their own

@@ -16,6 +16,6 @@ It was then that Totky's army arrived from the north, surprising both the king o
 
 ## Interbellum
 
-
+See: [[Totky#Interbellum]]
 
 ## Feculky uprising
