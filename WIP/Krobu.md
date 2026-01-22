@@ -63,17 +63,24 @@ A trade boom in the early [[11th century]] bolstered the economy of [[T'ugü]] a
 
 {probably gonna have more interpolation here}
 ### Koyanic faith
-The ancestors of the Arklobu people brought
+The ancestors of the Arklobu people brought their Koyanic beliefs with them. {This included gods and mythology, notably including the idea of a primordial ocean and a world tree from which land and people formed.}
 ### Loshianism
 
-Loshianism was prevalent in Krobu. It was introduced {by two paths}: by the Ansang to the islands {and through the land by the Berkke. As a result}, the form of Loshianism practiced in Krobu differed by the region. {There were two especially prominent strains identifiable, known as *Insular Loshianism (IL)* and *Continental Loshianism (CL)*, influenced by the route of transmission. Note that the names are approximations, and some parts on the continent were more closely aligned with IL and certain islands with CL. As an example of the differences, [[Ergoy]] was known as /erŋo/ in IL, similar to Ansang, whereas CL preferred /ergə/. IL had some influence from syncretic systems combining Loshianism with traditional Ansang faith. {While CL was larger, IL was more popular relative to the populations of the areas where it was popular. Yikes what a sentence.}}
+[[Loshianism]] was prevalent in Krobu. It was introduced by two paths: by the Ansang to the islands and through the land by the Berkke. As a result, the form of Loshianism practiced in Krobu differed by the region. There were two especially prominent strains identifiable, known as *Insular Loshianism (IL)* and *Continental Loshianism (CL)*, influenced by the route of transmission. Note that the names are approximations, and some parts on the continent were more closely aligned with IL and certain islands with CL. As an example of the differences, [[Ergoy]] was known as /erŋo/ in IL, similar to Ansang, whereas CL preferred /ergə/. IL had some influence from syncretic systems combining Loshianism with traditional Ansang faith. {While CL was larger in total, IL made a larger portion of the population of the islands. Yikes what a sentence.}
 ### Ansang faith
+
+[[Ansang Islands]]
 ### Berkke settlers
 
-After Loshianism rose to prominence in the Berkke kingdom, most traditionally polytheistic {and some heterodox Loshianist} Berkke migrated to Qachkav and even continental Krobu, where Loshianism was still uncommon. They formed settlements and even small states, many having an old Berkke deity as the tutelary one. {Ironically enough it was the existence of these Berkke settlers that encouraged the sending of Loshianist missionaries to Krobu from the Berkke kingdom. Some of these settlements would later embrace Loshianism, whereas others would stick to the traditional deities. Whereas the traditional Berkke religion mainly formed its own ethno-linguistics community, it is theorized that heterodox Loshianism also spread to certain Arklobota. There is disbute about how much of an impact if any heterodox Loshianism had on CL, with some saying {little influence, mostly died out and got replaced} or {the initial core Loshian areas had pre-existing heterodox activity, Loshianism in Berkke started out heterodox and only gradually became more aligned to Berkke kingdom over time, the first missionaries collaborated with the heterodox groups.}}
+{the stuff about heterodox loshianism is by me and somewhat iffy}
+After Loshianism rose to prominence in the Berkke kingdom, most traditionally polytheistic and some heterodox Loshianist Berkke migrated to Qachkav and even continental Krobu, where Loshianism was still uncommon. They formed settlements and sometimes small states, many having an old Berkke deity as the tutelary one. There were significant reforms led by the priesthood, including the adoption of a cult of feminine deities; before, these deities were only worshipped by some traditional Berkke. The traditional Berkke of Krobu, called Kėri Gaū Lāurin “The people of one hundred Gods”, used a canonical text called Hōčīė Lāurin \[xo̞ːˈc͡çɪːɤ ɫɐːɯ̯ɾin] “The path of the Gods” and created a system of casts.
+
+Ironically enough it was the existence of Berkke settlers that encouraged the sending of Loshianist missionaries to Krobu from the Berkke lands. Some of these settlements would later embrace Loshianism, whereas others would stick to the traditional deities. Whereas the traditional Berkke religion mainly formed its own ethno-linguistics community, it is theorized that heterodox Loshianism also spread to certain Arklobota. There is dispute about how much of an impact, if any, heterodox Loshianism had on Continental Loshianism, with some saying the influence was miniscule - the old faith died out and largely got replaced. Others see the initial core Loshian areas as having pre-existing heterodox activity, such that Loshianism in Krobu started out heterodox and only became more aligned to standard Berkke teachings over time. It is known that the first missionaries collaborated with the heterodox groups.
 
 # Nature
 
 Krobu was home to species of melons known as kerab.
+
+
 # [[Krobu notes|Drafting, quotations]]
 these have been moved. be sure to remove notes before posting the page
