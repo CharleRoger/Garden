@@ -64,7 +64,7 @@ Berkke kingdoms were small in comparison, they paid tributes greatly and their p
 | [[Samēdē]] rose to the throne.                                                                                     | 536                         |
 | [[Samēdē]] revoked the cultural and religious rights of Ħautkar exclaves.                                          | 540                         |
 | [[Mede Ēpere]] rises to the throne.                                                                                | 570                         |
-| [[Šemedo Ēodinare]] rises to the throne, then initiates his conquests of Berkke lands.                             | 578                         |
+| [[Šemedo Ēodinare]] rises to the throne, then initiates his conquests of Berkke lands.                             | 598                         |
 | [[Šemedo Ēodinare\|Šemedo]] conquest of Berkke lands was initiated.                                                | 620                         |
 | [[Šemedo Ēodinare\|Šemedo]] marries Amakke in hopes to annex Berkke Kingdom.                                       | 625                         |
 | [[Maynda Aēym]] rises to the throne.                                                                               | 637                         |
