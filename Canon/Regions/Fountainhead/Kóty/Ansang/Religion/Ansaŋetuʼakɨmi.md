@@ -3,7 +3,12 @@ tags:
   - religion
   - ansang
 ---
-The official religion of the [[Ansang Empire]] practiced among [[Lavondu]], after the conquest of the [[Ansang Empire]] in the shores of [[Kóty]], the cult of the Ansang gods expands further into their colonies with a general tendency to merge and intertwine with local cults and deities.
+**Ansaŋetuʼakɨmi**, also called **Traditional Ansang religion** is a polytheistic syncretic ethnic religion of the [[Ansang people]], the official religion of the [[Ansang Empire]] also practiced among [[Lavondu]], after the conquest of the [[Ansang Empire]] in the shores of [[Kóty]], the cult of the Ansang gods expands further into their colonies with a general tendency to merge and intertwine with local cults and deities.
+Traditional Ansang religion includes elements of folklore, local deity and traditions and early traces from Atteric people. It is composed of many gods, to which several pantheons can be attested given region and influence. 
+## Etymology
+The name *Ansaŋetuʼakɨmi* literally means 'Ansang way of living'.
+
+
 Composed of seven Celestial Gods:
 * [[Orɨm]] God of sun, light, light-beams.
 * [[Yuŋgo]] God of fire, blacksmithing, weapons.
