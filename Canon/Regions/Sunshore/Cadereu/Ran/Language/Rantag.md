@@ -40,6 +40,8 @@ The pronunciation of /ʁ/ also depended on the region. [[Taspi]], [[Kypky]], and
 ## Grammar
 
 The plural suffix was -q. As with other suffixes, an epenthetic -y- (*early*: /u/) was used when phonotactically necessary. The exception to this was [[Serquky]], where the vowel used was -e- (*early*: /i/). -ca was used for forming abstract nouns as well as some collective phrases.
+
+Different verbs took different agentive suffixes, often somehow related to the body part in question. For example, verbs of movement consistently used the suffix nig, meaning "leg", whereas the suffix -tas ("head") was used for talking, eating, and most intellectual tasks. Eventually *-tas* remained the only productive suffix and was used with all verbs, including those not involving the head.
 ## Vocabulary
 
 ### Individual example
@@ -58,7 +60,7 @@ The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These 
 | moferrum         | sibling                            |
 | totyq moferrumyq | *idk* maybe it's meant to have xal |
 | tot moferrumca   | *idk*                              |
-| xal              | pyhä (holy)                        |
+| xal              | ~sacrificial, holy, divine         |
 | serqu            | a storm god                        |
 | col              | beach/shore                        |
 | tir              | king                               |
@@ -76,8 +78,9 @@ The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These 
 | melna            | star                               |
 | ratar            | hunter                             |
 | syrmafom         | goodwill                           |
-| raxal            | brave                              |
+| raxa             | brave                              |
 | sug              | guardian                           |
 | syg              | fish                               |
 | tegen            | wisdom                             |
+| sertaxa          | noble                              |
 | Monxal           | Mercy                              |
