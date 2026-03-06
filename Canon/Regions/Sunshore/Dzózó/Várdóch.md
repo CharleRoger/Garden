@@ -1,4 +1,4 @@
-**Várdóch** ([ˈvaːrdoːχ], "our speech") is a language spoken in southern [[Chayazó]].
+**Várdóch** ([ˈvaːrdoːχ], "our speech") is a language spoken in southern [[Chayadzó|Chayazó]].
 ## Etymology
 
 The name is derived from the word _várda_ "word, language" and the first person plural possessive suffix _-óch_. Alternatively, it is sometimes refered to as _Várda tólóch_ "(the) language of our people".
@@ -7,7 +7,7 @@ The name is derived from the word _várda_ "word, language" and the first pers
 | --------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Várda tólóch    |                                                                                                                  |
 | Pronunciation   | [vaːrdoːχ]                                                                                                       |
-| Region          | [[Dzózó]], [[Sunshore]] |
+| Region          | [[Dzòzò]], [[Sunshore]] |
 | Ethnicity       | [[Tólóch]]                                                      |
 | Language family | Tolian<br><br>- Várdóch                                                                                          |
 | Early form      | Proto-Tolian                                                                                                     |

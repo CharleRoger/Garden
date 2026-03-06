@@ -46,7 +46,7 @@ TBD
 
 ## Geography
 
-The islands making up Dzózó are generally mountainous and most are volcanically active. The tallest mountains are located on [[Chayazó]] where they reach heights of around 3,800 m.
+The islands making up Dzózó are generally mountainous and most are volcanically active. The tallest mountains are located on [[Chayadzó]] where they reach heights of around 3,800 m.
 
 ### Seismic Activity and Volcanism
 

@@ -1,10 +1,14 @@
-**Chayadzó** ([[Ásademóku]]: [tɕæjæˈdzo̞ː], [[Kumomóku]]: [tɕajaˈzɔː]) is the largest island of the [[Dzózó|Dzózó archipelago]] at 55,600 km2. The south-west is generally flat or hilly and is separated from the north-east by a major mountain range.
+---
+aliases:
+  - Chayazó
+---
+**Chayadzó** ([[Ásademóku]]: [tɕæjæˈdzo̞ː], [[Kumomóku]]: [tɕajaˈzɔː]) is the largest island of the [[Dzòzò|Dzózó archipelago]] at 55,600 km2. The south-west is generally flat or hilly and is separated from the north-east by a major mountain range.
 
 The south-west is inhabited by the [[Tólóch]].
 
 ![[Pasted image 20260306214005.png|218]]
 
-| Location  | [[Dzózó]], [[Sunshore]] |
+| Location  | [[Dzòzò]], [[Sunshore]] |
 | --------- | ---------------------------------------------------------------------------------------------------------------- |
 | Area      | 55,600 km2                                                                                                       |
 | Languages | [[Várdóch]]                                                    |

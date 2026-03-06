@@ -3,7 +3,7 @@
 
 - [[Cādereu]]
 - [[Cqa]]
-- [[Dzózó]]
+- [[Dzòzò]]
 - [[Ļyomδin]]
 - [[Gïnbi]]
 - [[Cidên]]
