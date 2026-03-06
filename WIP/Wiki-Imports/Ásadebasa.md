@@ -1,0 +1,1 @@
+The **Ásadebasa** are an ethnic group native to the islands in the [[Ciuvezeu Sea]]. Their language, [[Ásademóku]], is spoken on the aforementioned islands along with the local dialects of [[Caderissa]] especially in the south.

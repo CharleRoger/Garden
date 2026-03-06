@@ -1,0 +1,1 @@
+See [[Gïnbi people]] or [[Gïnbi language]].

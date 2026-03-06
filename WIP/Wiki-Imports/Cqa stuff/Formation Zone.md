@@ -1,0 +1,1 @@
+The **Cqa Formation Zone** is a treacherous bit of sea in [[Cqa]] that [[Sky islands]] come from. They typically burst forth from the surface of the water at enormous speeds, ending up at anywhere from 2000 to 3500m in the air depending on size and shape. This area is dangerous to traverse, in many respects _intraversible_ both by sea and by air.

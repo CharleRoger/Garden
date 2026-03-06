@@ -1,0 +1,7 @@
+A **Sky Island** is a lump of earth that floats in the air and can be inhabited. [[Cqa]] has plenty of these. Don't ask how they work.
+
+An average Cqa sky island has a lifetime of about 750 years from its emergence until it crashes into the ocean andor disintegrates. Sky islands are often abandoned when they drop too low and become subjects of too much harsh weather; depending on the residents, this means abandoning an average island anywhere between ~1800m (avg. habitable span ~300 years) and ~500m (avg. habitable span ~650 years).
+
+Sky islands near the formation zone tend to lie at an altitude of 2800–3200m, above most low-level clouds.
+
+Naturally occurring sky islands rarely exceed ⌀200m, although collisions can create even larger islands. Modelling average sky island sizes requires probability distributions I don't have the brain cells for, but there are two main peaks, or extra-common ranges; small sky islands of ~⌀65±10m with a usable area of ~3000±1000m² (<½ha), and large sky islands of ~⌀160±10m 17000-20000m² (1.7~2ha). The average Maicqa person in Round 1 needs about 0.4ha of polycultural island to feed themselves, although they easily take up 1ha including excess for animal consumption. This means an ordinary Maicqa person takes up about 1-3 islands. (These requirements are likely to go down over time.)

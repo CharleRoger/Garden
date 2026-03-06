@@ -1,0 +1,1 @@
+**Kumomóku** ([kumoˈmɔːku], [[Ásademóku]]: [kʉmo̞ˈmo̞ːkʉ]) is a dialect of the [[Ásademóku]] language spoken on [[Kumodzó]].

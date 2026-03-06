@@ -1,1 +1,0 @@
-**Kumomóku** ([kumoˈmɔːku], [Ásademóku](https://winter.miraheze.org/wiki/%C3%81sadem%C3%B3ku "Ásademóku"): [kʉmo̞ˈmo̞ːkʉ]) is a dialect of the [[Ásademóku]] language spoken on [[Kumodzó]].

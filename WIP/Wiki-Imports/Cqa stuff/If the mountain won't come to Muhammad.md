@@ -1,0 +1,3 @@
+["If the mountain won't come to Muhammad, then Muhammad must go to the mountain"](https://en.wiktionary.org/wiki/if_the_mountain_won%27t_come_to_Muhammad) is a proverb meaning approx. "if one cannot get one's way, one must accept one's circumstances and act accordingly". It is an English translation of the [[Maicqa]] concept of **Xgoi/ལྖོ** [ŋ͡ǁɔj], also sometimes translated as _conceding, complacency, acceptance.._, which centers around making the best of one's circumstances; adapting.
+
+Example.

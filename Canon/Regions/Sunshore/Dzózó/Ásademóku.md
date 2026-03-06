@@ -32,7 +32,3 @@ Vowels
 |close|i iː|u uː|
 |mid|e eː|o oː|
 |open|a aː|   |
-
-
-
-**

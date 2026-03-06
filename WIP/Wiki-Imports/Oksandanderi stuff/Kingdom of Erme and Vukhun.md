@@ -1,0 +1,27 @@
+The **Kingdom of [[Erme]] and [[Vukhun]]** is one of the oldest and at parts also one of the most powerful states in [[Oksandanderi]]. It is a duarchy ruled by the two cities of Erme and Vukhun respectively. Of the two cities, Erme has been the more prominent and powerful and often the double kingdom is referred to as Ermean Kingdom alone.
+
+[![](https://static.wikitide.net/winterwiki/thumb/3/33/ErmeanRealm.png/300px-ErmeanRealm.png)]
+
+The realm of Erme and Vukhun in the Lowlands.
+
+## History
+
+### Prehistory
+
+Erme is one of the oldest cities in Oksandanderi. Together with [[Pakkan]] and [[Tyelesh]] it is probably the third or second oldest city in the region. The old kings of Erme tell that their ancestors came from the mountains, where they slept of a thousand years until the sweet scents of meadows woke them up. So they lead their people south and founded the a settlement between the [[Erthis]] and [[Kundis]] river.
+
+### Old Kingdom / Duarchy
+
+The Old Kingdom period of Erme and Vukhun began in [[520 BGS]] with the union between the two cities, well within the so called [[Formative-Literary Period]]. In fact, the union between the two cities and the commencing inscriptions are among the very oldest political writing found in Oksandanderi. Both Erme and Vukhun had their own royal dynasty, which frequently intermarried. Both regarded each other as [[King]]. For several centuries onwards Erme and Vukhun would share their destiny and become probably the most powerful state in early Oksandanderian history, until they were eclipsed centuries later by the [[Astmergian Empire]]. During the late 4th century and the 3rd century the position of Erme and Vukhun began to decline. Not because Erme and Vukhun were declining, but because other cities in the [[Lowlands]] were becoming more influential. This process resulted in the eventual [[Dominion]] of Kamag and later the [[Dominion of Vërev]]. Erme and Vukhun stood unconquered though and remained powerful cities until the [[Vërevian Wars]]. The ancient kingdom was finally subjugated in [[155 AGS]] and with its ends the so called Old Kingdom period and the duarchy proper. During the conquest, the Ermean royal line was extinguished and their last princes were slewn in battle.
+
+### Middle Kingdom / Vukhunite Dynasty
+
+After the death of [[Astmerge the Great]] his empire went into decline. Due to this most of the conquered territories regained their independence. In [[232 AGS]] [[Maddami]] of Vukhun was declared king of Erme. Erme had previously lost its own royal lineage, but as the royal families of both cities frequently intermarried, a branch of the Vukhunite royals became kings over Erme. For this reason this period is also referred to as [[Vukhunite Dynasty]]. Some people have even called it the _Vukhunite Empire_. During the [[Age of Fragmentation]] Erme and Vukhun could regain some of their former power, but remained one of many kingdoms of this age. In [[514 AGS]] Erme and Vukhun were conquered by the [[Walken Empire]] lead by the [[Egun-Yayt]]. This marks the beginning of two centuries of foreign rule.
+
+### Walkenian Rule
+
+The Walkenian rule over Erme and Vukhun lasted from 514 AGS till the great rebellion of [[710 AGS]]. This time is generally considered one of the darkest times in Ermean history. After several failed rebellions the noble families of Erme and Vukhun were decimated. Both their kings and their families were slain. The Walkenians appointed an order of special governors of Walken descend to rule over Erme. Other than in the [[Kuperi]], there was hardly any mixing between the Ermean and the Walkenian population. Ermeans remained resentful of their nomadic oppressors. Over time a group of former nobles formed the so called **Group of 15** or **Pešettan**. They were 16 families, which could alleged trace back their ancestry to the very earliest days of their kingdom, all of them claimed relationship with the two royal houses. Three of them even claimed exclusive descend from the lost royal family of Erme itself. The Pešettan would eventually lead the rebellion against the Walken Empire and install an aristocratic republic to rule over Erme and Vukhun.
+
+### Ermean Dominion
+
+After the great rebellion of 710 Erme regained its independence and became a local power once again. In the following two centuries Ermean once again became a mighty city and used the discord between the many different Lowlands cities to its benefit. Indeed during this time Erme almost became close to its former importance. Yet this period of prosperity would not last forever and soon [[Vërev]] arose again as force within the Lowlands. In [[843 AGS]] the [[League of Kalotgane]] is founded by a union of the cities of [[Vërev]], [[Tarin]] and [[Kalotgane]] itself. Not soon after the League would come into conflict with Erme. In the [[970s]] a great war breaks out between the League and its [[Kuperian]] ally and the Ermean Kingdom, which Erme loses dearly. At the end of this war, in 979 AGS, Erme is sacked and devastated. It would lose its independence for the next centuries. Until the restructuring of the [[Empire of Kalotgane]] through Emperor [[Sukhort Astmergekhtim]] Erme remained under special military administration until it became a proper province.
