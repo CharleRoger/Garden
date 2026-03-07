@@ -1,4 +1,4 @@
-Novel Proto-Koyanic (NPKn) is a reconstruction of the ancestor of the [[Koyanic Languages]] which deviates significantly from the traditionally used [[Proto-Koyanic]] reconstruction.
+Novel Proto-Koyanic (NPKn) is a reconstruction of the ancestor of the [[Koyanic languages]] which deviates significantly from the traditionally used [[Proto-Koyanic]] reconstruction.
 
 # Phonology
 
