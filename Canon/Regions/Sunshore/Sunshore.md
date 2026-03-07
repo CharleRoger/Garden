@@ -4,7 +4,7 @@
 - [[Cādereu]]
 - [[Cqa]]
 - [[Dzòzò]]
-- [[Ļyomδin]]
+- [[Ļyomδìn]]
 - [[Gïnbi]]
 - [[Cidên]]
 ## Languages
