@@ -1,3 +1,7 @@
+---
+aliases:
+  - Cadereu
+---
 Cādereu (classical [[Caderissa]]: [kɑːdeˈreo̯]) is a continent of about 0.14 Africas in size (or 0.56 Australias, or 9.5 Swedens, or 4.32 million km²). It has a seasonal monsoon, mainly affecting the northern regions.
 
 ## Climate and Geography

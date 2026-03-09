@@ -1,1 +1,1 @@
-culture/people inhabiting [[Cadereu]].
+culture/people inhabiting [[Cādereu|Cadereu]].

@@ -13,7 +13,7 @@
 | Languages         | [[Ásademóku]], [[Várdóch]] |
 
 
-**Dzózó** ([[Ásademóku]]: [ˈdzoːzoː]) is a volcanically active archipelago located 370km off the coast of southern [[Cadereu]] and north of [[K'tlagn]]. It is part of the [[Sunshore]] region. Dzózó is about 1675km in length but fairly narrow being only 170km across at its widest. 62% of its land area is contained within the largest island, [[Chayadzó]].
+**Dzózó** ([[Ásademóku]]: [ˈdzoːzoː]) is a volcanically active archipelago located 370km off the coast of southern [[Cādereu|Cadereu]] and north of [[K'tlagn]]. It is part of the [[Sunshore]] region. Dzózó is about 1675km in length but fairly narrow being only 170km across at its widest. 62% of its land area is contained within the largest island, [[Chayadzó]].
 
 ## Etymology
 
