@@ -1,1 +1,0 @@
-Mertoferrum (from *merto* "night" + *ferrum* "born"), originally known as Sertoferrum (from *sertaxa* "noble" + *ferrum* "born") was an influential Singer
