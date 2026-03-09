@@ -15,7 +15,7 @@ However, the idea of totyq originating directly originating from the roles of or
 Seeking separation and holiness were not limited to the aforementioned abstinance from procreation. 
 
 # Tot Cenuk
-A **Tot Cenuk** "high tot" (plural *Totyq Cenukyq*) was a superior rank of tot. In Totky, it was awarded to leading totyq of conquered areas, the purpose being centralization and easier governance.
+A **Tot Cenuk** "high tot" (plural *Totyq Cenukyq*) was a superior rank of tot. In Totky, it was awarded to leading totyq of conquered areas, the purpose being centralization and easier governance. The word "Senu", meaning [[King (Ran culture)|King]], is originally descended from this word.
 # Tot Cenukki
 The **Tot Cenukki** "highest tot" (plural *Totyq Cenukkiq*) was the highest ranking tot, to which all Totyq Cenukyq and other totyq in the city-state were subordinate. The position was initially that of a "first among equals", though it evolved away from that, first de facto and then de jure. 
 

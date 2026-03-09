@@ -52,7 +52,7 @@ Lastly, were the totyq. Most were unhappy with Feculky's political subjugation, 
 - Conflict against Totky, initial success
 - Failure
 - Occupation, supression of Fecul's cult, city renamed to Kyxal.
-# Hegemony
+## The hegemony of Totkywa
 
 
 # Religion
