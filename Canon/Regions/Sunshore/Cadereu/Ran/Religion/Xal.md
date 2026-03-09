@@ -1,7 +1,7 @@
-*xal* /xɑl/ was a [[Rantag]] word that was the closest equivalent to the English word "holy". However, the word had a wider range of meanings. Inititially, the word meant "set apart".
+*Xal* /xɑl/ was a [[Rantag]] word that was the closest equivalent to the English word "holy". However, the word had a wider range of meanings. Inititially, the word meant "set apart".
 ## Etymology
 
-*xal* was from the archaic Rantag verb *xaly*, which meant "to separate", "to set apart". This verb corresponded to the standard (Totky) Rantag *xaloty* with the same meaning, formed from the former using the suffix -ot, originally a frequentative ending. While *xaly* was rarely if ever used in standard Rantag, *xal* remained a common word with a specialized sense, distinct from the derivatives of *xaloty*.
+*Xal* was from the archaic Rantag verb *xaly*, which meant "to separate", "to set apart". This verb corresponded to the standard (Totky) Rantag *xaloty* with the same meaning, formed from the former using the suffix -ot, originally a frequentative ending. While *xaly* was rarely if ever used in standard Rantag, *xal* remained a common word with a specialized sense, distinct from the derivatives of *xaloty*.
 ## Development
 #### Early Ran practice
 

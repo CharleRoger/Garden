@@ -1,4 +1,4 @@
-Nona (*early:* /nɑːnɑ/, *Tottag:* /nonɐ/) was the traditional Ran style of music. The word especially referred to sung music, though did not exclude instrumental music, especially when played as accompaniment to song.
+Nona (*early:* /nɑːnɑ/, *Tottag:* /nonɐ/) was the traditional Ran style of music. The word especially referred to sung music, though did not exclude instrumental music, especially when played as accompaniment to song. Nona was typically performed by the [[tot|totyq]] and by wandering performers. The terms for the latter would typically depend on the instrument played, though it was almost always an accompaniment.
 
 # Scale and tuning
 

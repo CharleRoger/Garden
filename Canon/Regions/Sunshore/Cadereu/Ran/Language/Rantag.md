@@ -53,7 +53,7 @@ The words for father and mother were *icat* /i:cɑt/ and *inan* /i:nɑn/. These 
 | ---------------- | ---------------------------------- |
 | pi               | town                               |
 | tas              | head                               |
-| tot              | ~priest                            |
+| [[tot]]          | ~priest                            |
 | maxa             | same                               |
 | ferrusi          | to be born                         |
 | ferrum           | born                               |
