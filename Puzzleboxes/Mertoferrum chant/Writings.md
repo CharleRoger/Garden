@@ -30,3 +30,7 @@ The following two were given during the Feculky uprising:
 ## 5th century
 
 > Mertoferrum made 256 songs for us, which we have preserved to this day. He also arranged their position in the year, such that all would be heard, and that on each day of our lives we would have a message or two from the Moferrumca Xal. It is no coincidence there are exactly 256 songs, which is the eighth doubling. This is a number of perfection and was indubitably chosen by him so that we may know we have all his songs. See: had we 255, we would know we had missed one, and had we 257, we would know we'd have mistaken the work of a liar as his. But thanks to the gods each song has been preserved exactly as he created it. Of course, he did not create the songs alone. For such a holy man, the One was guiding him along at each step. Thus, when we listen to the songs today, we hear not only the words of the nonatas, or even of Mertoferrum, but also the One. 
+
+## 7th century
+
+> 
