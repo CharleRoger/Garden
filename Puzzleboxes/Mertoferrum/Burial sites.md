@@ -33,7 +33,7 @@ Found in Kypky.
 Unable to be dated due to being entirely made out of metal. No traces of blood. Inscription: Xal fruit for the xal gods.
 
 **Golden plate**
-Residue of fruits found on top of the plate. Scratches made by a dagger. Inscription reading "praise Kypky".
+Residue of fruits found on top of the plate. Scratches made by a dagger. Inscription reading "praise Kyp".
 
 **Vase**
 Entirely sealed. Hollow inside. Not opened. Carvings of crabs on the outside. One crab is drawn higher than the rest and in more detail.

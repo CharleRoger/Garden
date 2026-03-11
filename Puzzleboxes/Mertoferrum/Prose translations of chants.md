@@ -47,7 +47,7 @@ That side of the sea in Taspi
 people saw Laxo's bravery
 Melna went into the Temple
 but the One did not let him leave
-{or: *but the gods did not let him leave}
+{or: *but the gods did not let him leave*}
 
 Melna, did you not know
 you would not be a father
