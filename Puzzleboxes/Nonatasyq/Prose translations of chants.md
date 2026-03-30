@@ -82,7 +82,25 @@ O (*exe*) Moferrumca Xal, who has always been xal, are xal, and will always be x
 
 ## The night (Chant 256)
 
-The night 
+As the sun hides behind the mountains
+and the moons rush to the sky
+So hide my eyes behind eyelids
+and people rush to their homes
+
+
+Mountains torn down
+turned into sand
+
+Kingdoms stormed and beaten down
+
+Men killed and slaying each other
+(they do not know the One)
+
+One 
+
+What the night gave, that the night took
+
+Now the night has come and I wait for 
 
 [this chant is typically sung during or after nightfall. afterwards, people stay in the nonatashouse for the night. all lights are turned off and no one may speak, eat, sleep, or sing. when the sun rises again, "The day" (Chant 1) is sung, lights are turned on, and people may socialize or leave and celebrate outside.]
 
