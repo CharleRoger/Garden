@@ -7,7 +7,7 @@ Rantag /ʁɑntɑŋ/ was a language spoken by the [[Ran peoples]]. Over time, it 
 | Stop        | p      | t        | c       | k       | q        |
 | Fricative   | f      | s        |         | x       | ⟨r⟩  /ʁ/ |
 | Nasal       | m      | n        |         | ⟨g⟩ /ŋ/ |          |
-| Approximant | w      | l        |         |         |          |
+| Approximant | w      | l        |         | ɰ       |          |
 ### Vowels
 
 |      | Front          | Back           |
