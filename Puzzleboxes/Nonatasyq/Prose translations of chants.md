@@ -98,7 +98,12 @@ Men killed and slaying each other
 
 One 
 
-What the night gave, that the night took
+What the night gave,
+that the day took.
+So what the day gives
+that the night will take.
+
+
 
 Now the night has come and I wait for 
 

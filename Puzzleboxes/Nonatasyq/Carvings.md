@@ -1,4 +1,4 @@
-## Totky
+## Totky (late)
 
 ![[Pasted image 20260331011221.png]]
 
@@ -11,3 +11,6 @@
 ![[Pasted image 20260331012423.png]]
 ## Kypky
 ![[Pasted image 20260331012231.png]]
+## Feculky
+
+![[Pasted image 20260408200642.png]]

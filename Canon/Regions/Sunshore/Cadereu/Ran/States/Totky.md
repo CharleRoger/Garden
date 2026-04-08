@@ -48,7 +48,7 @@ Lastly, were the totyq. Most were unhappy with Feculky's political subjugation, 
 ### Consequences
 - Riots, protests, eventual support in the military
 - Weak king of Feculky replaced with a Tot Cenukki of their own
-- "A national rebirth", in a way
+- "A national rebirth", in a way (not applicable in its modern Western ideal)
 - Conflict against Totky, initial success
 - Failure
 - Occupation, supression of Fecul's cult, city renamed to Kyxal.
@@ -62,4 +62,4 @@ Religion shifted with the nomination of the [[tot]] of [[Kypky]] as a [[Tot#Tot 
 
 The doctrine of equality between the two deities became an influential one. Another doctrine that gained ground was the principle of siblinghood. The nature of the two deities' relationship as siblings was admired and increasingly highlighted. The role of the [[Tot#Tot Cenukki|Totyq Cenukkiq]] was compared to that of the divine siblings, which also had legal ramifications; in law, the [[Tot#Tot Cenukki|Totyq Cenukkiq]] were now legally considered siblings. It became increasingly common to worship the divine siblings ([[Moferrumca Xal|Moferrumyq Xalyq]]) at the same time. Their relationship, the divine siblinghood ([[Moferrumca Xal]]) was considered the ideal state of a being. *Moferrumca*, the concept of siblinghood, was thought to apply to all relationships, not just those between biological or adopted siblings.
 
-The new religious doctrines quickly became popular for several reasons. [[Ran peoples|Ran]] culture already placed great value on family and close relationships, which made it easy to adopt. It was also useful politically, as the emphasis on siblinghood of the tutelary deities of [[Taspi]] and [[Kypky]] was thought to strengthen their union.
+The new religious doctrines quickly became popular for several reasons. [[Ran peoples|Ran]] culture already placed great value on family and close relationships, which made it easy to adopt [e2026: cringe phrasing?]. It was also useful politically, as the emphasis on siblinghood of the tutelary deities of [[Taspi]] and [[Kypky]] was thought to strengthen their union.
